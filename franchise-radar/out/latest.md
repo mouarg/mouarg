@@ -1,15 +1,9 @@
 # Franchise Radar - 2026-10-13
 
-8 new signals.
+2 new signals.
 
 ## Hot (1)
-- 2027 NZ Dairy Industry Awards: Entries Now Open - Rural News Group (Google News - Auckland new store openings, Tue, 13 Oct 2026 19:47:27 GMT) https://news.google.com/rss/articles/CBMitAFBVV95cUxOTnUwOFZ0akttaGQzSUpycFItd09LQ0VyWmFMM3gwLWFzaWpHUUFZVkFoSllKa2VfTjRGdl80UlI2LTVoVThkUGJQeGtRZWpEemYwRGpGMmFmMU9xanZRY2pTdlBJbWlvRnE1OWVvZk1tbDRQS1lmQmNKMzJyR2NiZXJCd1h2dlk4d3BrRzZtY25kZjQ3b1dmMkViR2k5SU0zUkU5S0V3WFN3c0s1NWl5LVJycTg?oc=5
+- Duan’s Kitchen’s U.S. Model Validated, California Growth Fuels North American Franchise Expansion - EIN Presswire (Google News - NZ franchise expansion, Wed, 07 Oct 2026 08:24:00 GMT) https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMW1fOE9hMWQxdUlEbFdrUGozSzNyRjAzWm02Z3d2T0tPODVZcEJ5SHJLU0Y5TjYzYW8xZjVMUV9xY3lLY0pxVDc0aGV5OG02LUJiNG54TjNFWmpaMDJ6d3pKQ1MtMDdsWGwzZUNkQjRMbENSR1F2a2NEWFQyWjFRVUM2cGZNdjY4SUppNkdmcWkwenItd0k4LVRUd2JqdkFDUndQQ0VObVZLaVdvTm1VTXRmMUswTEZOSW9xNFNUWE5IV01zbGV4eERZV0JjVlBLRHRwcGlqalVrQQ?oc=5
 
-## Warm (7)
-- Paramount Services (Franchise NZ directory) https://franchise.co.nz/franchise-directory/100-paramount-services
-- The Coffee Guy (Franchise NZ directory) https://franchise.co.nz/franchise-directory/681-the-coffee-guy-
-- Para Rubber (Franchise NZ directory) https://franchise.co.nz/franchise-directory/882-para-rubber
-- Cutshop (Franchise NZ directory) https://franchise.co.nz/franchise-directory/1080-cutshop
-- Katsubi (Franchise NZ directory) https://franchise.co.nz/franchise-directory/1642-katsubi
-- Mintedvr (Franchise NZ directory) https://franchise.co.nz/franchise-directory/1737-mintedvr
-- Fowler Homes (Franchise NZ directory) https://franchise.co.nz/franchise-directory/1745-fowler-homes
+## Warm (1)
+- Just Kidz Franchise System Limited (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/childrens-franchises/just-kidz-franchise-system-limited/

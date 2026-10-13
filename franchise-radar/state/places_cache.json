@@ -1,0 +1,1420 @@
+{
+ "Just Kidz": {
+  "ts": 1791928347.6787086,
+  "outlets": [
+   {
+    "name": "Just Kidz Flatbush",
+    "address": "64 Thomas Road, Flat Bush, Auckland 2019",
+    "phone": "09 265 0033",
+    "website": "http://justkidz.co.nz/",
+    "rating": 4.6,
+    "reviews": 49,
+    "maps": "https://maps.google.com/?cid=3646649744762655211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.982716499999995,
+    "lng": 174.9085197,
+    "area": "South"
+   },
+   {
+    "name": "Just Kidz Kelston Childcare and Preschool",
+    "address": "Kelston Shopping Plaza, 16 West Coast Road, Glen Eden, Auckland 0602",
+    "phone": "09 930 8533",
+    "website": "http://www.justkidz.co.nz/kelston",
+    "rating": 4.9,
+    "reviews": 22,
+    "maps": "https://maps.google.com/?cid=10787086631807836612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9094696,
+    "lng": 174.6635249,
+    "area": "West"
+   },
+   {
+    "name": "Just Kidz Westgate",
+    "address": "19 Fernhill Drive, Westgate, Auckland 0614",
+    "phone": "",
+    "website": "https://www.justkidz.co.nz/",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=3618576831301854078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8225562,
+    "lng": 174.6105532,
+    "area": "West"
+   },
+   {
+    "name": "Just Kidz Ormiston",
+    "address": "Ormiston Town Centre Shop 80/240 Ormiston Road, Flat Bush, Auckland 2019",
+    "phone": "09 972 1967",
+    "website": "http://www.justkidz.co.nz/",
+    "rating": 5,
+    "reviews": 33,
+    "maps": "https://maps.google.com/?cid=17490279608224203722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.964362099999995,
+    "lng": 174.9116057,
+    "area": "South"
+   },
+   {
+    "name": "Just Kidz Albany Childcare and Preschool",
+    "address": "5 William Pickering Drive, Rosedale, Auckland 0632",
+    "phone": "09 414 1014",
+    "website": "https://www.justkidz.co.nz/albany",
+    "rating": 5,
+    "reviews": 24,
+    "maps": "https://maps.google.com/?cid=4768373487957188252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7517668,
+    "lng": 174.7049964,
+    "area": "North Shore"
+   },
+   {
+    "name": "Just Kidz Henderson",
+    "address": "131 Lincoln Road, Henderson, Auckland 0610",
+    "phone": "09 972 2709",
+    "website": "https://www.justkidz.co.nz/",
+    "rating": 5,
+    "reviews": 46,
+    "maps": "https://maps.google.com/?cid=10488303972140650034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8645339,
+    "lng": 174.6300656,
+    "area": "West"
+   },
+   {
+    "name": "Just Kidz Educare University",
+    "address": "75 Merton Road, St Johns, Auckland 1072",
+    "phone": "",
+    "website": "",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=7173680800976221243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.880195,
+    "lng": 174.8481543,
+    "area": "East"
+   }
+  ]
+ },
+ "Muffin Break": {
+  "ts": 1791928348.0265665,
+  "outlets": [
+   {
+    "name": "Muffin Break",
+    "address": "Parking lot 286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+    "phone": "09 573 0154",
+    "website": "http://www.muffinbreak.co.nz/",
+    "rating": 3.6,
+    "reviews": 120,
+    "maps": "https://maps.google.com/?cid=5871363895965136676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9175071,
+    "lng": 174.84190519999999,
+    "area": "East"
+   },
+   {
+    "name": "Muffin Break Ormiston",
+    "address": "240 Ormiston Road, Flat Bush, Auckland 2019",
+    "phone": "09 282 3741",
+    "website": "http://www.muffinbreak.co.nz/",
+    "rating": 3.9,
+    "reviews": 86,
+    "maps": "https://maps.google.com/?cid=16110832392848750635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9648902,
+    "lng": 174.9138398,
+    "area": "South"
+   },
+   {
+    "name": "Muffin Break",
+    "address": "80 Saint Lukes Road, Mount Albert, Auckland 1025",
+    "phone": "09 845 2535",
+    "website": "http://www.muffinbreak.co.nz/",
+    "rating": 3.6,
+    "reviews": 283,
+    "maps": "https://maps.google.com/?cid=5735407328770853565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8828363,
+    "lng": 174.733589,
+    "area": "Central"
+   },
+   {
+    "name": "Muffin Break.",
+    "address": "Lynmall Shopping Centre, Great North Road, New Lynn, Auckland 0600",
+    "phone": "",
+    "website": "http://www.muffinbreak.co.nz/",
+    "rating": 4,
+    "reviews": 162,
+    "maps": "https://maps.google.com/?cid=12933584681895733277&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9081662,
+    "lng": 174.6846359,
+    "area": "Central"
+   },
+   {
+    "name": "Muffin Break Northwest",
+    "address": "Northwest Shopping Mall, 1, 7 Fred Taylor Drive, Massey, Auckland 0814",
+    "phone": "09 974 9849",
+    "website": "http://www.muffinbreak.co.nz/",
+    "rating": 3.7,
+    "reviews": 103,
+    "maps": "https://maps.google.com/?cid=15034787052627932159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8178943,
+    "lng": 174.6111631,
+    "area": "West"
+   },
+   {
+    "name": "Muffin Break",
+    "address": "Wiri Station Road, Manukau City Centre, Auckland 2104",
+    "phone": "021 918 919",
+    "website": "http://www.muffinbreak.co.nz/",
+    "rating": 3.7,
+    "reviews": 219,
+    "maps": "https://maps.google.com/?cid=9577895645699970832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9919878,
+    "lng": 174.8807535,
+    "area": "South"
+   },
+   {
+    "name": "Muffin Break",
+    "address": "Glenfield Road and, Downing Street, Glenfield, Auckland 0629",
+    "phone": "09 281 5042",
+    "website": "http://www.muffinbreak.co.nz/",
+    "rating": 3.4,
+    "reviews": 100,
+    "maps": "https://maps.google.com/?cid=9961030734365523783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.782305199999996,
+    "lng": 174.7218417,
+    "area": "North Shore"
+   },
+   {
+    "name": "Muffin Break Milford",
+    "address": "Milford Shopping Centre 24 Milford Road, Milford, Auckland 0620",
+    "phone": "09 489 2301",
+    "website": "https://www.muffinbreak.co.nz/",
+    "rating": 4.1,
+    "reviews": 114,
+    "maps": "https://maps.google.com/?cid=14579879349925582638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7720008,
+    "lng": 174.7661176,
+    "area": "North Shore"
+   },
+   {
+    "name": "Muffin Break",
+    "address": "219 Don McKinnon Drive, Albany, Auckland 0632",
+    "phone": "09 443 3766",
+    "website": "http://www.muffinbreak.co.nz/",
+    "rating": 2.8,
+    "reviews": 240,
+    "maps": "https://maps.google.com/?cid=7150659846688926269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7287183,
+    "lng": 174.709663,
+    "area": "North Shore"
+   },
+   {
+    "name": "Muffin Break West City",
+    "address": "Waitakere, 612 Westfield West City, Catherine Street, Henderson, Waitakere 0612",
+    "phone": "09 836 0690",
+    "website": "http://www.muffinbreak.co.nz/",
+    "rating": 4.1,
+    "reviews": 116,
+    "maps": "https://maps.google.com/?cid=15383960100149606380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.881255100000004,
+    "lng": 174.6321107,
+    "area": "West"
+   }
+  ]
+ },
+ "Choices Flooring": {
+  "ts": 1791928348.2823548,
+  "outlets": [
+   {
+    "name": "Choices Flooring North Shore",
+    "address": "41B Arrenway Drive, Rosedale, Auckland 0632",
+    "phone": "09 222 2849",
+    "website": "https://www.choicesflooring.co.nz/stores/north-shore",
+    "rating": 5,
+    "reviews": 12,
+    "maps": "https://maps.google.com/?cid=13043901570786352081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7439701,
+    "lng": 174.7236015,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Dream Bathroom Solutions NZ": {
+  "ts": 1791928349.7941713,
+  "outlets": [
+   {
+    "name": "Dream Bathrooms North Shore",
+    "address": "23 Manuwai Road, Torbay, Auckland 0630",
+    "phone": "022 626 9381",
+    "website": "https://www.dreambathrooms.co.nz/contact-us-bathroom-company/auckland-north-shore/?UTM_source=GMB_listing",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=17522183925562194945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.6940995,
+    "lng": 174.7453286,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Lidar Windows and Doors": {
+  "ts": 1791928350.0811782,
+  "outlets": [
+   {
+    "name": "Lidar Windows and Doors (Auckland South)",
+    "address": "15 Dalgety Drive, Wiri, Auckland 2104",
+    "phone": "09 263 4000",
+    "website": "http://www.lidarwindows.co.nz/",
+    "rating": 4.3,
+    "reviews": 35,
+    "maps": "https://maps.google.com/?cid=2833485457343342639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0120226,
+    "lng": 174.87661409999998,
+    "area": "South"
+   },
+   {
+    "name": "Lidar Windows",
+    "address": "17 Colin Chester Drive, Silverdale 0932",
+    "phone": "09 443 6666",
+    "website": "https://lidarwindows.co.nz/",
+    "rating": 4.2,
+    "reviews": 5,
+    "maps": "https://maps.google.com/?cid=3787787497545689665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.6123687,
+    "lng": 174.6650343,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "The Coffee Club": {
+  "ts": 1791928350.3864079,
+  "outlets": [
+   {
+    "name": "The Coffee Club Victoria Street",
+    "address": "5/62 Victoria Street West, Auckland CBD, Auckland 1010",
+    "phone": "09 337 0046",
+    "website": "https://thecoffeeclub.co.nz/",
+    "rating": 4.1,
+    "reviews": 820,
+    "maps": "https://maps.google.com/?cid=1809293095492509526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8484783,
+    "lng": 174.7628308,
+    "area": "Central"
+   },
+   {
+    "name": "The Coffee Club Wyndham Street",
+    "address": "16 Wyndham Street, Auckland City, Auckland 1010",
+    "phone": "09 213 7488",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 4,
+    "reviews": 508,
+    "maps": "https://maps.google.com/?cid=3160247490391183350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8474,
+    "lng": 174.764865,
+    "area": "Central"
+   },
+   {
+    "name": "The Coffee Club Customs Street",
+    "address": "Ground Floor - Archilles House, 51 Customs Street East, Auckland City, Auckland 1010",
+    "phone": "09 379 9866",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 3.8,
+    "reviews": 562,
+    "maps": "https://maps.google.com/?cid=8302910895911195994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.845215599999996,
+    "lng": 174.7680663,
+    "area": "Central"
+   },
+   {
+    "name": "The Coffee Club High Street",
+    "address": "42a High Street, Auckland City, Auckland 1010",
+    "phone": "09 379 8908",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 3.6,
+    "reviews": 521,
+    "maps": "https://maps.google.com/?cid=3956446818481537704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.848144999999995,
+    "lng": 174.766559,
+    "area": "Central"
+   },
+   {
+    "name": "The Coffee Club Sylvia Park",
+    "address": "Shop N068, Sylvia Park, 286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+    "phone": "09 320 4647",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 3.3,
+    "reviews": 1503,
+    "maps": "https://maps.google.com/?cid=10184606341993720140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9148431,
+    "lng": 174.84108110000003,
+    "area": "East"
+   },
+   {
+    "name": "The Coffee Club Mission Bay",
+    "address": "49/51 Tamaki Drive, Mission Bay, Auckland 1071",
+    "phone": "09 578 0299",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 4,
+    "reviews": 1106,
+    "maps": "https://maps.google.com/?cid=819137315535427321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8482159,
+    "lng": 174.83085649999998,
+    "area": "Central"
+   },
+   {
+    "name": "The Coffee Club Botany Junction",
+    "address": "Unit 35 - Botany Junction, 277 Te Irirangi Drive, Flat Bush, Auckland 2016",
+    "phone": "09 271 5320",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 4,
+    "reviews": 975,
+    "maps": "https://maps.google.com/?cid=4418205062450752878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9647553,
+    "lng": 174.90248499999998,
+    "area": "South"
+   },
+   {
+    "name": "The Coffee Club Bombay Service Centre",
+    "address": "2038 Great South Road, Bombay, Auckland 2019",
+    "phone": "09 282 3738",
+    "website": "https://www.thecoffeeclub.co.nz/",
+    "rating": 4,
+    "reviews": 640,
+    "maps": "https://maps.google.com/?cid=5342032353791122476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.1924205,
+    "lng": 174.9839345,
+    "area": "South"
+   },
+   {
+    "name": "The Coffee Club Manukau City",
+    "address": "Shop S257/Amersham Way, Manukau City Centre, Auckland 2104",
+    "phone": "09 262 0261",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 3.6,
+    "reviews": 857,
+    "maps": "https://maps.google.com/?cid=14316799372744587017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.991135799999995,
+    "lng": 174.8803364,
+    "area": "South"
+   },
+   {
+    "name": "The Coffee Club Great South Road (Greenlane)",
+    "address": "Suite 1.1 381, 383 Great South Road, Greenlane, Auckland 1051",
+    "phone": "09 525 6715",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 4.1,
+    "reviews": 446,
+    "maps": "https://maps.google.com/?cid=14394846460578582683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8985317,
+    "lng": 174.8030915,
+    "area": "Central"
+   },
+   {
+    "name": "The Coffee Club NorthWest",
+    "address": "Tenancy 69/1-7 Fred Taylor Drive, Westgate, Auckland 0814",
+    "phone": "09 416 0978",
+    "website": "https://thecoffeeclub.co.nz/cafe-locator/",
+    "rating": 4,
+    "reviews": 703,
+    "maps": "https://maps.google.com/?cid=5229619271994623705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8181843,
+    "lng": 174.61105709999998,
+    "area": "West"
+   },
+   {
+    "name": "The Coffee Club Ormiston Town Centre",
+    "address": "SHOP F/43, 220 Bellingham Road, Flat Bush, Auckland 2016",
+    "phone": "09 280 3491",
+    "website": "https://www.thecoffeeclub.co.nz/",
+    "rating": 2.7,
+    "reviews": 183,
+    "maps": "https://maps.google.com/?cid=16155735892456498894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.964890800000006,
+    "lng": 174.91409389999998,
+    "area": "South"
+   },
+   {
+    "name": "The Coffee Club Lunn Avenue, Stonefields",
+    "address": "a6/65 Lunn Avenue, Mount Wellington, Auckland 1072",
+    "phone": "09 320 1214",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 4.1,
+    "reviews": 636,
+    "maps": "https://maps.google.com/?cid=12063149130601760027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8904126,
+    "lng": 174.8343329,
+    "area": "Central"
+   },
+   {
+    "name": "The Coffee Club St Lukes",
+    "address": "Shop 450/80 Saint Lukes Road, Mount Albert, Auckland 1025",
+    "phone": "09 815 7000",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 4,
+    "reviews": 464,
+    "maps": "https://maps.google.com/?cid=6811920608396937250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.882846199999996,
+    "lng": 174.73401339999998,
+    "area": "Central"
+   },
+   {
+    "name": "The Coffee Club Albany",
+    "address": "Shop S265B, Shop S265B/219 Don McKinnon Drive, Albany, Auckland 0632",
+    "phone": "09 443 2763",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 3.8,
+    "reviews": 738,
+    "maps": "https://maps.google.com/?cid=8795919026185522684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.728376399999995,
+    "lng": 174.70718409999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "The Coffee Club Botany Town Centre",
+    "address": "11 Town Centre Drive, East Tāmaki, Auckland 2013",
+    "phone": "09 274 0231",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 3.8,
+    "reviews": 774,
+    "maps": "https://maps.google.com/?cid=15370099542736950858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9334606,
+    "lng": 174.9131961,
+    "area": "East"
+   },
+   {
+    "name": "The Coffee Club Wairau Junction",
+    "address": "Wairau Junction Shop T2/170 Wairau Road, Wairau Valley, Auckland 0627",
+    "phone": "09 444 7601",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 4.2,
+    "reviews": 590,
+    "maps": "https://maps.google.com/?cid=16638614785928685310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.770556899999995,
+    "lng": 174.7370609,
+    "area": "North Shore"
+   },
+   {
+    "name": "The Coffee Club Manukau Supa Centa",
+    "address": "Tenancy FC01 Corner of Lambie and, Cavendish Drive, Manukau City Centre, Auckland 2104",
+    "phone": "09 262 2415",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 3.7,
+    "reviews": 747,
+    "maps": "https://maps.google.com/?cid=11653129242327385907&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9911917,
+    "lng": 174.87134749999998,
+    "area": "South"
+   },
+   {
+    "name": "The Coffee Club Hobsonville",
+    "address": "124 Hobsonville Road, Hobsonville, Auckland 0618",
+    "phone": "09 416 0126",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 4.1,
+    "reviews": 605,
+    "maps": "https://maps.google.com/?cid=11308691200607590846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7979929,
+    "lng": 174.6485032,
+    "area": "West"
+   },
+   {
+    "name": "The Coffee Club Takanini Village",
+    "address": "Bldg 3/30 Walters Road, Takanini, Auckland 2112",
+    "phone": "09 550 3001",
+    "website": "http://www.thecoffeeclub.co.nz/",
+    "rating": 4.2,
+    "reviews": 1029,
+    "maps": "https://maps.google.com/?cid=2656127478010496013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0481003,
+    "lng": 174.9324728,
+    "area": "South"
+   }
+  ]
+ },
+ "Crewcut": {
+  "ts": 1791928350.7343798,
+  "outlets": [
+   {
+    "name": "Crewcut Lawn Mowing Auckland",
+    "address": "1 Des Swann Drive, Takapuna, Auckland 0622",
+    "phone": "0800 800 286",
+    "website": "http://www.crewcut.co.nz/",
+    "rating": 4,
+    "reviews": 62,
+    "maps": "https://maps.google.com/?cid=9463572315505838252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7928479,
+    "lng": 174.764336,
+    "area": "North Shore"
+   },
+   {
+    "name": "Crewcut Franchise Group",
+    "address": "2 Des Swann Drive, Takapuna, Auckland 0622",
+    "phone": "",
+    "website": "",
+    "rating": 3,
+    "reviews": 2,
+    "maps": "https://maps.google.com/?cid=13171061360365511413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7927708,
+    "lng": 174.764305,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Paramount Services": {
+  "ts": 1791928351.0227313,
+  "outlets": [
+   {
+    "name": "Paramount Cleaning Services",
+    "address": "481 Rosebank Road, Avondale, Auckland 1026",
+    "phone": "0800 253 263",
+    "website": "https://paramountcleaning.co.nz/",
+    "rating": 3.9,
+    "reviews": 31,
+    "maps": "https://maps.google.com/?cid=7264541758502205937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8778925,
+    "lng": 174.6763713,
+    "area": "West"
+   }
+  ]
+ },
+ "Soul Origin": {
+  "ts": 1791928351.2872002,
+  "outlets": [
+   {
+    "name": "Soul Origin Newmarket Westfield",
+    "address": "Westfield Newmarket Kiosk K35/277 Broadway, Newmarket, Auckland 1023",
+    "phone": "022 080 4000",
+    "website": "https://www.soulorigin.co.nz/",
+    "rating": 3,
+    "reviews": 36,
+    "maps": "https://maps.google.com/?cid=10320865725735223953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.870944,
+    "lng": 174.7765504,
+    "area": "Central"
+   },
+   {
+    "name": "Soul Origin Auckland International Airport",
+    "address": "Kiosk F891, Level 1, Airside Departures, Auckland International Airport, International Terminal, Auckland Airport, Auckland 2022",
+    "phone": "09 956 8157",
+    "website": "https://www.soulorigin.co.nz/collections",
+    "rating": 2.9,
+    "reviews": 45,
+    "maps": "https://maps.google.com/?cid=4686964530589501535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.00576770000001,
+    "lng": 174.7827931,
+    "area": "South"
+   },
+   {
+    "name": "Soul Origin Auckland Domestic Airport",
+    "address": "G890, Ground Floor Landside Departures, Domestic Terminal, Auckland Airport, Auckland 2022",
+    "phone": "09 956 8165",
+    "website": "https://www.soulorigin.co.nz/blogs/stores/auckland-domestic-airport",
+    "rating": 3.2,
+    "reviews": 39,
+    "maps": "https://maps.google.com/?cid=18102683858304436661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.006414299999996,
+    "lng": 174.7905165,
+    "area": "South"
+   },
+   {
+    "name": "Soul Origin Manawa Bay",
+    "address": "4 Jimmy Ward Crescent, Auckland Airport, Auckland 2022",
+    "phone": "09 954 4876",
+    "website": "https://www.soulorigin.co.nz/blogs/stores/manawa-bay-1",
+    "rating": 3.4,
+    "reviews": 77,
+    "maps": "https://maps.google.com/?cid=17731769344498858257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9972548,
+    "lng": 174.8003401,
+    "area": "South"
+   }
+  ]
+ },
+ "The Coffee Guy": {
+  "ts": 1791928351.654121,
+  "outlets": [
+   {
+    "name": "The Coffee Guy Ellerslie",
+    "address": "8 Penrose Road, Penrose, Auckland 1061",
+    "phone": "022 176 4502",
+    "website": "https://thecoffeeguy.co.nz/",
+    "rating": 5,
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=14671499687144758416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.910134,
+    "lng": 174.81891059999998,
+    "area": "Central"
+   },
+   {
+    "name": "The Coffee guy",
+    "address": "36 Lagoon Drive, Panmure, Auckland 1060",
+    "phone": "",
+    "website": "",
+    "rating": 5,
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=14072524186850026430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.902412,
+    "lng": 174.8542377,
+    "area": "East"
+   },
+   {
+    "name": "The Coffee Guy Morningside",
+    "address": "48 Oakleigh Avenue, Takanini, Auckland 2112",
+    "phone": "09 973 4819",
+    "website": "http://www.thecoffeeguy.co.nz/?utm_content=The+Coffee+Guy+-+Auckland&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_17535692242559471447",
+    "rating": 4.1,
+    "reviews": 11,
+    "maps": "https://maps.google.com/?cid=4670622208089158710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0365462,
+    "lng": 174.9153537,
+    "area": "South"
+   },
+   {
+    "name": "The Coffee Guy Takanini",
+    "address": "520 Great South Road, Papakura, Auckland 2113",
+    "phone": "022 525 0466",
+    "website": "https://www.thecoffeeguy.co.nz/",
+    "rating": 5,
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=1829889681056672058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0894836,
+    "lng": 174.9444689,
+    "area": "South"
+   }
+  ]
+ },
+ "Fowler Homes": {
+  "ts": 1791928352.0402043,
+  "outlets": [
+   {
+    "name": "Fowler Homes Auckland - North, West & Rodney",
+    "address": "19k Cammish Lane, Orewa 0931",
+    "phone": "09 421 0657",
+    "website": "https://www.fowlerhomes.co.nz/locations/auckland-north-west-rodney/",
+    "rating": 5,
+    "reviews": 12,
+    "maps": "https://maps.google.com/?cid=8768311234378255558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.588624599999996,
+    "lng": 174.6943867,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Foxx & Filly Home Staging": {
+  "ts": 1791928352.3363562,
+  "outlets": []
+ },
+ "Flooring Design": {
+  "ts": 1791928352.6534336,
+  "outlets": [
+   {
+    "name": "Flooring Design Mount Roskill",
+    "address": "12 Carr Road, Three Kings, Auckland 1042",
+    "phone": "09 218 6392",
+    "website": "https://www.flooringdesign.co.nz/stores/new-lynn",
+    "rating": 4.8,
+    "reviews": 59,
+    "maps": "https://maps.google.com/?cid=10981543186376966962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9141206,
+    "lng": 174.7531674,
+    "area": "Central"
+   },
+   {
+    "name": "Flooring Studio Ltd",
+    "address": "23 Paramount Drive, Henderson, Auckland 0610",
+    "phone": "09 836 0415",
+    "website": "http://www.flooringstudio.co.nz/",
+    "rating": 4.8,
+    "reviews": 32,
+    "maps": "https://maps.google.com/?cid=7585581390804274563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8546782,
+    "lng": 174.63464829999998,
+    "area": "West"
+   },
+   {
+    "name": "Howick Village Flooring Xtra",
+    "address": "87 Picton Street, Howick, Auckland 2014",
+    "phone": "09 218 7439",
+    "website": "https://www.flooringxtra.co.nz/pages/store/howick-village?utm_source=GMB&utm_medium=howick-village-profile&utm_campaign=GooglemyBusiness",
+    "rating": 4.9,
+    "reviews": 97,
+    "maps": "https://maps.google.com/?cid=15919677805531290418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8945249,
+    "lng": 174.931997,
+    "area": "East"
+   },
+   {
+    "name": "Family Flooring Design Pukekohe",
+    "address": "Shop 2/4 Manukau Road, Pukekohe, Auckland 2120",
+    "phone": "09 947 9229",
+    "website": "http://www.flooringdesign.co.nz/stores/pukekohe",
+    "rating": 5,
+    "reviews": 157,
+    "maps": "https://maps.google.com/?cid=2602035383155577210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.2018963,
+    "lng": 174.9083353,
+    "area": "South"
+   },
+   {
+    "name": "Flooring Direct",
+    "address": "213 Great South Road, Greenlane, Auckland 1051",
+    "phone": "09 522 1258",
+    "website": "http://www.flooringdirect.co.nz/",
+    "rating": 4.1,
+    "reviews": 76,
+    "maps": "https://maps.google.com/?cid=16912548813214186617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8910921,
+    "lng": 174.79460279999998,
+    "area": "Central"
+   },
+   {
+    "name": "Mount Eden Flooring Xtra",
+    "address": "6 Morningside Drive, Morningside, Auckland 1025",
+    "phone": "09 630 0661",
+    "website": "https://www.flooringxtra.co.nz/pages/store/mount-eden?utm_source=GMB&utm_medium=mount-eden-profile&utm_campaign=GooglemyBusiness",
+    "rating": 4.7,
+    "reviews": 88,
+    "maps": "https://maps.google.com/?cid=11076898578582014067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.875544999999995,
+    "lng": 174.73628349999998,
+    "area": "Central"
+   },
+   {
+    "name": "Floorco Flooring",
+    "address": "118 Carbine Road, Mount Wellington, Auckland 1060",
+    "phone": "021 199 0887",
+    "website": "http://www.floorco.co.nz/",
+    "rating": 4.6,
+    "reviews": 163,
+    "maps": "https://maps.google.com/?cid=16616894203838780437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9231302,
+    "lng": 174.8521427,
+    "area": "East"
+   },
+   {
+    "name": "KR Flooring",
+    "address": "721 Dominion Road, Mount Eden, Auckland 1041",
+    "phone": "0800 835 667",
+    "website": "https://www.krflooring.co.nz/",
+    "rating": 4.8,
+    "reviews": 126,
+    "maps": "https://maps.google.com/?cid=4959252590178254961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8925038,
+    "lng": 174.74540539999998,
+    "area": "Central"
+   },
+   {
+    "name": "TD Floors/Flooring & Tile Design Ltd",
+    "address": "3 Inanga Street, Hobsonville, Auckland 0618",
+    "phone": "0800 666 188",
+    "website": "http://www.tdfloors.co.nz/",
+    "rating": 4.9,
+    "reviews": 8,
+    "maps": "https://maps.google.com/?cid=3361100683327691182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8083392,
+    "lng": 174.632939,
+    "area": "West"
+   },
+   {
+    "name": "VidaSpace | Interiors + Timber Flooring",
+    "address": "105 Saint Georges Bay Road, Parnell, Auckland 1052",
+    "phone": "0800 119 388",
+    "website": "https://www.vidaspace.co.nz/showrooms/vidaspace-auckland?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=listing",
+    "rating": 5,
+    "reviews": 49,
+    "maps": "https://maps.google.com/?cid=9194524398131746542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.851641099999995,
+    "lng": 174.78269849999998,
+    "area": "Central"
+   }
+  ]
+ },
+ "Blinds On Location": {
+  "ts": 1791928352.974237,
+  "outlets": [
+   {
+    "name": "Mr Blinds",
+    "address": "7B Carmont Place, Mount Wellington, Auckland 1060",
+    "phone": "09 274 9313",
+    "website": "https://mrblinds.co.nz/",
+    "rating": 4.9,
+    "reviews": 1428,
+    "maps": "https://maps.google.com/?cid=6771333819244850223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9242136,
+    "lng": 174.8451033,
+    "area": "East"
+   },
+   {
+    "name": "Blinds Hub NZ | Factory Outlet",
+    "address": "Only by Appointments Unit 20/14 Basalt Place, East Tāmaki, Auckland 2013",
+    "phone": "0800 504 008",
+    "website": "https://blindshub.co.nz/",
+    "rating": 4.9,
+    "reviews": 112,
+    "maps": "https://maps.google.com/?cid=4320216656294735113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9457081,
+    "lng": 174.9014959,
+    "area": "East"
+   },
+   {
+    "name": "Easy Blinds Auckland",
+    "address": "4/2 Wagener Place, Mount Albert, Auckland 1025",
+    "phone": "09 846 8175",
+    "website": "https://www.easyblinds.co.nz/",
+    "rating": 4.5,
+    "reviews": 235,
+    "maps": "https://maps.google.com/?cid=16327398211795778713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.884763299999996,
+    "lng": 174.73132999999999,
+    "area": "Central"
+   },
+   {
+    "name": "InstaBlinds NZ",
+    "address": "24b Quona Avenue, Mount Roskill, Auckland 1041",
+    "phone": "022 535 1212",
+    "website": "https://www.instablinds.co.nz/",
+    "rating": 5,
+    "reviews": 12,
+    "maps": "https://maps.google.com/?cid=14413456547952727665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9285037,
+    "lng": 174.7384456,
+    "area": "Central"
+   },
+   {
+    "name": "No1 BLINDS",
+    "address": "9/2 Lady Ruby Drive, East Tāmaki, Auckland 2013",
+    "phone": "09 271 0100",
+    "website": "https://no1blinds.nz/?utm_source=Google-Maps&utm_medium=organic&utm_campaign=GMB",
+    "rating": 4.4,
+    "reviews": 307,
+    "maps": "https://maps.google.com/?cid=12233479105707916978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.948273,
+    "lng": 174.8932471,
+    "area": "East"
+   },
+   {
+    "name": "Outdoor Blinds Master Ltd",
+    "address": "65a Canal Road, Avondale, Auckland 1026",
+    "phone": "022 171 9766",
+    "website": "https://www.outdoorblindsmaster.com/",
+    "rating": 5,
+    "reviews": 69,
+    "maps": "https://maps.google.com/?cid=14387009334484669616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8943404,
+    "lng": 174.6858078,
+    "area": "Central"
+   },
+   {
+    "name": "Brightshine Blinds, Shutters & Drapery",
+    "address": "9 Malvern Road, Onehunga, Auckland 1061",
+    "phone": "0800 483 638",
+    "website": "http://www.brightshine.co.nz/",
+    "rating": 4.9,
+    "reviews": 163,
+    "maps": "https://maps.google.com/?cid=15783363933998260549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.920296199999996,
+    "lng": 174.8016418,
+    "area": "Central"
+   },
+   {
+    "name": "NZ Blinds and Awnings",
+    "address": "115 Elliot Street, Howick, Auckland 2014",
+    "phone": "0800 484 488",
+    "website": "https://nzblindsandawnings.com/",
+    "rating": 5,
+    "reviews": 78,
+    "maps": "https://maps.google.com/?cid=15153338371649489121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9016412,
+    "lng": 174.926336,
+    "area": "East"
+   },
+   {
+    "name": "New Home Blinds | Factory Direct",
+    "address": "138a Harris Road, East Tāmaki, Auckland 2013",
+    "phone": "0800 274 263",
+    "website": "http://www.newhomeblinds.co.nz/",
+    "rating": 4.6,
+    "reviews": 41,
+    "maps": "https://maps.google.com/?cid=14542377766920916081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.930409,
+    "lng": 174.89597709999998,
+    "area": "East"
+   },
+   {
+    "name": "Home Vision Blinds",
+    "address": "1 Analie Place, East Tāmaki, Auckland 2013",
+    "phone": "09 274 1930",
+    "website": "https://homevisionblinds.co.nz/",
+    "rating": 4.8,
+    "reviews": 82,
+    "maps": "https://maps.google.com/?cid=17584440132571479575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9392023,
+    "lng": 174.8823732,
+    "area": "East"
+   },
+   {
+    "name": "Blindsmith NZ Ltd",
+    "address": "Unit 1/6 Workspace Drive, Hobsonville, Auckland 0618",
+    "phone": "0800 161 415",
+    "website": "https://www.blindsmith.co.nz/",
+    "rating": 5,
+    "reviews": 76,
+    "maps": "https://maps.google.com/?cid=12248187991007882580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.806748,
+    "lng": 174.634716,
+    "area": "West"
+   },
+   {
+    "name": "Shades and Blinds",
+    "address": "Portage Road, New Lynn, Auckland 0600",
+    "phone": "",
+    "website": "",
+    "rating": 5,
+    "reviews": 21,
+    "maps": "https://maps.google.com/?cid=16550766582307204519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.909653399999996,
+    "lng": 174.66269839999998,
+    "area": "West"
+   },
+   {
+    "name": "Beautiful Blinds",
+    "address": "26B Hill Street, Onehunga, Auckland 1061",
+    "phone": "09 636 1133",
+    "website": "http://www.beautifulblinds.co.nz/",
+    "rating": 4.8,
+    "reviews": 40,
+    "maps": "https://maps.google.com/?cid=15610527215750816050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9242053,
+    "lng": 174.78023700000003,
+    "area": "Central"
+   },
+   {
+    "name": "Discount Blinds",
+    "address": "2/19 Honan Place, Avondale, Auckland 1026",
+    "phone": "021 253 9725",
+    "website": "https://discountblinds.co.nz/",
+    "rating": 4.9,
+    "reviews": 60,
+    "maps": "https://maps.google.com/?cid=14683801032391051317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8850486,
+    "lng": 174.6857425,
+    "area": "Central"
+   },
+   {
+    "name": "Total Look Blinds",
+    "address": "53 Rangi Road, Takanini, Auckland 2105",
+    "phone": "0800 449 966",
+    "website": "https://totallookblinds.co.nz/",
+    "rating": 4.8,
+    "reviews": 202,
+    "maps": "https://maps.google.com/?cid=12319302653941123239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.031272099999995,
+    "lng": 174.91902629999998,
+    "area": "South"
+   },
+   {
+    "name": "NZ Blinds",
+    "address": "4B/12 Tamariki Avenue, Orewa 0931",
+    "phone": "",
+    "website": "https://nzblinds.co.nz/?utm_source=gmb-listing&utm_medium=organic",
+    "rating": 4.6,
+    "reviews": 39,
+    "maps": "https://maps.google.com/?cid=3156593235426097345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.5878775,
+    "lng": 174.6949089,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "MYGuy": {
+  "ts": 1791928353.2887518,
+  "outlets": []
+ },
+ "Rainaway Spouting on the Spot": {
+  "ts": 1791928353.535423,
+  "outlets": [
+   {
+    "name": "Rainaway Spouting On The Spot - Rodney",
+    "address": "687 Ararimu Valley Road, Auckland 0882",
+    "phone": "0800 505 052",
+    "website": "https://www.rainaway.co.nz/branch/rodney/?utm_source=Rodney&utm_medium=googleplaces",
+    "rating": 4.6,
+    "reviews": 11,
+    "maps": "https://maps.google.com/?cid=16479471668760036797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.6930487,
+    "lng": 174.5519989,
+    "area": "West"
+   }
+  ]
+ },
+ "Pegasus Rental Cars": {
+  "ts": 1791928353.7762063,
+  "outlets": [
+   {
+    "name": "Pegasus Rental Cars Auckland South",
+    "address": "280 Great South Road, Takanini, Auckland 2112",
+    "phone": "09 267 9920",
+    "website": "https://www.rentalcars.co.nz/pegasus-locations/auckland-south/",
+    "rating": 4.5,
+    "reviews": 199,
+    "maps": "https://maps.google.com/?cid=11893727923443502799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0525407,
+    "lng": 174.9316589,
+    "area": "South"
+   },
+   {
+    "name": "Pegasus Rental Cars Auckland Airport",
+    "address": "3B Kingsford Smith Place, Māngere Bridge, Auckland 2022",
+    "phone": "09 275 3222",
+    "website": "https://www.rentalcars.co.nz/pegasus-locations/auckland-airport-rental-car/",
+    "rating": 4.7,
+    "reviews": 138,
+    "maps": "https://maps.google.com/?cid=12201839583584957655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.979012499999996,
+    "lng": 174.78169499999998,
+    "area": "South"
+   }
+  ]
+ },
+ "Smith's Sports Shoes": {
+  "ts": 1791928354.0843012,
+  "outlets": [
+   {
+    "name": "Smith's Sports Shoes Mt Eden",
+    "address": "193 Dominion Road, Mount Eden, Auckland 1024",
+    "phone": "09 630 3561",
+    "website": "http://www.smithssportsshoes.co.nz/",
+    "rating": 4.7,
+    "reviews": 175,
+    "maps": "https://maps.google.com/?cid=5395917372289840933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8748383,
+    "lng": 174.7512004,
+    "area": "Central"
+   }
+  ]
+ },
+ "Caci": {
+  "ts": 1791928354.6121383,
+  "outlets": [
+   {
+    "name": "Caci Ellerslie",
+    "address": "Level 1/124 Main Highway, Ellerslie, Auckland 1051",
+    "phone": "09 571 0575",
+    "website": "https://caci.co.nz/pages/clinic/caci-ellerslie",
+    "rating": 4.5,
+    "reviews": 86,
+    "maps": "https://maps.google.com/?cid=482920887509208465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8977682,
+    "lng": 174.8095806,
+    "area": "Central"
+   },
+   {
+    "name": "Caci Airport Oaks",
+    "address": "Unit D/55 Montgomerie Road, Māngere, Auckland 2022",
+    "phone": "09 218 6200",
+    "website": "https://caci.co.nz/pages/airport-oaks?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.6,
+    "reviews": 9,
+    "maps": "https://maps.google.com/?cid=10866792091994010811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.981414199999996,
+    "lng": 174.7829284,
+    "area": "South"
+   },
+   {
+    "name": "Caci Onehunga",
+    "address": "120 Church Street, Onehunga, Auckland 1061",
+    "phone": "09 212 1880",
+    "website": "https://caci.co.nz/pages/onehunga?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 5,
+    "reviews": 42,
+    "maps": "https://maps.google.com/?cid=2959064542999636237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.922598199999996,
+    "lng": 174.7874823,
+    "area": "Central"
+   },
+   {
+    "name": "Caci NorthWest",
+    "address": "7/48 Maki Street, Westgate, Auckland 0814",
+    "phone": "09 976 4704",
+    "website": "https://caci.co.nz/pages/northwest?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.6,
+    "reviews": 88,
+    "maps": "https://maps.google.com/?cid=14636070036645147309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8174716,
+    "lng": 174.6100897,
+    "area": "West"
+   },
+   {
+    "name": "Caci Lunn Avenue, Mount Wellington",
+    "address": "Stoneridge on Lunn 101 Lunn Avenue, Mount Wellington, Auckland 1072",
+    "phone": "09 527 0335",
+    "website": "https://caci.co.nz/pages/lunn-avenue?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.8,
+    "reviews": 43,
+    "maps": "https://maps.google.com/?cid=5979685926845736141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8888964,
+    "lng": 174.8329307,
+    "area": "Central"
+   },
+   {
+    "name": "Caci Newmarket",
+    "address": "53 Davis Crescent, Newmarket, Auckland 1032",
+    "phone": "09 524 2784",
+    "website": "https://caci.co.nz/pages/newmarket?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.6,
+    "reviews": 34,
+    "maps": "https://maps.google.com/?cid=8466928343726386918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8672204,
+    "lng": 174.7775689,
+    "area": "Central"
+   },
+   {
+    "name": "Caci Auckland CBD - Wynyard Quarter",
+    "address": "Shop G05/70 Daldy Street, Auckland CBD, Auckland 1010",
+    "phone": "09 366 4401",
+    "website": "https://caci.co.nz/pages/wynyard-quarter?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.6,
+    "reviews": 31,
+    "maps": "https://maps.google.com/?cid=12645258636369169552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.842104899999995,
+    "lng": 174.7552423,
+    "area": "Central"
+   },
+   {
+    "name": "Caci Epsom",
+    "address": "409b Manukau Road, Epsom, Auckland 1023",
+    "phone": "09 638 8933",
+    "website": "https://caci.co.nz/pages/epsom?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.5,
+    "reviews": 34,
+    "maps": "https://maps.google.com/?cid=13608784293951836273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8924659,
+    "lng": 174.77447899999999,
+    "area": "Central"
+   },
+   {
+    "name": "Caci High St Auckland CBD",
+    "address": "43 High Street, Auckland CBD, Auckland 1010",
+    "phone": "09 357 4343",
+    "website": "https://caci.co.nz/pages/high-st?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.5,
+    "reviews": 22,
+    "maps": "https://maps.google.com/?cid=12348370216556463998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.848025,
+    "lng": 174.766377,
+    "area": "Central"
+   },
+   {
+    "name": "Caci Howick",
+    "address": "35 Cook Street, Howick, Auckland 2014",
+    "phone": "09 533 0033",
+    "website": "https://caci.co.nz/pages/howick?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.5,
+    "reviews": 35,
+    "maps": "https://maps.google.com/?cid=6618432663919228357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.896513,
+    "lng": 174.9328752,
+    "area": "East"
+   },
+   {
+    "name": "Caci Hobsonville",
+    "address": "163 Hobsonville Point Road, West Harbour, Auckland 0616",
+    "phone": "09 416 0171",
+    "website": "https://caci.co.nz/pages/hobsonville?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.8,
+    "reviews": 22,
+    "maps": "https://maps.google.com/?cid=13595412919828325415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7942147,
+    "lng": 174.65956699999998,
+    "area": "West"
+   },
+   {
+    "name": "Caci Kohimarama at Eastridge",
+    "address": "Eastridge Shopping Centre Shop 28a/215 Kepa Road, Kohimarama, Auckland 1071",
+    "phone": "09 521 5959",
+    "website": "https://caci.co.nz/pages/kohimarama?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.3,
+    "reviews": 24,
+    "maps": "https://maps.google.com/?cid=5091300860436371131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8604753,
+    "lng": 174.8303003,
+    "area": "Central"
+   },
+   {
+    "name": "Caci Birkenhead",
+    "address": "195 Onewa Road, Birkenhead, Auckland 0626",
+    "phone": "09 480 8500",
+    "website": "https://caci.co.nz/pages/birkenhead?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.6,
+    "reviews": 55,
+    "maps": "https://maps.google.com/?cid=15176114895909700283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8097401,
+    "lng": 174.7298205,
+    "area": "North Shore"
+   },
+   {
+    "name": "Caci Ponsonby",
+    "address": "342 Ponsonby Road, Ponsonby, Auckland 1011",
+    "phone": "09 360 3333",
+    "website": "https://caci.co.nz/pages/ponsonby?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.8,
+    "reviews": 32,
+    "maps": "https://maps.google.com/?cid=11248283590230499676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8475567,
+    "lng": 174.74387959999999,
+    "area": "Central"
+   },
+   {
+    "name": "Caci Manukau",
+    "address": "Unit 13b/613 Great South Road, Manukau City Centre, Auckland 2104",
+    "phone": "09 218 9840",
+    "website": "https://caci.co.nz/pages/manukau?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.4,
+    "reviews": 62,
+    "maps": "https://maps.google.com/?cid=9439024043937077872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.986791,
+    "lng": 174.8803977,
+    "area": "South"
+   },
+   {
+    "name": "Caci New Lynn",
+    "address": "28 Delta Avenue, New Lynn, Waitakere 0600",
+    "phone": "09 826 1250",
+    "website": "https://caci.co.nz/pages/new-lynn?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.6,
+    "reviews": 106,
+    "maps": "https://maps.google.com/?cid=11514107574405528426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9075576,
+    "lng": 174.6824928,
+    "area": "Central"
+   },
+   {
+    "name": "Caci St Lukes",
+    "address": "87 Taylors Road, Mount Albert, Auckland 1025",
+    "phone": "09 815 0502",
+    "website": "https://caci.co.nz/pages/st-lukes?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.8,
+    "reviews": 36,
+    "maps": "https://maps.google.com/?cid=12908673331269037510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8804842,
+    "lng": 174.7303758,
+    "area": "Central"
+   },
+   {
+    "name": "Caci Takapuna",
+    "address": "40 Hurstmere Road, Takapuna, Auckland 0622",
+    "phone": "09 486 2213",
+    "website": "https://caci.co.nz/pages/takapuna?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.5,
+    "reviews": 32,
+    "maps": "https://maps.google.com/?cid=14201826294134075712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7876419,
+    "lng": 174.7723125,
+    "area": "North Shore"
+   },
+   {
+    "name": "Caci Glenfield",
+    "address": "195 Onewa Road, Glenfield, Auckland 0626",
+    "phone": "",
+    "website": "https://caci.co.nz/pages/glenfield?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.8,
+    "reviews": 12,
+    "maps": "https://maps.google.com/?cid=7493609830338014854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8097603,
+    "lng": 174.7298069,
+    "area": "North Shore"
+   },
+   {
+    "name": "Caci Orewa",
+    "address": "33A Florence Avenue, Orewa 0931",
+    "phone": "09 426 7423",
+    "website": "https://caci.co.nz/pages/orewa?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "rating": 4.8,
+    "reviews": 38,
+    "maps": "https://maps.google.com/?cid=8760237737411057222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.5851794,
+    "lng": 174.69280369999998,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Lone Star": {
+  "ts": 1791928354.9667633,
+  "outlets": [
+   {
+    "name": "Lone Star Queen St",
+    "address": "500 Queen Street, Auckland CBD, Auckland 1010",
+    "phone": "09 281 6363",
+    "website": "https://www.lonestar.co.nz/restaurants/upper-north-island/queenst",
+    "rating": 4.2,
+    "reviews": 549,
+    "maps": "https://maps.google.com/?cid=4806605909295804565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8569007,
+    "lng": 174.7621978,
+    "area": "Central"
+   },
+   {
+    "name": "Lone Star Alexandra Park",
+    "address": "223 Green Lane West, Epsom, Auckland 1051",
+    "phone": "09 869 6999",
+    "website": "https://www.lonestar.co.nz/restaurants/alexandra-park/",
+    "rating": 3.9,
+    "reviews": 820,
+    "maps": "https://maps.google.com/?cid=706109215482883687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8925049,
+    "lng": 174.7787634,
+    "area": "Central"
+   },
+   {
+    "name": "Lone Star Grillz",
+    "address": "Lunn Avenue, Mount Wellington, Auckland 1072",
+    "phone": "09 579 6699",
+    "website": "",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=11951929539490528686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8919408,
+    "lng": 174.83631929999999,
+    "area": "Central"
+   },
+   {
+    "name": "Lone Star Botany",
+    "address": "Botany Town Centre 588 Chapel Road, East Tāmaki, Auckland 2013",
+    "phone": "09 271 2456",
+    "website": "https://www.lonestar.co.nz/restaurants/botany/",
+    "rating": 4,
+    "reviews": 1594,
+    "maps": "https://maps.google.com/?cid=9400051515612857033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.933889799999996,
+    "lng": 174.9137969,
+    "area": "East"
+   },
+   {
+    "name": "Lone Star Westgate",
+    "address": "575 Don Buck Road, Massey, Auckland 0614",
+    "phone": "09 833 1128",
+    "website": "https://www.lonestar.co.nz/restaurants/westgate/",
+    "rating": 4.5,
+    "reviews": 3214,
+    "maps": "https://maps.google.com/?cid=3200155768808920418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8223959,
+    "lng": 174.6077574,
+    "area": "West"
+   },
+   {
+    "name": "Lone Star Albany",
+    "address": "1/270 Oteha Valley Road, Albany, Auckland 0632",
+    "phone": "09 414 4569",
+    "website": "https://www.lonestar.co.nz/restaurants/albany/",
+    "rating": 3.9,
+    "reviews": 1695,
+    "maps": "https://maps.google.com/?cid=13291028229392271456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.722903699999996,
+    "lng": 174.704434,
+    "area": "North Shore"
+   },
+   {
+    "name": "Lone Star Manukau",
+    "address": "792 Great South Road, Wiri, Auckland 2104",
+    "phone": "09 985 0590",
+    "website": "https://www.lonestar.co.nz/restaurants/manukau/",
+    "rating": 4.2,
+    "reviews": 1465,
+    "maps": "https://maps.google.com/?cid=18036230321300951047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0005214,
+    "lng": 174.888906,
+    "area": "South"
+   }
+  ]
+ }
+}
