@@ -1,0 +1,47 @@
+# Pages the radar checks every run.
+# mode: rss   -> RSS/Atom feed, new items are reported
+# mode: links -> web page, new links whose URL matches `include` are reported
+# mode: text  -> web page, new lines of visible text are reported (good for store locators)
+
+sources:
+  - name: Franchise NZ news
+    url: https://franchise.co.nz/news_items/rss
+    mode: rss
+
+  - name: Franchise NZ directory
+    url: https://franchise.co.nz/franchise-directory
+    mode: links
+    include: '/franchise-directory/\d+'
+    level: Warm   # a brand listing that wasn't here yesterday
+
+  - name: Franchise Direct NZ - new franchises
+    url: https://www.franchisedirect.co.nz/new-franchises/
+    mode: links
+    include: 'franchisedirect\.co\.nz/[a-z0-9-]+/[a-z0-9-]+/?(\d+)?/?$'
+    exclude: '/industr|/ultimate-guide|/franchise-videos|/low-cost|/information/|/business-opportunities/|/new-zealand-franchises/|/international-franchises/|/authenticate/'
+    level: Warm   # a brand that has just started recruiting
+
+  - name: Google News - NZ franchise openings
+    url: https://news.google.com/rss/search?q=franchise+%22New+Zealand%22+(opening+OR+%22now+open%22+OR+%22new+store%22)+when:14d&hl=en-NZ&gl=NZ&ceid=NZ:en
+    mode: rss
+    min_level: Warm   # news search is noisy: only report growth signals
+    require: 'franchise|store|shop|cafe|restaurant|gym|clinic|salon|outlet|branch|nz|new zealand|auckland'
+
+  - name: Google News - NZ franchise expansion
+    url: https://news.google.com/rss/search?q=franchise+(NZ+OR+%22New+Zealand%22)+(expansion+OR+expands+OR+launches+OR+%22new+franchisee%22)+when:14d&hl=en-NZ&gl=NZ&ceid=NZ:en
+    mode: rss
+    min_level: Warm   # news search is noisy: only report growth signals
+    require: 'franchise|store|shop|cafe|restaurant|gym|clinic|salon|outlet|branch|nz|new zealand|auckland'
+
+  - name: Google News - Auckland new store openings
+    url: https://news.google.com/rss/search?q=Auckland+(%22now+open%22+OR+%22grand+opening%22+OR+%22new+store%22)+when:14d&hl=en-NZ&gl=NZ&ceid=NZ:en
+    mode: rss
+    min_level: Warm   # news search is noisy: only report growth signals
+    require: 'franchise|store|shop|cafe|restaurant|gym|clinic|salon|outlet|branch|nz|new zealand|auckland'
+
+  # Store locators: add one per target brand. A new line on the page usually means a new store.
+  # Some locators load stores with JavaScript; set `render: true` for those (needs Playwright).
+  # - name: Example Brand stores
+  #   url: https://www.example.co.nz/stores
+  #   mode: text
+  #   render: false
