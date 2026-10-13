@@ -6,66 +6,71 @@ Google Places: off | HubSpot check: off
 
 | # | Brand | Category | Score | Why it ranked | REACH fit |
 |---|---|---|---|---|---|
-| 1 | Harrisons Carpet & Flooring | Home and Building | 50 | listing updated in the last 30 days (actively recruiting); multi-site network | Tradies package (from $2k + GST) or Lead Accelerator |
-| 2 | V.I.P. Home Services | Home Services | 50 | listing updated in the last 30 days (actively recruiting); multi-site network | Tradies package (from $2k + GST) or Lead Accelerator |
-| 3 | Kokodak | Food and Beverage | 50 | listing updated in the last 30 days (actively recruiting); multi-site network | Retail package (from $2k + GST) |
-| 4 | Pro Waterblasting | Home Services | 40 | listing updated in the last 30 days (actively recruiting) | Tradies package (from $2k + GST) or Lead Accelerator |
-| 5 | MINTEDVR | Leisure & Education | 35 | listing updated in the last 30 days (actively recruiting) | Community Reach |
-| 6 | Toyworld | Retail | 35 | listing updated in the last 30 days (actively recruiting) | Retail package (from $2k + GST) |
-| 7 | Katsubi | Food and Beverage | 35 | listing updated in the last 30 days (actively recruiting) | Retail package (from $2k + GST) |
-| 8 | PERL Plumbing & PERL Electrical | Home and Building | 35 | listing updated in the last 30 days (actively recruiting) | Tradies package (from $2k + GST) or Lead Accelerator |
-| 9 | Speed Queen Laundry Systems | Retail | 35 | listing updated in the last 30 days (actively recruiting) | Retail package (from $2k + GST) |
-| 10 | Aramex - Courier Franchisee | Business & Commercial | 30 | listing updated in the last 30 days (actively recruiting); multi-site network | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 1 | Paramount Services | Business & Commercial | 60 | newly listed on a franchise directory (recruiting); listing updated in the last 30 days (actively recruiting); multi-site network | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 2 | The Coffee Guy | Food and Beverage | 60 | newly listed on a franchise directory (recruiting); multi-site network | Retail package (from $2k + GST) |
+| 3 | Fowler Homes | Home and Building | 60 | newly listed on a franchise directory (recruiting); multi-site network | Tradies package (from $2k + GST) or Lead Accelerator |
+| 4 | Para Rubber | Retail | 55 | newly listed on a franchise directory (recruiting); listing updated in the last 90 days | Retail package (from $2k + GST) |
+| 5 | Cutshop | Home and Building | 50 | newly listed on a franchise directory (recruiting) | Tradies package (from $2k + GST) or Lead Accelerator |
+| 6 | Harrisons Curtains & Blinds | Retail | 45 | listing updated in the last 30 days (actively recruiting); multi-site network | Retail package (from $2k + GST) |
+| 7 | Muffin Break | Food and Beverage | 35 | listing updated in the last 30 days (actively recruiting) | Retail package (from $2k + GST) |
+| 8 | Crewcut | Home Services | 35 | listing updated in the last 90 days; multi-site network | Tradies package (from $2k + GST) or Lead Accelerator |
+| 9 | MYGuy | Home Services | 25 | listing updated in the last 90 days | Tradies package (from $2k + GST) or Lead Accelerator |
+| 10 | Pegasus Rental Cars | Leisure & Education | 25 | listing updated in the last 90 days | Community Reach |
 
-## 1. Harrisons Carpet & Flooring (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/634-harrisons-carpet-and-flooring (updated 2026-09-23)
-- About: Retail Secure your financial future with a proven, award-winning franchise business. Harrisons provides strong income potential, training and support. With territories across NZ available, plus the wider Harrisons Group, now’s your chance to build a lifestyle-friendly business backed by marketing and a supportive franchisee community. Complete the form below to
-- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-
-## 2. V.I.P. Home Services (Home Services)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/139-v-i-p-home-services (updated 2026-09-16)
-- About: Professional home services franchise providing flexible, multi-serviced businesses for 43+ years. Either Lawns and Gardening, or Cleaning. Exclusive territories, paid training, established customers, income guarantee. Opportunities nationwide. Actively seeking motivated franchisees wanting to succeed. Multi-award winning systems, ongoing support and business mentoring provided. Complete the form b
-- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-
-## 3. Kokodak (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1774-kokodak (updated 2026-09-15)
-- About: Your chance to be part of one of New Zealand’s growing Korean fried chicken franchises. With more than 12 years of hospitality experience and 19+ stores nationwide, Kokodak is inviting new franchise partners to join our growing network and build a successful business with us. Complete the form below to receive more detailed information from Kokodak
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-
-## 4. Pro Waterblasting (Home Services)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1706-pro-waterblasting (updated 2026-09-30)
-- About: Other Pro Waterblasting gives motivated owner-operators a proven pathway into the high-demand exterior cleaning sector. With exclusive territories, practical training, marketing support, admin systems and online quoting, franchisees can launch with confidence, build repeat income, and grow from one vehicle into a scalable local business of their own. Complete the form below to
-- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-
-## 5. MINTEDVR (Leisure & Education)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1737-mintedvr (updated 2026-10-04)
-- About: The thinking about safe driving VR-based coaching franchise, ideal for owner/operators in both smaller regional and larger urban centres. NZ-designed to help sharpen driving skills and enable learners to prepare for and pass practical driving tests. Some teaching or coaching experience required – make a difference in your community! Complete the form below to receive more detailed information from
-- Suggested REACH fit: Community Reach: reach local families around each centre
-
-## 6. Toyworld (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1042-toyworld (updated 2026-09-28)
-- About: New Zealand’s largest independent toy retailing group has been in operation since 1976. Get in touch: Contact: Toyworld FANZ Member: No
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-
-## 7. Katsubi (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1642-katsubi (updated 2026-09-28)
-- About: Your chance to be a part of one of the most successful New Zealand local hospitality franchises. With more than 20 years of experience in the food chain industry, Katsubi is now inviting our potential partners to build your dreams and succeed with us. Complete the form below to receive more detailed information from Katsubi
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-
-## 8. PERL Plumbing & PERL Electrical (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1630-perl-plumbing-perl-electrical (updated 2026-09-21)
-- About: PERL is a professional franchise model for ambitious contractors looking to start their own business or supercharge their current one. PERL provides ongoing superior support and business education, exceptional supplier pricing and discounts, innovative integrated operating systems, and coordinated national sales and marketing. www.perlelectrical.co.nz and www.perlplumbing.co.nz Complete the form b
-- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-
-## 9. Speed Queen Laundry Systems (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1507-speed-queen-laundry-systems (updated 2026-09-15)
-- About: Enjoy semi‑passive income with your own Speed Queen self‑serve laundromat. With our expert support you’ll be operating a profitable business in no time, backed by the world’s oldest and largest manufacturer of commercial laundry equipment. Complete the form below to receive more detailed information from Speed Queen Laundry Systems
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-
-## 10. Aramex - Courier Franchisee (Business & Commercial)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/47-aramex-courier-franchisee (updated 2026-09-15)
-- About: Aramex, formerly Fastway Couriers, is an award-winning franchise system that provides local and national courier and freight services at competitive prices. With over 40 years’ experience, multiple industry awards and franchisees across New Zealand, Aramex is one of New Zealand’s most successful and trusted freight companies. Complete the form below to receive more detailed information from Aramex
+## 1. Paramount Services (Business & Commercial)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/100-paramount-services (updated 2026-09-15)
+- About: Home and Building Home Services A Paramount Services franchise is a safe and affordable way to own your own business. When you become a franchisee we will provide you with enough contracts to support a stand-alone franchise business in commercial and residential cleaning or in lawn mowing and garden care. Established in 1979, Paramount Services has 220 franchisees servicing 5,000 locations.
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
+- Trigger (Warm, 2026-10-13): Paramount Services https://franchise.co.nz/franchise-directory/100-paramount-services
+
+## 2. The Coffee Guy (Food and Beverage)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/681-the-coffee-guy- (updated 2026-06-16)
+- About: The Coffee Guy is New Zealand's largest mobile coffee franchise system. The secret to our success is ensuring our franchisees have the support that they need to operate a successful franchise. Ready to be your own boss? New and exclusive territories are available nationwide. Join our team and start brewing your own success story today. Complete the form below to receive more detailed information f
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+- Trigger (Warm, 2026-10-13): The Coffee Guy https://franchise.co.nz/franchise-directory/681-the-coffee-guy-
+
+## 3. Fowler Homes (Home and Building)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1745-fowler-homes (updated 2026-04-28)
+- About: Fowler Homes is a proud Kiwi company; we have been building homes across New Zealand since 1984. We are expanding our network across New Zealand and actively seeking new business partners to continue the Fowler Homes legacy. Complete the form below to receive more detailed information from Fowler Homes
+- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
+- Trigger (Warm, 2026-10-13): Fowler Homes https://franchise.co.nz/franchise-directory/1745-fowler-homes
+
+## 4. Para Rubber (Retail)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/882-para-rubber (updated 2026-07-24)
+- About: Iconic New Zealand retailer dominating the market in sales of foam, foam mattresses, rubber, mats, and Para pools. Looking for energetic people serious about customer service and looking to build a successful business through determination. Opportunities available in South Auckland, Hawkes Bay and Dunedin. Complete the form below to receive more detailed information from Para Rubber
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+- Trigger (Warm, 2026-10-13): Para Rubber https://franchise.co.nz/franchise-directory/882-para-rubber
+
+## 5. Cutshop (Home and Building)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1080-cutshop (updated 2026-02-10)
+- About: Own and manage a Cutshop® programming and production team, producing high quality cabinetry for kitchens, wardrobes, garage shelves, and more. Cutshop® franchisees provide bespoke products in a vibrant residential new-build and renovation sector where existing trade production can’t keep up with the growing market. Complete the form below to receive more detailed information from Cutshop
+- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
+- Trigger (Warm, 2026-10-13): Cutshop https://franchise.co.nz/franchise-directory/1080-cutshop
+
+## 6. Harrisons Curtains & Blinds (Retail)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1213-harrisons-curtains-blinds (updated 2026-09-23)
+- About: Home and Building Love fashion, interior design, and have a flair for sales? Own your own business doing what you love, supported by the most trusted franchise network. We are looking for passionate people to join our 33 strong nationwide Curtains & Blinds franchise network. Complete the form below to
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+
+## 7. Muffin Break (Food and Beverage)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/89-muffin-break (updated 2026-09-18)
+- About: Muffin Break is one of New Zealand’s most-loved bakery cafés. It’s also part of an experienced group with over 30 years’ in the food retail industry. Our iconic bakery café is widely loved for its freshly-baked muffins, award-winning coffee blend and authentic customer service. Complete the form below to receive more detailed information from Muffin Break
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+
+## 8. Crewcut (Home Services)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/39-crewcut (updated 2026-07-27)
+- About: Crewcut is a lawn and garden maintenance franchise with businesses for sale. For over 26 years we’ve had operators providing lawn mowing, hedge trimming, section clearing, and gardening to Kiwi’s all across New Zealand. Buy a business with support, strong branding, and values. Complete the form below to receive more detailed information from Crewcut
+- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
+
+## 9. MYGuy (Home Services)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1608-myguy-ltd (updated 2026-08-25)
+- About: Home and Building Join a thriving property maintenance company built on quality workmanship and exceptional service. MyGuy offers full training, ongoing support and a healthy work/life balance. Our proven franchise model, strong reputation and world class systems give you everything needed to build a successful, rewarding business. Complete the form below to
+- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
+
+## 10. Pegasus Rental Cars (Leisure & Education)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/918-pegasus-rental-cars (updated 2026-08-18)
+- About: Offering the best value-for-money car hire in New Zealand for over 35 years, Pegasus is a proven business model with growth potential. Join a group of passionate owner-operators with group marketing power, national booking systems, comprehensive training and ongoing support. Complete the form below to receive more detailed information from Pegasus Rental Cars
+- Suggested REACH fit: Community Reach: reach local families around each centre
 
 ## Road trip: South
 No outlets mapped for today's area (Google Places is off). The lead agent should find 3-5 walk-ins itself.
