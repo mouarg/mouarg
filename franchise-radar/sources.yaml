@@ -8,12 +8,6 @@ sources:
     url: https://franchise.co.nz/news_items/rss
     mode: rss
 
-  - name: Franchise NZ directory
-    url: https://franchise.co.nz/franchise-directory
-    mode: links
-    include: '/franchise-directory/\d+'
-    level: Warm   # a brand listing that wasn't here yesterday
-
   - name: Franchise Direct NZ - new franchises
     url: https://www.franchisedirect.co.nz/new-franchises/
     mode: links

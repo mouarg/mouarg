@@ -153,8 +153,9 @@ def main():
         name_l = b["name"].lower()
         if b.get("supplier") or any(x in name_l for x in EXCLUDE_BRANDS):
             continue
-        if days_since(surfaced.get(b["name"], "1900-01-01")) < COOLDOWN_DAYS:
-            continue
+        parent = name_l.split()[0]
+        if any(n.lower().split()[0] == parent and days_since(d) < COOLDOWN_DAYS for n, d in surfaced.items()):
+            continue  # this brand (or a sister brand) was shown recently
         hits = [t for t in triggers if len(name_l) >= 4 and name_l in t["title"].lower()]
         s, why = score(b, hits)
         candidates.append({**b, "score": s, "why": why, "triggers": hits})
