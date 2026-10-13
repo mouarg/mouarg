@@ -1,30 +1,36 @@
 # Franchise Radar
 
-Daily scan of NZ franchise sources for prospecting triggers (new brands recruiting, openings, expansions, new listings). Feeds the "Franchise Lead Agent" in ChatGPT or Claude, which turns the signals into call cards.
+Daily prospect brief for a REACH Franchise Development Consultant. It finds NZ franchise brands worth calling today, ranks them, maps Auckland walk-ins, and hands a clean brief to the ChatGPT/Claude lead agent, which writes the call cards.
 
-**How it fits together**
+**Every weekday at 6am NZ (GitHub Actions):**
 
-1. GitHub Actions runs `radar.py` at 6am NZ time on weekdays.
-2. The radar checks each source in `sources.yaml` and compares it with the last run (`state/seen.json`).
-3. Anything new goes to `out/latest.md` (today's digest) and `out/triggers.csv` (running history). It is also emailed if the email secrets are set.
-4. The lead agent reads `out/latest.md` first, then researches contacts and writes the call cards.
+| Step | Script | What it does |
+|---|---|---|
+| 1 | `universe.py` | Keeps a list of every brand in the Westpac Directory of Franchising (~335). Flags brands that are new to the directory or recently updated their listing (= actively recruiting). |
+| 2 | `radar.py` | Scans franchise news, directories and Google News for openings, expansions and new franchisees (`sources.yaml`). Writes `out/latest.md` and `out/triggers.csv`. |
+| 3 | `pipeline.py` | Scores every brand (news trigger, recruiting activity, local-marketing fit, Auckland multi-site), drops exclusions, existing customers and anything shown in the last 45 days, and picks a balanced top 10. Writes `out/prospects.md` (the brief) and `out/prospects.csv` (HubSpot-ready). |
+| opt | `enrich.py` | With keys set: Google Places finds each brand's Auckland outlets (address, phone, reviews) and builds a walk-in route for the day's area. HubSpot flags brands already in the CRM. |
+
+The walk-in area rotates: Mon North Shore, Tue West, Wed South, Thu East, Fri Central.
+
+The lead agent reads: `https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prospects.md`
 
 ## Setup
 
-1. Turn on Actions for the repo. Run "Franchise Radar" once by hand (Actions tab, Run workflow) to record a baseline.
-2. Optional email digest: add repo secrets `SMTP_HOST` (`smtp.gmail.com`), `SMTP_USER` (Gmail address), `SMTP_PASS` (a Gmail app password) and `DIGEST_TO`.
-3. Add target brands' store locator pages to `sources.yaml` (`mode: text`). A new line on a locator usually means a new store or owner, which is a strong local-marketing trigger.
-
-## Run locally
-
-```
-pip install -r requirements.txt
-python radar.py --baseline   # first time only
-python radar.py
-```
+1. Actions tab, "Franchise Radar", Run workflow, to test.
+2. Optional repo secrets (Settings, Secrets and variables, Actions):
+   - `GOOGLE_MAPS_API_KEY`: Google Cloud key with **Places API (New)** enabled. Results are cached for 30 days, so about 20 lookups a day stays inside Google's free monthly allowance (set a budget alert anyway).
+   - `HUBSPOT_TOKEN`: HubSpot private app token, read-only `crm.objects.companies.read`. **Needs REACH approval.**
+   - `SMTP_HOST`, `SMTP_USER`, `SMTP_PASS`, `DIGEST_TO`: email the news digest (Gmail: `smtp.gmail.com` and an app password).
+3. Add store locator pages for target brands to `sources.yaml` (`mode: text`) to catch new stores and owners.
 
 ## Tuning
 
-- Too noisy: add words to `NOISE_WORDS` in `radar.py`, or set `min_level: Warm` on a source.
-- Missing signals: add a source. Any RSS feed, listing page or store locator works.
 - Exclusions: `EXCLUDE_BRANDS` in `radar.py`.
+- Product mapping: `REACH_FIT` in `pipeline.py`.
+- Cooldown, list size, per-category cap: constants at the top of `pipeline.py`.
+- Noisy news: `NOISE_WORDS` in `radar.py`, or `min_level: Warm` on a source.
+
+## Privacy
+
+The repo is public, so the brief is too. It contains only public directory and news data, with no REACH-internal data. Keep HubSpot results out of a public repo: if you add `HUBSPOT_TOKEN`, make the repo private and deliver the brief by email instead.

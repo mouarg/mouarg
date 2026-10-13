@@ -49,6 +49,7 @@ GENERIC_LINK_TEXT = {"read more", "view listing", "learn more", "more info", "vi
 EXCLUDE_BRANDS = [
     "beds r us", "bedpost", "kitchen studio", "sushi sushi", "bakers delight", "poolwerx",
     "hire a hubby", "rodney wayne", "pizza club", "coffee news", "numberworks", "hell pizza",
+    "liquorland",  # existing REACH customer (case study)
 ]
 
 
