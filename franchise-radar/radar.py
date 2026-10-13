@@ -165,8 +165,8 @@ def main():
             errors.append(f"{name}: {e}")
             continue
         current = {key(i, src["mode"]): i for i in items}
-        # A new store locator or page: just learn it, don't flood the digest.
-        if not (args.baseline or (first_time and src["mode"] == "text")):
+        # A new page/directory: just learn what's there today, report changes from tomorrow.
+        if not (args.baseline or (first_time and src["mode"] in ("text", "links"))):
             for k, item in current.items():
                 story = item["title"].lower().rsplit(" - ", 1)[0]  # same story, several feeds
                 if k in known or story in reported:

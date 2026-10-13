@@ -80,6 +80,15 @@ def recent_triggers():
         return [r for r in csv.DictReader(f) if r["found"] >= cutoff and r["level"] in ("Hot", "Warm")]
 
 
+NZ_NEWS = re.compile(r"\b(nz|new zealand|auckland|wellington|christchurch|kiwi)|- (1news|stuff|nz herald|rnz|odt|newsroom|businessdesk|interest\.co\.nz)", re.I)
+GROWTH_NEWS = re.compile(r"franchise.*(expan|open|launch|territor|new owner|arriv)|expan", re.I)
+MULTI_SITE = re.compile(r"\d+\s*\+?\s*(stores|outlets|locations|sites|franchisees|branches|salons|clinics)|nationwide|national network|across (new zealand|nz)", re.I)
+
+
+def is_nz_franchise_news(title):
+    return bool(NZ_NEWS.search(title) and GROWTH_NEWS.search(title))
+
+
 def days_since(date_str):
     try:
         return (TODAY - dt.date.fromisoformat(date_str[:10])).days
@@ -89,10 +98,15 @@ def days_since(date_str):
 
 def score(brand, triggers):
     s, why = 0, []
-    if triggers:
-        hot = any(t["level"] == "Hot" for t in triggers)
+    news = [t for t in triggers if "news" in t["source"].lower()]
+    listings = [t for t in triggers if t not in news]
+    if news:
+        hot = any(t["level"] == "Hot" for t in news)
         s += 40 if hot else 25
         why.append(f"in the news ({'Hot' if hot else 'Warm'})")
+    if listings:
+        s += 30
+        why.append("newly listed on a franchise directory (recruiting)")
     if brand["first_seen"] not in ("baseline", "") and days_since(brand["first_seen"]) <= 30:
         s += 25
         why.append("new to the franchise directory")
@@ -105,7 +119,10 @@ def score(brand, triggers):
         why.append("listing updated in the last 90 days")
     if LSM_FIT.search(brand["category"]):
         s += 15
-    if re.search(r"new zealand|nz|expan|territor|launch|first|grow", brand.get("blurb", ""), re.I):
+    if MULTI_SITE.search(brand.get("blurb", "")):
+        s += 10
+        why.append("multi-site network")
+    if re.search(r"expan|territor|launch|growing|new to nz|to new zealand", brand.get("blurb", ""), re.I):
         s += 5
     return s, why
 
@@ -141,7 +158,7 @@ def main():
         hits = [t for t in triggers if len(name_l) >= 4 and name_l in t["title"].lower()]
         s, why = score(b, hits)
         candidates.append({**b, "score": s, "why": why, "triggers": hits})
-    candidates.sort(key=lambda c: c["score"], reverse=True)
+    candidates.sort(key=lambda c: (c["score"], c["lastmod"]), reverse=True)
 
     # 2. Enrich the top 20 (Auckland outlets, CRM check), then re-rank.
     places_on = hubspot_on = False
@@ -167,25 +184,37 @@ def main():
             c["crm"] = status
             if status.startswith("customer"):
                 c["score"] = -1  # existing customer: not new business
-    candidates.sort(key=lambda c: c["score"], reverse=True)
+    candidates.sort(key=lambda c: (c["score"], c["lastmod"]), reverse=True)
 
     # 3. Pick a balanced shortlist (no more than 2 per category).
-    picked, per_cat = [], {}
+    picked, per_cat, parents = [], {}, set()
     for c in candidates:
-        if c["score"] < 0 or per_cat.get(c["category"], 0) >= MAX_PER_CATEGORY:
+        parent = c["name"].split()[0].lower()  # Harrisons Solar / Harrisons Carpet = one company
+        if c["score"] < 0 or per_cat.get(c["category"], 0) >= MAX_PER_CATEGORY or parent in parents:
             continue
+        parents.add(parent)
         picked.append(c)
         per_cat[c["category"]] = per_cat.get(c["category"], 0) + 1
         if len(picked) >= args.top:
             break
 
     # 4. Today's walk-in route from the picked brands' outlets in today's area.
-    stops = [{**o, "brand": c["name"]} for c in picked for o in c.get("outlets", []) if o["area"] == AREA_TODAY]
+    stops = []
+    for c in picked:  # one outlet per brand in today's area
+        local = [o for o in c.get("outlets", []) if o["area"] == AREA_TODAY]
+        if local:
+            stops.append({**local[0], "brand": c["name"]})
     route = nearest_neighbour_route(stops)[:6]
 
     # 5. Unmatched hot news: growth signals that don't match a directory brand.
     matched = {t["link"] for c in picked for t in c["triggers"]}
-    loose = [t for t in triggers if t["level"] == "Hot" and t["link"] not in matched][:8]
+    loose, firsts = [], set()
+    for t in triggers:
+        first = t["title"].split()[0].lower()  # several outlets covering one story
+        if t["link"] not in matched and first not in firsts and is_nz_franchise_news(t["title"]):
+            firsts.add(first)
+            loose.append(t)
+    loose = loose[:8]
 
     write_outputs(picked, route, loose, places_on, hubspot_on)
     for c in picked:
