@@ -18,6 +18,10 @@ import requests
 HERE = Path(__file__).parent
 PLACES_CACHE = HERE / "state" / "places_cache.json"
 CACHE_DAYS = 30
+# Hard spending guard: Google calls allowed per day and per month (well inside the free tier).
+MAX_CALLS_PER_DAY = 20
+MAX_CALLS_PER_MONTH = 500
+USAGE_FILE = HERE / "state" / "places_usage.json"
 
 AUCKLAND_BOX = {"low": {"latitude": -37.30, "longitude": 174.40},
                 "high": {"latitude": -36.55, "longitude": 175.20}}
@@ -57,6 +61,15 @@ def auckland_outlets(brand):
     hit = cache.get(brand)
     if hit and time.time() - hit["ts"] < CACHE_DAYS * 86400:
         return hit["outlets"]
+
+    today = time.strftime("%Y-%m-%d")
+    usage = json.loads(USAGE_FILE.read_text()) if USAGE_FILE.exists() else {}
+    month_total = sum(n for d, n in usage.items() if d[:7] == today[:7])
+    if usage.get(today, 0) >= MAX_CALLS_PER_DAY or month_total >= MAX_CALLS_PER_MONTH:
+        return None  # cap reached: skip enrichment rather than spend
+    usage[today] = usage.get(today, 0) + 1
+    USAGE_FILE.parent.mkdir(exist_ok=True)
+    USAGE_FILE.write_text(json.dumps(usage, indent=1))
 
     r = requests.post(
         "https://places.googleapis.com/v1/places:searchText",
