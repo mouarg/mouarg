@@ -10,6 +10,7 @@ HUBSPOT_TOKEN        HubSpot private app token (read-only companies scope): flag
 import json
 import math
 import os
+import re
 import time
 from pathlib import Path
 
@@ -53,6 +54,16 @@ def km(a, b):
     return 2 * r * math.asin(math.sqrt(h))
 
 
+def _norm(text):
+    text = re.sub(r"[^a-z0-9 ]", " ", text.lower().replace("&", " and "))
+    return " ".join(w for w in text.split() if w not in ("the", "nz", "ltd", "limited"))
+
+
+def is_brand(brand, place_name):
+    # "Blinds On Location" must not match any blinds shop; "The Coffee Club" must not match "The ..."
+    return _norm(brand.split(" - ")[0]) in _norm(place_name)
+
+
 def auckland_outlets(brand):
     key = os.getenv("GOOGLE_MAPS_API_KEY")
     if not key:
@@ -79,12 +90,11 @@ def auckland_outlets(brand):
         timeout=30,
     )
     r.raise_for_status()
-    # Keep only results that are actually this brand (name contains the brand's first word).
-    token = brand.lower().split()[0]
+    # Keep only results that are actually this brand: the place name must contain the brand name.
     outlets = []
     for p in r.json().get("places", []):
         name = p.get("displayName", {}).get("text", "")
-        if token not in name.lower() or p.get("businessStatus") not in (None, "OPERATIONAL"):
+        if not is_brand(brand, name) or p.get("businessStatus") not in (None, "OPERATIONAL"):
             continue
         loc = p.get("location", {})
         outlets.append({
