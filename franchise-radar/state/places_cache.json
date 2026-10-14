@@ -1089,5 +1089,1079 @@
     "area": "South"
    }
   ]
+ },
+ "Dear Deer Coffee Roasting Bar": {
+  "ts": 1792009384.2993722,
+  "outlets": [
+   {
+    "name": "Dear Deer Coffee Roasting Bar Ellerslie",
+    "address": "Shop3/120 Main Highway, Ellerslie, Auckland 1051",
+    "phone": "",
+    "website": "https://deardeercoffee.co.nz/",
+    "rating": 4.5,
+    "reviews": 206,
+    "maps": "https://maps.google.com/?cid=17634602517160839583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8974858,
+    "lng": 174.80934539999998,
+    "area": "Central"
+   },
+   {
+    "name": "Dear Deer Coffee Roasting Bar Newmarket",
+    "address": "58 Davis Crescent, Newmarket, Auckland 1060",
+    "phone": "",
+    "website": "https://deardeercoffee.co.nz/",
+    "rating": 4.7,
+    "reviews": 116,
+    "maps": "https://maps.google.com/?cid=16331814304813247792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8670203,
+    "lng": 174.7780564,
+    "area": "Central"
+   },
+   {
+    "name": "Dear Deer Coffee Roasting Bar Onehunga",
+    "address": "130e Onehunga Mall, Onehunga, Auckland 1061",
+    "phone": "",
+    "website": "https://deardeercoffee.co.nz/",
+    "rating": 4.8,
+    "reviews": 331,
+    "maps": "https://maps.google.com/?cid=1682074560199028029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9245446,
+    "lng": 174.7851066,
+    "area": "Central"
+   },
+   {
+    "name": "Dear Deer Coffee Roasting Bar Pakuranga",
+    "address": "23 Gossamer Drive, Pakuranga Heights, Auckland 2010",
+    "phone": "",
+    "website": "http://www.deardeercoffee.co.nz/",
+    "rating": 4.9,
+    "reviews": 241,
+    "maps": "https://maps.google.com/?cid=9249247198781888337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.909134200000004,
+    "lng": 174.889552,
+    "area": "East"
+   }
+  ]
+ },
+ "Urban Homes": {
+  "ts": 1792009385.8684452,
+  "outlets": []
+ },
+ "Para Rubber": {
+  "ts": 1792009386.1760662,
+  "outlets": [
+   {
+    "name": "Para Rubber Mt Wellington",
+    "address": "36 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+    "phone": "09 527 6924",
+    "website": "http://pararubber.co.nz/",
+    "rating": 4.3,
+    "reviews": 152,
+    "maps": "https://maps.google.com/?cid=14732668134760624425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.899755,
+    "lng": 174.845799,
+    "area": "East"
+   },
+   {
+    "name": "Para Rubber Wairau Road",
+    "address": "112 Wairau Road, Wairau Valley, Auckland 0627",
+    "phone": "09 443 2557",
+    "website": "https://pararubber.co.nz/",
+    "rating": 4.7,
+    "reviews": 54,
+    "maps": "https://maps.google.com/?cid=8412758759318465522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.774287300000005,
+    "lng": 174.74197329999998,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Gong Cha": {
+  "ts": 1792009386.4956768,
+  "outlets": [
+   {
+    "name": "Gong cha (Lorne Street)",
+    "address": "7/38 Lorne Street, Auckland CBD, Auckland 1010",
+    "phone": "09 303 4634",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 4.3,
+    "reviews": 834,
+    "maps": "https://maps.google.com/?cid=8437261505707016912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.850949400000005,
+    "lng": 174.7654363,
+    "area": "Central"
+   },
+   {
+    "name": "Gong cha (Queen Street)",
+    "address": "164 Queen Street, Auckland 1010",
+    "phone": "09 368 1668",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 4.2,
+    "reviews": 337,
+    "maps": "https://maps.google.com/?cid=12963321603828114578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8479905,
+    "lng": 174.7658459,
+    "area": "Central"
+   },
+   {
+    "name": "Gong cha (Dominion Road)",
+    "address": "219 Dominion Road, Mount Eden, Auckland 1024",
+    "phone": "09 218 4846",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 4.4,
+    "reviews": 189,
+    "maps": "https://maps.google.com/?cid=3175310914637807905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8756991,
+    "lng": 174.7509505,
+    "area": "Central"
+   },
+   {
+    "name": "Gong cha (University of Auckland)",
+    "address": "University of Auckland 9 Symonds Street, Auckland CBD, Auckland 1010",
+    "phone": "09 215 9030",
+    "website": "http://gongcha.co.nz/",
+    "rating": 3.3,
+    "reviews": 33,
+    "maps": "https://maps.google.com/?cid=466338543005300767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8521518,
+    "lng": 174.7693531,
+    "area": "Central"
+   },
+   {
+    "name": "Gong Cha (WestCity)",
+    "address": "West City Waitakere, Kiosk K260, Level 2/7 Catherine Street, Henderson, Auckland 0612",
+    "phone": "09 948 2134",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 3.2,
+    "reviews": 54,
+    "maps": "https://maps.google.com/?cid=5522469868688744808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8804934,
+    "lng": 174.6320786,
+    "area": "West"
+   },
+   {
+    "name": "Gong cha (Dress Smart)",
+    "address": "Dress Smart, Kiosk B/151 Arthur Street, Onehunga, Auckland 1061",
+    "phone": "09 218 9129",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 4,
+    "reviews": 100,
+    "maps": "https://maps.google.com/?cid=879627919291582398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.920915799999996,
+    "lng": 174.78621619999998,
+    "area": "Central"
+   },
+   {
+    "name": "Gong cha (Broadway Newmarket)",
+    "address": "Unit 5-6/88 Broadway, Newmarket, Auckland 1023",
+    "phone": "09 524 5087",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 4,
+    "reviews": 359,
+    "maps": "https://maps.google.com/?cid=3915369331864249808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8669493,
+    "lng": 174.7786437,
+    "area": "Central"
+   },
+   {
+    "name": "Gong cha (Westfield Newmarket)",
+    "address": "Westfield Newmarket, S341/277 Broadway, Newmarket, Auckland 1023",
+    "phone": "09 218 5437",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 3.4,
+    "reviews": 68,
+    "maps": "https://maps.google.com/?cid=432997070125976331&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8709819,
+    "lng": 174.77643179999998,
+    "area": "Central"
+   },
+   {
+    "name": "Gong cha (Glenfield Mall)",
+    "address": "Glenfield Road &, Downing Street, Glenfield, Auckland 0629",
+    "phone": "09 300 1170",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 3.4,
+    "reviews": 46,
+    "maps": "https://maps.google.com/?cid=15847612821319891985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7819407,
+    "lng": 174.7223826,
+    "area": "North Shore"
+   },
+   {
+    "name": "Gong cha (Westfield Albany)",
+    "address": "K20/219 Don McKinnon Drive, Albany, Auckland 0632",
+    "phone": "09 218 4883",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 3.2,
+    "reviews": 92,
+    "maps": "https://maps.google.com/?cid=3658032314036333251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7285894,
+    "lng": 174.7103907,
+    "area": "North Shore"
+   },
+   {
+    "name": "Gong cha (Westfield St Luke’s)",
+    "address": "Westfield St Lukes, Kiosk K043/80 Saint Lukes Road, Mount Albert, Auckland 1346",
+    "phone": "09 218 8637",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 2.8,
+    "reviews": 96,
+    "maps": "https://maps.google.com/?cid=11964776392242514887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.883296699999995,
+    "lng": 174.7342455,
+    "area": "Central"
+   },
+   {
+    "name": "Gong cha (Sylvia Park)",
+    "address": "Kiosk NK11 Sylvia Park Mall, 286 Mt Mount Wellington Highway, Mount Wellington, Auckland 1060",
+    "phone": "",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 3.4,
+    "reviews": 183,
+    "maps": "https://maps.google.com/?cid=430855226804720661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9138423,
+    "lng": 174.84108350000002,
+    "area": "East"
+   },
+   {
+    "name": "Gong cha (Rosedale)",
+    "address": "6/96 Rosedale Road, Rosedale, Auckland 0632",
+    "phone": "09 948 3623",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 3.2,
+    "reviews": 92,
+    "maps": "https://maps.google.com/?cid=16196562074663764216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7368859,
+    "lng": 174.72520229999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Gong cha (Botany Town Centre)",
+    "address": "Shop SP0155/588 Chapel Road, East Tāmaki, Auckland 2016",
+    "phone": "09 218 5610",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 3.7,
+    "reviews": 236,
+    "maps": "https://maps.google.com/?cid=14558091080437399254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9320439,
+    "lng": 174.9137426,
+    "area": "East"
+   },
+   {
+    "name": "Gong cha (Lynnmall)",
+    "address": "Shop 027/3058 Great North Road, New Lynn, Auckland 0600",
+    "phone": "09 217 3190",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 3.7,
+    "reviews": 94,
+    "maps": "https://maps.google.com/?cid=14014208149837680546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9082714,
+    "lng": 174.6847859,
+    "area": "Central"
+   },
+   {
+    "name": "Gong cha (Westfield Manukau)",
+    "address": "Gong Cha Westfield Manukau City Kiosk, Kiosk K021/Manukau Station Road, Manukau City Centre, Auckland 2104",
+    "phone": "021 711 736",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 3.4,
+    "reviews": 71,
+    "maps": "https://maps.google.com/?cid=6457023758526748901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9916699,
+    "lng": 174.88196829999998,
+    "area": "South"
+   },
+   {
+    "name": "Gong cha (Ponsonby)",
+    "address": "117 Ponsonby Road, Ponsonby, Auckland 1011",
+    "phone": "09 214 8099",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 4.2,
+    "reviews": 5,
+    "maps": "https://maps.google.com/?cid=2071399483099694946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8557309,
+    "lng": 174.7467546,
+    "area": "Central"
+   },
+   {
+    "name": "Gong cha (Takapuna)",
+    "address": "3/88 Hurstmere Road, Takapuna, Auckland 0622",
+    "phone": "09 218 9227",
+    "website": "https://gongcha.co.nz/",
+    "rating": 4,
+    "reviews": 277,
+    "maps": "https://maps.google.com/?cid=366286264924100882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.78680730000001,
+    "lng": 174.7727169,
+    "area": "North Shore"
+   },
+   {
+    "name": "Gong cha (Takanini)",
+    "address": "Southgate Shopping Centre Shop EG13/230 Great South Road, Takanini, Auckland 2112",
+    "phone": "09 218 9940",
+    "website": "http://www.gongcha.co.nz/",
+    "rating": 4.3,
+    "reviews": 52,
+    "maps": "https://maps.google.com/?cid=12253161624184014672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0498008,
+    "lng": 174.929295,
+    "area": "South"
+   }
+  ]
+ },
+ "Gloria Jean's Coffees": {
+  "ts": 1792009386.947768,
+  "outlets": [
+   {
+    "name": "Gloria Jean's Coffees Tangihua",
+    "address": "8 Tangihua Street, Auckland City, Auckland 1010",
+    "phone": "09 302 1498",
+    "website": "https://gloriajeanscoffees.nz/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business&utm_content=Tangihua&utm_term=plcid_4516891719046647643",
+    "rating": 4,
+    "reviews": 219,
+    "maps": "https://maps.google.com/?cid=13455720449302065464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8461972,
+    "lng": 174.77346660000003,
+    "area": "Central"
+   },
+   {
+    "name": "Gloria Jean's Coffees Manukau",
+    "address": "Manukau Station Road, Manukau City Centre, Auckland 2104",
+    "phone": "09 261 2546",
+    "website": "https://gloriajeanscoffees.nz/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business%20Page&utm_content=Manukau&utm_term=plcid_571091714384089350",
+    "rating": 3.6,
+    "reviews": 151,
+    "maps": "https://maps.google.com/?cid=5496785159276491937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.991681299999996,
+    "lng": 174.8808111,
+    "area": "South"
+   },
+   {
+    "name": "Gloria Jean's Coffees The Boundary",
+    "address": "5 Vitasovich Avenue, Henderson, Auckland 0612",
+    "phone": "09 838 2333",
+    "website": "https://gloriajeanscoffees.nz/?utm_content=Gloria+Jean%27s+Cafe+-+Waitakere+-+Auckland&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_7251508558332894385",
+    "rating": 4,
+    "reviews": 412,
+    "maps": "https://maps.google.com/?cid=9479045018777988721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8829499,
+    "lng": 174.6352317,
+    "area": "West"
+   },
+   {
+    "name": "Gloria Jean's Coffees New Lynn",
+    "address": "Great North Road, New Lynn, Waitakere 0600",
+    "phone": "09 827 5026",
+    "website": "https://www.gloriajeanscoffees.nz/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business&utm_content=New%20Lynn",
+    "rating": 2.8,
+    "reviews": 4,
+    "maps": "https://maps.google.com/?cid=2477723359236508783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9077127,
+    "lng": 174.68520189999998,
+    "area": "Central"
+   }
+  ]
+ },
+ "Mexicali Fresh": {
+  "ts": 1792009387.5450692,
+  "outlets": [
+   {
+    "name": "Mexicali Fresh Ponsonby",
+    "address": "166 Ponsonby Road, Grey Lynn, Auckland 1011",
+    "phone": "09 360 0076",
+    "website": "http://www.mexicalifresh.co.nz/",
+    "rating": 3.8,
+    "reviews": 320,
+    "maps": "https://maps.google.com/?cid=16580867099335764116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.855061,
+    "lng": 174.74599369999999,
+    "area": "Central"
+   },
+   {
+    "name": "Mexicali Fresh",
+    "address": "150 Karangahape Road, CBD, Auckland 1010",
+    "phone": "09 374 5938",
+    "website": "http://www.mexicalifresh.co.nz/",
+    "rating": 4.2,
+    "reviews": 340,
+    "maps": "https://maps.google.com/?cid=3156919968234443731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8580501,
+    "lng": 174.7605693,
+    "area": "Central"
+   },
+   {
+    "name": "Mexicali Fresh Botany Junction",
+    "address": "123 Ormiston Road, Flat Bush, Auckland 2019",
+    "phone": "09 265 1911",
+    "website": "http://www.mexicalifresh.co.nz/",
+    "rating": 4,
+    "reviews": 479,
+    "maps": "https://maps.google.com/?cid=13318339005725990159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9643383,
+    "lng": 174.9024079,
+    "area": "South"
+   },
+   {
+    "name": "Mexicali Fresh Lincoln Road",
+    "address": "301 Lincoln Road, Henderson, Auckland 0610",
+    "phone": "09 973 5229",
+    "website": "http://www.mexicalifresh.co.nz/",
+    "rating": 3.4,
+    "reviews": 209,
+    "maps": "https://maps.google.com/?cid=12822154607654283425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8535167,
+    "lng": 174.63042220000003,
+    "area": "West"
+   },
+   {
+    "name": "Mexicali Fresh",
+    "address": "32 Constellation Drive, Rosedale, Auckland 0632",
+    "phone": "09 971 1042",
+    "website": "http://www.mexicalifresh.co.nz/",
+    "rating": 3.8,
+    "reviews": 587,
+    "maps": "https://maps.google.com/?cid=13288478758663363357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.747962799999996,
+    "lng": 174.7324285,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Versatile": {
+  "ts": 1792009387.837882,
+  "outlets": [
+   {
+    "name": "Versatile",
+    "address": "60 Plunket Avenue, Papatoetoe, Auckland 2104",
+    "phone": "09 278 4000",
+    "website": "http://www.versatile.co.nz/",
+    "rating": 4.2,
+    "reviews": 22,
+    "maps": "https://maps.google.com/?cid=17925793728680593022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9914409,
+    "lng": 174.8641465,
+    "area": "South"
+   }
+  ]
+ },
+ "FreshChoice": {
+  "ts": 1792009388.161278,
+  "outlets": [
+   {
+    "name": "FreshChoice Otahuhu",
+    "address": "29/33 Hall Avenue, Ōtāhuhu, Auckland 1062",
+    "phone": "09 276 6161",
+    "website": "https://otahuhu.store.freshchoice.co.nz/",
+    "rating": 3.8,
+    "reviews": 720,
+    "maps": "https://maps.google.com/?cid=10982955105134630271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9448873,
+    "lng": 174.84245860000001,
+    "area": "East"
+   },
+   {
+    "name": "FreshChoice Flat Bush",
+    "address": "Unit 8/130 Dawson Road, Flat Bush, Auckland 2023",
+    "phone": "09 274 4060",
+    "website": "https://flatbush.store.freshchoice.co.nz/",
+    "rating": 3.7,
+    "reviews": 640,
+    "maps": "https://maps.google.com/?cid=18190025135561361320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9769167,
+    "lng": 174.8969746,
+    "area": "South"
+   },
+   {
+    "name": "FreshChoice Half Moon Bay",
+    "address": "1 Ara-Tai Road, Half Moon Bay, Auckland 2012",
+    "phone": "09 538 0086",
+    "website": "https://halfmoonbay.store.freshchoice.co.nz/",
+    "rating": 4.1,
+    "reviews": 621,
+    "maps": "https://maps.google.com/?cid=11807890478956917921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.881242,
+    "lng": 174.89973020000002,
+    "area": "East"
+   },
+   {
+    "name": "FreshChoice Epsom",
+    "address": "223A Green Lane West, Epsom, Auckland 1051",
+    "phone": "09 526 1922",
+    "website": "http://epsom.store.freshchoice.co.nz/",
+    "rating": 3.9,
+    "reviews": 280,
+    "maps": "https://maps.google.com/?cid=14377315557855781275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8927027,
+    "lng": 174.7797071,
+    "area": "Central"
+   },
+   {
+    "name": "FreshChoice Ranui",
+    "address": "433 Swanson Road, Ranui, Auckland 0612",
+    "phone": "09 833 8420",
+    "website": "https://ranui.store.freshchoice.co.nz/",
+    "rating": 4.1,
+    "reviews": 769,
+    "maps": "https://maps.google.com/?cid=16559076062232780829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8637847,
+    "lng": 174.60171549999998,
+    "area": "West"
+   },
+   {
+    "name": "FreshChoice Glen Eden",
+    "address": "142 West Coast Road, Glen Eden, Auckland 0602",
+    "phone": "09 813 9030",
+    "website": "http://freshchoice.co.nz/supermarkets/glen-eden",
+    "rating": 4.2,
+    "reviews": 1057,
+    "maps": "https://maps.google.com/?cid=9075803960886464972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9111057,
+    "lng": 174.6539206,
+    "area": "West"
+   },
+   {
+    "name": "FreshChoice Titirangi",
+    "address": "429 Titirangi Road, Titirangi, Auckland 0604",
+    "phone": "09 817 6859",
+    "website": "https://titirangi.store.freshchoice.co.nz/",
+    "rating": 4,
+    "reviews": 313,
+    "maps": "https://maps.google.com/?cid=4151170349497440186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9375577,
+    "lng": 174.65644550000002,
+    "area": "West"
+   },
+   {
+    "name": "FreshChoice Avondale Mini",
+    "address": "2021 Great North Road, Avondale, Auckland 1026",
+    "phone": "09 820 9189",
+    "website": "https://avondale.store.supervalue.co.nz/",
+    "rating": 4,
+    "reviews": 227,
+    "maps": "https://maps.google.com/?cid=15877976525160528239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.897953099999995,
+    "lng": 174.6966965,
+    "area": "Central"
+   },
+   {
+    "name": "FreshChoice Mangere Bridge",
+    "address": "40 Coronation Road, Māngere Bridge, Auckland 2022",
+    "phone": "09 636 8424",
+    "website": "https://mangerebridge.store.freshchoice.co.nz/",
+    "rating": 4.2,
+    "reviews": 892,
+    "maps": "https://maps.google.com/?cid=1589665697553741638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9426069,
+    "lng": 174.78690699999999,
+    "area": "Central"
+   },
+   {
+    "name": "FreshChoice Papakura",
+    "address": "54 Settlement Road, Papakura, Auckland 2110",
+    "phone": "09 298 1500",
+    "website": "https://papakura.store.supervalue.co.nz/",
+    "rating": 4.1,
+    "reviews": 403,
+    "maps": "https://maps.google.com/?cid=8885579761097499042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.066153,
+    "lng": 174.95486599999998,
+    "area": "South"
+   },
+   {
+    "name": "FreshChoice Hauraki Corner",
+    "address": "367 Lake Road, Hauraki, Auckland 0627",
+    "phone": "09 486 3186",
+    "website": "http://www.freshchoice.co.nz/",
+    "rating": 2.7,
+    "reviews": 26,
+    "maps": "https://maps.google.com/?cid=893560504291188287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7966559,
+    "lng": 174.7779814,
+    "area": "North Shore"
+   },
+   {
+    "name": "FreshChoice Flat Bush",
+    "address": "55 Nga Pona Toru Road, Flat Bush, Auckland 2019",
+    "phone": "",
+    "website": "",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=11137392976888100225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9808769,
+    "lng": 174.9270269,
+    "area": "South"
+   }
+  ]
+ },
+ "Two Dollar Things Plus": {
+  "ts": 1792009388.5375786,
+  "outlets": [
+   {
+    "name": "Two Dollar Things Plus Onehunga",
+    "address": "191/193 Onehunga Mall, Onehunga, Auckland 1061",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/",
+    "rating": 3.9,
+    "reviews": 24,
+    "maps": "https://maps.google.com/?cid=12831849429719815084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9225005,
+    "lng": 174.78561349999998,
+    "area": "Central"
+   },
+   {
+    "name": "Two Dollar Things Plus Mangere",
+    "address": "Shop 8/18 Mangere Town Square, Māngere, Auckland 2022",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/",
+    "rating": 4.3,
+    "reviews": 7,
+    "maps": "https://maps.google.com/?cid=14522175870153636997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9702127,
+    "lng": 174.7986644,
+    "area": "South"
+   },
+   {
+    "name": "Two Dollar Things Plus Otahuhu",
+    "address": "268 Great South Road, Ōtāhuhu, Auckland 1062",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/",
+    "rating": 4.7,
+    "reviews": 6,
+    "maps": "https://maps.google.com/?cid=8618200110012248265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9425472,
+    "lng": 174.84239599999998,
+    "area": "East"
+   },
+   {
+    "name": "Two Dollar Things Plus Browns Bay",
+    "address": "1/33 Anzac Road, Browns Bay, Auckland 0630",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/",
+    "rating": 3.7,
+    "reviews": 28,
+    "maps": "https://maps.google.com/?cid=3036098391024124256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7166189,
+    "lng": 174.7459188,
+    "area": "North Shore"
+   },
+   {
+    "name": "Two Dollar Things Plus Henderson",
+    "address": "S131/7 Catherine Street, Henderson, Auckland 0612",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/",
+    "rating": 4.1,
+    "reviews": 19,
+    "maps": "https://maps.google.com/?cid=3225557745635961176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.881205099999995,
+    "lng": 174.63319679999998,
+    "area": "West"
+   },
+   {
+    "name": "Two Dollar Things Plus Glen Eden",
+    "address": "3/20 Oates Road, Glen Eden, Auckland 0602",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/",
+    "rating": 4.9,
+    "reviews": 33,
+    "maps": "https://maps.google.com/?cid=1499685976583090957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.911540699999996,
+    "lng": 174.6517853,
+    "area": "West"
+   },
+   {
+    "name": "Two Dollar Things Plus Manurewa",
+    "address": "17/185 Great South Road, Manurewa, Auckland 2102",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/",
+    "rating": 5,
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=7087594737871395894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0227905,
+    "lng": 174.89675509999998,
+    "area": "South"
+   },
+   {
+    "name": "Two Dollar Things Plus Glenfield",
+    "address": "S301/385 Glenfield Road, Glenfield, Auckland 0629",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/",
+    "rating": 2.8,
+    "reviews": 22,
+    "maps": "https://maps.google.com/?cid=1310163714073786592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7824384,
+    "lng": 174.7225806,
+    "area": "North Shore"
+   },
+   {
+    "name": "Two Dollar Things Plus Papakura",
+    "address": "193 Great South Road, Papakura, Auckland 2110",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/",
+    "rating": 4.7,
+    "reviews": 6,
+    "maps": "https://maps.google.com/?cid=6227462101691259623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0634699,
+    "lng": 174.9426387,
+    "area": "South"
+   },
+   {
+    "name": "Two Dollar Things Plus - Franchise Office",
+    "address": "Ste 2 of 3rd Floor/100 Parnell Road, Parnell, Auckland 1052",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/franchise/",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=11884729928357186896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8525042,
+    "lng": 174.77944069999998,
+    "area": "Central"
+   }
+  ]
+ },
+ "Majestic": {
+  "ts": 1792009388.8556788,
+  "outlets": [
+   {
+    "name": "Majestic at Manawa Bay",
+    "address": "4 Jimmy Ward Crescent, Auckland Airport, Auckland 2022",
+    "phone": "027 526 3226",
+    "website": "https://www.majesticstores.com/",
+    "rating": 4.3,
+    "reviews": 196,
+    "maps": "https://maps.google.com/?cid=17484093007614201207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9955883,
+    "lng": 174.80140889999998,
+    "area": "South"
+   },
+   {
+    "name": "Majestic Coffee - Botany Town Centre",
+    "address": "588 Chapel Road, East Tāmaki, Auckland 2016",
+    "phone": "",
+    "website": "https://www.majesticteabar.co.nz/stores/botanydowns/",
+    "rating": 4.3,
+    "reviews": 28,
+    "maps": "https://maps.google.com/?cid=9136455254303998341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.93283040000001,
+    "lng": 174.91283729999998,
+    "area": "East"
+   },
+   {
+    "name": "Majestic Cafe - Howick Village",
+    "address": "Village Lane 60 Picton Street, Howick, Auckland 2014",
+    "phone": "09 532 9959",
+    "website": "http://www.majesticstores.com/",
+    "rating": 4.3,
+    "reviews": 134,
+    "maps": "https://maps.google.com/?cid=12718135303148864977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.893861900000005,
+    "lng": 174.93166739999998,
+    "area": "East"
+   },
+   {
+    "name": "Majestic Beds NZ Ltd",
+    "address": "609 Great South Road, Manukau City Centre, Auckland 2104",
+    "phone": "0210 299 1291",
+    "website": "http://www.majesticbeds.co.nz/",
+    "rating": 5,
+    "reviews": 2,
+    "maps": "https://maps.google.com/?cid=13674336992029564718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.986092299999996,
+    "lng": 174.87943869999998,
+    "area": "South"
+   },
+   {
+    "name": "Majestic Cafe - Whangaparaoa",
+    "address": "Coast Plaza 719 Whangaparaoa Road, Stanmore Bay, Whangaparāoa 0930",
+    "phone": "09 424 0919",
+    "website": "https://www.majesticteabar.co.nz/stores/whangaparaoa/",
+    "rating": 4.5,
+    "reviews": 173,
+    "maps": "https://maps.google.com/?cid=872516567881080618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.6362969,
+    "lng": 174.7467905,
+    "area": "North Shore"
+   },
+   {
+    "name": "Majestic Cafe - Newmarket",
+    "address": "Shop 151, Westfield Newmarket 277, Broadway, Newmarket, Auckland 1023",
+    "phone": "09 200 0012",
+    "website": "https://www.majesticteabar.co.nz/stores/newmarket/",
+    "rating": 3.9,
+    "reviews": 310,
+    "maps": "https://maps.google.com/?cid=5163495892873768397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8708747,
+    "lng": 174.77575339999999,
+    "area": "Central"
+   },
+   {
+    "name": "Majestic Cuts Barbershop",
+    "address": "57 New North Road, Eden Terrace, Auckland 1021",
+    "phone": "028 8516 0332",
+    "website": "https://beacons.ai/majestic_cuts",
+    "rating": 5,
+    "reviews": 206,
+    "maps": "https://maps.google.com/?cid=8985546408569405415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.86578490000001,
+    "lng": 174.7587659,
+    "area": "Central"
+   },
+   {
+    "name": "Majestic at Takanini",
+    "address": "Centre Shop 5.5/30 Walters Road, Takanini, Auckland 2112",
+    "phone": "09 298 8858",
+    "website": "https://www.majesticteabar.co.nz/stores/takanini",
+    "rating": 4.6,
+    "reviews": 531,
+    "maps": "https://maps.google.com/?cid=10463882712482614053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.046925900000005,
+    "lng": 174.9312147,
+    "area": "South"
+   },
+   {
+    "name": "Majestic Coffee - NorthWest",
+    "address": "NorthWest Shopping Centre 7 Fred Taylor Drive, Massey, Auckland 0614",
+    "phone": "09 416 5533",
+    "website": "https://www.majesticteabar.co.nz/stores/northwest/",
+    "rating": 3.8,
+    "reviews": 175,
+    "maps": "https://maps.google.com/?cid=13112899946874594755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.818019199999995,
+    "lng": 174.61108339999998,
+    "area": "West"
+   },
+   {
+    "name": "Majestic Kitchen & Cabinet",
+    "address": "117 Neilson Street, Onehunga, Auckland 1061",
+    "phone": "09 636 3628",
+    "website": "http://majestickitchen.net/",
+    "rating": 4.4,
+    "reviews": 9,
+    "maps": "https://maps.google.com/?cid=2201986600299791577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9274479,
+    "lng": 174.7904978,
+    "area": "Central"
+   },
+   {
+    "name": "Majestic Global (NZ)",
+    "address": "North Harbour, Rosedale, Auckland 0632",
+    "phone": "09 415 6936",
+    "website": "https://majesticelectronics.co.nz/",
+    "rating": 3,
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=9521754505269974638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.748445000000004,
+    "lng": 174.69985269999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Majestic Textiles",
+    "address": "32, Unit 32E/38 Patiki Road, Avondale, Auckland 1026",
+    "phone": "09 818 3255",
+    "website": "https://www.majestic.co.nz/",
+    "rating": 4.6,
+    "reviews": 5,
+    "maps": "https://maps.google.com/?cid=8430086602148695502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.870737,
+    "lng": 174.66647039999998,
+    "area": "West"
+   },
+   {
+    "name": "Majestic Luxury Portable Toilets",
+    "address": "Henderson Valley Road, Henderson, Auckland 0612",
+    "phone": "",
+    "website": "https://www.portablerestrooms.co.nz/",
+    "rating": 5,
+    "reviews": 8,
+    "maps": "https://maps.google.com/?cid=3347089773211006380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8959714,
+    "lng": 174.6014648,
+    "area": "West"
+   },
+   {
+    "name": "Majestic Cafe - Shore City",
+    "address": "Shore City Shopping Centre, 52-56 Anzac Street, Takapuna, Auckland 0622",
+    "phone": "09 486 0642",
+    "website": "https://www.majesticteabar.co.nz/stores/shorecity/",
+    "rating": 4.3,
+    "reviews": 249,
+    "maps": "https://maps.google.com/?cid=16751568269201205882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.78780390000001,
+    "lng": 174.7700992,
+    "area": "North Shore"
+   },
+   {
+    "name": "Digitally Majestic",
+    "address": "9 Freeman Way, Manukau City Centre, Auckland 2104",
+    "phone": "022 671 9751",
+    "website": "",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=9158505903642785155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9867638,
+    "lng": 174.8779241,
+    "area": "South"
+   },
+   {
+    "name": "Majestic Metropolis l 2bed Apt Amazing City View",
+    "address": "Auckland CBD, Auckland 1010",
+    "phone": "",
+    "website": "https://www.booking.com/hotel/nz/majestic-metropolis-l-2bed-apt-amazing-city-view-auckland.en-gb.html?aid=2068758&utm_source=seogooglelocal&utm_medium=description&utm_term=hotel-15238125&utm_campaign=en-gb&label=seogooglelocal-link-imagesaow-hotel-15238125_grp-1_gendate-20261011",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=12249573054101364533&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8480606,
+    "lng": 174.7671356,
+    "area": "Central"
+   },
+   {
+    "name": "Majestic Jewelers",
+    "address": "252 Oteha Valley Road, Albany, Auckland 0632",
+    "phone": "",
+    "website": "",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=5344717046230731537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.720427799999996,
+    "lng": 174.7104526,
+    "area": "North Shore"
+   },
+   {
+    "name": "Majestic Horse Floats LP",
+    "address": "352 Hillview Road, Bombay 2675",
+    "phone": "09 236 1315",
+    "website": "http://www.majesticfloats.co.nz/",
+    "rating": 4.6,
+    "reviews": 19,
+    "maps": "https://maps.google.com/?cid=1114065975916238757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.169267999999995,
+    "lng": 174.9861254,
+    "area": "South"
+   },
+   {
+    "name": "Majestic Pools",
+    "address": "27 Pinnacle Hill Road, Pōkeno 2471",
+    "phone": "021 298 0599",
+    "website": "https://www.majesticpools.co.nz/",
+    "rating": 5,
+    "reviews": 4,
+    "maps": "https://maps.google.com/?cid=14102319188715322924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.2143771,
+    "lng": 175.055575,
+    "area": "South"
+   }
+  ]
+ },
+ "Cash Converters": {
+  "ts": 1792009389.2013006,
+  "outlets": [
+   {
+    "name": "Cash Converters Otahuhu",
+    "address": "225 Great South Road, Ōtāhuhu, Auckland 1062",
+    "phone": "09 973 4265",
+    "website": "https://www.cashconverters.co.nz/stores/otahuhu/?utm_source=google&utm_medium=gbp",
+    "rating": 3.2,
+    "reviews": 54,
+    "maps": "https://maps.google.com/?cid=5873925266518801821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9410838,
+    "lng": 174.8402293,
+    "area": "East"
+   },
+   {
+    "name": "Cash Converters Otara",
+    "address": "15 Fair Mall, Ōtara, Auckland 2023",
+    "phone": "09 320 3821",
+    "website": "https://www.cashconverters.co.nz/stores/otara/?utm_source=google&utm_medium=gbp",
+    "rating": 3.2,
+    "reviews": 39,
+    "maps": "https://maps.google.com/?cid=11704571368153115525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9607901,
+    "lng": 174.8735436,
+    "area": "South"
+   },
+   {
+    "name": "Cash Converters Panmure",
+    "address": "86 Queens Road, Panmure, Auckland 1072",
+    "phone": "09 570 4242",
+    "website": "https://www.cashconverters.co.nz/stores/panmure/?utm_source=google&utm_medium=gbp",
+    "rating": 3.4,
+    "reviews": 36,
+    "maps": "https://maps.google.com/?cid=11552653818361600056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8996135,
+    "lng": 174.8546424,
+    "area": "East"
+   },
+   {
+    "name": "Cash Converters Mount Roskill",
+    "address": "979 Dominion Road, Mount Roskill, Auckland 1041",
+    "phone": "09 320 3822",
+    "website": "https://www.cashconverters.co.nz/stores/mount-roskill/?utm_source=google&utm_medium=gbp",
+    "rating": 3.1,
+    "reviews": 77,
+    "maps": "https://maps.google.com/?cid=10901582530942875960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9035872,
+    "lng": 174.74190439999998,
+    "area": "Central"
+   },
+   {
+    "name": "Cash Converters Takanini",
+    "address": "233 Great South Road, Takanini, Auckland 2112",
+    "phone": "09 320 3824",
+    "website": "https://www.cashconverters.co.nz/stores/Takanini/?utm_source=google&utm_medium=gbp",
+    "rating": 4.5,
+    "reviews": 63,
+    "maps": "https://maps.google.com/?cid=6248397916451542696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0477809,
+    "lng": 174.9251385,
+    "area": "South"
+   },
+   {
+    "name": "Cash Converters Glen Innes",
+    "address": "231 Taniwha Street, Glen Innes, Auckland 1072",
+    "phone": "09 973 4268",
+    "website": "https://www.cashconverters.co.nz/stores/glen-innes/?utm_source=google&utm_medium=gbp",
+    "rating": 3.9,
+    "reviews": 53,
+    "maps": "https://maps.google.com/?cid=8708817543539574077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.87750400000001,
+    "lng": 174.855089,
+    "area": "East"
+   },
+   {
+    "name": "Cash Converters Papakura",
+    "address": "6-10 Railway Street West, Papakura, Auckland 2110",
+    "phone": "09 973 4266",
+    "website": "https://www.cashconverters.co.nz/stores/papakura/?utm_source=google&utm_medium=gbp",
+    "rating": 3.8,
+    "reviews": 73,
+    "maps": "https://maps.google.com/?cid=6737210603661008341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0641027,
+    "lng": 174.9456464,
+    "area": "South"
+   },
+   {
+    "name": "Cash Converters Henderson",
+    "address": "20/22 Catherine Street, Henderson, Auckland 0612",
+    "phone": "09 835 4641",
+    "website": "https://www.cashconverters.co.nz/stores/henderson/?utm_source=google&utm_medium=gbp",
+    "rating": 3.7,
+    "reviews": 78,
+    "maps": "https://maps.google.com/?cid=12858129223370968927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8825384,
+    "lng": 174.6331734,
+    "area": "West"
+   },
+   {
+    "name": "Cash Converters Manukau",
+    "address": "615 Great South Road, Manukau City Centre, Auckland 2104",
+    "phone": "09 262 0783",
+    "website": "https://www.cashconverters.co.nz/stores/manukau/?utm_source=google&utm_medium=gbp",
+    "rating": 3.5,
+    "reviews": 75,
+    "maps": "https://maps.google.com/?cid=3767288201399017728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.986357399999996,
+    "lng": 174.88000459999998,
+    "area": "South"
+   }
+  ]
  }
 }
