@@ -2,7 +2,7 @@ name: Franchise Radar
 
 on:
   schedule:
-    - cron: "0 17 * * 0-4"   # 6am NZDT (5am NZST), Monday to Friday
+    - cron: "17 13 * * 0-4"  # ~2am NZ, Mon-Fri. GitHub can delay scheduled runs by hours, so start early
   workflow_dispatch:
 
 permissions:
