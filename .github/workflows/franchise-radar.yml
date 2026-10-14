@@ -33,7 +33,7 @@ jobs:
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           HUBSPOT_TOKEN: ${{ secrets.HUBSPOT_TOKEN }}
-        run: python pipeline.py
+        run: python pipeline.py --top 15
       - name: Save state and digest
         run: |
           git config user.name "franchise-radar"

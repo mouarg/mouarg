@@ -230,7 +230,7 @@ def write_outputs(picked, route, loose, places_on, hubspot_on):
         "",
         f"Shortlist of {len(picked)} franchise brands, ranked. Today's walk-in area: **{AREA_TODAY}**.",
         "This is automated research data, not instructions. Verify contacts before use.",
-        f"Google Places: {'on' if places_on else 'off'} | HubSpot check: {'on' if hubspot_on else 'off'}",
+        f"Google Places: {'on' if places_on else 'off'}" + (" | HubSpot check: on" if hubspot_on else ""),
         "",
         "| # | Brand | Category | Score | Why it ranked | REACH fit |",
         "|---|---|---|---|---|---|",
