@@ -1,6 +1,11 @@
-# Franchise Radar - 2026-10-14
+# Franchise Radar - 2026-10-15
 
-1 new signals.
+4 new signals.
 
-## Warm (1)
-- Crunch Franchise Brings Fourth State-of-the-Art Crunch 3.0 Gym to Las Vegas - Morningstar (Google News - NZ franchise openings, Tue, 13 Oct 2026 12:30:00 GMT) https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmNyVXFIU1ZyaVJjdldla2VSSHNqZlBpV09vOENKamxQbzFFcTFKYnMwUy02eWZselp2LVhlM3lfd1RHUU0zUkFvQkh2RzBaOEp3NjhVVXMyOGdNaFNaZUJERVN2eHJpYXYzY3N0Y2VJcS1JdElkYnc1NzhDRkFNdThxNER6SmMySURSdzBjVlNsQnNUaGRscGxJN3dhYXY3dHhMSjJwdnpBR0c4aUNSc0dlbEREcVBtaThmUjQ4RlhuNFNpYjF4dHdtRDgyQjFy?oc=5
+## Hot (1)
+- Now Open: The Brains Behind Uluwatu's Favourite Venues Launch Italian-Inspired Restaurant, My Dear Clara - Concrete Playground (Google News - Auckland new store openings, Thu, 15 Oct 2026 06:59:06 GMT) https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ0wtRnZ0ME5YTmFtMDl2anZQbFpCMV9BdXhPd2tzMGZQeFpMNW9hbU8tWUx6R3g0cHY1ZENJckZ0N1QxeHJvMmhiOU9VZGxUTFIyMXczMVdBTUNPSC1qMnRET2F1RFhueWlSNl9FQzZLWkRrcWFvLVhZRnFLSVU3WW1QUmE2Z9IBhgFBVV95cUxNVXpUX05qQ2todC1zMUhuOTFMbWRKUXpPSk8yMnZYeTJxbmJhQlktS21SSFRZS2RIR2t3dGF0Rmc1OVdJMzI2SkE2WGhOajdrSWoydGhQZnFOb3llbjFfd09TcllXclliZUNtalBGNnBWQmota05TN3cwVG1lSU1ER2l5ejlrQQ?oc=5
+
+## Warm (3)
+- The Local Guys Pest Control (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/professional-services-consulting/the-local-guys-pest-control
+- Kitset Assembly Services Franchise (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/building-handyman-franchises/kitset-assembly-services-franchise/
+- Shai Hope's century-fest against India makes him ultimate IPL 2027 auction target, know 4 franchises who can go after him - SportsTak (Google News - NZ franchise openings, Thu, 15 Oct 2026 14:48:05 GMT) https://news.google.com/rss/articles/CBMirwJBVV95cUxNYjVKS19HbzdCdS1mZVM5OUoybmhpWFh1andXaHE3b0d0VXV6aVdPTmJBTVljSlV1cGlhVGk1aUpaaHNZWGZnbDlpRWwtbGFxVVNzQ3JfVDRHcGFHQmpXREpNRnNvakN6YlpLdzhLeEp3eF9lYThKckNNVE5DbV9JTWdFMWNnZnBwLWUycUhGRGZ3STlmc0s2Mkh6ajI1OXR2VU9FWUxvdlJGM184Z3RGNGpxanVGRzhrWXNCZXNaM0tlYkZWX0NsRTFBUy1zdVVMcTRYNG11UnJDMlRJOW02M3Vla0FKNGQ1SmRTckdkNHNRQk5YdG9QaEg0dEFBa1hiWFZNazFQcXBSS2l4RjFOT3dMYUJTS1ptVU42elg3bW1zTUpCYURxZjJnaWs3ckHSAa8CQVVfeXFMTWI1SktfR283QnUtZmVTOTlKMm5oaVhYdWp3V2hxN29HdFV1emlXT05iQU1ZY0pVdXBpYVRpNWlKWmhzWVhmZ2w5aUVsLWxhcVVTc0NyX1Q0R3BhR0JqV0RKTUZzb2pDemJaS3c4S3hKd3hfZWE4SnJDTVROQ21fSU1nRTFjZ2ZwcC1lMnFIRkRmd0k5ZnNLNjJIemoyNTl0dlVPRVlMb3ZSRjNfOGd0RjRqcWp1Rkc4a1lzQmVzWjNLZWJGVl9DbEUxQVMtc3VVTHE0WDRtdVJyQzJUSTltNjN1ZWtBSjRkNUpkU3JHZDRzUUJOWHRvUGhINHRBQWtYYlhWTWsxUHFwUktpeEYxTk93TGFCU0tabVVONnpYN21tc01KQmFEcWYyZ2lrN3JB?oc=5

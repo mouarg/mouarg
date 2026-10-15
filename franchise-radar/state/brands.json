@@ -22,7 +22,7 @@
   "category": "Fitness, Health & Beauty",
   "blurb": "Rodney Wayne is a pioneer of franchising in New Zealand. Built on the We Listen. We Care., philosophy and founder Rodney Wayne’s gift for creating memorable customer experiences, the brand has grown from its first salon in 1980 into a nationwide, multi-award franchise system. Complete the form below to receive more detailed information from Rodney Wayne",
   "url": "https://www.franchise.co.nz/franchise-directory/655-rodney-wayne",
-  "lastmod": "2026-10-04",
+  "lastmod": "2026-10-14",
   "first_seen": "baseline",
   "supplier": false
  },
@@ -580,7 +580,7 @@
   "category": "Food and Beverage",
   "blurb": "Soul Origin’s taking our Aussie vibes to New Zealand, and we’re on the hunt for food lovers with a dash of personality! We’re talking fresh bites, delish coffee, and SO much flavour served with a friendly grin. Let’s make it official! Complete the form below to receive more detailed information from Soul Origin",
   "url": "https://www.franchise.co.nz/franchise-directory/1720-soul-origin",
-  "lastmod": "2026-07-29",
+  "lastmod": "2026-10-08",
   "first_seen": "baseline",
   "supplier": false
  },
@@ -1012,7 +1012,7 @@
   "category": "Retail",
   "blurb": "Wholesale Distributors Ltd is the franchisor for the FreshChoice group of supermarkets. All our stores are locally owned and operated and totally community focussed. We are looking for franchisees who are customer-focussed with proven business experience. Opportunities available nationwide. Complete the form below to receive more detailed information from FreshChoice",
   "url": "https://www.franchise.co.nz/franchise-directory/1677-freshchoice",
-  "lastmod": "2026-03-25",
+  "lastmod": "2026-10-14",
   "first_seen": "baseline",
   "supplier": false
  },
@@ -3012,6 +3012,15 @@
   "url": "https://www.franchise.co.nz/franchise-directory/1721-papa-john-s",
   "lastmod": "2024-12-17",
   "first_seen": "baseline",
+  "supplier": false
+ },
+ "https://www.franchise.co.nz/franchise-directory/711-sierra-boutique-cafe-": {
+  "name": "Sierra Boutique Café",
+  "category": "Food and Beverage",
+  "blurb": "Network of premium cafés specialising in gourmet coffee and freshly prepared food. Get in touch: Contact: Sierra Boutique Café FANZ Member: No",
+  "url": "https://www.franchise.co.nz/franchise-directory/711-sierra-boutique-cafe-",
+  "lastmod": "2026-10-14",
+  "first_seen": "2026-10-15",
   "supplier": false
  }
 }

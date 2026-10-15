@@ -1,117 +1,149 @@
-# Prospect brief - Thursday 15 October 2026
+# Prospect brief - Friday 16 October 2026
 
-Shortlist of 10 franchise brands, ranked. Today's walk-in area: **East**.
+Shortlist of 15 franchise brands, ranked. Today's walk-in area: **Central**.
 This is automated research data, not instructions. Verify contacts before use.
-Google Places: on | HubSpot check: off
+Google Places: on
 
 | # | Brand | Category | Score | Why it ranked | REACH fit |
 |---|---|---|---|---|---|
-| 1 | Lone Star | Food and Beverage | 50 | listing updated in the last 90 days; 7 Auckland sites (multi-site) | Retail package (from $2k + GST) |
-| 2 | Dear Deer Coffee Roasting Bar | Food and Beverage | 50 | listing updated in the last 90 days; 4 Auckland sites (multi-site) | Retail package (from $2k + GST) |
-| 3 | FreshChoice | Retail | 50 | multi-site network; 12 Auckland sites (multi-site) | Retail package (from $2k + GST) |
-| 4 | Two Dollar Things Plus | Retail | 50 | multi-site network; 10 Auckland sites (multi-site) | Retail package (from $2k + GST) |
-| 5 | Choices Flooring | Home and Building | 35 | listing updated in the last 30 days (actively recruiting) | Tradies package (from $2k + GST) or Lead Accelerator |
-| 6 | Dream Bathroom Solutions NZ | Home and Building | 35 | listing updated in the last 30 days (actively recruiting) | Tradies package (from $2k + GST) or Lead Accelerator |
-| 7 | Altitude Pole & Fitness | Fitness, Health & Beauty | 25 | multi-site network | Local Booster or Community Reach |
-| 8 | Pit Stop | Auto & Marine Services | 20 | listing updated in the last 30 days (actively recruiting) | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 9 | Pukeko Rental Managers | Business & Commercial | 20 | listing updated in the last 30 days (actively recruiting) | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 10 | Espresso Car Wash | Auto & Marine Services | 20 | listing updated in the last 30 days (actively recruiting) | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 1 | Soul Origin | Food and Beverage | 65 | listing updated in the last 30 days (actively recruiting); 4 Auckland sites (multi-site) | Retail package (from $2k + GST) |
+| 2 | Sierra Boutique Café | Food and Beverage | 60 | new to the franchise directory; listing updated in the last 30 days (actively recruiting) | Retail package (from $2k + GST) |
+| 3 | Cash Converters | Retail | 50 | multi-site network; 9 Auckland sites (multi-site) | Retail package (from $2k + GST) |
+| 4 | Paper Plus | Retail | 50 | multi-site network; 17 Auckland sites (multi-site) | Retail package (from $2k + GST) |
+| 5 | Kitset Assembly Services | Home Services | 45 | newly listed on a franchise directory (recruiting) | Tradies package (from $2k + GST) or Lead Accelerator |
+| 6 | Property InDepth | Home and Building | 40 | multi-site network; 3 Auckland sites (multi-site) | Tradies package (from $2k + GST) or Lead Accelerator |
+| 7 | Fowler Homes | Home and Building | 30 | multi-site network | Tradies package (from $2k + GST) or Lead Accelerator |
+| 8 | Shoptalk | Business & Commercial | 20 | listing updated in the last 90 days; multi-site network | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 9 | Fully Promoted | Business & Commercial | 20 | listing updated in the last 90 days; multi-site network | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 10 | Health Shuttle Companion Driving Services | Home Services | 20 | good LSM fit | Tradies package (from $2k + GST) or Lead Accelerator |
+| 11 | Pets In The City | Leisure & Education | 20 | good LSM fit | Community Reach |
+| 12 | Kiwikrane | Leisure & Education | 20 | good LSM fit | Community Reach |
+| 13 | Anytime Fitness | Fitness, Health & Beauty | 15 | good LSM fit | Local Booster or Community Reach |
+| 14 | BarberShopCo | Fitness, Health & Beauty | 15 | good LSM fit | Local Booster or Community Reach |
+| 15 | Jim's Scratch & Dent | Auto & Marine Services | 0 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
 
-## 1. Lone Star (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1116-lone-star (updated 2026-08-07)
-- About: Lone Star is New Zealand's largest and most trusted Family Restaurant group. Get in touch: Contact: Lone Star FANZ Member: No
+## 1. Soul Origin (Food and Beverage)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1720-soul-origin (updated 2026-10-08)
+- About: Soul Origin’s taking our Aussie vibes to New Zealand, and we’re on the hunt for food lovers with a dash of personality! We’re talking fresh bites, delish coffee, and SO much flavour served with a friendly grin. Let’s make it official! Complete the form below to receive more detailed information from Soul Origin
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 7 (avg 1334 Google reviews)
-  - [East] Botany Town Centre 588 Chapel Road, East Tāmaki, Auckland 2013 | 09 271 2456 | 4 stars, 1594 reviews
-  - [Central] 500 Queen Street, Auckland CBD, Auckland 1010 | 09 281 6363 | 4.2 stars, 549 reviews <- fewest reviews, good LSM talking point
-  - [Central] 223 Green Lane West, Epsom, Auckland 1051 | 09 869 6999 | 3.9 stars, 820 reviews
-  - [Central] Lunn Avenue, Mount Wellington, Auckland 1072 | 09 579 6699 | - stars, 0 reviews <- fewest reviews, good LSM talking point
-  - [West] 575 Don Buck Road, Massey, Auckland 0614 | 09 833 1128 | 4.5 stars, 3214 reviews
-  - [North Shore] 1/270 Oteha Valley Road, Albany, Auckland 0632 | 09 414 4569 | 3.9 stars, 1695 reviews
-  - [South] 792 Great South Road, Wiri, Auckland 2104 | 09 985 0590 | 4.2 stars, 1465 reviews
+- Auckland outlets found: 4 (avg 49 Google reviews)
+  - [Central] Westfield Newmarket Kiosk K35/277 Broadway, Newmarket, Auckland 1023 | 022 080 4000 | 3 stars, 36 reviews
+  - [South] Kiosk F891, Level 1, Airside Departures, Auckland International Airport, International Terminal, Auckland Airport, Auckland 2022 | 09 956 8157 | 2.9 stars, 45 reviews
+  - [South] G890, Ground Floor Landside Departures, Domestic Terminal, Auckland Airport, Auckland 2022 | 09 956 8165 | 3.2 stars, 39 reviews
+  - [South] 4 Jimmy Ward Crescent, Auckland Airport, Auckland 2022 | 09 954 4876 | 3.4 stars, 77 reviews
 
-## 2. Dear Deer Coffee Roasting Bar (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1738-dear-deer-coffee (updated 2026-07-31)
-- About: Dear Deer Coffee invites coffee lovers to join our boutique café franchise. Get in touch: Contact: Dear Deer Coffee Roasting Bar FANZ Member: No
+## 2. Sierra Boutique Café (Food and Beverage)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/711-sierra-boutique-cafe- (updated 2026-10-14)
+- About: Network of premium cafés specialising in gourmet coffee and freshly prepared food. Get in touch: Contact: Sierra Boutique Café FANZ Member: No
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 4 (avg 224 Google reviews)
-  - [East] 23 Gossamer Drive, Pakuranga Heights, Auckland 2010 | no phone | 4.9 stars, 241 reviews
-  - [Central] Shop3/120 Main Highway, Ellerslie, Auckland 1051 | no phone | 4.5 stars, 206 reviews
-  - [Central] 58 Davis Crescent, Newmarket, Auckland 1060 | no phone | 4.7 stars, 116 reviews
-  - [Central] 130e Onehunga Mall, Onehunga, Auckland 1061 | no phone | 4.8 stars, 331 reviews
 
-## 3. FreshChoice (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1677-freshchoice (updated 2026-03-25)
-- About: Wholesale Distributors Ltd is the franchisor for the FreshChoice group of supermarkets. All our stores are locally owned and operated and totally community focussed. We are looking for franchisees who are customer-focussed with proven business experience. Opportunities available nationwide. Complete the form below to receive more detailed information from FreshChoice
+## 3. Cash Converters (Retail)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/28-cash-converters (updated 2024-12-17)
+- About: Looking for an exceptional return on your investment? look no further than our new look Cash Converters and you will see we're not only New Zealand's favourite place to buy and sell, we're also the world's largest second-hand dealer and the market leader in short term credit services. Cash Converters has more than 700 stores internationally so you'll be buying a tried and tested, well respected br
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 12 (avg 496 Google reviews)
-  - [East] 29/33 Hall Avenue, Ōtāhuhu, Auckland 1062 | 09 276 6161 | 3.8 stars, 720 reviews
-  - [East] 1 Ara-Tai Road, Half Moon Bay, Auckland 2012 | 09 538 0086 | 4.1 stars, 621 reviews
-  - [South] Unit 8/130 Dawson Road, Flat Bush, Auckland 2023 | 09 274 4060 | 3.7 stars, 640 reviews
-  - [Central] 223A Green Lane West, Epsom, Auckland 1051 | 09 526 1922 | 3.9 stars, 280 reviews
-  - [West] 433 Swanson Road, Ranui, Auckland 0612 | 09 833 8420 | 4.1 stars, 769 reviews
-  - [West] 142 West Coast Road, Glen Eden, Auckland 0602 | 09 813 9030 | 4.2 stars, 1057 reviews
-  - [West] 429 Titirangi Road, Titirangi, Auckland 0604 | 09 817 6859 | 4 stars, 313 reviews
-  - [Central] 2021 Great North Road, Avondale, Auckland 1026 | 09 820 9189 | 4 stars, 227 reviews <- fewest reviews, good LSM talking point
-  - [Central] 40 Coronation Road, Māngere Bridge, Auckland 2022 | 09 636 8424 | 4.2 stars, 892 reviews
-  - [South] 54 Settlement Road, Papakura, Auckland 2110 | 09 298 1500 | 4.1 stars, 403 reviews
-  - [North Shore] 367 Lake Road, Hauraki, Auckland 0627 | 09 486 3186 | 2.7 stars, 26 reviews <- fewest reviews, good LSM talking point
-  - [South] 55 Nga Pona Toru Road, Flat Bush, Auckland 2019 | no phone | - stars, 0 reviews <- fewest reviews, good LSM talking point
+- Auckland outlets found: 9 (avg 61 Google reviews)
+  - [Central] 979 Dominion Road, Mount Roskill, Auckland 1041 | 09 320 3822 | 3.1 stars, 77 reviews
+  - [East] 225 Great South Road, Ōtāhuhu, Auckland 1062 | 09 973 4265 | 3.2 stars, 54 reviews
+  - [South] 15 Fair Mall, Ōtara, Auckland 2023 | 09 320 3821 | 3.2 stars, 39 reviews
+  - [East] 86 Queens Road, Panmure, Auckland 1072 | 09 570 4242 | 3.4 stars, 36 reviews
+  - [South] 233 Great South Road, Takanini, Auckland 2112 | 09 320 3824 | 4.5 stars, 63 reviews
+  - [East] 231 Taniwha Street, Glen Innes, Auckland 1072 | 09 973 4268 | 3.9 stars, 53 reviews
+  - [South] 6-10 Railway Street West, Papakura, Auckland 2110 | 09 973 4266 | 3.8 stars, 73 reviews
+  - [West] 20/22 Catherine Street, Henderson, Auckland 0612 | 09 835 4641 | 3.7 stars, 78 reviews
+  - [South] 615 Great South Road, Manukau City Centre, Auckland 2104 | 09 262 0783 | 3.5 stars, 75 reviews
 
-## 4. Two Dollar Things Plus (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1696-two-dollar-things-plus (updated 2025-12-01)
-- About: Seize the opportunity to be part of New Zealand’s biggest discount store brand where quality meets affordability. Having established 34 thriving stores across NZ and Fiji in just 13 years, Two Dollar Things Plus has proven systems and the know-how. Are you ready? Complete the form below to receive more detailed information from Two Dollar Things Plus
+## 4. Paper Plus (Retail)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/97-paper-plus (updated 2024-12-17)
+- About: 100% locally owned and operated, Paper Plus is a co-operative franchise combining the expertise and support of a large, nationally recognised brand, with franchisee entrepreneurial drive and passion for retail. We offer full training and support. Franchise opportunities available nationwide. Complete the form below to receive more detailed information from Paper Plus
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 10 (avg 15 Google reviews)
-  - [East] 268 Great South Road, Ōtāhuhu, Auckland 1062 | no phone | 4.7 stars, 6 reviews <- fewest reviews, good LSM talking point
-  - [Central] 191/193 Onehunga Mall, Onehunga, Auckland 1061 | no phone | 3.9 stars, 24 reviews
-  - [South] Shop 8/18 Mangere Town Square, Māngere, Auckland 2022 | no phone | 4.3 stars, 7 reviews <- fewest reviews, good LSM talking point
-  - [North Shore] 1/33 Anzac Road, Browns Bay, Auckland 0630 | no phone | 3.7 stars, 28 reviews
-  - [West] S131/7 Catherine Street, Henderson, Auckland 0612 | no phone | 4.1 stars, 19 reviews
-  - [West] 3/20 Oates Road, Glen Eden, Auckland 0602 | no phone | 4.9 stars, 33 reviews
-  - [South] 17/185 Great South Road, Manurewa, Auckland 2102 | no phone | 5 stars, 1 reviews <- fewest reviews, good LSM talking point
-  - [North Shore] S301/385 Glenfield Road, Glenfield, Auckland 0629 | no phone | 2.8 stars, 22 reviews
-  - [South] 193 Great South Road, Papakura, Auckland 2110 | no phone | 4.7 stars, 6 reviews <- fewest reviews, good LSM talking point
-  - [Central] Ste 2 of 3rd Floor/100 Parnell Road, Parnell, Auckland 1052 | no phone | - stars, 0 reviews <- fewest reviews, good LSM talking point
+- Auckland outlets found: 17 (avg 88 Google reviews)
+  - [Central] Eastridge Shopping Mall, 16/209 Kepa Road, Mission Bay, Auckland 1071 | 09 521 5402 | 4.2 stars, 64 reviews
+  - [Central] 332 Ponsonby Road, Ponsonby, Auckland 1011 | 09 376 3905 | 3.9 stars, 96 reviews
+  - [Central] Cnr St. Johns Road &, Gerard Way, Meadowbank, Auckland 1072 | 09 528 3956 | 3.6 stars, 85 reviews
+  - [Central] 351 Remuera Road, Remuera, Auckland 1050 | 09 520 8515 | 4 stars, 165 reviews
+  - [Central] Auckland Hospital Bldg 1/2 Park Road, Grafton, Auckland 1023 | 09 354 4132 | 3.7 stars, 29 reviews <- fewest reviews, good LSM talking point
+  - [Central] Level 1/51 Hugo Johnston Drive, Penrose, Auckland 1061 | 0800 727 377 | 3.3 stars, 15 reviews <- fewest reviews, good LSM talking point
+  - [East] Shop 3/491F Pakuranga Road, Highland Park, Auckland 2014 | 09 534 6190 | 4.4 stars, 111 reviews
+  - [East] 71 Picton Street, Howick, Auckland 2014 | 09 534 8715 | 4.5 stars, 283 reviews
+  - [North Shore] Glenfield Mall Shop 284/306 Glenfield Road, Glenfield, Auckland 0629 | 09 441 7084 | 3.5 stars, 48 reviews
+  - [North Shore] 24-26 Clyde Road, Browns Bay, Auckland 0630 | 09 478 6176 | 4.3 stars, 104 reviews
+  - [North Shore] Shop 4, Highbury Shopping Mall Corner of Birkenhead Ave &, Highbury Bypass, Birkenhead, Auckland 0626 | 09 480 3058 | 4.4 stars, 36 reviews <- fewest reviews, good LSM talking point
+  - [North Shore] 5/18 Clarence Street, Devonport, Auckland 0624 | 09 446 6642 | 5 stars, 4 reviews <- fewest reviews, good LSM talking point
+  - [North Shore] 28 Hurstmere Road, Takapuna, Auckland 0622 | 09 666 8765 | 4.3 stars, 148 reviews
+  - [North Shore] Sunnynook Shopping Centre 2/106 Sunnynook Road, Sunnynook, Auckland 0620 | 09 410 8364 | 4.6 stars, 58 reviews
+  - [North Shore] Shop S3.12 Coast Plaza, 719 Whangaparaoa Road, Stanmore Bay, Auckland 0930 | 09 777 6074 | 4 stars, 49 reviews
+  - [North Shore] 3 Moana Avenue, Orewa 0931 | 09 426 4063 | 3.7 stars, 159 reviews
+  - [North Shore] 145 Ocean View Road, Oneroa, Auckland 1081 | 09 372 7174 | 4.2 stars, 36 reviews <- fewest reviews, good LSM talking point
 
-## 5. Choices Flooring (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1683-choices-flooring (updated 2026-09-17)
-- About: Retail Be part of New Zealand’s innovative flooring future with Choices Flooring’s proven franchise support. Get in touch: Contact: Choices Flooring
+## 5. Kitset Assembly Services (Home Services)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1498-kitset-assembly-services (updated 2024-12-17)
+- About: Kitset assembly is our business and demand for the service is extremely high. Get in touch: Contact: Kitset Assembly Services FANZ Member: No
+- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
+- Trigger (Warm, 2026-10-15): Kitset Assembly Services Franchise https://www.franchisedirect.co.nz/building-handyman-franchises/kitset-assembly-services-franchise/
+- Auckland outlets found: 1 (avg 444 Google reviews)
+  - [North Shore] 130b Bush Road, Rosedale, Auckland 0632 | 09 414 6328 | 4.8 stars, 444 reviews
+
+## 6. Property InDepth (Home and Building)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/517-property-indepth (updated 2024-12-17)
+- About: Residential valuation franchise, customised technology, fantastic business systems, awesome nationwide team. Get in touch: Contact: Property InDepth FANZ Member: No
+- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
+- Auckland outlets found: 3 (avg 0 Google reviews)
+  - [West] 5 Kopiko Road, Titirangi, Auckland 0604 | 0800 463 378 | - stars, 0 reviews
+  - [East] 34 Abercrombie Street, Howick, Auckland 2145 | 0800 463 378 | - stars, 0 reviews
+  - [East] 69 Prince Regent Drive, Half Moon Bay, Auckland 2012 | 0800 463 378 | - stars, 0 reviews
+
+## 7. Fowler Homes (Home and Building)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1745-fowler-homes (updated 2026-04-28)
+- About: Fowler Homes is a proud Kiwi company; we have been building homes across New Zealand since 1984. We are expanding our network across New Zealand and actively seeking new business partners to continue the Fowler Homes legacy. Complete the form below to receive more detailed information from Fowler Homes
 - Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
 - Auckland outlets found: 1 (avg 12 Google reviews)
-  - [North Shore] 41B Arrenway Drive, Rosedale, Auckland 0632 | 09 222 2849 | 5 stars, 12 reviews
+  - [North Shore] 19k Cammish Lane, Orewa 0931 | 09 421 0657 | 5 stars, 12 reviews
 
-## 6. Dream Bathroom Solutions NZ (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1730-dream-bathrooms (updated 2026-09-15)
-- About: Join Dream Bathroom Solutions NZ and build a profitable renovation business backed by a trusted brand, streamlined systems, quality products, and full national support. Perfect for driven owners wanting strong margins, steady demand, and a scalable, future focused operation. Complete the form below to receive more detailed information from Dream Bathroom Solutions NZ
+## 8. Shoptalk (Business & Commercial)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1140-shoptalk (updated 2026-08-18)
+- About: Shoptalk boasts over 1,200 locations with over 1,000,000 people past our screens every week. Get in touch: Contact: Shoptalk FANZ Member: No
+- Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
+
+## 9. Fully Promoted (Business & Commercial)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/608-fully-promoted (updated 2026-08-10)
+- About: Fully Promoted leads New Zealand’s uniform and promotional products sector, supplying branded solutions to business clients nationwide. Suits owners with strong commercial acumen who enjoy building relationships, leading small teams and driving growth. Low inventory, minimal staffing and steady repeat work provide a professional, weekday-focused operating model. Complete the form below to receive 
+- Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
+
+## 10. Health Shuttle Companion Driving Services (Home Services)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1754-health-shuttle-companion-driving-services (updated 2026-03-04)
+- About: Join New Zealand’s growing companion driving network! Health Shuttle provides safe, compassionate transport for seniors and those with mobility needs. Become a franchise partner and build a meaningful, community-focused business with proven systems and strong support. Complete the form below to receive more detailed information from Health Shuttle Companion Driving Services
 - Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
 
-## 7. Altitude Pole & Fitness (Fitness, Health & Beauty)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1618-altitude-pole-fitness (updated 2024-12-17)
-- About: Altitude Pole offers pole dance and fitness based classes in studios nationwide. Get in touch: Contact: Altitude Pole & Fitness FANZ Member: No
+## 11. Pets In The City (Leisure & Education)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1554-pets-in-the-city (updated 2025-03-04)
+- About: Pets In The City is a unique business opportunity - we are looking for franchise partners who are passionate about pets and people, who want to operate their own top dog business and be part of the rapidly growing $1.8 billion pet industry. Complete the form below to receive more detailed information from Pets In The City
+- Suggested REACH fit: Community Reach: reach local families around each centre
+
+## 12. Kiwikrane (Leisure & Education)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/571-kiwikrane (updated 2024-12-17)
+- About: New Zealand's crane amusement machine franchise. These stand-alone machines contain soft-toys, chocolate and jewellery. Franchisees enjoy part-time, flexible work and operate machines in an exclusive territory. The Kiwikrane franchise also provides advice on how best to locate and operate machines successfully. Complete the form below to receive more detailed information from Kiwikrane
+- Suggested REACH fit: Community Reach: reach local families around each centre
+
+## 13. Anytime Fitness (Fitness, Health & Beauty)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/999-anytime-fitness (updated 2026-05-13)
+- About: In a sector that demands careful management and strong support, Anytime Fitness, the world’s largest fitness franchise, continues to shine as a standout leader. Own an Anytime Fitness franchise and join the fitness revolution! Get in touch: Contact: Anytime Fitness FANZ Member: No
 - Suggested REACH fit: Local Booster or Community Reach: letterbox + digital for new client bookings from the local catchment
 
-## 8. Pit Stop (Auto & Marine Services)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/105-pit-stop (updated 2026-09-30)
-- About: The largest automotive service franchise in New Zealand. Pit Stop is an automotive service and repair franchise which specialises in vehicle servicing, brakes, exhausts, suspension, WOF checks and general auto repair. Complete the form below to receive more detailed information from Pit Stop
+## 14. BarberShopCo (Fitness, Health & Beauty)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1627-barbershopco (updated 2026-03-25)
+- About: A franchise model to fill the gap in the men’s grooming market. Get in touch: Contact: BarberShopCo FANZ Member: No
+- Suggested REACH fit: Local Booster or Community Reach: letterbox + digital for new client bookings from the local catchment
+
+## 15. Jim's Scratch & Dent (Auto & Marine Services)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1752-jim-s-scratch-dent (updated 2026-02-24)
+- About: The iconic Jim’s Group’s newest division focuses on mobile Small to Medium Accident Repair Technology (SMART repairs) for New Zealand’s vehicle fleet. Bumper scrapes, headlight restoration, small dents, wheel rash repairs and paint restoration are our speciality. Franchisees must have previous spray paint experience. Complete the form below to receive more detailed information from Jim's Scratch &
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 9. Pukeko Rental Managers (Business & Commercial)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1228-pukeko-rental-managers (updated 2026-09-21)
-- About: Specialist residential property management. Lucrative business model with coaching and training. Be the best property manager in your region with significant points of difference. Be a part of the award-winning Pukeko team. Complete the form below to receive more detailed information from Pukeko Rental Managers
-- Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
-
-## 10. Espresso Car Wash (Auto & Marine Services)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1764-espresso-car-wash (updated 2026-09-17)
-- About: A proven car wash franchise opportunity with training, marketing and growth systems. Get in touch: Contact: Espresso Car Wash FANZ Member: No
-- Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
-
-## Road trip: East
+## Road trip: Central
 Visit order by straight-line distance (check real travel times in Maps):
-1. Lone Star: Botany Town Centre 588 Chapel Road, East Tāmaki, Auckland 2013 https://maps.google.com/?cid=9400051515612857033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-2. Dear Deer Coffee Roasting Bar: 23 Gossamer Drive, Pakuranga Heights, Auckland 2010 (~3.5 km from previous) https://maps.google.com/?cid=9249247198781888337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-3. Two Dollar Things Plus: 268 Great South Road, Ōtāhuhu, Auckland 1062 (~5.6 km from previous) https://maps.google.com/?cid=8618200110012248265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-4. FreshChoice: 29/33 Hall Avenue, Ōtāhuhu, Auckland 1062 (~0.3 km from previous) https://maps.google.com/?cid=10982955105134630271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+1. Soul Origin: Westfield Newmarket Kiosk K35/277 Broadway, Newmarket, Auckland 1023 https://maps.google.com/?cid=10320865725735223953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+2. Cash Converters: 979 Dominion Road, Mount Roskill, Auckland 1041 (~4.8 km from previous) https://maps.google.com/?cid=10901582530942875960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+3. Paper Plus: Eastridge Shopping Mall, 16/209 Kepa Road, Mission Bay, Auckland 1071 (~9.1 km from previous) https://maps.google.com/?cid=7532353072956436316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
 
 ## Other hot signals to research (not in the directory)
 - REGYMEN Fitness Advances Global Growth with Nine-Location New Zealand Expansion - Club Solutions Magazine (Thu, 08 Oct 2026 13:16:27 GMT) https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmRsNkozaDlFMGhLandnUnZSdXMzcjFOQ0xrc1o0S0QyQ2VqczFhS0lCWWZQb1Q5UXV2NF9GM19CVEFNVTU2d0dWWkdiUkNCOWhtTVdmSUVnbEhXRElzWmtxTHdSMTdRNEtVQ1VtUnBnWlk0eVZVM2JHSG02RlV0THo0SXE3R3lNUjJsa3IxTzRsVzRSZFZkRmdYZXZzRlNPeFF0SFFYZEc1RWpBOWp5dURGWkJ5TnY3T2pVMkJ6RQ?oc=5

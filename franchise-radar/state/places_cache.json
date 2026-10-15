@@ -2163,5 +2163,284 @@
     "area": "South"
    }
   ]
+ },
+ "Sierra Boutique Café": {
+  "ts": 1792086517.4091978,
+  "outlets": []
+ },
+ "Kitset Assembly Services": {
+  "ts": 1792086517.709505,
+  "outlets": [
+   {
+    "name": "Kitset Assembly Services",
+    "address": "130b Bush Road, Rosedale, Auckland 0632",
+    "phone": "09 414 6328",
+    "website": "http://www.kitsetassemblyservices.com/",
+    "rating": 4.8,
+    "reviews": 444,
+    "maps": "https://maps.google.com/?cid=6693907250344479305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.744140099999996,
+    "lng": 174.7045619,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Paper Plus": {
+  "ts": 1792086518.0242639,
+  "outlets": [
+   {
+    "name": "Paper Plus Highland Park",
+    "address": "Shop 3/491F Pakuranga Road, Highland Park, Auckland 2014",
+    "phone": "09 534 6190",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 4.4,
+    "reviews": 111,
+    "maps": "https://maps.google.com/?cid=3065413477201545068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8997568,
+    "lng": 174.90437939999998,
+    "area": "East"
+   },
+   {
+    "name": "Paper Plus Eastridge",
+    "address": "Eastridge Shopping Mall, 16/209 Kepa Road, Mission Bay, Auckland 1071",
+    "phone": "09 521 5402",
+    "website": "https://www.paperplus.co.nz/",
+    "rating": 4.2,
+    "reviews": 64,
+    "maps": "https://maps.google.com/?cid=7532353072956436316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8606817,
+    "lng": 174.8296432,
+    "area": "Central"
+   },
+   {
+    "name": "Paper Plus Ponsonby",
+    "address": "332 Ponsonby Road, Ponsonby, Auckland 1011",
+    "phone": "09 376 3905",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 3.9,
+    "reviews": 96,
+    "maps": "https://maps.google.com/?cid=8002319163085471456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8477703,
+    "lng": 174.7438407,
+    "area": "Central"
+   },
+   {
+    "name": "Paper Plus Meadowbank",
+    "address": "Cnr St. Johns Road &, Gerard Way, Meadowbank, Auckland 1072",
+    "phone": "09 528 3956",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 3.6,
+    "reviews": 85,
+    "maps": "https://maps.google.com/?cid=4219765336733497379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.876137,
+    "lng": 174.8281683,
+    "area": "Central"
+   },
+   {
+    "name": "Paper Plus Remuera Road",
+    "address": "351 Remuera Road, Remuera, Auckland 1050",
+    "phone": "09 520 8515",
+    "website": "https://www.paperplus.co.nz/stores?pageid=267",
+    "rating": 4,
+    "reviews": 165,
+    "maps": "https://maps.google.com/?cid=15198417990553620086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8808541,
+    "lng": 174.7971901,
+    "area": "Central"
+   },
+   {
+    "name": "Paper Plus Howick",
+    "address": "71 Picton Street, Howick, Auckland 2014",
+    "phone": "09 534 8715",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 4.5,
+    "reviews": 283,
+    "maps": "https://maps.google.com/?cid=6001292057501273186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8941054,
+    "lng": 174.9315613,
+    "area": "East"
+   },
+   {
+    "name": "Paper Plus Auckland Hospital",
+    "address": "Auckland Hospital Bldg 1/2 Park Road, Grafton, Auckland 1023",
+    "phone": "09 354 4132",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 3.7,
+    "reviews": 29,
+    "maps": "https://maps.google.com/?cid=14624326124032258679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.860842999999996,
+    "lng": 174.7703623,
+    "area": "Central"
+   },
+   {
+    "name": "Paper Plus Glenfield Mall",
+    "address": "Glenfield Mall Shop 284/306 Glenfield Road, Glenfield, Auckland 0629",
+    "phone": "09 441 7084",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 3.5,
+    "reviews": 48,
+    "maps": "https://maps.google.com/?cid=14503442015523102254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.781910599999996,
+    "lng": 174.72209189999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Paper Plus Browns Bay",
+    "address": "24-26 Clyde Road, Browns Bay, Auckland 0630",
+    "phone": "09 478 6176",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 4.3,
+    "reviews": 104,
+    "maps": "https://maps.google.com/?cid=6271981419058229618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.716130299999996,
+    "lng": 174.7477472,
+    "area": "North Shore"
+   },
+   {
+    "name": "Paper Plus Birkenhead",
+    "address": "Shop 4, Highbury Shopping Mall Corner of Birkenhead Ave &, Highbury Bypass, Birkenhead, Auckland 0626",
+    "phone": "09 480 3058",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 4.4,
+    "reviews": 36,
+    "maps": "https://maps.google.com/?cid=9598987076387186443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8117289,
+    "lng": 174.7244269,
+    "area": "North Shore"
+   },
+   {
+    "name": "Paper Plus Devonport",
+    "address": "5/18 Clarence Street, Devonport, Auckland 0624",
+    "phone": "09 446 6642",
+    "website": "https://www.paperplus.co.nz/",
+    "rating": 5,
+    "reviews": 4,
+    "maps": "https://maps.google.com/?cid=16735546951127191790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.829982699999995,
+    "lng": 174.7969795,
+    "area": "North Shore"
+   },
+   {
+    "name": "Paper Plus Takapuna",
+    "address": "28 Hurstmere Road, Takapuna, Auckland 0622",
+    "phone": "09 666 8765",
+    "website": "https://www.paperplus.co.nz/stores/north-island/auckland/paper-plus-takapuna",
+    "rating": 4.3,
+    "reviews": 148,
+    "maps": "https://maps.google.com/?cid=15277475151840065272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7881542,
+    "lng": 174.7724098,
+    "area": "North Shore"
+   },
+   {
+    "name": "Paper Plus Select Sunnynook",
+    "address": "Sunnynook Shopping Centre 2/106 Sunnynook Road, Sunnynook, Auckland 0620",
+    "phone": "09 410 8364",
+    "website": "https://www.paperplus.co.nz/stores?storeId=9",
+    "rating": 4.6,
+    "reviews": 58,
+    "maps": "https://maps.google.com/?cid=1014589084401422587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7594345,
+    "lng": 174.73960359999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Paper Plus Whangaparaoa",
+    "address": "Shop S3.12 Coast Plaza, 719 Whangaparaoa Road, Stanmore Bay, Auckland 0930",
+    "phone": "09 777 6074",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 4,
+    "reviews": 49,
+    "maps": "https://maps.google.com/?cid=4713547962055784164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.6365783,
+    "lng": 174.746905,
+    "area": "North Shore"
+   },
+   {
+    "name": "Paper Plus Orewa",
+    "address": "3 Moana Avenue, Orewa 0931",
+    "phone": "09 426 4063",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 3.7,
+    "reviews": 159,
+    "maps": "https://maps.google.com/?cid=13052314058570516296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.5862571,
+    "lng": 174.69545789999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Paper Plus Select Waiheke",
+    "address": "145 Ocean View Road, Oneroa, Auckland 1081",
+    "phone": "09 372 7174",
+    "website": "http://paperplus.co.nz/",
+    "rating": 4.2,
+    "reviews": 36,
+    "maps": "https://maps.google.com/?cid=10354475169895401443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.782168899999995,
+    "lng": 175.00943809999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Paper Plus NZ Ltd - Support Office",
+    "address": "Level 1/51 Hugo Johnston Drive, Penrose, Auckland 1061",
+    "phone": "0800 727 377",
+    "website": "https://www.paperplus.co.nz/",
+    "rating": 3.3,
+    "reviews": 15,
+    "maps": "https://maps.google.com/?cid=8466916547999835448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9211003,
+    "lng": 174.8205711,
+    "area": "Central"
+   }
+  ]
+ },
+ "Property InDepth": {
+  "ts": 1792086518.331379,
+  "outlets": [
+   {
+    "name": "Property InDepth",
+    "address": "5 Kopiko Road, Titirangi, Auckland 0604",
+    "phone": "0800 463 378",
+    "website": "http://www.propertyindepth.co.nz/valuer/property-valuers-west-auckland/",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=4498509424637381240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.933910999999995,
+    "lng": 174.6484534,
+    "area": "West"
+   },
+   {
+    "name": "Property Indepth T/A McLean Valuations Ltd",
+    "address": "34 Abercrombie Street, Howick, Auckland 2145",
+    "phone": "0800 463 378",
+    "website": "http://www.propertyindepth.co.nz/",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=14891525044044327674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8983539,
+    "lng": 174.9314047,
+    "area": "East"
+   },
+   {
+    "name": "Property InDepth",
+    "address": "69 Prince Regent Drive, Half Moon Bay, Auckland 2012",
+    "phone": "0800 463 378",
+    "website": "http://www.propertyindepth.co.nz/valuer/property-valuers-south-auckland/",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=766460755278966593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8891292,
+    "lng": 174.8953588,
+    "area": "East"
+   }
+  ]
+ },
+ "Mr Whippy": {
+  "ts": 1792086518.6049402,
+  "outlets": []
+ },
+ "Zexx NZ": {
+  "ts": 1792086518.841114,
+  "outlets": []
  }
 }
