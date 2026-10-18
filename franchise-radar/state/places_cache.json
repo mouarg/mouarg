@@ -2442,5 +2442,312 @@
  "Zexx NZ": {
   "ts": 1792086518.841114,
   "outlets": []
+ },
+ "Think Water": {
+  "ts": 1792341338.05458,
+  "outlets": [
+   {
+    "name": "Think Water Auckland South",
+    "address": "148 Manukau Road, Pukekohe 2120",
+    "phone": "09 238 9588",
+    "website": "https://www.thinkwater.co.nz/aucklandsouth/",
+    "rating": 4.8,
+    "reviews": 50,
+    "maps": "https://maps.google.com/?cid=14236861420204956544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.207767800000006,
+    "lng": 174.9098439,
+    "area": "South"
+   }
+  ]
+ },
+ "Super Liquor": {
+  "ts": 1792341338.4035835,
+  "outlets": [
+   {
+    "name": "Super Liquor Mt Roskill",
+    "address": "13 Ellis Avenue, Mount Roskill, Auckland 1041",
+    "phone": "09 213 0626",
+    "website": "http://www.superliquor.co.nz/",
+    "rating": 4.3,
+    "reviews": 95,
+    "maps": "https://maps.google.com/?cid=13148780587847965470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9151039,
+    "lng": 174.7225852,
+    "area": "Central"
+   },
+   {
+    "name": "Super Liquor Herne Bay",
+    "address": "160 Jervois Road, Herne Bay, Auckland 1011",
+    "phone": "09 360 0030",
+    "website": "http://www.superliquor.co.nz/",
+    "rating": 4.9,
+    "reviews": 209,
+    "maps": "https://maps.google.com/?cid=2721426722608152541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8454562,
+    "lng": 174.737314,
+    "area": "Central"
+   },
+   {
+    "name": "Super Liquor Westside",
+    "address": "1/264 Swanson Road, Henderson, Auckland 0610",
+    "phone": "09 838 5314",
+    "website": "https://www.superliquor.co.nz/",
+    "rating": 4.2,
+    "reviews": 482,
+    "maps": "https://maps.google.com/?cid=5419661801062713154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8636935,
+    "lng": 174.61401229999998,
+    "area": "West"
+   },
+   {
+    "name": "Super Liquor Central Park",
+    "address": "95 Central Park Drive, Henderson, Auckland 0610",
+    "phone": "09 835 1294",
+    "website": "https://www.superliquor.co.nz/central-park-village?srsltid=AfmBOopHXlxW0jNoG6YBmSYLSQLfmxfOHcfoCkNKJLor5pgRcZOK5gxS",
+    "rating": 4.5,
+    "reviews": 186,
+    "maps": "https://maps.google.com/?cid=4277375174367218858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8572451,
+    "lng": 174.6372444,
+    "area": "West"
+   },
+   {
+    "name": "Super Liquor Greenlane",
+    "address": "225 Great South Road, Greenlane, Auckland 1051",
+    "phone": "09 520 3583",
+    "website": "https://www.superliquor.co.nz/",
+    "rating": 4.3,
+    "reviews": 92,
+    "maps": "https://maps.google.com/?cid=5816967505925070429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.891599899999996,
+    "lng": 174.7950562,
+    "area": "Central"
+   },
+   {
+    "name": "Super Liquor Valley Road",
+    "address": "45 Henderson Valley Road, Henderson, Auckland 0612",
+    "phone": "09 836 4694",
+    "website": "https://www.superliquor.co.nz/",
+    "rating": 4.3,
+    "reviews": 220,
+    "maps": "https://maps.google.com/?cid=16044581825054672996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.886251699999995,
+    "lng": 174.62809389999998,
+    "area": "West"
+   },
+   {
+    "name": "Super Liquor Westgate Centre",
+    "address": "13B Maki Street, Westgate, Auckland 0814",
+    "phone": "09 832 6940",
+    "website": "https://superliquor.co.nz/",
+    "rating": 4.2,
+    "reviews": 208,
+    "maps": "https://maps.google.com/?cid=5202753757949797169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.820806999999995,
+    "lng": 174.614523,
+    "area": "West"
+   },
+   {
+    "name": "Super Liquor Onehunga",
+    "address": "360 Onehunga Mall, Onehunga, Auckland 1061",
+    "phone": "09 636 5894",
+    "website": "http://www.superliquor.co.nz/",
+    "rating": 4.3,
+    "reviews": 73,
+    "maps": "https://maps.google.com/?cid=10825710532933982089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9167977,
+    "lng": 174.7841963,
+    "area": "Central"
+   },
+   {
+    "name": "Super Liquor Avondale",
+    "address": "2021 Great North Road, Avondale, Auckland 0600",
+    "phone": "09 828 2761",
+    "website": "https://www.superliquor.co.nz/",
+    "rating": 4.3,
+    "reviews": 291,
+    "maps": "https://maps.google.com/?cid=16704482249317184789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8979184,
+    "lng": 174.696564,
+    "area": "Central"
+   },
+   {
+    "name": "Super Liquor Sandringham",
+    "address": "421 Sandringham Road, Sandringham, Auckland 1351",
+    "phone": "09 846 5522",
+    "website": "https://www.superliquor.co.nz/",
+    "rating": 4.1,
+    "reviews": 107,
+    "maps": "https://maps.google.com/?cid=4719612847169560638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8879873,
+    "lng": 174.7372735,
+    "area": "Central"
+   },
+   {
+    "name": "Super Liquor Lunn Avenue, Mt Wellington",
+    "address": "430C Ellerslie Panmure Highway, Mount Wellington, Auckland 1060",
+    "phone": "021 572 828",
+    "website": "https://lunnave.superliquor.co.nz/",
+    "rating": 4.2,
+    "reviews": 59,
+    "maps": "https://maps.google.com/?cid=5441764545253243998&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.896168599999996,
+    "lng": 174.84039819999998,
+    "area": "East"
+   },
+   {
+    "name": "Super Liquor Howick",
+    "address": "23 Uxbridge Road, Howick, Auckland 2014",
+    "phone": "09 534 4179",
+    "website": "https://howick.superliquor.co.nz/",
+    "rating": 4.5,
+    "reviews": 86,
+    "maps": "https://maps.google.com/?cid=1928121504693356491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.894149299999995,
+    "lng": 174.9327133,
+    "area": "East"
+   },
+   {
+    "name": "Super Liquor Balmoral",
+    "address": "861 Dominion Road, Mount Roskill, Auckland 1041",
+    "phone": "09 629 1100",
+    "website": "https://www.superliquor.co.nz/",
+    "rating": 3.5,
+    "reviews": 97,
+    "maps": "https://maps.google.com/?cid=16173034537609907264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8968657,
+    "lng": 174.7440004,
+    "area": "Central"
+   },
+   {
+    "name": "Super Liquor Kelston",
+    "address": "4055 Great North Road, Glen Eden, Auckland 0602",
+    "phone": "09 818 8248",
+    "website": "https://www.superliquor.co.nz/",
+    "rating": 4.2,
+    "reviews": 293,
+    "maps": "https://maps.google.com/?cid=17934735757050898041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9043497,
+    "lng": 174.6594744,
+    "area": "West"
+   },
+   {
+    "name": "Super Liquor Red Hills",
+    "address": "3 Red Hills Road, Massey, Auckland 0614",
+    "phone": "09 951 0357",
+    "website": "https://superliquor.co.nz/",
+    "rating": 4.2,
+    "reviews": 141,
+    "maps": "https://maps.google.com/?cid=7116847170722193133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.836440499999995,
+    "lng": 174.6005889,
+    "area": "West"
+   },
+   {
+    "name": "Super Liquor Royal Heights",
+    "address": "21/138 Royal Road, Massey, Auckland 0614",
+    "phone": "09 833 6390",
+    "website": "https://superliquor.co.nz/",
+    "rating": 4.3,
+    "reviews": 160,
+    "maps": "https://maps.google.com/?cid=8938646227498232018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8331839,
+    "lng": 174.6225958,
+    "area": "West"
+   },
+   {
+    "name": "Super Liquor Mangere East",
+    "address": "Flat 1/1 Savill Drive, Favona, Auckland 2024",
+    "phone": "09 276 7317",
+    "website": "https://www.superliquor.co.nz/",
+    "rating": 4.1,
+    "reviews": 156,
+    "maps": "https://maps.google.com/?cid=13946248306660483787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9571669,
+    "lng": 174.8333874,
+    "area": "South"
+   },
+   {
+    "name": "Super Liquor Target Road",
+    "address": "1/155 Target Road, Wairau Valley, Auckland 0627",
+    "phone": "09 441 9173",
+    "website": "https://www.superliquor.co.nz/super-liquor-target-road",
+    "rating": 4.4,
+    "reviews": 80,
+    "maps": "https://maps.google.com/?cid=10422088077517549440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7675951,
+    "lng": 174.73525659999999,
+    "area": "North Shore"
+   },
+   {
+    "name": "Super Liquor Burswood",
+    "address": "284 Ti Rakau Drive, Burswood, Manukau 2013",
+    "phone": "09 272 8633",
+    "website": "https://www.superliquor.co.nz/",
+    "rating": 4.6,
+    "reviews": 42,
+    "maps": "https://maps.google.com/?cid=7554149373288929925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9258733,
+    "lng": 174.8950294,
+    "area": "East"
+   },
+   {
+    "name": "Super Liquor Hobsonville",
+    "address": "124 Hobsonville Road, Hobsonville, Auckland 0618",
+    "phone": "09 950 3530",
+    "website": "https://superliquor.co.nz/",
+    "rating": 4.3,
+    "reviews": 137,
+    "maps": "https://maps.google.com/?cid=16462839049281496238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7977134,
+    "lng": 174.6486114,
+    "area": "West"
+   }
+  ]
+ },
+ "Milestone Homes": {
+  "ts": 1792341338.669646,
+  "outlets": []
+ },
+ "Chatime": {
+  "ts": 1792341338.932925,
+  "outlets": []
+ },
+ "Black & White Coffee Cartel": {
+  "ts": 1792341339.2228477,
+  "outlets": [
+   {
+    "name": "Black & White Coffee Cartel",
+    "address": "Maki Centre Unit MC02B/Maki Street, Westgate, Auckland 0814",
+    "phone": "09 975 0885",
+    "website": "https://www.facebook.com/share/19YcpSwGB1/?mibextid=wwXIfr",
+    "rating": 4.3,
+    "reviews": 120,
+    "maps": "https://maps.google.com/?cid=13925020689993476130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.810423899999996,
+    "lng": 174.6062575,
+    "area": "West"
+   },
+   {
+    "name": "Black & White Coffee Cartel",
+    "address": "2 Te Napi Drive, Takanini, Auckland 2112",
+    "phone": "09 222 3380",
+    "website": "http://www.blackandwhitecoffee.co.nz/",
+    "rating": 4.4,
+    "reviews": 320,
+    "maps": "https://maps.google.com/?cid=14395092211206976794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.035014,
+    "lng": 174.9069501,
+    "area": "South"
+   }
+  ]
+ },
+ "Anchor Franchise": {
+  "ts": 1792341339.5354357,
+  "outlets": []
+ },
+ "Coffee Culture": {
+  "ts": 1792341339.8174958,
+  "outlets": []
  }
 }
