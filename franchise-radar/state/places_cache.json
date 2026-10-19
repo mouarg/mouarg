@@ -2749,5 +2749,189 @@
  "Coffee Culture": {
   "ts": 1792341339.8174958,
   "outlets": []
+ },
+ "Landmark Homes": {
+  "ts": 1792437735.579395,
+  "outlets": [
+   {
+    "name": "Landmark Homes - West Central Auckland",
+    "address": "Level 1/60 Grafton Road, Grafton, Auckland 1010",
+    "phone": "09 972 1730",
+    "website": "https://landmarkhomes.co.nz/franchise/auckland-central-waitakere-to-howick",
+    "rating": 4.8,
+    "reviews": 9,
+    "maps": "https://maps.google.com/?cid=1200819585596339847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.857140699999995,
+    "lng": 174.76971519999998,
+    "area": "Central"
+   },
+   {
+    "name": "Landmark Homes - West Central Auckland Showhome",
+    "address": "9 Saint Michaels Avenue, Point Chevalier, Auckland 1022",
+    "phone": "09 972 1730",
+    "website": "https://landmarkhomes.co.nz/showhomes/the-point",
+    "rating": 5,
+    "reviews": 2,
+    "maps": "https://maps.google.com/?cid=12553619722206050267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8613639,
+    "lng": 174.70245129999998,
+    "area": "Central"
+   },
+   {
+    "name": "Landmark Homes - North Shore/Rodney",
+    "address": "B1/63 Apollo Drive, Rosedale, Auckland 0632",
+    "phone": "09 478 9924",
+    "website": "https://landmarkhomes.co.nz/franchise/auckland-north-shore-rodney",
+    "rating": 4.3,
+    "reviews": 6,
+    "maps": "https://maps.google.com/?cid=6384904988849180503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7417484,
+    "lng": 174.728364,
+    "area": "North Shore"
+   },
+   {
+    "name": "Landmark Homes – Auckland South & Franklin",
+    "address": "22 West Street, Pukekohe 2580",
+    "phone": "0800 628 859",
+    "website": "https://landmarkhomes.co.nz/franchise/auckland-south-franklin",
+    "rating": 4.4,
+    "reviews": 8,
+    "maps": "https://maps.google.com/?cid=10033571104040164731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.2015046,
+    "lng": 174.89965759999998,
+    "area": "South"
+   },
+   {
+    "name": "Landmark Homes Beachlands to Clevedon Showhome",
+    "address": "10 Kakano Street, Auckland, Clevedon 2582",
+    "phone": "021 374 004",
+    "website": "https://landmarkhomes.co.nz/showhomes/beachlands-clevedon",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=130803580693283706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.99974530000001,
+    "lng": 175.0342526,
+    "area": "South"
+   }
+  ]
+ },
+ "Cutshop": {
+  "ts": 1792437735.8483407,
+  "outlets": [
+   {
+    "name": "Cutshop Mt Wellington",
+    "address": "H/135 Pilkington Road, Panmure, Auckland 1072",
+    "phone": "09 527 2856",
+    "website": "http://www.cutshop.com/",
+    "rating": 4.7,
+    "reviews": 49,
+    "maps": "https://maps.google.com/?cid=4884952652808050549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8896474,
+    "lng": 174.8565971,
+    "area": "East"
+   },
+   {
+    "name": "Cutshop North Shore",
+    "address": "12 John Glenn Avenue, Rosedale, Auckland 0632",
+    "phone": "09 869 8690",
+    "website": "http://www.cutshop.com/",
+    "rating": 4.8,
+    "reviews": 20,
+    "maps": "https://maps.google.com/?cid=18287057881517448167&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7473873,
+    "lng": 174.6945276,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Mizin": {
+  "ts": 1792437736.0506752,
+  "outlets": []
+ },
+ "Stonewood Homes NZ": {
+  "ts": 1792437736.4056122,
+  "outlets": [
+   {
+    "name": "Stonewood Homes Auckland West",
+    "address": "Northwest Shopping Centre Level 1, Building 7/48 Maki Street, Westgate, Auckland 0814",
+    "phone": "09 975 9165",
+    "website": "https://stonewood.co.nz/contact-us/auckland-west/",
+    "rating": 4.4,
+    "reviews": 20,
+    "maps": "https://maps.google.com/?cid=15753483649042526818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8180364,
+    "lng": 174.61018640000003,
+    "area": "West"
+   },
+   {
+    "name": "Stonewood Homes Auckland East and South",
+    "address": "1/129 Meadowland Drive, Somerville, Auckland 2113",
+    "phone": "021 222 2668",
+    "website": "https://stonewood.co.nz/our-franchisees/auckland-east-and-south/",
+    "rating": 4,
+    "reviews": 4,
+    "maps": "https://maps.google.com/?cid=13747840837054232485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9129912,
+    "lng": 174.92763449999998,
+    "area": "East"
+   },
+   {
+    "name": "Stonewood Homes Auckland East and South",
+    "address": "129 Meadowland Drive, Somerville, Auckland 2014",
+    "phone": "021 222 2668",
+    "website": "https://stonewood.co.nz/franchise/auckland-east-and-south/",
+    "rating": 5,
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=769540546415096149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.913008399999995,
+    "lng": 174.927649,
+    "area": "East"
+   },
+   {
+    "name": "Stonewood Homes Auckland Northshore",
+    "address": "49 Ara Hill Drive, Orewa, Wainui 0992",
+    "phone": "09 975 9164",
+    "website": "https://stonewood.co.nz/our-franchisees/auckland-north-shore-2/",
+    "rating": 1,
+    "reviews": 2,
+    "maps": "https://maps.google.com/?cid=5735521868747706739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.5839253,
+    "lng": 174.66176109999998,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Storage Box": {
+  "ts": 1792437736.832685,
+  "outlets": [
+   {
+    "name": "Storage Box Mt Wellington",
+    "address": "54 Mt Wgtn Highway, Mount Wellington, Auckland 1060",
+    "phone": "09 527 7323",
+    "website": "http://www.storagebox.co.nz/",
+    "rating": 4.1,
+    "reviews": 68,
+    "maps": "https://maps.google.com/?cid=10941570556770104366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9001502,
+    "lng": 174.8457018,
+    "area": "East"
+   },
+   {
+    "name": "Storage Box",
+    "address": "1 Eden Street, Newmarket, Auckland 1023",
+    "phone": "09 524 2935",
+    "website": "https://www.storagebox.co.nz/",
+    "rating": 4.3,
+    "reviews": 70,
+    "maps": "https://maps.google.com/?cid=16077847930329025326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8698809,
+    "lng": 174.7766342,
+    "area": "Central"
+   }
+  ]
+ },
+ "A Buyer's Choice Home Inspections": {
+  "ts": 1792437737.1386924,
+  "outlets": []
  }
 }
