@@ -2933,5 +2933,297 @@
  "A Buyer's Choice Home Inspections": {
   "ts": 1792437737.1386924,
   "outlets": []
+ },
+ "Papa Johns": {
+  "ts": 1792519274.898274,
+  "outlets": []
+ },
+ "Mexico": {
+  "ts": 1792519275.2359538,
+  "outlets": [
+   {
+    "name": "Mexico Britomart",
+    "address": "23 Britomart Place, Auckland CBD, Auckland 1010",
+    "phone": "09 553 8666",
+    "website": "http://www.mexico.nz/",
+    "rating": 4.3,
+    "reviews": 1543,
+    "maps": "https://maps.google.com/?cid=16945638087132718955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8452227,
+    "lng": 174.77024559999998,
+    "area": "Central"
+   },
+   {
+    "name": "Mexico Ellerslie",
+    "address": "Corner Ladies Mile &, Main Highway, Ellerslie, Auckland 1051",
+    "phone": "09 600 2216",
+    "website": "http://www.mexico.nz/",
+    "rating": 4.2,
+    "reviews": 1578,
+    "maps": "https://maps.google.com/?cid=162399142899734609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8977252,
+    "lng": 174.80926220000003,
+    "area": "Central"
+   }
+  ]
+ },
+ "Summit Homes": {
+  "ts": 1792519275.4767466,
+  "outlets": [
+   {
+    "name": "Summit Homes Show Home",
+    "address": "14 Tauroa Drive, Tuakau 2121",
+    "phone": "0508 697 866",
+    "website": "https://www.summithomes.co.nz/our-showhomes",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=11375656994832558571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.265588,
+    "lng": 174.94934189999998,
+    "area": "South"
+   },
+   {
+    "name": "Summit Homes",
+    "address": "23 Carr Street, Tuakau 2121",
+    "phone": "0274 968 652",
+    "website": "https://www.summithomes.co.nz/",
+    "rating": 4.6,
+    "reviews": 9,
+    "maps": "https://maps.google.com/?cid=4152747606591080933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.2611132,
+    "lng": 174.9491131,
+    "area": "South"
+   }
+  ]
+ },
+ "Brumby's Bakery": {
+  "ts": 1792519275.7710118,
+  "outlets": []
+ },
+ "Jamaica Blue": {
+  "ts": 1792519276.0712843,
+  "outlets": [
+   {
+    "name": "Jamaica Blue Cafe",
+    "address": "Bldg 4/214 Green Lane West, Greenlane, Auckland 1051",
+    "phone": "09 336 1875",
+    "website": "",
+    "rating": 3.4,
+    "reviews": 190,
+    "maps": "https://maps.google.com/?cid=12238637939078944558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8945223,
+    "lng": 174.7806848,
+    "area": "Central"
+   },
+   {
+    "name": "Jamaica Blue Auckland Hospital",
+    "address": "2 Park Road, Grafton, Auckland 1023",
+    "phone": "09 366 1875",
+    "website": "http://www.jamaicablue.co.nz/",
+    "rating": 3.1,
+    "reviews": 164,
+    "maps": "https://maps.google.com/?cid=12739828653131423179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8607006,
+    "lng": 174.7702932,
+    "area": "Central"
+   },
+   {
+    "name": "Jamaica Blue",
+    "address": "Ground Floor/2 Leonard Isitt Drive, Māngere, Auckland 2022",
+    "phone": "09 275 0492",
+    "website": "http://www.jamaicablue.co.nz/",
+    "rating": 3.7,
+    "reviews": 464,
+    "maps": "https://maps.google.com/?cid=10383021117333633381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9985299,
+    "lng": 174.7888874,
+    "area": "South"
+   },
+   {
+    "name": "Jamaica Blue café",
+    "address": "Level 9/4 Williamson Avenue, Grey Lynn, Auckland 1021",
+    "phone": "",
+    "website": "https://www.jamaicablue.co.nz/",
+    "rating": 5,
+    "reviews": 3,
+    "maps": "https://maps.google.com/?cid=7583668721859154625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.858304,
+    "lng": 174.7487916,
+    "area": "Central"
+   },
+   {
+    "name": "Jamaica Blue",
+    "address": "Elective Surgery Building 28/124 Shakespeare Road, Takapuna, Auckland 0622",
+    "phone": "09 281 2233",
+    "website": "",
+    "rating": 3.8,
+    "reviews": 14,
+    "maps": "https://maps.google.com/?cid=5061271867758940014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.782026,
+    "lng": 174.756184,
+    "area": "North Shore"
+   },
+   {
+    "name": "Jamaica Blue",
+    "address": "Shop 17, Silverdale Centre, 40 Hibiscus Coast Highway, Silverdale, Auckland 0932",
+    "phone": "09 426 5689",
+    "website": "http://www.jamaicablue.co.nz/",
+    "rating": 3.6,
+    "reviews": 503,
+    "maps": "https://maps.google.com/?cid=16396013792538638118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.6148114,
+    "lng": 174.6810494,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Carpet Court": {
+  "ts": 1792519276.3671112,
+  "outlets": [
+   {
+    "name": "Carpet Court Newmarket",
+    "address": "383 Khyber Pass Road, Newmarket, Auckland 1023",
+    "phone": "09 522 2006",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-newmarket",
+    "rating": 4.2,
+    "reviews": 31,
+    "maps": "https://maps.google.com/?cid=353453653992037899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8667276,
+    "lng": 174.7728019,
+    "area": "Central"
+   },
+   {
+    "name": "Carpet Court Mt Wellington",
+    "address": "70 Lunn Avenue, Mount Wellington, Auckland 1072",
+    "phone": "09 574 6688",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-mt-wellington",
+    "rating": 4.2,
+    "reviews": 36,
+    "maps": "https://maps.google.com/?cid=9473492803901364786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8914048,
+    "lng": 174.8350169,
+    "area": "Central"
+   },
+   {
+    "name": "Carpet Court Henderson",
+    "address": "153 Lincoln Road, Henderson, Auckland 0610",
+    "phone": "09 837 0845",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-henderson",
+    "rating": 4.4,
+    "reviews": 103,
+    "maps": "https://maps.google.com/?cid=15041839877844130835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8635491,
+    "lng": 174.62950139999998,
+    "area": "West"
+   },
+   {
+    "name": "Carpet Court Botany",
+    "address": "Shop 7/500 Ti Rakau Drive, Botany Downs, Botany 2013",
+    "phone": "09 273 3800",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-botany",
+    "rating": 3.7,
+    "reviews": 3,
+    "maps": "https://maps.google.com/?cid=4166932734326221661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9282001,
+    "lng": 174.9144279,
+    "area": "East"
+   },
+   {
+    "name": "Carpet Court Takanini",
+    "address": "Southgate Retail Centre 230 Great South Road, Takanini, Auckland 2112",
+    "phone": "09 295 0430",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-takanini",
+    "rating": 4.3,
+    "reviews": 23,
+    "maps": "https://maps.google.com/?cid=244965763492043582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.048518099999995,
+    "lng": 174.9282565,
+    "area": "South"
+   },
+   {
+    "name": "Carpet Court Wairau Park",
+    "address": "128 Target Road, Wairau Park, Auckland 0627",
+    "phone": "09 441 0171",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-wairau-park",
+    "rating": 3.6,
+    "reviews": 51,
+    "maps": "https://maps.google.com/?cid=3598767240687046214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7666071,
+    "lng": 174.7351819,
+    "area": "North Shore"
+   },
+   {
+    "name": "Carpet Court Manukau",
+    "address": "Unit 5/21 Ronwood Avenue, Manukau City Centre, Manukau 2104",
+    "phone": "09 600 5560",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-manukau",
+    "rating": 4.1,
+    "reviews": 55,
+    "maps": "https://maps.google.com/?cid=15255274209154888608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9911918,
+    "lng": 174.8740234,
+    "area": "South"
+   },
+   {
+    "name": "Carpet Court Albany",
+    "address": "Cnr Rosedale Rd &, Tawa Drive, Albany, North Harbour 0632",
+    "phone": "09 415 7581",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-albany",
+    "rating": 4.6,
+    "reviews": 39,
+    "maps": "https://maps.google.com/?cid=17229514331670221071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7407684,
+    "lng": 174.7172546,
+    "area": "North Shore"
+   },
+   {
+    "name": "Carpet Court Central Warehouse",
+    "address": "373 Neilson Street, Penrose, Auckland 1061",
+    "phone": "0800 787 777",
+    "website": "https://carpetcourt.nz/",
+    "rating": 3.9,
+    "reviews": 16,
+    "maps": "https://maps.google.com/?cid=9064711657806928508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9225266,
+    "lng": 174.8137754,
+    "area": "Central"
+   },
+   {
+    "name": "Carpet Court Silverdale",
+    "address": "1 Keith Hay Court, Silverdale, Auckland 0932",
+    "phone": "09 666 0258",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-silverdale",
+    "rating": 4.5,
+    "reviews": 25,
+    "maps": "https://maps.google.com/?cid=16215005012518787455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.6170927,
+    "lng": 174.6767544,
+    "area": "North Shore"
+   },
+   {
+    "name": "Carpet Court Kumeu",
+    "address": "2/190 Main Road, Kumeū 0810",
+    "phone": "09 869 7659",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-kumeu",
+    "rating": 4.2,
+    "reviews": 13,
+    "maps": "https://maps.google.com/?cid=14500169380107460043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.773455,
+    "lng": 174.55089909999998,
+    "area": "West"
+   },
+   {
+    "name": "Carpet Court Pukekohe",
+    "address": "229 Manukau Road, Pukekohe, Auckland 2120",
+    "phone": "09 238 6951",
+    "website": "https://carpetcourt.nz/our-locations/carpet-court-pukekohe",
+    "rating": 4.7,
+    "reviews": 40,
+    "maps": "https://maps.google.com/?cid=12571378661482316138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.2134608,
+    "lng": 174.9104557,
+    "area": "South"
+   }
+  ]
  }
 }
