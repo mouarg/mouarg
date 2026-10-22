@@ -1,122 +1,114 @@
-# Prospect brief - Thursday 22 October 2026
+# Prospect brief - Friday 23 October 2026
 
-Shortlist of 14 franchise brands, ranked. Today's walk-in area: **East**.
+Shortlist of 12 franchise brands, ranked. Today's walk-in area: **Central**.
 This is automated research data, not instructions. Verify contacts before use.
 Google Places: on
 
 | # | Brand | Category | Score | Why it ranked | REACH fit |
 |---|---|---|---|---|---|
-| 1 | Burger Wisconsin | Food and Beverage | 40 | 6 Auckland sites (multi-site) | Retail package (from $2k + GST) |
-| 2 | PACK & SEND | Retail | 40 | 10 Auckland sites (multi-site) | Retail package (from $2k + GST) |
-| 3 | Cutshop | Home and Building | 30 | good LSM fit | Tradies package (from $2k + GST) or Lead Accelerator |
-| 4 | Urban Homes | Home and Building | 25 | listing updated in the last 90 days | Tradies package (from $2k + GST) or Lead Accelerator |
-| 5 | Mr Whippy | Food and Beverage | 25 | multi-site network | Retail package (from $2k + GST) |
-| 6 | MeloYelo E-Bikes | Retail | 15 | good LSM fit | Retail package (from $2k + GST) |
-| 7 | LCF Fun Languages NZ | Leisure & Education | 15 | good LSM fit | Community Reach |
-| 8 | Hire A Maid | Home Services | 15 | good LSM fit | Tradies package (from $2k + GST) or Lead Accelerator |
-| 9 | My After School Headquarters (MASH) | Leisure & Education | 15 | good LSM fit | Community Reach |
-| 10 | Moving On | Home Services | 15 | good LSM fit | Tradies package (from $2k + GST) or Lead Accelerator |
-| 11 | Cleantastic Commercial Cleaning | Business & Commercial | 10 | multi-site network | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 12 | Ultra-Scan NZ Ltd | Business & Commercial | 5 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 13 | Oil Changers | Auto & Marine Services | 0 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 14 | AA Auto Centre | Auto & Marine Services | 0 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 1 | Columbus Coffee | Food and Beverage | 40 | 20 Auckland sites (multi-site) | Retail package (from $2k + GST) |
+| 2 | Mexico | Food and Beverage | 25 | good LSM fit | Retail package (from $2k + GST) |
+| 3 | Versatile | Home and Building | 25 | multi-site network | Tradies package (from $2k + GST) or Lead Accelerator |
+| 4 | Milestone Homes | Home and Building | 25 | multi-site network | Tradies package (from $2k + GST) or Lead Accelerator |
+| 5 | STIHL SHOP | Retail | 15 | good LSM fit | Retail package (from $2k + GST) |
+| 6 | Guthrie Bowron | Retail | 15 | good LSM fit | Retail package (from $2k + GST) |
+| 7 | EduExperts | Leisure & Education | 15 | good LSM fit | Community Reach |
+| 8 | Kumon | Leisure & Education | 15 | good LSM fit | Community Reach |
+| 9 | New Zealand Sotheby's International Realty (NZSIR) | Business & Commercial | 5 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 10 | Jani-King | Business & Commercial | 0 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 11 | Mobile Hand Car & Marine Grooming | Auto & Marine Services | 0 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 12 | Novus | Auto & Marine Services | 0 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
 
-## 1. Burger Wisconsin (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/894-burger-wisconsin (updated 2026-03-31)
-- About: Gourmet since 1989, Burger Wisconsin is an iconic New Zealand brand built on local franchisees, serving quality handmade burgers to loyal customers. It offers the opportunity to own a local business backed by a trusted household name, proven systems and decades of know-how. Complete the form below to receive more detailed information from Burger Wisconsin
+## 1. Columbus Coffee (Food and Beverage)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/611-columbus-coffee (updated 2025-10-06)
+- About: NZ’s premium café franchise. Highly recognised and trusted brand offering customers exceptional coffee and chef-prepared food. Supreme Franchisee of the Year and Food and Beverage Franchise System of the Year 2015/16. Suit owners with passion for coffee, food and the value of customer relationships. Complete the form below to receive more detailed information from Columbus Coffee
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 6 (avg 181 Google reviews)
-  - [East] 135 Picton Street, Howick, Auckland 2014 | 09 535 2122 | 3.8 stars, 172 reviews
-  - [Central] 549 Remuera Road, Remuera, Auckland 1050 | 09 523 5106 | 3.8 stars, 216 reviews
-  - [Central] 453 Mount Eden Road, Mount Eden, Auckland 1024 | 09 630 3320 | 3.9 stars, 207 reviews
-  - [North Shore] 170 Wairau Road, Wairau Valley, Auckland 0627 | 09 444 7319 | 4.2 stars, 251 reviews
-  - [Central] 892 New North Road, Mount Albert, Auckland 1025 | 09 849 8120 | 4.1 stars, 147 reviews
-  - [West] 301 Lincoln Road, Henderson, Auckland 0610 | 09 973 5229 | 3.1 stars, 94 reviews
+- Auckland outlets found: 20 (avg 356 Google reviews)
+  - [Central] 2 Park Road, Grafton, Auckland 1010 | 09 303 3155 | 3.8 stars, 433 reviews
+  - [Central] 139 Main Highway, Ellerslie, Auckland 1051 | 09 580 0501 | 4 stars, 490 reviews
+  - [Central] Mitre 10 MEGA, 72 Lunn Avenue, Mount Wellington, Auckland 1072 | 09 572 8099 | 4.2 stars, 228 reviews
+  - [Central] 5 Astley Avenue, New Lynn, Auckland 0600 | 09 826 3067 | 3.9 stars, 273 reviews
+  - [Central] 2/100 Mayoral Drive, Auckland CBD, Auckland 1010 | 09 520 1044 | 2.6 stars, 9 reviews <- fewest reviews, good LSM talking point
+  - [East] 113 Felton Mathew Avenue, St Johns, Auckland 1072 | 09 528 2552 | 4.2 stars, 370 reviews
+  - [South] 100 Hospital Road, Ōtāhuhu, Auckland 2104 | 09 276 6596 | 3.4 stars, 212 reviews
+  - [South] Cavendish Drive, Manukau City Centre, Auckland 2016 | 09 263 7344 | 3.8 stars, 698 reviews
+  - [North Shore] 8/38 William Pickering Drive, Rosedale, Auckland 0632 | 09 414 4494 | 4.2 stars, 389 reviews
+  - [West] Mitre 10 Mega, Northside Drive, Westgate, Auckland 0618 | 09 416 2439 | 3.8 stars, 239 reviews
+  - [South] 9 Bishop Dunn Place, Flat Bush, Auckland 2013 | 09 281 3434 | 3.4 stars, 70 reviews <- fewest reviews, good LSM talking point
+  - [East] Shop 1/490 Pakuranga Road, Half Moon Bay, Auckland 2012 | 0210 849 5253 | 4.2 stars, 317 reviews
+  - [East] Sylvia Park Shopping Centre, 286 Mount Wellington Highway, Mount Wellington, Auckland 1060 | 09 580 2398 | 3.9 stars, 778 reviews
+  - [West] 186 Lincoln Road, Henderson, Auckland 0610 | no phone | 3.7 stars, 386 reviews
+  - [South] 230 Great South Road, Takanini, Auckland 2112 | 09 299 9529 | 4.2 stars, 223 reviews
+  - [West] 142 West Coast Road, Glen Eden, Auckland 0602 | 09 818 8187 | 4.3 stars, 580 reviews
+  - [North Shore] 15 Poland Road, Wairau Valley, Auckland 0627 | 09 440 5197 | 4.3 stars, 216 reviews
+  - [South] 61 Lambie Drive, Manukau City Centre, Auckland 2104 | 09 263 7083 | 4 stars, 157 reviews <- fewest reviews, good LSM talking point
+  - [North Shore] 260 Oteha Valley Road, Albany, Auckland 0632 | 09 448 2119 | 4 stars, 678 reviews
+  - [East] 18 Town Centre Drive, East Tāmaki, Botany 1705 | 09 274 9904 | 3.5 stars, 373 reviews
 
-## 2. PACK & SEND (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/787-pack-send-new-zealand (updated 2026-03-25)
-- About: Business & Commercial PACK & SEND moves and handles local and international freight through a network of retail and logistics services stores. It's a one-stop professional custom packaging shop for retail and business customers. We are looking to grant franchises to those who are prepared to embrace our 'no limits' culture. Complete the form below to
+## 2. Mexico (Food and Beverage)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1547-mexico (updated 2026-06-29)
+- About: Seeking people with a passion for hospitality. Full training and support provided. Get in touch: Contact: Mexico FANZ Member: No
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 10 (avg 134 Google reviews)
-  - [East] Unit 3/335 Ti Rakau Drive, Burswood, Auckland 2012 | 09 913 1950 | 4.9 stars, 299 reviews
-  - [Central] Unit 19/273 Neilson Street, Onehunga, Auckland 1061 | 09 666 8808 | 4.8 stars, 22 reviews <- fewest reviews, good LSM talking point
-  - [Central] 1/8 Kingdon Street, Newmarket, Auckland 1023 | 09 915 5158 | 4.6 stars, 56 reviews <- fewest reviews, good LSM talking point
-  - [West] 354 Rosebank Road, Avondale, Auckland 1026 | 09 953 3903 | 4.9 stars, 159 reviews
-  - [South] 71/18 Lambie Drive, Manukau City Centre, Auckland 2104 | 09 950 8642 | 4.8 stars, 139 reviews
-  - [Central] 8 Mahuhu Crescent, CBD, Auckland 1010 | 09 909 9099 | 4.6 stars, 108 reviews
-  - [Central] 4/82 Carr Road, Mount Roskill, Auckland 1041 | 09 952 1999 | 5 stars, 97 reviews
-  - [South] 212 Great South Road, Takanini, Auckland 2112 | 09 956 1734 | 4.8 stars, 49 reviews <- fewest reviews, good LSM talking point
-  - [North Shore] 77 Barrys Point Road, Takapuna, Auckland 0622 | 09 486 3355 | 4.9 stars, 303 reviews
-  - [North Shore] 8 Triton Drive, Rosedale, Auckland 0632 | 09 476 6467 | 4.8 stars, 111 reviews
+- Auckland outlets found: 2 (avg 1560 Google reviews)
+  - [Central] 23 Britomart Place, Auckland CBD, Auckland 1010 | 09 553 8666 | 4.3 stars, 1543 reviews
+  - [Central] Corner Ladies Mile &, Main Highway, Ellerslie, Auckland 1051 | 09 600 2216 | 4.2 stars, 1578 reviews
 
-## 3. Cutshop (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1080-cutshop (updated 2026-02-10)
-- About: Own and manage a Cutshop® programming and production team, producing high quality cabinetry for kitchens, wardrobes, garage shelves, and more. Cutshop® franchisees provide bespoke products in a vibrant residential new-build and renovation sector where existing trade production can’t keep up with the growing market. Complete the form below to receive more detailed information from Cutshop
+## 3. Versatile (Home and Building)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1123-versatile-homes-and-buildings (updated 2026-03-26)
+- About: Join a nationwide building solutions network with over 40 years of success. Get in touch: Contact: Versatile FANZ Member: No
 - Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-- Auckland outlets found: 2 (avg 34 Google reviews)
-  - [East] H/135 Pilkington Road, Panmure, Auckland 1072 | 09 527 2856 | 4.7 stars, 49 reviews
-  - [North Shore] 12 John Glenn Avenue, Rosedale, Auckland 0632 | 09 869 8690 | 4.8 stars, 20 reviews
+- Auckland outlets found: 1 (avg 22 Google reviews)
+  - [South] 60 Plunket Avenue, Papatoetoe, Auckland 2104 | 09 278 4000 | 4.2 stars, 22 reviews
 
-## 4. Urban Homes (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1748-urban-homes (updated 2026-07-31)
-- About: Join a trusted New Zealand construction brand and build your own business with confidence. As an Urban Homes franchisee, you’ll build your own business backed by our award-winning brand, proven systems, and unwavering support - working together to create quality homes and lasting success Complete the form below to receive more detailed information from Urban Homes
+## 4. Milestone Homes (Home and Building)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1307-milestone-homes (updated 2024-12-17)
+- About: Milestone Homes delivers a proven and smart franchisee package nationwide. Get in touch: Contact: Milestone Homes FANZ Member: No
 - Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
 
-## 5. Mr Whippy (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1010-mr-whippy (updated 2024-12-17)
-- About: Mr Whippy is looking for new owner/operators nationwide. Get in touch: Contact: Mr Whippy FANZ Member: No
+## 5. STIHL SHOP (Retail)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1102-stihl-shop (updated 2025-02-20)
+- About: A network of independent, locally owned specialist outdoor power equipment retailers. Get in touch: Contact: STIHL SHOP FANZ Member: No
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
 
-## 6. MeloYelo E-Bikes (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1583-meloyelo-ebikes (updated 2025-08-06)
-- About: Become a MeloYelo ebike franchisee - work from home selling and servicing e-bikes. Get in touch: Contact: MeloYelo E-Bikes FANZ Member: No
+## 6. Guthrie Bowron (Retail)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/56-guthrie-bowron (updated 2024-12-17)
+- About: The number one home decorating franchise in New Zealand, specialising in paint, wallpaper, custom-made curtains and blinds, flooring and decorating tools. Franchisees benefit from an established name, a strong support system, central purchasing negotiation and active national advertising campaigns. Complete the form below to receive more detailed information from Guthrie Bowron
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
 
-## 7. LCF Fun Languages NZ (Leisure & Education)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1290-lcf-fun-languages-nz (updated 2024-12-17)
-- About: We offer language clubs for children in childcare centres and schools. Get in touch: Contact: LCF Fun Languages NZ FANZ Member: No
+## 7. EduExperts (Leisure & Education)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1556-eduexperts (updated 2024-12-17)
+- About: After school tutoring programmes for primary, intermediate and high school children. Get in touch: Contact: EduExperts FANZ Member: No
 - Suggested REACH fit: Community Reach: reach local families around each centre
 
-## 8. Hire A Maid (Home Services)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1309-hire-a-maid (updated 2024-12-17)
-- About: Hire a Maid is an experienced, fully supported and professional provider of high quality home and commercial cleaning services. We are seeking motivated franchise owners who have the drive to provide exceptional services to their clients and be your own boss. Complete the form below to receive more detailed information from Hire A Maid
-- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-
-## 9. My After School Headquarters (MASH) (Leisure & Education)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1531-my-after-school-headquarters (updated 2024-12-17)
-- About: Make a difference in children’s lives today with our out-of-school programmes. Get in touch: Contact: My After School Headquarters (MASH) FANZ Member: No
+## 8. Kumon (Leisure & Education)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1662-kumon (updated 2024-12-17)
+- About: With over 3.5 million students worldwide, Kumon is the world’s largest provider of individualised mathematics and English programmes. Founded in 1958, Kumon has generous subsidies and low start-up costs. Join Kumon to make a difference in your community by developing students into confident self-learners. Complete the form below to receive more detailed information from Kumon
 - Suggested REACH fit: Community Reach: reach local families around each centre
 
-## 10. Moving On (Home Services)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1685-moving-on (updated 2024-12-17)
-- About: Moving On is a complete relocation service specialising in assisting those downsizing or moving to a more supported living environment. The preferred supplier of several retirement providers. We pack, relocate and unpack. We care and put the heart and soul into moving challenges. Complete the form below to receive more detailed information from Moving On
-- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-
-## 11. Cleantastic Commercial Cleaning (Business & Commercial)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/268-cleantastic-commercial-cleaning (updated 2026-02-08)
-- About: An established, award-winning franchise with nearly 300 franchisees operating throughout NZ. This cleaning franchise offers quality cleaning at competitive prices. Franchisees utilise the well-developed systems and technical expertise to become successful business owners. Comprehensive training, equipment, uniforms and business cards are provided. Complete the form below to receive more detailed i
+## 9. New Zealand Sotheby's International Realty (NZSIR) (Business & Commercial)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1657-new-zealand-sotheby-s-international-realty-nzsir (updated 2024-12-17)
+- About: New Zealand Sotheby’s International Realty was founded in 2005 by Mark Harris and Julian Brown. Still privately owned, run and operated, the company holds the exclusive rights to the Sothebys International Realty brand in New Zealand. Franchise territories are available. Complete the form below to receive more detailed information from New Zealand Sotheby's International Realty (NZSIR)
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 12. Ultra-Scan NZ Ltd (Business & Commercial)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/213-ultra-scan (updated 2025-04-30)
-- About: Own territory franchise business offering cow scanning and disbudding with proven growth Get in touch: Contact: Ultra-Scan NZ Ltd FANZ Member: No
+## 10. Jani-King (Business & Commercial)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/64-jani-king-nz-ltd (updated 2026-06-18)
+- About: Jani-King is known as the world's number one commercial cleaning franchise company providing full operational sales administration support for franchisees. There has only been one name to turn to for quality and value in the commercial cleaning services - Jani-King, the king of clean. Complete the form below to receive more detailed information from Jani-King
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 13. Oil Changers (Auto & Marine Services)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/843-oil-changers (updated 2024-12-17)
-- About: Oil Changers provide the convenience of drive-through vehicle servicing. No previous experience required. Get in touch: Contact: Oil Changers FANZ Member: No
+## 11. Mobile Hand Car & Marine Grooming (Auto & Marine Services)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/913-mobile-hand-car-marine-grooming (updated 2024-12-17)
+- About: Mobile grooming and detailing service providing professional, environmentally friendly valet services. Get in touch: Contact: Mobile Hand Car & Marine Grooming FANZ Member: No
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 14. AA Auto Centre (Auto & Marine Services)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/889-aa-auto-centre (updated 2024-12-17)
-- About: Become a premier provider in the vehicle service, repair and inspection market. Get in touch: Contact: AA Auto Centre FANZ Member: No
+## 12. Novus (Auto & Marine Services)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1204-novus (updated 2024-12-17)
+- About: Auto glass opportunity offers a proven business model with a nationally recognised brand. Get in touch: Contact: Novus FANZ Member: No
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## Road trip: East
+## Road trip: Central
 Visit order by straight-line distance (check real travel times in Maps):
-1. Burger Wisconsin: 135 Picton Street, Howick, Auckland 2014 https://maps.google.com/?cid=14466335312860715883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-2. PACK & SEND: Unit 3/335 Ti Rakau Drive, Burswood, Auckland 2012 (~4.6 km from previous) https://maps.google.com/?cid=15682114320755102172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-3. Cutshop: H/135 Pilkington Road, Panmure, Auckland 1072 (~5.8 km from previous) https://maps.google.com/?cid=4884952652808050549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+1. Columbus Coffee: 2 Park Road, Grafton, Auckland 1010 https://maps.google.com/?cid=3110008730344989975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+2. Mexico: 23 Britomart Place, Auckland CBD, Auckland 1010 (~1.8 km from previous) https://maps.google.com/?cid=16945638087132718955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
 
 ## Other hot signals to research (not in the directory)
 - REGYMEN Fitness Advances Global Growth with Nine-Location New Zealand Expansion - Club Solutions Magazine (Thu, 08 Oct 2026 13:16:27 GMT) https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmRsNkozaDlFMGhLandnUnZSdXMzcjFOQ0xrc1o0S0QyQ2VqczFhS0lCWWZQb1Q5UXV2NF9GM19CVEFNVTU2d0dWWkdiUkNCOWhtTVdmSUVnbEhXRElzWmtxTHdSMTdRNEtVQ1VtUnBnWlk0eVZVM2JHSG02RlV0THo0SXE3R3lNUjJsa3IxTzRsVzRSZFZkRmdYZXZzRlNPeFF0SFFYZEc1RWpBOWp5dURGWkJ5TnY3T2pVMkJ6RQ?oc=5
