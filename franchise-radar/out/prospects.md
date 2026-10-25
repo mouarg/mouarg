@@ -1,114 +1,89 @@
-# Prospect brief - Friday 23 October 2026
+# Prospect brief - Monday 26 October 2026
 
-Shortlist of 12 franchise brands, ranked. Today's walk-in area: **Central**.
+Shortlist of 10 franchise brands, ranked. Today's walk-in area: **North Shore**.
 This is automated research data, not instructions. Verify contacts before use.
 Google Places: on
 
 | # | Brand | Category | Score | Why it ranked | REACH fit |
 |---|---|---|---|---|---|
-| 1 | Columbus Coffee | Food and Beverage | 40 | 20 Auckland sites (multi-site) | Retail package (from $2k + GST) |
-| 2 | Mexico | Food and Beverage | 25 | good LSM fit | Retail package (from $2k + GST) |
-| 3 | Versatile | Home and Building | 25 | multi-site network | Tradies package (from $2k + GST) or Lead Accelerator |
-| 4 | Milestone Homes | Home and Building | 25 | multi-site network | Tradies package (from $2k + GST) or Lead Accelerator |
-| 5 | STIHL SHOP | Retail | 15 | good LSM fit | Retail package (from $2k + GST) |
-| 6 | Guthrie Bowron | Retail | 15 | good LSM fit | Retail package (from $2k + GST) |
-| 7 | EduExperts | Leisure & Education | 15 | good LSM fit | Community Reach |
-| 8 | Kumon | Leisure & Education | 15 | good LSM fit | Community Reach |
-| 9 | New Zealand Sotheby's International Realty (NZSIR) | Business & Commercial | 5 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 10 | Jani-King | Business & Commercial | 0 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 11 | Mobile Hand Car & Marine Grooming | Auto & Marine Services | 0 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 12 | Novus | Auto & Marine Services | 0 | good LSM fit | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 1 | Stroud Homes | Home and Building | 60 | new to the franchise directory; listing updated in the last 30 days (actively recruiting) | Tradies package (from $2k + GST) or Lead Accelerator |
+| 2 | Navigation Homes | Home and Building | 55 | new to the franchise directory; 5 Auckland sites (multi-site) | Tradies package (from $2k + GST) or Lead Accelerator |
+| 3 | Bidfood | Food and Beverage | 55 | new to the franchise directory; 4 Auckland sites (multi-site) | Retail package (from $2k + GST) |
+| 4 | Zambrero | Food and Beverage | 50 | new to the franchise directory | Retail package (from $2k + GST) |
+| 5 | Night 'n Day Foodstores | Retail | 40 | new to the franchise directory | Retail package (from $2k + GST) |
+| 6 | Cartridge World | Retail | 40 | new to the franchise directory | Retail package (from $2k + GST) |
+| 7 | Quest Apartment Hotels | Business & Commercial | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 8 | Clean Planet | Business & Commercial | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 9 | BoatsmartHQ | Auto & Marine Services | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 10 | Tint a Car | Auto & Marine Services | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
 
-## 1. Columbus Coffee (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/611-columbus-coffee (updated 2025-10-06)
-- About: NZ’s premium café franchise. Highly recognised and trusted brand offering customers exceptional coffee and chef-prepared food. Supreme Franchisee of the Year and Food and Beverage Franchise System of the Year 2015/16. Suit owners with passion for coffee, food and the value of customer relationships. Complete the form below to receive more detailed information from Columbus Coffee
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 20 (avg 356 Google reviews)
-  - [Central] 2 Park Road, Grafton, Auckland 1010 | 09 303 3155 | 3.8 stars, 433 reviews
-  - [Central] 139 Main Highway, Ellerslie, Auckland 1051 | 09 580 0501 | 4 stars, 490 reviews
-  - [Central] Mitre 10 MEGA, 72 Lunn Avenue, Mount Wellington, Auckland 1072 | 09 572 8099 | 4.2 stars, 228 reviews
-  - [Central] 5 Astley Avenue, New Lynn, Auckland 0600 | 09 826 3067 | 3.9 stars, 273 reviews
-  - [Central] 2/100 Mayoral Drive, Auckland CBD, Auckland 1010 | 09 520 1044 | 2.6 stars, 9 reviews <- fewest reviews, good LSM talking point
-  - [East] 113 Felton Mathew Avenue, St Johns, Auckland 1072 | 09 528 2552 | 4.2 stars, 370 reviews
-  - [South] 100 Hospital Road, Ōtāhuhu, Auckland 2104 | 09 276 6596 | 3.4 stars, 212 reviews
-  - [South] Cavendish Drive, Manukau City Centre, Auckland 2016 | 09 263 7344 | 3.8 stars, 698 reviews
-  - [North Shore] 8/38 William Pickering Drive, Rosedale, Auckland 0632 | 09 414 4494 | 4.2 stars, 389 reviews
-  - [West] Mitre 10 Mega, Northside Drive, Westgate, Auckland 0618 | 09 416 2439 | 3.8 stars, 239 reviews
-  - [South] 9 Bishop Dunn Place, Flat Bush, Auckland 2013 | 09 281 3434 | 3.4 stars, 70 reviews <- fewest reviews, good LSM talking point
-  - [East] Shop 1/490 Pakuranga Road, Half Moon Bay, Auckland 2012 | 0210 849 5253 | 4.2 stars, 317 reviews
-  - [East] Sylvia Park Shopping Centre, 286 Mount Wellington Highway, Mount Wellington, Auckland 1060 | 09 580 2398 | 3.9 stars, 778 reviews
-  - [West] 186 Lincoln Road, Henderson, Auckland 0610 | no phone | 3.7 stars, 386 reviews
-  - [South] 230 Great South Road, Takanini, Auckland 2112 | 09 299 9529 | 4.2 stars, 223 reviews
-  - [West] 142 West Coast Road, Glen Eden, Auckland 0602 | 09 818 8187 | 4.3 stars, 580 reviews
-  - [North Shore] 15 Poland Road, Wairau Valley, Auckland 0627 | 09 440 5197 | 4.3 stars, 216 reviews
-  - [South] 61 Lambie Drive, Manukau City Centre, Auckland 2104 | 09 263 7083 | 4 stars, 157 reviews <- fewest reviews, good LSM talking point
-  - [North Shore] 260 Oteha Valley Road, Albany, Auckland 0632 | 09 448 2119 | 4 stars, 678 reviews
-  - [East] 18 Town Centre Drive, East Tāmaki, Botany 1705 | 09 274 9904 | 3.5 stars, 373 reviews
-
-## 2. Mexico (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1547-mexico (updated 2026-06-29)
-- About: Seeking people with a passion for hospitality. Full training and support provided. Get in touch: Contact: Mexico FANZ Member: No
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 2 (avg 1560 Google reviews)
-  - [Central] 23 Britomart Place, Auckland CBD, Auckland 1010 | 09 553 8666 | 4.3 stars, 1543 reviews
-  - [Central] Corner Ladies Mile &, Main Highway, Ellerslie, Auckland 1051 | 09 600 2216 | 4.2 stars, 1578 reviews
-
-## 3. Versatile (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1123-versatile-homes-and-buildings (updated 2026-03-26)
-- About: Join a nationwide building solutions network with over 40 years of success. Get in touch: Contact: Versatile FANZ Member: No
-- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-- Auckland outlets found: 1 (avg 22 Google reviews)
-  - [South] 60 Plunket Avenue, Papatoetoe, Auckland 2104 | 09 278 4000 | 4.2 stars, 22 reviews
-
-## 4. Milestone Homes (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1307-milestone-homes (updated 2024-12-17)
-- About: Milestone Homes delivers a proven and smart franchisee package nationwide. Get in touch: Contact: Milestone Homes FANZ Member: No
+## 1. Stroud Homes (Home and Building)
+- Directory listing: https://franchise.co.nz/franchise-directory/1599-stroud-homes (updated 2026-10-19)
+- About: Stroud Homes offer a fresh approach to building new homes for your customers. Get in touch: Contact: Stroud Homes FANZ Member: No
 - Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
 
-## 5. STIHL SHOP (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1102-stihl-shop (updated 2025-02-20)
-- About: A network of independent, locally owned specialist outdoor power equipment retailers. Get in touch: Contact: STIHL SHOP FANZ Member: No
+## 2. Navigation Homes (Home and Building)
+- Directory listing: https://franchise.co.nz/franchise-directory/1182-navigation-homes (updated 2025-07-23)
+- About: Navigation Homes are offering an opportunity to own and drive a profitable house-building franchise. Proven management systems, support, and the best national supply prices. Extensive range of designs to offer customers. Get off the tools and build an asset for yourself. Complete the form below to receive more detailed information from Navigation Homes
+- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
+- Auckland outlets found: 5 (avg 8 Google reviews)
+  - [South] 1 Jonah Lomu Drive, Paerata, Karaka, Auckland 2124 | 0800 303 207 | - stars, 0 reviews <- fewest reviews, good LSM talking point
+  - [South] 1 Pureirei Drive, Clevedon 2582 | 0800 303 207 | 5 stars, 1 reviews <- fewest reviews, good LSM talking point
+  - [South] 28 Te Rātā Boulevard, Karaka 2124 | 0800 303 207 | 5 stars, 1 reviews <- fewest reviews, good LSM talking point
+  - [South] 786 Paerata Road, Karaka 2676 | 0800 303 207 | 4.8 stars, 22 reviews
+  - [South] 9/73 King Street, Pukekohe 2120 | 021 477 506 | 4.5 stars, 18 reviews
+
+## 3. Bidfood (Food and Beverage)
+- Directory listing: https://franchise.co.nz/franchise-directory/1741-bidfood (updated 2025-07-14)
+- About: Service Providers Bidfood New Zealand is the country’s largest foodservice wholesaler, operating 24 regional branches and supplying food, beverages, kitchen essentials, and specialty products -backed by next day delivery six days a week and the user friendly MyBidfood ordering platform. Complete the form below to
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+- Auckland outlets found: 4 (avg 18 Google reviews)
+  - [South] 12 Verissimo Drive, Māngere, Auckland 2022 | 09 573 7100 | 3.9 stars, 28 reviews
+  - [West] 48 Westpoint Drive, Hobsonville, Auckland 0618 | 09 967 3090 | 4.3 stars, 7 reviews <- fewest reviews, good LSM talking point
+  - [Central] Level 3, Building 8, Central Park 660 Great South Road, Ellerslie, Auckland 1051 | 0800 243 3663 | 2.7 stars, 24 reviews
+  - [East] 6 Paisley Place, Mount Wellington, Auckland 1060 | 09 415 5940 | 4.2 stars, 13 reviews
+
+## 4. Zambrero (Food and Beverage)
+- Directory listing: https://franchise.co.nz/franchise-directory/1108-zambrero (updated 2026-04-13)
+- About: Serving fresh, healthy and flavoursome Mexican food in New Zealand since 2014. Get in touch: Contact: Zambrero FANZ Member: No
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+- Auckland outlets found: 2 (avg 322 Google reviews)
+  - [North Shore] E/252 Oteha Valley Road, Albany, Auckland 0632 | 09 448 1188 | 4.3 stars, 344 reviews
+  - [Central] 200 Mount Wellington Highway, Mount Wellington, Auckland 1060 | 09 527 3497 | 3.8 stars, 299 reviews
+
+## 5. Night 'n Day Foodstores (Retail)
+- Directory listing: https://franchise.co.nz/franchise-directory/94-night-n-day-foodstores (updated 2024-12-17)
+- About: The Night ‘n Day Foodstore franchise, New Zealand’s leading convenience store chain offers group buying, uniformed image, full staff training, assistance in shop layouts and designs, profit reports, assistance with staff rosters, group advertising and full accounting facilities. New sites and conversion of existing businesses welcomed. Complete the form below to receive more detailed information f
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
 
-## 6. Guthrie Bowron (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/56-guthrie-bowron (updated 2024-12-17)
-- About: The number one home decorating franchise in New Zealand, specialising in paint, wallpaper, custom-made curtains and blinds, flooring and decorating tools. Franchisees benefit from an established name, a strong support system, central purchasing negotiation and active national advertising campaigns. Complete the form below to receive more detailed information from Guthrie Bowron
+## 6. Cartridge World (Retail)
+- Directory listing: https://franchise.co.nz/franchise-directory/713-cartridge-world (updated 2024-12-17)
+- About: The largest, most experienced printer cartridge retail and refilling company worldwide. Get in touch: Contact: Cartridge World FANZ Member: No
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
 
-## 7. EduExperts (Leisure & Education)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1556-eduexperts (updated 2024-12-17)
-- About: After school tutoring programmes for primary, intermediate and high school children. Get in touch: Contact: EduExperts FANZ Member: No
-- Suggested REACH fit: Community Reach: reach local families around each centre
-
-## 8. Kumon (Leisure & Education)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1662-kumon (updated 2024-12-17)
-- About: With over 3.5 million students worldwide, Kumon is the world’s largest provider of individualised mathematics and English programmes. Founded in 1958, Kumon has generous subsidies and low start-up costs. Join Kumon to make a difference in your community by developing students into confident self-learners. Complete the form below to receive more detailed information from Kumon
-- Suggested REACH fit: Community Reach: reach local families around each centre
-
-## 9. New Zealand Sotheby's International Realty (NZSIR) (Business & Commercial)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1657-new-zealand-sotheby-s-international-realty-nzsir (updated 2024-12-17)
-- About: New Zealand Sotheby’s International Realty was founded in 2005 by Mark Harris and Julian Brown. Still privately owned, run and operated, the company holds the exclusive rights to the Sothebys International Realty brand in New Zealand. Franchise territories are available. Complete the form below to receive more detailed information from New Zealand Sotheby's International Realty (NZSIR)
+## 7. Quest Apartment Hotels (Business & Commercial)
+- Directory listing: https://franchise.co.nz/franchise-directory/584-quest-apartment-hotels (updated 2026-06-18)
+- About: Quest Apartment Hotels are committed to growth and development and are continuously opening properties in new locations across the globe. Quest delivers value for money, serviced apartment accommodation primarily to meet the needs of the NZ corporate and business traveller. Complete the form below to receive more detailed information from Quest Apartment Hotels
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 10. Jani-King (Business & Commercial)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/64-jani-king-nz-ltd (updated 2026-06-18)
-- About: Jani-King is known as the world's number one commercial cleaning franchise company providing full operational sales administration support for franchisees. There has only been one name to turn to for quality and value in the commercial cleaning services - Jani-King, the king of clean. Complete the form below to receive more detailed information from Jani-King
+## 8. Clean Planet (Business & Commercial)
+- Directory listing: https://franchise.co.nz/franchise-directory/880-clean-planet (updated 2026-05-13)
+- About: Clean Planet empowers you to build a thriving, eco-conscious business with purpose. Our franchisees deliver premium cleaning and property care services while championing health, sustainability, and wellbeing—backed by expert training, support, and a brand committed to a cleaner, greener future. Complete the form below to receive more detailed information from Clean Planet
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 11. Mobile Hand Car & Marine Grooming (Auto & Marine Services)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/913-mobile-hand-car-marine-grooming (updated 2024-12-17)
-- About: Mobile grooming and detailing service providing professional, environmentally friendly valet services. Get in touch: Contact: Mobile Hand Car & Marine Grooming FANZ Member: No
+## 9. BoatsmartHQ (Auto & Marine Services)
+- Directory listing: https://franchise.co.nz/franchise-directory/1537-boatsmarthq (updated 2024-12-17)
+- About: Unique franchise opportunity to manage a fleet of marina or drystack-based boats. Get in touch: Contact: BoatsmartHQ FANZ Member: No
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 12. Novus (Auto & Marine Services)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1204-novus (updated 2024-12-17)
-- About: Auto glass opportunity offers a proven business model with a nationally recognised brand. Get in touch: Contact: Novus FANZ Member: No
+## 10. Tint a Car (Auto & Marine Services)
+- Directory listing: https://franchise.co.nz/franchise-directory/1546-tint-a-car (updated 2024-12-17)
+- About: Experts in car, home and office window tinting for over 50 years. Get in touch: Contact: Tint a Car FANZ Member: No
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## Road trip: Central
+## Road trip: North Shore
 Visit order by straight-line distance (check real travel times in Maps):
-1. Columbus Coffee: 2 Park Road, Grafton, Auckland 1010 https://maps.google.com/?cid=3110008730344989975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-2. Mexico: 23 Britomart Place, Auckland CBD, Auckland 1010 (~1.8 km from previous) https://maps.google.com/?cid=16945638087132718955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+1. Zambrero: E/252 Oteha Valley Road, Albany, Auckland 0632 https://maps.google.com/?cid=1223428908895194769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
 
 ## Other hot signals to research (not in the directory)
 - REGYMEN Fitness Advances Global Growth with Nine-Location New Zealand Expansion - Club Solutions Magazine (Thu, 08 Oct 2026 13:16:27 GMT) https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmRsNkozaDlFMGhLandnUnZSdXMzcjFOQ0xrc1o0S0QyQ2VqczFhS0lCWWZQb1Q5UXV2NF9GM19CVEFNVTU2d0dWWkdiUkNCOWhtTVdmSUVnbEhXRElzWmtxTHdSMTdRNEtVQ1VtUnBnWlk0eVZVM2JHSG02RlV0THo0SXE3R3lNUjJsa3IxTzRsVzRSZFZkRmdYZXZzRlNPeFF0SFFYZEc1RWpBOWp5dURGWkJ5TnY3T2pVMkJ6RQ?oc=5
@@ -118,3 +93,4 @@ Visit order by straight-line distance (check real travel times in Maps):
 - Renewable Energy Powering United Rentals’ New Zealand Expansion - Scoop - New Zealand News (Fri, 16 Oct 2026 01:04:40 GMT) https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGpMR0FFSmlmdkQ1eF9ZOXVXREFkZmdsYXhkVTZISWxfdUNXRWpqSzlvMi1xR0JCRjBFck5fTEc3bDdxQnRNekdfSkxxaFVtaEpmajY3T2hRUnRQcVBNMDdxQUNfZS02TDVON1Fpc25IeEtOOFhUN1k0cTdMVUZKRG5tU3k2emRUbm9xdXU1NEFoaUxobnJyRTNSalBOQWZER25OQWdB?oc=5
 - JB Hi-Fi (ASX:JBH): New Zealand Store Expansion and Small-Format Regional Showrooms? - Kalkine (Thu, 15 Oct 2026 10:05:00 GMT) https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHVaZVVkMmM1LUVPQWxraEtzRnFlTmtydjRuR0JaWW1fQzEteUNsTFdRUG5jQ2hqdjlsUHl0M29Fa3BlbXFvZTJTMFhJWnVkRVM4V0FWTE9fWGF5QUVYRm1UOGktZFdXYzVXS09LMVRDSHF2TXpUV1JNeE5ORHRQNzFkQTVvMHlSWW1aVjBjZ0p5V1ZWWTQ2Y1pzanJtaHQxbzd6YUJZSVpfbDMzWUVucGpFcEQ?oc=5
 - BROTHERS POWER BATTERY WORLD CASTLE HILL GROWTH AS EXPANSION P… - Business Franchise Australia & New Zealand (Tue, 20 Oct 2026 01:03:36 GMT) https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN1puV2RTRGdMQklZeldhZ3BMSklaeWtjWU9DY3NURHJ6aFhScmVIVG5lZS1TcEo5SzdRN2x3UnpHSkNidXlRaUlodHNDX3B1UzV5ZEZ3cm0xUTQ0UngtQmpwWWpfRnNMdVNUczBaaC1ITTZGY3dDdkk4dm16NXB4bEtMZzBYN1loNEdhSE5QNFp5ZWZObl9xZUVPak1EQXlacXVzd25NQmpaSjJHR3FOYjVYdUxhbjJaTTlwSG5fMC1UQQ?oc=5
+- Powell Electronics Australia and New Zealand Expansion to Strengthen Defence and Aerospace Supply Chains - Electronics Media (Wed, 21 Oct 2026 04:32:23 GMT) https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXlMSkNwckwzdVU1QXRmOFlFVDVVZVVya2hZVC1tZUJmQ25WQ3FZMmhSY3hFNXZKT245aWV5S3VmTWptZGRvcHI0NHFfcFpDOFY1d0hTYWxSX0p0SE5hNzREYVRqeUhjcFZ6a1JnUG43Z2Vsb1d6MVBfU2VENUpZNGp4TVp0Y1dqdVNObU53LXJZN2J4cVhWYWlBb3RSMXNjQ3c?oc=5

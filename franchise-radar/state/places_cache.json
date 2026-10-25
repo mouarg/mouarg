@@ -3751,5 +3751,144 @@
     "area": "Central"
    }
   ]
+ },
+ "Stroud Homes": {
+  "ts": 1792948487.8147776,
+  "outlets": []
+ },
+ "Navigation Homes": {
+  "ts": 1792948489.281402,
+  "outlets": [
+   {
+    "name": "Navigation Homes Paerata Showhome",
+    "address": "1 Jonah Lomu Drive, Paerata, Karaka, Auckland 2124",
+    "phone": "0800 303 207",
+    "website": "https://www.navigationhomes.co.nz/?utm_source=1jonahlomudrive&utm_medium=googleplaces",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=7315690328742470135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.146695199999996,
+    "lng": 174.8875913,
+    "area": "South"
+   },
+   {
+    "name": "Navigation Homes Clevedon Showhome",
+    "address": "1 Pureirei Drive, Clevedon 2582",
+    "phone": "0800 303 207",
+    "website": "https://www.navigationhomes.co.nz/franchises/east-auckland/",
+    "rating": 5,
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=8742879130178588240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.000642899999995,
+    "lng": 175.0328856,
+    "area": "South"
+   },
+   {
+    "name": "Navigation Homes Counties Showhome",
+    "address": "28 Te Rātā Boulevard, Karaka 2124",
+    "phone": "0800 303 207",
+    "website": "http://www.navigationhomes.co.nz/",
+    "rating": 5,
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=13361963242938300825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.1371646,
+    "lng": 174.88893149999998,
+    "area": "South"
+   },
+   {
+    "name": "Navigation Homes Counties",
+    "address": "786 Paerata Road, Karaka 2676",
+    "phone": "0800 303 207",
+    "website": "https://www.navigationhomes.co.nz/franchises/counties/?utm_source=karakaroad&utm_medium=googleplaces",
+    "rating": 4.8,
+    "reviews": 22,
+    "maps": "https://maps.google.com/?cid=2136155462568464706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.1468452,
+    "lng": 174.88296789999998,
+    "area": "South"
+   },
+   {
+    "name": "Navigation Homes Head Office",
+    "address": "9/73 King Street, Pukekohe 2120",
+    "phone": "021 477 506",
+    "website": "https://www.navigationhomes.co.nz/?utm_source=headoffice&utm_medium=googleplaces",
+    "rating": 4.5,
+    "reviews": 18,
+    "maps": "https://maps.google.com/?cid=5927767216479757179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.2007293,
+    "lng": 174.9030305,
+    "area": "South"
+   }
+  ]
+ },
+ "Bidfood": {
+  "ts": 1792948489.5245047,
+  "outlets": [
+   {
+    "name": "Bidfood - Foodservice Auckland South",
+    "address": "12 Verissimo Drive, Māngere, Auckland 2022",
+    "phone": "09 573 7100",
+    "website": "http://www.bidfood.co.nz/",
+    "rating": 3.9,
+    "reviews": 28,
+    "maps": "https://maps.google.com/?cid=6397765703693745232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9827369,
+    "lng": 174.7919538,
+    "area": "South"
+   },
+   {
+    "name": "Bidfood - Auckland North Foodservice",
+    "address": "48 Westpoint Drive, Hobsonville, Auckland 0618",
+    "phone": "09 967 3090",
+    "website": "http://www.bidfood.co.nz/",
+    "rating": 4.3,
+    "reviews": 7,
+    "maps": "https://maps.google.com/?cid=10855493547700940304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8063613,
+    "lng": 174.63267629999999,
+    "area": "West"
+   },
+   {
+    "name": "Bidfood NZ Support Office",
+    "address": "Level 3, Building 8, Central Park 660 Great South Road, Ellerslie, Auckland 1051",
+    "phone": "0800 243 3663",
+    "website": "http://www.bidfood.co.nz/",
+    "rating": 2.7,
+    "reviews": 24,
+    "maps": "https://maps.google.com/?cid=2568659014995984866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9020253,
+    "lng": 174.8072348,
+    "area": "Central"
+   },
+   {
+    "name": "Bidfood - Logistics Auckland",
+    "address": "6 Paisley Place, Mount Wellington, Auckland 1060",
+    "phone": "09 415 5940",
+    "website": "http://www.bidfood.co.nz/",
+    "rating": 4.2,
+    "reviews": 13,
+    "maps": "https://maps.google.com/?cid=8347315863970074766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9186745,
+    "lng": 174.85530609999998,
+    "area": "East"
+   }
+  ]
+ },
+ "MTP Renovations & Maintenance": {
+  "ts": 1792948489.819152,
+  "outlets": [
+   {
+    "name": "MTP Renovations & Maintenance",
+    "address": "16B Tarndale Grove, Albany, Auckland 0632",
+    "phone": "09 929 4546",
+    "website": "https://renovations.nz/",
+    "rating": 4.4,
+    "reviews": 27,
+    "maps": "https://maps.google.com/?cid=10839363068508871855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7468722,
+    "lng": 174.7032573,
+    "area": "North Shore"
+   }
+  ]
  }
 }
