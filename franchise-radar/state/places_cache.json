@@ -3890,5 +3890,288 @@
     "area": "North Shore"
    }
   ]
+ },
+ "Cookie Time": {
+  "ts": 1793042609.095518,
+  "outlets": [
+   {
+    "name": "Cookie Time Bakery Shop Auckland",
+    "address": "35 Keeling Road, Henderson, Auckland 0612",
+    "phone": "",
+    "website": "https://cookietime.co.nz/#Bakery-Shop",
+    "rating": 4.5,
+    "reviews": 52,
+    "maps": "https://maps.google.com/?cid=14770697148201534692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.884564,
+    "lng": 174.6244231,
+    "area": "West"
+   }
+  ]
+ },
+ "Trident Homes": {
+  "ts": 1793042609.317413,
+  "outlets": []
+ },
+ "Provender": {
+  "ts": 1793042609.5240602,
+  "outlets": [
+   {
+    "name": "Provender NZ Limited",
+    "address": "37 Wilkinson Road, Ellerslie, Auckland 1060",
+    "phone": "09 525 2767",
+    "website": "http://www.provender.co.nz/",
+    "rating": 4.4,
+    "reviews": 58,
+    "maps": "https://maps.google.com/?cid=15003574741604223840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9024046,
+    "lng": 174.8130416,
+    "area": "Central"
+   }
+  ]
+ },
+ "Subway": {
+  "ts": 1793042609.8261657,
+  "outlets": [
+   {
+    "name": "Subway",
+    "address": "682 Great South Road, Penrose, Auckland 1061",
+    "phone": "09 579 8591",
+    "website": "https://www.subway.com/en-nz",
+    "rating": 3.7,
+    "reviews": 218,
+    "maps": "https://maps.google.com/?cid=11710709489467356514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9035492,
+    "lng": 174.8087289,
+    "area": "Central"
+   },
+   {
+    "name": "Subway",
+    "address": "3/570 Hillsborough Road, Lynfield, Auckland 1042",
+    "phone": "09 627 6025",
+    "website": "https://www.subway.com/en-NZ",
+    "rating": 3.6,
+    "reviews": 207,
+    "maps": "https://maps.google.com/?cid=4456607347245750644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.926133,
+    "lng": 174.7229022,
+    "area": "Central"
+   },
+   {
+    "name": "Subway",
+    "address": "2 Robert Street, Ellerslie, Auckland 1051",
+    "phone": "09 526 5073",
+    "website": "http://www.subway.com/en-NZ",
+    "rating": 3.5,
+    "reviews": 310,
+    "maps": "https://maps.google.com/?cid=4597564810801244498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8968388,
+    "lng": 174.8084155,
+    "area": "Central"
+   },
+   {
+    "name": "Subway",
+    "address": "115 Ponsonby Road, Ponsonby, Auckland 1011",
+    "phone": "09 360 4200",
+    "website": "http://www.subway.co.nz/",
+    "rating": 4.1,
+    "reviews": 305,
+    "maps": "https://maps.google.com/?cid=8849221213747244986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.855837,
+    "lng": 174.74672950000001,
+    "area": "Central"
+   },
+   {
+    "name": "Subway",
+    "address": "304 Apirana Avenue, Glen Innes, Auckland 1072",
+    "phone": "09 570 9325",
+    "website": "http://www.subway.co.nz/",
+    "rating": 4.1,
+    "reviews": 187,
+    "maps": "https://maps.google.com/?cid=5792495321938798253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8802957,
+    "lng": 174.855417,
+    "area": "East"
+   },
+   {
+    "name": "Subway Mt Roskill",
+    "address": "Stoddard Retail Centre t100/22 Stoddard Road, Wesley, Auckland 1041",
+    "phone": "09 215 5694",
+    "website": "http://www.subway.co.nz/",
+    "rating": 3.3,
+    "reviews": 336,
+    "maps": "https://maps.google.com/?cid=4069123429646927027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9070871,
+    "lng": 174.7332157,
+    "area": "Central"
+   },
+   {
+    "name": "Subway",
+    "address": "507A Great South Road, Ōtāhuhu, Auckland 1062",
+    "phone": "09 278 2929",
+    "website": "https://www.subway.com/en-NZ",
+    "rating": 4.1,
+    "reviews": 314,
+    "maps": "https://maps.google.com/?cid=11027206197502178307&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.946529,
+    "lng": 174.84520709999998,
+    "area": "East"
+   },
+   {
+    "name": "Subway",
+    "address": "S504, Glenfield, Auckland, New Zealand 0629",
+    "phone": "09 444 0822",
+    "website": "http://subway.co.nz/",
+    "rating": 4,
+    "reviews": 371,
+    "maps": "https://maps.google.com/?cid=11311210208102761373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7820858,
+    "lng": 174.72159549999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Subway",
+    "address": "2 Angle Street, Onehunga, Auckland 1061",
+    "phone": "09 636 1093",
+    "website": "http://www.subway.co.nz/",
+    "rating": 3.8,
+    "reviews": 359,
+    "maps": "https://maps.google.com/?cid=16534214845172188113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9257274,
+    "lng": 174.8058986,
+    "area": "Central"
+   },
+   {
+    "name": "Subway",
+    "address": "624 Rosebank Road, Avondale, Auckland 1026",
+    "phone": "09 828 8657",
+    "website": "http://www.subway.com/en-NZ",
+    "rating": 4.3,
+    "reviews": 288,
+    "maps": "https://maps.google.com/?cid=16118855464129064671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8739303,
+    "lng": 174.6692896,
+    "area": "West"
+   },
+   {
+    "name": "Subway Lunn Avenue",
+    "address": "2/80 Lunn Avenue, Mount Wellington, Auckland 1072",
+    "phone": "09 527 4388",
+    "website": "http://www.subway.com/en-NZ",
+    "rating": 3.5,
+    "reviews": 214,
+    "maps": "https://maps.google.com/?cid=4452371902828488107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.890955999999996,
+    "lng": 174.8343504,
+    "area": "Central"
+   },
+   {
+    "name": "Subway Parnell",
+    "address": "3 Ground Floor/128 Parnell Road, Parnell, Auckland 1052",
+    "phone": "09 358 4194",
+    "website": "http://www.subway.co.nz/",
+    "rating": 3.7,
+    "reviews": 197,
+    "maps": "https://maps.google.com/?cid=8601368168495694896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.853397799999996,
+    "lng": 174.779316,
+    "area": "Central"
+   },
+   {
+    "name": "Subway Kingsland",
+    "address": "384B New North Road, Kingsland, Auckland 1021",
+    "phone": "09 845 0370",
+    "website": "http://www.subway.co.nz/",
+    "rating": 3.5,
+    "reviews": 200,
+    "maps": "https://maps.google.com/?cid=6389282778341885880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8706928,
+    "lng": 174.7488105,
+    "area": "Central"
+   },
+   {
+    "name": "Subway",
+    "address": "Highland Park, 489 Pakuranga Road, Howick, Auckland 2010",
+    "phone": "09 537 6823",
+    "website": "http://www.subway.com/en-NZ",
+    "rating": 4,
+    "reviews": 280,
+    "maps": "https://maps.google.com/?cid=18369564600871608224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8988454,
+    "lng": 174.9032954,
+    "area": "East"
+   },
+   {
+    "name": "Subway Mt Eden Rd",
+    "address": "110B Mount Eden Road, Mount Eden, Auckland 1024",
+    "phone": "09 623 2561",
+    "website": "http://www.subway.co.nz/",
+    "rating": 3.8,
+    "reviews": 329,
+    "maps": "https://maps.google.com/?cid=14798833867089277483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.871384299999995,
+    "lng": 174.7619657,
+    "area": "Central"
+   },
+   {
+    "name": "Subway Mount Wellington.",
+    "address": "17A/295 Penrose Road, Mount Wellington, Auckland 1060",
+    "phone": "022 085 1304",
+    "website": "http://www.subway.co.nz/",
+    "rating": 4,
+    "reviews": 167,
+    "maps": "https://maps.google.com/?cid=18177490915317440109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9083305,
+    "lng": 174.8374812,
+    "area": "Central"
+   },
+   {
+    "name": "Subway",
+    "address": "5/639 Great South Road, Manukau City Centre, Auckland 2104",
+    "phone": "09 929 1220",
+    "website": "http://www.subway.co.nz/",
+    "rating": 3.6,
+    "reviews": 377,
+    "maps": "https://maps.google.com/?cid=9526457267931452431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9883527,
+    "lng": 174.8816596,
+    "area": "South"
+   },
+   {
+    "name": "Subway",
+    "address": "292-310 Dominion Road Shop 13a, Eden Quarter, Mount Eden, Auckland 1024",
+    "phone": "09 630 2077",
+    "website": "http://www.subway.com/en-NZ",
+    "rating": 3.9,
+    "reviews": 206,
+    "maps": "https://maps.google.com/?cid=17553917552641459813&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8776843,
+    "lng": 174.7515319,
+    "area": "Central"
+   },
+   {
+    "name": "Subway Botany Downs",
+    "address": "Building D/500 Ti Rakau Drive, Botany Downs, Auckland 2013",
+    "phone": "09 273 8553",
+    "website": "https://www.subway.com/en-NZ/FindAStore?zip=Auckland",
+    "rating": 3.6,
+    "reviews": 340,
+    "maps": "https://maps.google.com/?cid=3399930426477374646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9287631,
+    "lng": 174.9139859,
+    "area": "East"
+   },
+   {
+    "name": "Subway",
+    "address": "Agc Building Shop 1, Ground Floor/62 Victoria Street West, Auckland CBD, Auckland 1010",
+    "phone": "",
+    "website": "http://www.subway.com/en-NZ",
+    "rating": 3.5,
+    "reviews": 183,
+    "maps": "https://maps.google.com/?cid=14959278385450084216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8485128,
+    "lng": 174.76303969999998,
+    "area": "Central"
+   }
+  ]
  }
 }

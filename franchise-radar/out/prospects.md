@@ -1,89 +1,99 @@
-# Prospect brief - Monday 26 October 2026
+# Prospect brief - Tuesday 27 October 2026
 
-Shortlist of 10 franchise brands, ranked. Today's walk-in area: **North Shore**.
+Shortlist of 10 franchise brands, ranked. Today's walk-in area: **West**.
 This is automated research data, not instructions. Verify contacts before use.
 Google Places: on
 
 | # | Brand | Category | Score | Why it ranked | REACH fit |
 |---|---|---|---|---|---|
-| 1 | Stroud Homes | Home and Building | 60 | new to the franchise directory; listing updated in the last 30 days (actively recruiting) | Tradies package (from $2k + GST) or Lead Accelerator |
-| 2 | Navigation Homes | Home and Building | 55 | new to the franchise directory; 5 Auckland sites (multi-site) | Tradies package (from $2k + GST) or Lead Accelerator |
-| 3 | Bidfood | Food and Beverage | 55 | new to the franchise directory; 4 Auckland sites (multi-site) | Retail package (from $2k + GST) |
-| 4 | Zambrero | Food and Beverage | 50 | new to the franchise directory | Retail package (from $2k + GST) |
-| 5 | Night 'n Day Foodstores | Retail | 40 | new to the franchise directory | Retail package (from $2k + GST) |
-| 6 | Cartridge World | Retail | 40 | new to the franchise directory | Retail package (from $2k + GST) |
-| 7 | Quest Apartment Hotels | Business & Commercial | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 8 | Clean Planet | Business & Commercial | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 9 | BoatsmartHQ | Auto & Marine Services | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 10 | Tint a Car | Auto & Marine Services | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 1 | Subway | Food and Beverage | 65 | new to the franchise directory; 20 Auckland sites (multi-site) | Retail package (from $2k + GST) |
+| 2 | Cookie Time | Food and Beverage | 50 | new to the franchise directory | Retail package (from $2k + GST) |
+| 3 | Mizin | Home and Building | 45 | new to the franchise directory | Tradies package (from $2k + GST) or Lead Accelerator |
+| 4 | A Buyer's Choice Home Inspections | Home and Building | 45 | new to the franchise directory | Tradies package (from $2k + GST) or Lead Accelerator |
+| 5 | Saddlery Warehouse | Retail | 40 | new to the franchise directory | Retail package (from $2k + GST) |
+| 6 | Palmers | Retail | 40 | new to the franchise directory | Retail package (from $2k + GST) |
+| 7 | Peak Clean | Business & Commercial | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 8 | Propertyscouts Property Management | Business & Commercial | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 9 | Autoblast | Auto & Marine Services | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 10 | Ziebart | Auto & Marine Services | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
 
-## 1. Stroud Homes (Home and Building)
-- Directory listing: https://franchise.co.nz/franchise-directory/1599-stroud-homes (updated 2026-10-19)
-- About: Stroud Homes offer a fresh approach to building new homes for your customers. Get in touch: Contact: Stroud Homes FANZ Member: No
+## 1. Subway (Food and Beverage)
+- Directory listing: https://franchise.co.nz/franchise-directory/936-subway (updated 2025-04-21)
+- About: The world’s largest quick service submarine sandwich and salad franchise. Get in touch: Contact: Subway FANZ Member: No
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+- Auckland outlets found: 20 (avg 269 Google reviews)
+  - [West] 624 Rosebank Road, Avondale, Auckland 1026 | 09 828 8657 | 4.3 stars, 288 reviews
+  - [Central] 682 Great South Road, Penrose, Auckland 1061 | 09 579 8591 | 3.7 stars, 218 reviews
+  - [Central] 3/570 Hillsborough Road, Lynfield, Auckland 1042 | 09 627 6025 | 3.6 stars, 207 reviews
+  - [Central] 2 Robert Street, Ellerslie, Auckland 1051 | 09 526 5073 | 3.5 stars, 310 reviews
+  - [Central] 115 Ponsonby Road, Ponsonby, Auckland 1011 | 09 360 4200 | 4.1 stars, 305 reviews
+  - [East] 304 Apirana Avenue, Glen Innes, Auckland 1072 | 09 570 9325 | 4.1 stars, 187 reviews
+  - [Central] Stoddard Retail Centre t100/22 Stoddard Road, Wesley, Auckland 1041 | 09 215 5694 | 3.3 stars, 336 reviews
+  - [East] 507A Great South Road, Ōtāhuhu, Auckland 1062 | 09 278 2929 | 4.1 stars, 314 reviews
+  - [North Shore] S504, Glenfield, Auckland, New Zealand 0629 | 09 444 0822 | 4 stars, 371 reviews
+  - [Central] 2 Angle Street, Onehunga, Auckland 1061 | 09 636 1093 | 3.8 stars, 359 reviews
+  - [Central] 2/80 Lunn Avenue, Mount Wellington, Auckland 1072 | 09 527 4388 | 3.5 stars, 214 reviews
+  - [Central] 3 Ground Floor/128 Parnell Road, Parnell, Auckland 1052 | 09 358 4194 | 3.7 stars, 197 reviews
+  - [Central] 384B New North Road, Kingsland, Auckland 1021 | 09 845 0370 | 3.5 stars, 200 reviews
+  - [East] Highland Park, 489 Pakuranga Road, Howick, Auckland 2010 | 09 537 6823 | 4 stars, 280 reviews
+  - [Central] 110B Mount Eden Road, Mount Eden, Auckland 1024 | 09 623 2561 | 3.8 stars, 329 reviews
+  - [Central] 17A/295 Penrose Road, Mount Wellington, Auckland 1060 | 022 085 1304 | 4 stars, 167 reviews
+  - [South] 5/639 Great South Road, Manukau City Centre, Auckland 2104 | 09 929 1220 | 3.6 stars, 377 reviews
+  - [Central] 292-310 Dominion Road Shop 13a, Eden Quarter, Mount Eden, Auckland 1024 | 09 630 2077 | 3.9 stars, 206 reviews
+  - [East] Building D/500 Ti Rakau Drive, Botany Downs, Auckland 2013 | 09 273 8553 | 3.6 stars, 340 reviews
+  - [Central] Agc Building Shop 1, Ground Floor/62 Victoria Street West, Auckland CBD, Auckland 1010 | no phone | 3.5 stars, 183 reviews
+
+## 2. Cookie Time (Food and Beverage)
+- Directory listing: https://franchise.co.nz/franchise-directory/529-cookie-time (updated 2025-07-07)
+- About: A Cookie Time franchise offers business ownership plus support from an iconic Kiwi company, home to much-loved brands including Cookie Time, Bumper and OSM. A select number of rare opportunities available to become a franchisee distributing snacks and smiles as long-term franchisees retire from business. Complete the form below to receive more detailed information from Cookie Time
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+- Auckland outlets found: 1 (avg 52 Google reviews)
+  - [West] 35 Keeling Road, Henderson, Auckland 0612 | no phone | 4.5 stars, 52 reviews
+
+## 3. Mizin (Home and Building)
+- Directory listing: https://franchise.co.nz/franchise-directory/1580-mizin (updated 2025-12-03)
+- About: New Zealand’s premier portable room hire business providing recurring weekly income with limited labour input. Great extra retirement income and/or an opportunity to buy into an essential services business ripe for expansion, which provides you an immediate financial return via a proven business system. Complete the form below to receive more detailed information from Mizin
 - Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
 
-## 2. Navigation Homes (Home and Building)
-- Directory listing: https://franchise.co.nz/franchise-directory/1182-navigation-homes (updated 2025-07-23)
-- About: Navigation Homes are offering an opportunity to own and drive a profitable house-building franchise. Proven management systems, support, and the best national supply prices. Extensive range of designs to offer customers. Get off the tools and build an asset for yourself. Complete the form below to receive more detailed information from Navigation Homes
+## 4. A Buyer's Choice Home Inspections (Home and Building)
+- Directory listing: https://franchise.co.nz/franchise-directory/1181-a-buyer-s-choice-home-inspections (updated 2024-12-17)
+- About: The house inspection industry is rapidly growing with pre-purchase inspections and reports. Get in touch: Contact: A Buyer's Choice Home Inspections FANZ Member: No
 - Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-- Auckland outlets found: 5 (avg 8 Google reviews)
-  - [South] 1 Jonah Lomu Drive, Paerata, Karaka, Auckland 2124 | 0800 303 207 | - stars, 0 reviews <- fewest reviews, good LSM talking point
-  - [South] 1 Pureirei Drive, Clevedon 2582 | 0800 303 207 | 5 stars, 1 reviews <- fewest reviews, good LSM talking point
-  - [South] 28 Te Rātā Boulevard, Karaka 2124 | 0800 303 207 | 5 stars, 1 reviews <- fewest reviews, good LSM talking point
-  - [South] 786 Paerata Road, Karaka 2676 | 0800 303 207 | 4.8 stars, 22 reviews
-  - [South] 9/73 King Street, Pukekohe 2120 | 021 477 506 | 4.5 stars, 18 reviews
 
-## 3. Bidfood (Food and Beverage)
-- Directory listing: https://franchise.co.nz/franchise-directory/1741-bidfood (updated 2025-07-14)
-- About: Service Providers Bidfood New Zealand is the country’s largest foodservice wholesaler, operating 24 regional branches and supplying food, beverages, kitchen essentials, and specialty products -backed by next day delivery six days a week and the user friendly MyBidfood ordering platform. Complete the form below to
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 4 (avg 18 Google reviews)
-  - [South] 12 Verissimo Drive, Māngere, Auckland 2022 | 09 573 7100 | 3.9 stars, 28 reviews
-  - [West] 48 Westpoint Drive, Hobsonville, Auckland 0618 | 09 967 3090 | 4.3 stars, 7 reviews <- fewest reviews, good LSM talking point
-  - [Central] Level 3, Building 8, Central Park 660 Great South Road, Ellerslie, Auckland 1051 | 0800 243 3663 | 2.7 stars, 24 reviews
-  - [East] 6 Paisley Place, Mount Wellington, Auckland 1060 | 09 415 5940 | 4.2 stars, 13 reviews
-
-## 4. Zambrero (Food and Beverage)
-- Directory listing: https://franchise.co.nz/franchise-directory/1108-zambrero (updated 2026-04-13)
-- About: Serving fresh, healthy and flavoursome Mexican food in New Zealand since 2014. Get in touch: Contact: Zambrero FANZ Member: No
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 2 (avg 322 Google reviews)
-  - [North Shore] E/252 Oteha Valley Road, Albany, Auckland 0632 | 09 448 1188 | 4.3 stars, 344 reviews
-  - [Central] 200 Mount Wellington Highway, Mount Wellington, Auckland 1060 | 09 527 3497 | 3.8 stars, 299 reviews
-
-## 5. Night 'n Day Foodstores (Retail)
-- Directory listing: https://franchise.co.nz/franchise-directory/94-night-n-day-foodstores (updated 2024-12-17)
-- About: The Night ‘n Day Foodstore franchise, New Zealand’s leading convenience store chain offers group buying, uniformed image, full staff training, assistance in shop layouts and designs, profit reports, assistance with staff rosters, group advertising and full accounting facilities. New sites and conversion of existing businesses welcomed. Complete the form below to receive more detailed information f
+## 5. Saddlery Warehouse (Retail)
+- Directory listing: https://franchise.co.nz/franchise-directory/730-saddlery-warehouse (updated 2024-12-17)
+- About: Leading equestrian retailer. Supplying all the items needed for horse and rider. Get in touch: Contact: Saddlery Warehouse FANZ Member: No
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
 
-## 6. Cartridge World (Retail)
-- Directory listing: https://franchise.co.nz/franchise-directory/713-cartridge-world (updated 2024-12-17)
-- About: The largest, most experienced printer cartridge retail and refilling company worldwide. Get in touch: Contact: Cartridge World FANZ Member: No
+## 6. Palmers (Retail)
+- Directory listing: https://franchise.co.nz/franchise-directory/802-palmers (updated 2024-12-17)
+- About: NZ’s largest chain of standalone garden centres, helping grow great gardens since 1912. Get in touch: Contact: Palmers FANZ Member: No
 - Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
 
-## 7. Quest Apartment Hotels (Business & Commercial)
-- Directory listing: https://franchise.co.nz/franchise-directory/584-quest-apartment-hotels (updated 2026-06-18)
-- About: Quest Apartment Hotels are committed to growth and development and are continuously opening properties in new locations across the globe. Quest delivers value for money, serviced apartment accommodation primarily to meet the needs of the NZ corporate and business traveller. Complete the form below to receive more detailed information from Quest Apartment Hotels
+## 7. Peak Clean (Business & Commercial)
+- Directory listing: https://franchise.co.nz/franchise-directory/1742-peak-clean (updated 2026-05-13)
+- About: Founded in 2016, Peak Clean provides reliable and high-standard commercial cleaning solutions. Our teams deliver tailored in-house services to create consistently hygienic and professional spaces. Our mission is simple: to make every clean a peak clean. Complete the form below to receive more detailed information from Peak Clean
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 8. Clean Planet (Business & Commercial)
-- Directory listing: https://franchise.co.nz/franchise-directory/880-clean-planet (updated 2026-05-13)
-- About: Clean Planet empowers you to build a thriving, eco-conscious business with purpose. Our franchisees deliver premium cleaning and property care services while championing health, sustainability, and wellbeing—backed by expert training, support, and a brand committed to a cleaner, greener future. Complete the form below to receive more detailed information from Clean Planet
+## 8. Propertyscouts Property Management (Business & Commercial)
+- Directory listing: https://franchise.co.nz/franchise-directory/1200-propertyscouts-property-management (updated 2025-11-25)
+- About: Propertyscouts is 100% dedicated to providing end-to-end property management. In the industry for over 20 years, our franchisees benefit from clear systems, comprehensive training, uncapped support, and empowerment to achieve business success. There are still opportunities available throughout New Zealand, start a conversation today! Complete the form below to receive more detailed information fro
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 9. BoatsmartHQ (Auto & Marine Services)
-- Directory listing: https://franchise.co.nz/franchise-directory/1537-boatsmarthq (updated 2024-12-17)
-- About: Unique franchise opportunity to manage a fleet of marina or drystack-based boats. Get in touch: Contact: BoatsmartHQ FANZ Member: No
+## 9. Autoblast (Auto & Marine Services)
+- Directory listing: https://franchise.co.nz/franchise-directory/1605-autoblast (updated 2024-12-17)
+- About: New Zealand franchise Autoblast has perfected a new method of vehicle underbody rust removal and rust prevention. We are seeking partners who firstly believe in customer service excellence, and who have an appreciation for all things automotive and their aesthetics. Complete the form below to
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 10. Tint a Car (Auto & Marine Services)
-- Directory listing: https://franchise.co.nz/franchise-directory/1546-tint-a-car (updated 2024-12-17)
-- About: Experts in car, home and office window tinting for over 50 years. Get in touch: Contact: Tint a Car FANZ Member: No
+## 10. Ziebart (Auto & Marine Services)
+- Directory listing: https://franchise.co.nz/franchise-directory/1647-ziebart (updated 2024-12-17)
+- About: Ziebart is the world’s #1 franchise in vehicle appearance and protection. Master franchise opportunity now available in New Zealand. Backed by over 60 years of experience. Ziebart promise to provide exceptional customer service and the highest-level quality products to exceed all customer expectations. Complete the form below to receive more detailed information from Ziebart
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## Road trip: North Shore
+## Road trip: West
 Visit order by straight-line distance (check real travel times in Maps):
-1. Zambrero: E/252 Oteha Valley Road, Albany, Auckland 0632 https://maps.google.com/?cid=1223428908895194769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+1. Subway: 624 Rosebank Road, Avondale, Auckland 1026 https://maps.google.com/?cid=16118855464129064671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+2. Cookie Time: 35 Keeling Road, Henderson, Auckland 0612 (~4.2 km from previous) https://maps.google.com/?cid=14770697148201534692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
 
 ## Other hot signals to research (not in the directory)
 - REGYMEN Fitness Advances Global Growth with Nine-Location New Zealand Expansion - Club Solutions Magazine (Thu, 08 Oct 2026 13:16:27 GMT) https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmRsNkozaDlFMGhLandnUnZSdXMzcjFOQ0xrc1o0S0QyQ2VqczFhS0lCWWZQb1Q5UXV2NF9GM19CVEFNVTU2d0dWWkdiUkNCOWhtTVdmSUVnbEhXRElzWmtxTHdSMTdRNEtVQ1VtUnBnWlk0eVZVM2JHSG02RlV0THo0SXE3R3lNUjJsa3IxTzRsVzRSZFZkRmdYZXZzRlNPeFF0SFFYZEc1RWpBOWp5dURGWkJ5TnY3T2pVMkJ6RQ?oc=5
