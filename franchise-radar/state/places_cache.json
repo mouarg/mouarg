@@ -4173,5 +4173,71 @@
     "area": "Central"
    }
   ]
+ },
+ "Ezy Kitchens": {
+  "ts": 1793126675.198755,
+  "outlets": []
+ },
+ "Kowhai Roof Restoration": {
+  "ts": 1793126675.4826832,
+  "outlets": []
+ },
+ "Latitude Homes": {
+  "ts": 1793126675.7558737,
+  "outlets": [
+   {
+    "name": "Latitude Homes - North & West Auckland",
+    "address": "Level 1, Unit 1/4 Laurenson Road, Hobsonville, Auckland 0618",
+    "phone": "0210 294 4371",
+    "website": "https://www.latitudehomes.co.nz/?utm_source=GMBlisting&utm_medium=organic",
+    "rating": 4.6,
+    "reviews": 33,
+    "maps": "https://maps.google.com/?cid=6055243824501061889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.803457,
+    "lng": 174.6373027,
+    "area": "West"
+   },
+   {
+    "name": "Latitude Homes - Karaka Showhome (COMING SOON)",
+    "address": "8 Suffolk Down Road, Papakura, Karaka 2580",
+    "phone": "021 280 0084",
+    "website": "https://latitudehomes.co.nz/",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=3217977917411342751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0984956,
+    "lng": 174.86790059999998,
+    "area": "South"
+   },
+   {
+    "name": "Latitude Homes - Franklin Office & Showhome",
+    "address": "29 Te Rātā Boulevard, Paerata 2676",
+    "phone": "021 280 0084",
+    "website": "http://www.latitudehomes.co.nz/",
+    "rating": 5,
+    "reviews": 3,
+    "maps": "https://maps.google.com/?cid=16260830908486645535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.137361299999995,
+    "lng": 174.8894372,
+    "area": "South"
+   }
+  ]
+ },
+ "Cobb & Co.": {
+  "ts": 1793126676.005443,
+  "outlets": [
+   {
+    "name": "COBB AND CO COACHES",
+    "address": "1/36 Galway Street, Onehunga, Auckland 1061",
+    "phone": "027 816 8392",
+    "website": "https://www.cobbandco.com/",
+    "rating": 4,
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=15037603105812690349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9260611,
+    "lng": 174.7874821,
+    "area": "Central"
+   }
+  ]
  }
 }
