@@ -4239,5 +4239,432 @@
     "area": "Central"
    }
   ]
+ },
+ "BurgerFuel": {
+  "ts": 1793213705.0626678,
+  "outlets": [
+   {
+    "name": "BurgerFuel Mt Roskill",
+    "address": "22 Stoddard Road, Mount Roskill, Auckland 1041",
+    "phone": "09 620 0005",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.2,
+    "reviews": 1187,
+    "maps": "https://maps.google.com/?cid=13482259245781143445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9071641,
+    "lng": 174.7332652,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Mt Eden",
+    "address": "128 Valley Road, Mount Eden, Auckland 1024",
+    "phone": "09 630 0290",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.4,
+    "reviews": 1117,
+    "maps": "https://maps.google.com/?cid=7129972698290582016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.876183999999995,
+    "lng": 174.751362,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Ponsonby",
+    "address": "114 Ponsonby Road, Grey Lynn, Auckland 1011",
+    "phone": "09 378 6466",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.2,
+    "reviews": 902,
+    "maps": "https://maps.google.com/?cid=12843149899363701185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.85723000000001,
+    "lng": 174.747853,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Ellerslie",
+    "address": "2 Robert Street, Ellerslie, Auckland 1051",
+    "phone": "09 525 7752",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.5,
+    "reviews": 1363,
+    "maps": "https://maps.google.com/?cid=15268333421782031214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.896985,
+    "lng": 174.80836499999998,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Pakuranga",
+    "address": "Unit 6/102 Pakuranga Road, Pakuranga, Auckland 2010",
+    "phone": "09 577 1171",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.6,
+    "reviews": 1047,
+    "maps": "https://maps.google.com/?cid=15948951390086932581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9108237,
+    "lng": 174.8715457,
+    "area": "East"
+   },
+   {
+    "name": "BurgerFuel Mt Wellington",
+    "address": "295 Penrose Road, Mount Wellington, Auckland 1060",
+    "phone": "09 527 7999",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.5,
+    "reviews": 1488,
+    "maps": "https://maps.google.com/?cid=15386341102551798052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.908778,
+    "lng": 174.838181,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Botany Downs",
+    "address": "451 Ti Rakau Drive, Golflands, Auckland 2013",
+    "phone": "09 272 2499",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.3,
+    "reviews": 1272,
+    "maps": "https://maps.google.com/?cid=16925795153163760001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.929449999999996,
+    "lng": 174.909874,
+    "area": "East"
+   },
+   {
+    "name": "BurgerFuel Mission Bay",
+    "address": "61 Tamaki Drive, Mission Bay, Auckland 1071",
+    "phone": "09 521 0400",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.2,
+    "reviews": 1189,
+    "maps": "https://maps.google.com/?cid=9508866963676624014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.848302,
+    "lng": 174.83126299999998,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Customs Street",
+    "address": "13 Customs Street East, Auckland CBD, Auckland 1010",
+    "phone": "09 300 3191",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.5,
+    "reviews": 1388,
+    "maps": "https://maps.google.com/?cid=4328579288271101182&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.844958999999996,
+    "lng": 174.767059,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Queen Street",
+    "address": "291 Queen Street, Auckland CBD, Auckland 1010",
+    "phone": "09 309 0660",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.3,
+    "reviews": 1583,
+    "maps": "https://maps.google.com/?cid=2607724746225018655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.851437,
+    "lng": 174.763962,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Pt Chev",
+    "address": "1/1104 Great North Road, Point Chevalier, Auckland 1022",
+    "phone": "09 815 0588",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.9,
+    "reviews": 1736,
+    "maps": "https://maps.google.com/?cid=3071084759779774482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8692755,
+    "lng": 174.7137857,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Westgate",
+    "address": "579 Don Buck Road, Westgate, Auckland 0614",
+    "phone": "09 832 0013",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.4,
+    "reviews": 1341,
+    "maps": "https://maps.google.com/?cid=11681959422778925540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.82187,
+    "lng": 174.60839199999998,
+    "area": "West"
+   },
+   {
+    "name": "BurgerFuel Henderson",
+    "address": "4/155 Lincoln Road, Henderson, Auckland 0610",
+    "phone": "09 838 7746",
+    "website": "https://eat.burgerfuel.com/",
+    "rating": 4.4,
+    "reviews": 1246,
+    "maps": "https://maps.google.com/?cid=15559794058639141136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.863329,
+    "lng": 174.629801,
+    "area": "West"
+   },
+   {
+    "name": "BurgerFuel New Lynn",
+    "address": "Shop 2/3070A Great North Road, New Lynn, Auckland 0600",
+    "phone": "09 827 6009",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.3,
+    "reviews": 1248,
+    "maps": "https://maps.google.com/?cid=15148215053699375805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9082061,
+    "lng": 174.68269569999998,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Manukau",
+    "address": "652 Great South Road, Manukau City Centre, Auckland 2025",
+    "phone": "09 262 1560",
+    "website": "https://eat.burgerfuel.com/",
+    "rating": 4,
+    "reviews": 754,
+    "maps": "https://maps.google.com/?cid=8136720832634591372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.987012,
+    "lng": 174.88358399999998,
+    "area": "South"
+   },
+   {
+    "name": "BurgerFuel Glenfield",
+    "address": "407 Glenfield Road, Glenfield, Auckland 0629",
+    "phone": "09 444 0118",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.6,
+    "reviews": 2090,
+    "maps": "https://maps.google.com/?cid=14840066106558064739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.781199,
+    "lng": 174.721546,
+    "area": "North Shore"
+   },
+   {
+    "name": "BurgerFuel Parnell",
+    "address": "187 Parnell Road, Parnell, Auckland 1052",
+    "phone": "09 377 3345",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.8,
+    "reviews": 2465,
+    "maps": "https://maps.google.com/?cid=8293288022659728864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.85474,
+    "lng": 174.779845,
+    "area": "Central"
+   },
+   {
+    "name": "BurgerFuel Takapuna",
+    "address": "22 Anzac Street, Takapuna, Auckland 0622",
+    "phone": "09 489 4889",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.4,
+    "reviews": 1056,
+    "maps": "https://maps.google.com/?cid=3662589024444452440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.78633,
+    "lng": 174.772137,
+    "area": "North Shore"
+   },
+   {
+    "name": "BurgerFuel Windsor Park",
+    "address": "Unit 3/544 East Coast Road, Windsor Park, Auckland 0630",
+    "phone": "09 478 4366",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.4,
+    "reviews": 1121,
+    "maps": "https://maps.google.com/?cid=16411399233156285278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.738844,
+    "lng": 174.741308,
+    "area": "North Shore"
+   },
+   {
+    "name": "BurgerFuel Albany",
+    "address": "7/11 Mercari Way, Albany, Auckland 0632",
+    "phone": "09 415 2315",
+    "website": "https://www.burgerfuel.co.nz/nz",
+    "rating": 4.5,
+    "reviews": 1572,
+    "maps": "https://maps.google.com/?cid=12074622244291367249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.732448999999995,
+    "lng": 174.709061,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Cookright Kitchen Services": {
+  "ts": 1793213705.3307238,
+  "outlets": []
+ },
+ "Signature Homes": {
+  "ts": 1793213705.5891633,
+  "outlets": [
+   {
+    "name": "Signature Homes Botany & Manukau",
+    "address": "53 Huntington Drive, Huntington Park, Auckland 2013",
+    "phone": "0800 102 109",
+    "website": "https://www.signature.co.nz/franchise/botany-manukau/",
+    "rating": 4.7,
+    "reviews": 42,
+    "maps": "https://maps.google.com/?cid=578931037887359465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9294528,
+    "lng": 174.905383,
+    "area": "East"
+   },
+   {
+    "name": "Signature Homes Auckland South & Franklin",
+    "address": "458 Karaka Road, Karaka 2580",
+    "phone": "0800 828 822",
+    "website": "https://www.signature.co.nz/franchise/papakura-franklin/",
+    "rating": 4.8,
+    "reviews": 24,
+    "maps": "https://maps.google.com/?cid=15030837473310972928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.125578399999995,
+    "lng": 174.90452,
+    "area": "South"
+   },
+   {
+    "name": "Signature Homes Auranga Showhome",
+    "address": "6 Ahunga Road, Karaka 2113",
+    "phone": "021 120 6373",
+    "website": "",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=3989717250840479658&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.1014949,
+    "lng": 174.93868129999998,
+    "area": "South"
+   },
+   {
+    "name": "Signature Homes West & North-West Auckland",
+    "address": "86a Main Road, Kumeū 0810",
+    "phone": "0800 020 600",
+    "website": "https://www.signature.co.nz/franchise/west-north-west-auckland/",
+    "rating": 4.6,
+    "reviews": 30,
+    "maps": "https://maps.google.com/?cid=16903928847993378722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7761486,
+    "lng": 174.5562861,
+    "area": "West"
+   },
+   {
+    "name": "Signature Homes Park Green Showhome",
+    "address": "42 Evergreen Parade, Rosehill, Auckland 2113",
+    "phone": "0800 828 822",
+    "website": "https://www.signature.co.nz/showhomes/park-green-showhome/",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=389085915592410919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0901699,
+    "lng": 174.92725289999998,
+    "area": "South"
+   },
+   {
+    "name": "Signature Homes Podgora Showhome",
+    "address": "83 Podgora Avenue, Kumeū 0810",
+    "phone": "0800 020 600",
+    "website": "https://www.signature.co.nz/showhomes/podgora-showhome/",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=7104469764004631586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7747276,
+    "lng": 174.5414227,
+    "area": "West"
+   },
+   {
+    "name": "Signature Homes Paerata Rise Showhome",
+    "address": "32 Te Rātā Boulevard, Karaka 2124",
+    "phone": "0800 828 822",
+    "website": "https://www.signature.co.nz/franchise/signature-homes-papakura-franklin",
+    "rating": 4,
+    "reviews": 1,
+    "maps": "https://maps.google.com/?cid=4554269352391671376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.1370988,
+    "lng": 174.8894041,
+    "area": "South"
+   },
+   {
+    "name": "Clevedon's Signature Showhome - Signature Homes",
+    "address": "23 Kakano Street, Clevedon 2582",
+    "phone": "0800 102 109",
+    "website": "https://www.signature.co.nz/showhomes/kakano-showhome/",
+    "rating": null,
+    "reviews": 0,
+    "maps": "https://maps.google.com/?cid=11203516207034919464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.99881200000001,
+    "lng": 175.03341329999998,
+    "area": "South"
+   },
+   {
+    "name": "Signature Homes Rodney & North Shore",
+    "address": "3/3 Hibiscus Coast Highway, Silverdale 0932",
+    "phone": "09 415 9115",
+    "website": "https://www.signature.co.nz/franchise/rodney-north-shore/",
+    "rating": 5,
+    "reviews": 23,
+    "maps": "https://maps.google.com/?cid=2125342084444305227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.6233523,
+    "lng": 174.66780760000003,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Jesters Pies": {
+  "ts": 1793213705.8585541,
+  "outlets": [
+   {
+    "name": "Jesters Pies, Mt Wellington",
+    "address": "65 Lunn Avenue, Mount Wellington, Auckland 1072",
+    "phone": "09 570 7260",
+    "website": "",
+    "rating": 3.6,
+    "reviews": 171,
+    "maps": "https://maps.google.com/?cid=8838415748715282097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8912435,
+    "lng": 174.8355637,
+    "area": "Central"
+   },
+   {
+    "name": "Jesters Pies, Flat Bush",
+    "address": "Botany Junction Shop 10/123 Ormiston Road, Flat Bush, Auckland 2019",
+    "phone": "09 272 8070",
+    "website": "",
+    "rating": 4.1,
+    "reviews": 83,
+    "maps": "https://maps.google.com/?cid=6320113496827909815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.964280099999996,
+    "lng": 174.9029323,
+    "area": "South"
+   },
+   {
+    "name": "Jesters Pies, Westgate",
+    "address": "Westgate Shopping Centre Shop K2/Maki Street, Massey, Auckland 0814",
+    "phone": "09 832 6060",
+    "website": "",
+    "rating": 4.1,
+    "reviews": 118,
+    "maps": "https://maps.google.com/?cid=6965956164163678225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8212762,
+    "lng": 174.6138733,
+    "area": "West"
+   },
+   {
+    "name": "Jesters Pies, Manukau",
+    "address": "792 Great South Road, Manukau City Centre, Auckland 2104",
+    "phone": "09 909 6648",
+    "website": "",
+    "rating": 3.7,
+    "reviews": 112,
+    "maps": "https://maps.google.com/?cid=4809433661709275406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0010985,
+    "lng": 174.8894755,
+    "area": "South"
+   },
+   {
+    "name": "Jesters Pies, Takapuna",
+    "address": "58 Hurstmere Road, Takapuna, Auckland 0622",
+    "phone": "09 489 6141",
+    "website": "",
+    "rating": 3.2,
+    "reviews": 73,
+    "maps": "https://maps.google.com/?cid=12968300252468055544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7873543,
+    "lng": 174.7726133,
+    "area": "North Shore"
+   }
+  ]
  }
 }
