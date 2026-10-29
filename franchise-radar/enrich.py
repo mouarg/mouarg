@@ -29,6 +29,7 @@ AUCKLAND_BOX = {"low": {"latitude": -37.30, "longitude": 174.40},
 PLACES_FIELDS = ",".join(f"places.{f}" for f in [
     "displayName", "formattedAddress", "location", "businessStatus", "googleMapsUri",
     "nationalPhoneNumber", "websiteUri", "rating", "userRatingCount",
+    "regularOpeningHours",  # same Enterprise tier as rating, so no extra cost
 ])
 
 
@@ -36,7 +37,7 @@ def area_of(lat, lng):
     """Rough Auckland area from coordinates, used to rotate the road trip each weekday."""
     if lat > -36.83 and lng > 174.66:
         return "North Shore"
-    if lng < 174.68:
+    if lng < 174.70:  # New Lynn, Henderson, Titirangi
         return "West"
     if lat < -36.95:
         return "South"
@@ -101,6 +102,7 @@ def auckland_outlets(brand):
             "name": name, "address": p.get("formattedAddress", ""),
             "phone": p.get("nationalPhoneNumber", ""), "website": p.get("websiteUri", ""),
             "rating": p.get("rating"), "reviews": p.get("userRatingCount", 0),
+            "has_hours": bool(p.get("regularOpeningHours")),
             "maps": p.get("googleMapsUri", ""), "lat": loc.get("latitude"), "lng": loc.get("longitude"),
             "area": area_of(loc.get("latitude", 0), loc.get("longitude", 0)),
         })

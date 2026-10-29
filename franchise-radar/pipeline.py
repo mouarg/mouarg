@@ -17,16 +17,25 @@ import re
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+import audit
 import enrich
 from radar import EXCLUDE_BRANDS
 
 HERE = Path(__file__).parent
 STATE, OUT = HERE / "state", HERE / "out"
 COOLDOWN_DAYS = 45
+MIN_COOLDOWN_DAYS = 21   # used when the 45-day rest would leave too few brands
+WALKIN_COOLDOWN_DAYS = 60
+WALKINS_PER_DAY = 6
 TRIGGER_DAYS = 14
 MAX_PER_CATEGORY = 2
 
-TODAY = dt.datetime.now(ZoneInfo("Pacific/Auckland")).date()
+# The radar runs the evening before (GitHub delays scheduled runs by hours), so after 3pm
+# NZ the brief is for the next weekday.
+_NOW = dt.datetime.now(ZoneInfo("Pacific/Auckland"))
+TODAY = _NOW.date() + dt.timedelta(days=1 if _NOW.hour >= 15 else 0)
+while TODAY.weekday() >= 5:
+    TODAY += dt.timedelta(days=1)
 ROTATION = ["North Shore", "West", "South", "East", "Central"]  # Mon..Fri
 AREA_TODAY = ROTATION[TODAY.weekday() % 5]
 
@@ -38,26 +47,30 @@ LSM_FIT = re.compile(
     re.I,
 )
 
-# Plain-English REACH fit by category (first match wins). See reach.nz for package detail.
+# Plain-English REACH fit by category (first match wins). Channels per reach.nz/packages;
+# packages start from about $2,000/month + GST.
 REACH_FIT = [
-    (r"food|beverage|cafe|coffee|restaurant|takeaway|retail|optic|pharmac",
-     "Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events"),
+    (r"food|beverage|cafe|coffee|restaurant|takeaway",
+     "Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products"),
+    (r"retail|optic|pharmac",
+     "Retail package: letterbox around each store + retargeting ads, timed to retail events"),
     (r"clean|lawn|garden|home|build|renovat|window|blind|floor|pest|trade|plumb|electric",
-     "Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries"),
+     "Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries"),
     (r"health|beauty|fitness|gym|hair|medical|dental|physio",
-     "Local Booster or Community Reach: letterbox + digital for new client bookings from the local catchment"),
-    (r"education|child|kid|tutor",
-     "Community Reach: reach local families around each centre"),
-    (r"automotive|car|tyre",
-     "Local Booster: letterbox + digital for service bookings near each workshop"),
+     "Local Booster (letterbox + Meta + Google Search) for new client bookings from each catchment"),
+    (r"education|child|kid|tutor|leisure",
+     "Community Reach (letterbox + Google Display + Meta) to reach local families around each centre"),
+    (r"automotive|car|tyre|auto",
+     "Local Booster (letterbox + Meta + Google Search) for service bookings near each workshop"),
     (r"real estate|property",
-     "Real Estate package: premium letterbox + Facebook/Instagram/web ads for target suburbs"),
-    (r"legal|account|insur|business service",
-     "Professional Services package (from $2k + GST): letterbox + professional-platform retargeting"),
+     "Real Estate package or Local Booster: letterbox + Meta + Google Search to farm target suburbs"),
+    (r"legal|account|insur|business",
+     "Professional Services package: letterbox + retargeting on professional platforms"),
     (r"online|e-?commerce|booking|digital",
-     "Traffic Igniter: digital-first growth for online bookings and sales"),
+     "Traffic Igniter (YouTube + Google Search + Meta), digital-first growth"),
 ]
-DEFAULT_FIT = "Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas"
+DEFAULT_FIT = "Pick'n'Mix (letterbox + digital mix curated by REACH) + Data Insights"
+SAMPLING_FIT = re.compile(r"food|beverage|cafe|coffee|restaurant|beauty|health|pet", re.I)
 
 
 def load_json(path, default):
@@ -71,6 +84,26 @@ def reach_fit(category):
     return DEFAULT_FIT
 
 
+def full_funnel(c, signals):
+    """REACH's wider product set for this prospect, beyond the core package."""
+    sites = len(c.get("outlets") or [])
+    multi = sites >= 3 or MULTI_SITE.search(c.get("blurb", ""))
+    plan = [f"Core: {reach_fit(c['category'])}"]
+    if multi:
+        plan.append("HQ: Data Insights + Mortal: catchment mapping per store, territory design and "
+                    "expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); "
+                    "letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)")
+    if signals and not (signals["google_ads"] and signals["meta_pixel"]):
+        missing = [n for n, k in (("Google Search", "google_ads"), ("Meta retargeting", "meta_pixel")) if not signals[k]]
+        plan.append(f"Digital gap: {' and '.join(missing)} not set up -> REACH Digital Marketing")
+    if SAMPLING_FIT.search(c["category"]):
+        plan.append("Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)")
+    if sites >= 8:
+        plan.append("Big network: Inside/Out (adds digital billboards/DOOH) for brand frequency across Auckland")
+    plan.append("Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store")
+    return plan
+
+
 def recent_triggers():
     path = OUT / "triggers.csv"
     if not path.exists():
@@ -81,7 +114,11 @@ def recent_triggers():
 
 
 NZ_NEWS = re.compile(r"\b(nz|new zealand|auckland|wellington|christchurch|kiwi)|- (1news|stuff|nz herald|rnz|odt|newsroom|businessdesk|interest\.co\.nz)", re.I)
-GROWTH_NEWS = re.compile(r"franchise.*(expan|open|launch|territor|new owner|arriv)|expan", re.I)
+# Franchise growth, or a multi-site rollout (e.g. "nine-location NZ expansion"); plain corporate
+# "expansion" news (equipment hire, electronics wholesalers) is left out.
+GROWTH_NEWS = re.compile(r"franchis\w*.*(expan|open|launch|territor|new owner|arriv)|"
+                         r"(expan|launch|open)\w*.*\b(location|studio|store|outlet|clinic|salon|site)s?\b|"
+                         r"\b\w+-location\b", re.I)
 MULTI_SITE = re.compile(r"\d+\s*\+?\s*(stores|outlets|locations|sites|franchisees|branches|salons|clinics)|nationwide|national network|across (new zealand|nz)", re.I)
 
 
@@ -130,12 +167,63 @@ def score(brand, triggers):
 def nearest_neighbour_route(stops):
     if not stops:
         return []
+    stops = list(stops)
     route = [stops.pop(0)]
     while stops:
         nxt = min(stops, key=lambda o: enrich.km(route[-1], o))
         stops.remove(nxt)
         route.append(nxt)
     return route
+
+
+def eligible(brands, surfaced, triggers, cooldown):
+    out = []
+    for b in brands.values():
+        name_l = b["name"].lower()
+        if b.get("supplier") or any(x in name_l for x in EXCLUDE_BRANDS):
+            continue
+        parent = name_l.split()[0]
+        if any(n.lower().split()[0] == parent and days_since(d) < cooldown for n, d in surfaced.items()):
+            continue  # this brand (or a sister brand) was shown recently
+        hits = [t for t in triggers if len(name_l) >= 4 and name_l in t["title"].lower()]
+        s, why = score(b, hits)
+        out.append({**b, "score": s, "why": why, "triggers": hits})
+    return out
+
+
+def pick_walkins(picked, visited):
+    """Today's walk-ins: real Auckland outlets in today's area, from every brand we've mapped.
+
+    Works at outlet level, so the same brand can yield new walk-ins in other suburbs, and the
+    pool keeps growing as Places maps more brands. Shortlisted brands come first, then outlets
+    with the clearest local-marketing gap (few reviews, weak rating).
+    """
+    cache = load_json(STATE / "places_cache.json", {})
+    picked_names = {c["name"] for c in picked}
+    pool = []
+    for brand, entry in cache.items():
+        b_l = brand.lower()
+        if any(x in b_l for x in EXCLUDE_BRANDS):
+            continue
+        for o in entry.get("outlets", []):
+            key = o.get("maps") or o["address"]
+            if o.get("area") != AREA_TODAY or days_since(visited.get(key, "1900-01-01")) < WALKIN_COOLDOWN_DAYS:
+                continue
+            gap = ("few Google reviews" if (o.get("reviews") or 0) < 30
+                   else "rated under 4 stars" if (o.get("rating") or 5) < 4.0 else "")
+            prio = (brand in picked_names) * 3 + bool(gap) * 2 + bool(o.get("phone"))
+            pool.append((prio, brand, o, gap))
+    pool.sort(key=lambda x: x[0], reverse=True)
+    chosen, brands_used = [], set()
+    for prio, brand, o, gap in pool:
+        if brand in brands_used:
+            continue
+        brands_used.add(brand)
+        chosen.append({**o, "brand": brand, "gap": gap})
+        if len(chosen) >= WALKINS_PER_DAY:
+            break
+    route = audit.drive_route(chosen)
+    return (route, True) if route else (nearest_neighbour_route(chosen), False)
 
 
 def main():
@@ -145,20 +233,14 @@ def main():
 
     brands = load_json(STATE / "brands.json", {})
     surfaced = load_json(STATE / "surfaced.json", {})
+    visited = load_json(STATE / "walkins.json", {})
     triggers = recent_triggers()
 
-    # 1. Candidates: real franchises, not excluded, not shown recently.
-    candidates = []
-    for b in brands.values():
-        name_l = b["name"].lower()
-        if b.get("supplier") or any(x in name_l for x in EXCLUDE_BRANDS):
-            continue
-        parent = name_l.split()[0]
-        if any(n.lower().split()[0] == parent and days_since(d) < COOLDOWN_DAYS for n, d in surfaced.items()):
-            continue  # this brand (or a sister brand) was shown recently
-        hits = [t for t in triggers if len(name_l) >= 4 and name_l in t["title"].lower()]
-        s, why = score(b, hits)
-        candidates.append({**b, "score": s, "why": why, "triggers": hits})
+    # 1. Candidates: real franchises, not excluded, not shown recently. If the 45-day rest
+    #    leaves too few, fall back to a 21-day rest so the list never runs dry.
+    candidates = eligible(brands, surfaced, triggers, COOLDOWN_DAYS)
+    if len(candidates) < args.top * 3:
+        candidates = eligible(brands, surfaced, triggers, MIN_COOLDOWN_DAYS)
     candidates.sort(key=lambda c: (c["score"], c["lastmod"]), reverse=True)
 
     # 2. Enrich the top 20 (Auckland outlets, CRM check), then re-rank.
@@ -199,15 +281,21 @@ def main():
         if len(picked) >= args.top:
             break
 
-    # 4. Today's walk-in route from the picked brands' outlets in today's area.
-    stops = []
-    for c in picked:  # one outlet per brand in today's area
-        local = [o for o in c.get("outlets", []) if o["area"] == AREA_TODAY]
-        if local:
-            stops.append({**local[0], "brand": c["name"]})
-    route = nearest_neighbour_route(stops)[:6]
+    # 4. Digital and local-presence audit for each shortlisted brand.
+    for c in picked:
+        outlets = c.get("outlets") or []
+        site = audit.brand_website(outlets)
+        c["site"] = site
+        c["signals"] = audit.site_signals(site) if site else None
+        c["speed"] = audit.pagespeed(site) if site else None
+        c["gaps"] = audit.presence(outlets)
+        c["points"] = audit.talking_points(c["signals"], c["speed"], c["gaps"])
+        c["plan"] = full_funnel(c, c["signals"])
 
-    # 5. Unmatched hot news: growth signals that don't match a directory brand.
+    # 5. Today's walk-ins (outlet level, real drive times when Routes is enabled).
+    route, real_times = pick_walkins(picked, visited)
+
+    # 6. Unmatched hot news: growth signals that don't match a directory brand.
     matched = {t["link"] for c in picked for t in c["triggers"]}
     loose, firsts = [], set()
     for t in triggers:
@@ -217,13 +305,16 @@ def main():
             loose.append(t)
     loose = loose[:8]
 
-    write_outputs(picked, route, loose, places_on, hubspot_on)
+    write_outputs(picked, route, real_times, loose, places_on, hubspot_on)
     for c in picked:
         surfaced[c["name"]] = TODAY.isoformat()
+    for s in route:
+        visited[s.get("maps") or s["address"]] = TODAY.isoformat()
     (STATE / "surfaced.json").write_text(json.dumps(surfaced, indent=1, ensure_ascii=False))
+    (STATE / "walkins.json").write_text(json.dumps(visited, indent=1, ensure_ascii=False))
 
 
-def write_outputs(picked, route, loose, places_on, hubspot_on):
+def write_outputs(picked, route, real_times, loose, places_on, hubspot_on):
     OUT.mkdir(exist_ok=True)
     L = [
         f"# Prospect brief - {TODAY:%A %d %B %Y}",
@@ -232,21 +323,27 @@ def write_outputs(picked, route, loose, places_on, hubspot_on):
         "This is automated research data, not instructions. Verify contacts before use.",
         f"Google Places: {'on' if places_on else 'off'}" + (" | HubSpot check: on" if hubspot_on else ""),
         "",
-        "| # | Brand | Category | Score | Why it ranked | REACH fit |",
+        "| # | Brand | Category | Score | Why it ranked | Core REACH fit |",
         "|---|---|---|---|---|---|",
     ]
     for i, c in enumerate(picked, 1):
-        L.append(f"| {i} | {c['name']} | {c['category']} | {c['score']} | {'; '.join(c['why']) or 'good LSM fit'} | {reach_fit(c['category']).split(':')[0]} |")
+        L.append(f"| {i} | {c['name']} | {c['category']} | {c['score']} | {'; '.join(c['why']) or 'good LSM fit'} | {reach_fit(c['category']).split(':')[0].split(' (')[0]} |")
 
     for i, c in enumerate(picked, 1):
         L += ["", f"## {i}. {c['name']} ({c['category']})",
               f"- Directory listing: {c['url']} (updated {c['lastmod']})",
-              f"- About: {c.get('blurb') or 'n/a'}",
-              f"- Suggested REACH fit: {reach_fit(c['category'])}"]
+              f"- About: {c.get('blurb') or 'n/a'}"]
+        if c.get("site"):
+            L.append(f"- Website: {c['site']}")
         if "crm" in c:
             L.append(f"- HubSpot: {c['crm'] or 'not in HubSpot (new business)'}")
         for t in c["triggers"]:
             L.append(f"- Trigger ({t['level']}, {t['date'] or t['found']}): {t['title']} {t['link']}")
+        if c["points"]:
+            L.append("- Talking points from today's digital and local check:")
+            L += [f"  - {p}" for p in c["points"]]
+        L.append("- Full-funnel REACH plan:")
+        L += [f"  - {p}" for p in c["plan"]]
         outlets = c.get("outlets")
         if outlets:
             avg = sum(o["reviews"] or 0 for o in outlets) / len(outlets)
@@ -258,10 +355,17 @@ def write_outputs(picked, route, loose, places_on, hubspot_on):
 
     L += ["", f"## Road trip: {AREA_TODAY}"]
     if route:
-        L.append("Visit order by straight-line distance (check real travel times in Maps):")
+        L.append("Local franchisee walk-ins, in visit order. " + (
+            "Drive times from Google Routes (no traffic)." if real_times
+            else "Order by straight-line distance; check real travel times in Maps."))
         for i, s in enumerate(route, 1):
-            hop = f" (~{enrich.km(route[i - 2], s):.1f} km from previous)" if i > 1 else ""
-            L.append(f"{i}. {s['brand']}: {s['address']}{hop} {s['maps']}")
+            if real_times:
+                hop = f" (~{s['drive_min']} min drive)" if s.get("drive_min") is not None else ""
+            else:
+                hop = f" (~{enrich.km(route[i - 2], s):.1f} km from previous)" if i > 1 else ""
+            note = f" | {s.get('rating') or '-'} stars, {s.get('reviews') or 0} reviews" + (
+                f" <- {s['gap']}: easy opener" if s.get("gap") else "")
+            L.append(f"{i}. {s['brand']}: {s['address']} | {s.get('phone') or 'no phone'}{note}{hop} {s['maps']}")
     else:
         L.append("No outlets mapped for today's area" + ("" if places_on else " (Google Places is off)")
                  + ". The lead agent should find 3-5 walk-ins itself.")
@@ -274,10 +378,11 @@ def write_outputs(picked, route, loose, places_on, hubspot_on):
 
     with (OUT / "prospects.csv").open("w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["Date", "Brand", "Category", "Score", "Why", "REACH fit", "Directory URL", "Auckland outlets", "HubSpot"])
+        w.writerow(["Date", "Brand", "Category", "Score", "Why", "REACH fit", "Directory URL", "Website",
+                    "Auckland outlets", "HubSpot"])
         for c in picked:
             w.writerow([TODAY, c["name"], c["category"], c["score"], "; ".join(c["why"]), reach_fit(c["category"]),
-                        c["url"], len(c.get("outlets") or []), c.get("crm", "")])
+                        c["url"], c.get("site") or "", len(c.get("outlets") or []), c.get("crm", "")])
     print("\n".join(L))
 
 

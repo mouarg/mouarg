@@ -2,13 +2,14 @@
 
 Daily prospect brief for a REACH Franchise Development Consultant. It finds NZ franchise brands worth calling today, ranks them, maps Auckland walk-ins, and hands a clean brief to the ChatGPT/Claude lead agent, which writes the call cards.
 
-**Every weekday at 6am NZ (GitHub Actions):**
+**Every Sunday to Thursday evening (~9pm NZ, GitHub Actions), for the next weekday:**
 
 | Step | Script | What it does |
 |---|---|---|
 | 1 | `universe.py` | Keeps a list of every brand in the Westpac Directory of Franchising (~335). Flags brands that are new to the directory or recently updated their listing (= actively recruiting). |
 | 2 | `radar.py` | Scans franchise news, directories and Google News for openings, expansions and new franchisees (`sources.yaml`). Writes `out/latest.md` and `out/triggers.csv`. |
 | 3 | `pipeline.py` | Scores every brand (news trigger, recruiting activity, local-marketing fit, Auckland multi-site), drops exclusions, existing customers and anything shown in the last 45 days, and picks a balanced top 10. Writes `out/prospects.md` (the brief) and `out/prospects.csv` (HubSpot-ready). |
+| 4 | `audit.py` | For each shortlisted brand: website check (Google tag, Google Ads, Meta Pixel, online booking), Google PageSpeed mobile score, Google listing gaps across outlets. Turns them into talking points and a full-funnel REACH plan. Plans the day's walk-ins by real drive time (Google Routes). |
 | opt | `enrich.py` | With keys set: Google Places finds each brand's Auckland outlets (address, phone, reviews) and builds a walk-in route for the day's area. HubSpot flags brands already in the CRM. |
 
 The walk-in area rotates: Mon North Shore, Tue West, Wed South, Thu East, Fri Central.
@@ -19,7 +20,7 @@ The lead agent reads: `https://raw.githubusercontent.com/mouarg/mouarg/HEAD/fran
 
 1. Actions tab, "Franchise Radar", Run workflow, to test.
 2. Optional repo secrets (Settings, Secrets and variables, Actions):
-   - `GOOGLE_MAPS_API_KEY`: Google Cloud key with **Places API (New)** enabled. Results are cached for 30 days, so about 20 lookups a day stays inside Google's free monthly allowance (set a budget alert anyway).
+   - `GOOGLE_MAPS_API_KEY`: Google Cloud key with **Places API (New)**, **Routes API** and **PageSpeed Insights API** enabled and allowed on the key. Results are cached for 30 days, so about 20 lookups a day stays inside Google's free monthly allowance (set a budget alert anyway).
    - `HUBSPOT_TOKEN`: HubSpot private app token, read-only `crm.objects.companies.read`. **Needs REACH approval.**
    - `SMTP_HOST`, `SMTP_USER`, `SMTP_PASS`, `DIGEST_TO`: email the news digest (Gmail: `smtp.gmail.com` and an app password).
 3. Add store locator pages for target brands to `sources.yaml` (`mode: text`) to catch new stores and owners.
