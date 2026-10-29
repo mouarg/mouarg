@@ -4695,5 +4695,43 @@
  "Wet-seal": {
   "ts": 1793300381.7457633,
   "outlets": []
+ },
+ "Realsure The House Inspectors": {
+  "ts": 1793310432.126267,
+  "outlets": []
+ },
+ "Xpresso Delight": {
+  "ts": 1793310432.3915997,
+  "outlets": []
+ },
+ "Fix It Building Services": {
+  "ts": 1793310432.786439,
+  "outlets": []
+ },
+ "Streetwise Coffee": {
+  "ts": 1793310433.0324218,
+  "outlets": [
+   {
+    "name": "Streetwise Coffee Pukekohe",
+    "address": "149 Manukau Road, Pukekohe 2120",
+    "phone": "0210 846 9584",
+    "website": "http://www.streetwisecoffee.co.nz/",
+    "rating": 4.3,
+    "reviews": 75,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=15492469965669154716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.2074573,
+    "lng": 174.909344,
+    "area": "South"
+   }
+  ]
+ },
+ "Valentines Buffet Restaurants": {
+  "ts": 1793310433.36554,
+  "outlets": []
+ },
+ "Café Botannix": {
+  "ts": 1793310433.6528218,
+  "outlets": []
  }
 }

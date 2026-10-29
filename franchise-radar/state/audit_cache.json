@@ -1,0 +1,24 @@
+{
+ "site": {
+  "https://redlbp.co.nz/": {
+   "ts": 1793310434.4933333,
+   "value": {
+    "google_tag": false,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://renovations.nz/": {
+   "ts": 1793310435.8099444,
+   "value": {
+    "google_tag": true,
+    "google_ads": true,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  }
+ }
+}
