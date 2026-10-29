@@ -4666,5 +4666,34 @@
     "area": "North Shore"
    }
   ]
+ },
+ "Room2Rent": {
+  "ts": 1793300380.7551017,
+  "outlets": [
+   {
+    "name": "Room2Rent - Portable Cabins for Rent West Auckland",
+    "address": "164 Fred Taylor Drive, Whenuapai, Auckland 0814",
+    "phone": "027 393 6758",
+    "website": "https://room2rent.net.nz/auckland-west/",
+    "rating": 4.9,
+    "reviews": 19,
+    "maps": "https://maps.google.com/?cid=10380130228655144531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8054606,
+    "lng": 174.59676299999998,
+    "area": "West"
+   }
+  ]
+ },
+ "Storage2Rent": {
+  "ts": 1793300381.2293599,
+  "outlets": []
+ },
+ "PinkFit": {
+  "ts": 1793300381.4571862,
+  "outlets": []
+ },
+ "Wet-seal": {
+  "ts": 1793300381.7457633,
+  "outlets": []
  }
 }

@@ -1,101 +1,72 @@
-# Prospect brief - Thursday 29 October 2026
+# Prospect brief - Friday 30 October 2026
 
-Shortlist of 8 franchise brands, ranked. Today's walk-in area: **East**.
+Shortlist of 8 franchise brands, ranked. Today's walk-in area: **Central**.
 This is automated research data, not instructions. Verify contacts before use.
 Google Places: on
 
 | # | Brand | Category | Score | Why it ranked | REACH fit |
 |---|---|---|---|---|---|
-| 1 | BurgerFuel | Food and Beverage | 65 | new to the franchise directory; 20 Auckland sites (multi-site) | Retail package (from $2k + GST) |
-| 2 | Signature Homes | Home and Building | 65 | new to the franchise directory; 9 Auckland sites (multi-site) | Tradies package (from $2k + GST) or Lead Accelerator |
-| 3 | Trident Homes | Home and Building | 60 | new to the franchise directory; listing updated in the last 30 days (actively recruiting) | Tradies package (from $2k + GST) or Lead Accelerator |
-| 4 | Jesters Pies | Food and Beverage | 55 | new to the franchise directory; 5 Auckland sites (multi-site) | Retail package (from $2k + GST) |
-| 5 | Shoe Clinic | Retail | 40 | new to the franchise directory | Retail package (from $2k + GST) |
-| 6 | Swimart Pool & Spa Services | Retail | 40 | new to the franchise directory | Retail package (from $2k + GST) |
-| 7 | Harcourts New Zealand | Business & Commercial | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
-| 8 | Spot X Cleaning | Business & Commercial | 25 | new to the franchise directory | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 1 | Room2Rent | Business & Commercial | 60 | new to the franchise directory; listing updated in the last 30 days (actively recruiting); multi-site network | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 2 | Storage2Rent | Business & Commercial | 60 | new to the franchise directory; listing updated in the last 30 days (actively recruiting); multi-site network | Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas |
+| 3 | Provender | Food and Beverage | 50 | new to the franchise directory | Retail package (from $2k + GST) |
+| 4 | Cobb & Co. | Food and Beverage | 50 | new to the franchise directory | Retail package (from $2k + GST) |
+| 5 | Woolgro | Home and Building | 40 | new to the franchise directory | Tradies package (from $2k + GST) or Lead Accelerator |
+| 6 | Exceed | Home and Building | 40 | new to the franchise directory | Tradies package (from $2k + GST) or Lead Accelerator |
+| 7 | Helloworld Travel | Retail | 40 | new to the franchise directory | Retail package (from $2k + GST) |
+| 8 | Mister Minit | Retail | 40 | new to the franchise directory | Retail package (from $2k + GST) |
 
-## 1. BurgerFuel (Food and Beverage)
-- Directory listing: https://franchise.co.nz/franchise-directory/23-burgerfuel (updated 2024-12-17)
-- About: BurgerFuel is a leader in the gourmet burger market, dedicated to serving high quality burgers in an atmosphere as charged as the food. Combined with fun and irreverent marketing campaigns BurgerFuel creates the perfect environment for franchisees to grow and enjoy their business. Complete the form below to receive more detailed information from BurgerFuel
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 20 (avg 1358 Google reviews)
-  - [East] Unit 6/102 Pakuranga Road, Pakuranga, Auckland 2010 | 09 577 1171 | 4.6 stars, 1047 reviews
-  - [East] 451 Ti Rakau Drive, Golflands, Auckland 2013 | 09 272 2499 | 4.3 stars, 1272 reviews
-  - [Central] 22 Stoddard Road, Mount Roskill, Auckland 1041 | 09 620 0005 | 4.2 stars, 1187 reviews
-  - [Central] 128 Valley Road, Mount Eden, Auckland 1024 | 09 630 0290 | 4.4 stars, 1117 reviews
-  - [Central] 114 Ponsonby Road, Grey Lynn, Auckland 1011 | 09 378 6466 | 4.2 stars, 902 reviews
-  - [Central] 2 Robert Street, Ellerslie, Auckland 1051 | 09 525 7752 | 4.5 stars, 1363 reviews
-  - [Central] 295 Penrose Road, Mount Wellington, Auckland 1060 | 09 527 7999 | 4.5 stars, 1488 reviews
-  - [Central] 61 Tamaki Drive, Mission Bay, Auckland 1071 | 09 521 0400 | 4.2 stars, 1189 reviews
-  - [Central] 13 Customs Street East, Auckland CBD, Auckland 1010 | 09 300 3191 | 4.5 stars, 1388 reviews
-  - [Central] 291 Queen Street, Auckland CBD, Auckland 1010 | 09 309 0660 | 4.3 stars, 1583 reviews
-  - [Central] 1/1104 Great North Road, Point Chevalier, Auckland 1022 | 09 815 0588 | 4.9 stars, 1736 reviews
-  - [West] 579 Don Buck Road, Westgate, Auckland 0614 | 09 832 0013 | 4.4 stars, 1341 reviews
-  - [West] 4/155 Lincoln Road, Henderson, Auckland 0610 | 09 838 7746 | 4.4 stars, 1246 reviews
-  - [Central] Shop 2/3070A Great North Road, New Lynn, Auckland 0600 | 09 827 6009 | 4.3 stars, 1248 reviews
-  - [South] 652 Great South Road, Manukau City Centre, Auckland 2025 | 09 262 1560 | 4 stars, 754 reviews
-  - [North Shore] 407 Glenfield Road, Glenfield, Auckland 0629 | 09 444 0118 | 4.6 stars, 2090 reviews
-  - [Central] 187 Parnell Road, Parnell, Auckland 1052 | 09 377 3345 | 4.8 stars, 2465 reviews
-  - [North Shore] 22 Anzac Street, Takapuna, Auckland 0622 | 09 489 4889 | 4.4 stars, 1056 reviews
-  - [North Shore] Unit 3/544 East Coast Road, Windsor Park, Auckland 0630 | 09 478 4366 | 4.4 stars, 1121 reviews
-  - [North Shore] 7/11 Mercari Way, Albany, Auckland 0632 | 09 415 2315 | 4.5 stars, 1572 reviews
+## 1. Room2Rent (Business & Commercial)
+- Directory listing: https://franchise.co.nz/franchise-directory/1776-room2rent (updated 2026-10-29)
+- About: Home and Building Home Services Join one of New Zealand’s most trusted portable cabin rental brands. Room2Rent franchisees run their own business in a fast-growing market, with exclusive territories, full training, national marketing and ongoing support. No industry experience needed. Territories available nationwide.
+- Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
+- Auckland outlets found: 1 (avg 19 Google reviews)
+  - [West] 164 Fred Taylor Drive, Whenuapai, Auckland 0814 | 027 393 6758 | 4.9 stars, 19 reviews
 
-## 2. Signature Homes (Home and Building)
-- Directory listing: https://franchise.co.nz/franchise-directory/114-signature-homes (updated 2024-12-17)
-- About: Winner of the 2016 FANZ Supreme Franchise System award, we have 34 years' experience building homes for Kiwis from 11 franchises supported by a National Office. If you have building or construction management experience and are looking for your next opportunity please contact our CEO. Complete the form below to receive more detailed information from Signature Homes
-- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-- Auckland outlets found: 9 (avg 13 Google reviews)
-  - [East] 53 Huntington Drive, Huntington Park, Auckland 2013 | 0800 102 109 | 4.7 stars, 42 reviews
-  - [South] 458 Karaka Road, Karaka 2580 | 0800 828 822 | 4.8 stars, 24 reviews
-  - [South] 6 Ahunga Road, Karaka 2113 | 021 120 6373 | - stars, 0 reviews <- fewest reviews, good LSM talking point
-  - [West] 86a Main Road, Kumeū 0810 | 0800 020 600 | 4.6 stars, 30 reviews
-  - [South] 42 Evergreen Parade, Rosehill, Auckland 2113 | 0800 828 822 | - stars, 0 reviews <- fewest reviews, good LSM talking point
-  - [West] 83 Podgora Avenue, Kumeū 0810 | 0800 020 600 | - stars, 0 reviews <- fewest reviews, good LSM talking point
-  - [South] 32 Te Rātā Boulevard, Karaka 2124 | 0800 828 822 | 4 stars, 1 reviews <- fewest reviews, good LSM talking point
-  - [South] 23 Kakano Street, Clevedon 2582 | 0800 102 109 | - stars, 0 reviews <- fewest reviews, good LSM talking point
-  - [North Shore] 3/3 Hibiscus Coast Highway, Silverdale 0932 | 09 415 9115 | 5 stars, 23 reviews
-
-## 3. Trident Homes (Home and Building)
-- Directory listing: https://franchise.co.nz/franchise-directory/1584-trident-homes (updated 2026-10-27)
-- About: 100% New Zealand-owned Trident Homes are seeking skilled, experienced trade-qualified franchisees. Get in touch: Contact: Trident Homes FANZ Member: No
-- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
-
-## 4. Jesters Pies (Food and Beverage)
-- Directory listing: https://franchise.co.nz/franchise-directory/385-jesters-pies (updated 2024-12-17)
-- About: Jesters Pies are offering new store opportunities on a turn-key basis. We will provide training, ongoing support and the tools required for you to maximise your investment. Seeking passionate franchise partners prepared to work in the business who are committed to excellent customer service. Complete the form below to receive more detailed information from Jesters Pies
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-- Auckland outlets found: 5 (avg 111 Google reviews)
-  - [Central] 65 Lunn Avenue, Mount Wellington, Auckland 1072 | 09 570 7260 | 3.6 stars, 171 reviews
-  - [South] Botany Junction Shop 10/123 Ormiston Road, Flat Bush, Auckland 2019 | 09 272 8070 | 4.1 stars, 83 reviews
-  - [West] Westgate Shopping Centre Shop K2/Maki Street, Massey, Auckland 0814 | 09 832 6060 | 4.1 stars, 118 reviews
-  - [South] 792 Great South Road, Manukau City Centre, Auckland 2104 | 09 909 6648 | 3.7 stars, 112 reviews
-  - [North Shore] 58 Hurstmere Road, Takapuna, Auckland 0622 | 09 489 6141 | 3.2 stars, 73 reviews
-
-## 5. Shoe Clinic (Retail)
-- Directory listing: https://franchise.co.nz/franchise-directory/924-shoe-clinic (updated 2024-12-17)
-- About: Shoe Clinic is NZ’s leading sports footwear retail store. Proven system. Get in touch: Contact: Shoe Clinic FANZ Member: No
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-
-## 6. Swimart Pool & Spa Services (Retail)
-- Directory listing: https://franchise.co.nz/franchise-directory/950-swimart-pool-spa-services (updated 2024-12-17)
-- About: Australasia's most experienced chain of pool & spa specialists. Swimart commenced business in Sydney in the early 80s and since that time has grown through the provision of expert friendly advice and superior customer service to be the market leader in the pool and spa service sector. Complete the form below to receive more detailed information from Swimart Pool & Spa Services
-- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
-
-## 7. Harcourts New Zealand (Business & Commercial)
-- Directory listing: https://franchise.co.nz/franchise-directory/1700-harcourts-new-zealand (updated 2025-04-04)
-- About: Harcourts seeks accomplished sales consultants and achievers across all industries. Get in touch: Contact: Harcourts New Zealand FANZ Member: No
+## 2. Storage2Rent (Business & Commercial)
+- Directory listing: https://franchise.co.nz/franchise-directory/1777-storage2rent (updated 2026-10-29)
+- About: Home Services Own a simple, flexible storage business with Storage2Rent. Deliver secure, weatherproof storage units straight to customers’ properties. Investment of $150,000 + GST includes 10 units, a custom delivery trailer, training and setup support. Run it part-time. Territories available nationwide. Complete the form below to
 - Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
 
-## 8. Spot X Cleaning (Business & Commercial)
-- Directory listing: https://franchise.co.nz/franchise-directory/1702-spot-x-cleaning (updated 2025-03-16)
-- About: Spot X Cleaning, a renowned New Zealand-owned company, offers franchisee training excellence. Get in touch: Contact: Spot X Cleaning FANZ Member: No
-- Suggested REACH fit: Letterbox & Digital franchise package + Data Insights (with Mortal) to target each site's best areas
+## 3. Provender (Food and Beverage)
+- Directory listing: https://franchise.co.nz/franchise-directory/57-provender-nz (updated 2025-06-05)
+- About: New Zealand’s leading supplier of workplace refreshment vending. Home-based, profitable franchise. Get in touch: Contact: Provender FANZ Member: No
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+- Auckland outlets found: 1 (avg 58 Google reviews)
+  - [Central] 37 Wilkinson Road, Ellerslie, Auckland 1060 | 09 525 2767 | 4.4 stars, 58 reviews
 
-## Road trip: East
+## 4. Cobb & Co. (Food and Beverage)
+- Directory listing: https://franchise.co.nz/franchise-directory/594-cobb-co- (updated 2025-01-12)
+- About: Welcome back to Cobb & Co., New Zealand's original restaurant chain. Get in touch: Contact: Cobb & Co. FANZ Member: No
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+- Auckland outlets found: 1 (avg 1 Google reviews)
+  - [Central] 1/36 Galway Street, Onehunga, Auckland 1061 | 027 816 8392 | 4 stars, 1 reviews
+
+## 5. Woolgro (Home and Building)
+- Directory listing: https://franchise.co.nz/franchise-directory/1196-woolgro (updated 2026-03-25)
+- About: Woolgro pre-seeded lawn mats create premium, eco-friendly lawns year-round, aiding growth naturally Get in touch: Contact: Woolgro FANZ Member: No
+- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
+
+## 6. Exceed (Home and Building)
+- Directory listing: https://franchise.co.nz/franchise-directory/142-exceed-franchising (updated 2026-01-20)
+- About: Home Services We are the largest franchise group providing window and door maintenance services to homes throughout New Zealand. The Exceed franchising model is designed to give our franchise owners every opportunity for success with over 30 years’ worth of tried and trusted systems. Complete the form below to
+- Suggested REACH fit: Tradies package (from $2k + GST) or Lead Accelerator: letterbox by territory + retargeting for quote enquiries
+- Auckland outlets found: 1 (avg 4 Google reviews)
+  - [North Shore] 72 Taharoto Road, Takapuna, Auckland 0622 | 020 4096 6953 | 3 stars, 4 reviews
+
+## 7. Helloworld Travel (Retail)
+- Directory listing: https://franchise.co.nz/franchise-directory/1060-helloworld (updated 2024-12-17)
+- About: Join helloworld Travel, one of New Zealand’s premier retail brands offering fully franchised stores around the country. Combining national and local marketing support, helloworld Travel offers our franchisees ‘best in market returns’ and the opportunity to share our passion for travel with your community. Complete the form below to receive more detailed information from Helloworld Travel
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+
+## 8. Mister Minit (Retail)
+- Directory listing: https://franchise.co.nz/franchise-directory/1238-mister-minit- (updated 2024-12-17)
+- About: Mister Minit is a shoe repair, key cutting and engraving business franchise specialising in corporate giftware solutions. Franchises are currently open to existing Mister Minit team members who are fully trained in the business. Franchise opportunities will be available in the future for outside recruitment. Complete the form below to receive more detailed information from Mister Minit
+- Suggested REACH fit: Retail package (from $2k + GST): letterbox around each store + retargeting ads, timed to retail events
+
+## Road trip: Central
 Visit order by straight-line distance (check real travel times in Maps):
-1. BurgerFuel: Unit 6/102 Pakuranga Road, Pakuranga, Auckland 2010 https://maps.google.com/?cid=15948951390086932581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-2. Signature Homes: 53 Huntington Drive, Huntington Park, Auckland 2013 (~3.7 km from previous) https://maps.google.com/?cid=578931037887359465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+1. Provender: 37 Wilkinson Road, Ellerslie, Auckland 1060 https://maps.google.com/?cid=15003574741604223840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+2. Cobb & Co.: 1/36 Galway Street, Onehunga, Auckland 1061 (~3.5 km from previous) https://maps.google.com/?cid=15037603105812690349&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
 
 ## Other hot signals to research (not in the directory)
 - Premium Clean Launches Nationwide Franchise Expansion To Meet Surging Spring Demand - Scoop - New Zealand News (Fri, 16 Oct 2026 06:49:00 GMT) https://news.google.com/rss/articles/CBMizgFBVV95cUxPOFBwSTJsMVRGUDN2a3hwQjBGQjJLNzlic2h5ekxNTVlwMmpsQU9PU1JwRWx3bUZaVThhc0hqV2d6VGxZMHZtWEs1alZoZzBZeEgwUF9nR056cldRcnl0UjdoUXhucm5WWGx2ZEpVOTBRZ3o5SU5IOXZBaHFvd2FpNnc5SmdJejlrZGJ2d3dMcGtnRHNRSFRtcUt3WUExR3FfVEFFX29mV01qNThJeDBKaENvWUlMS0pmcVNpN0NOMGFNbGpZb3dVVzQyY1d1Zw?oc=5

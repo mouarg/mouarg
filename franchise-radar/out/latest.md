@@ -1,6 +1,9 @@
-# Franchise Radar - 2026-10-28
+# Franchise Radar - 2026-10-29
 
-1 new signals.
+4 new signals.
 
-## Warm (1)
-- NZC withdraws from MLC franchise partnership, cites focus on New Zealand - Cricbuzz (Google News - NZ franchise openings, Wed, 21 Oct 2026 04:45:51 GMT) https://news.google.com/rss/articles/CBMixwFBVV95cUxQZEk2U3RXRk9pVzVoQ2daRUxoRFZkRlMtVkJyeFdTc0pVdDR0TEZlMVRiN3NwbjVfbFczdk1fdWNFdlptYlhtYktWSUFvYlNUWHNKRTRfTDg3NDZ3SmczaFJONjlVSEwyV0VRQ1JKZ180VjZYQmwzMHVxN0lOQXI1QVByWHBXMDhuNG42S0Ruei12Xzh6Y1BUSG93UDdZVm9rZ1h2YkFBNmVTaktiWlpqaG1vZ2JkV0VZTWh0NVZLY2l6X0xmcDhr?oc=5
+## Hot (4)
+- Recovery in Roskill – second round of funding now open - Auckland Council (Google News - Auckland new store openings, Fri, 23 Oct 2026 01:02:37 GMT) https://news.google.com/rss/articles/CBMigwFBVV95cUxPbmhmUTBCekFjR2pyX29fbmZ1eWk3Q2FQcHNQMXdMeUFKTWVCZGFGRklGZ2ZKa19qX2t0YkZKSzN0aVhVb1hDYkZoRHFFR0p2b1cwMXYzemlwWWZCSC1aWWV6M0NRZ2diaGFtbkc4QjdIM2ZyalpSX3UxMzVBd0psR2M0TQ?oc=5
+- Mobile cafe chain Rawsters launches franchise model - Inside Retail Australia (Google News - NZ franchise expansion, Thu, 29 Oct 2026 06:31:36 GMT) https://news.google.com/rss/articles/CBMimwFBVV95cUxObEtRLVF4R1dBZnpCVmxMOFBsZ2dPSTNUVnRqc1diRmtBcWlQelRkbTFULVVzQVRKUFB2cEltTmxXa3RQM2tpa0pIYmc5LVAtS0dMOVIyTkswR1NKckdaMEEtWnlwcHFNMFVBbXU3S21BTTM2OUJ4S0pyWHpZVndFYVNCa0xqS1llQXFXc3RZaXk1R25paW5Cdmwxcw?oc=5
+- Mobility City Celebrates Three-Location Franchise Owners Joe and Jennifer Stewart Expansion Across Arkansas and Missouri - EIN Presswire (Google News - NZ franchise expansion, Thu, 29 Oct 2026 11:45:00 GMT) https://news.google.com/rss/articles/CBMi-wFBVV95cUxNclREektPMndyZGswM1E4UlFIWU5lc3AzcENrcm9JXzFwdlRFYmZ1bnRqRGdIN0FCZEY1UFJBRFB1RUZ5TE5GbXRoVXFCTm9peHNGZXQ4SEtGeF9MeldCdGNXdjUyQVVFNDlKdUhlM0UzUE5pRFpBZWNXVGZkQWFpWTRZRlpxTG0ta1JzWk5IT0lENExZSk84Vk1QbUtLSnhBM2I5ck1Fbmp3WDBMc0s2UkdlRmxKelVxYldZbFRIei16RjZ5YXE2dFZmMk16RWVlckJGQjVCd3lLZkhIT1RmT2RkNi1MTm5xUDl1Z2ctMXZzRFAzZ0VIYkcyNA?oc=5
+- BCCI Hints At WPL Expansion With Increase In Franchises; Admits '5 Teams Is Less' - Times Now (Google News - NZ franchise expansion, Thu, 29 Oct 2026 14:42:56 GMT) https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQmx6aGlQWVJmWVFtWmZINngtb1lWZUZ5SjV3YzBZbjVjN3AwQ1FfV0p0ZTA4eUFtWmlEY2xyRFBSV0JwVVkyNW1DaG9pcHRYcGpzeTBnSm1Kdm1Fd05Md0tTdkNVMEEzQ1k5eEZsQ25McWQxSVBPbVVaTUROTE1TR0FzSldUaGxOWnF1bWlsUllXS0xiNzEtX2NHZUs2RTI4WktERFM3UVRlNHQwZUxmWUU5YlZ1Y3BLeW5TZjJqVmd4RkZvSnB0a2N6TU14Q1JLR1k2eHBzb9IB3AFBVV95cUxQaGY2aHN5LTFJUzRVWFVsWTh3Vmp3UG9GYVpZbkVpUmF3cWdSTU1sMk9obGxKQlFnUzNGd2Jsa0VkdFphbTZLRGV5Y2U1NW1JWnhBaEdfdzRVT2ppdEd1bGlqbXd0cVBTUGFSM3V1b1VhSm1MUjdfWW9GZElhQUVTMG9ZU2hJR0RnQmFqVDNnclJydVJGRHFnNnEtWDdvOFpoLVJKWXNTSVd0OFJCMXJhM29PQ0oyTmVJenBWcXhjYUVMMXA4SGZJTFZ3cG1pU3dMTnUzckstaTBRUlFB?oc=5
