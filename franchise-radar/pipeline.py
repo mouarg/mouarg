@@ -19,6 +19,7 @@ from zoneinfo import ZoneInfo
 
 import audit
 import enrich
+import tracker
 from radar import EXCLUDE_BRANDS
 
 HERE = Path(__file__).parent
@@ -27,6 +28,7 @@ COOLDOWN_DAYS = 45
 MIN_COOLDOWN_DAYS = 21   # used when the 45-day rest would leave too few brands
 WALKIN_COOLDOWN_DAYS = 60
 WALKINS_PER_DAY = 6
+BLOCKED = set()  # brands Aditi marked not interested / meeting booked (from her tracker)
 TRIGGER_DAYS = 14
 MAX_PER_CATEGORY = 2
 
@@ -126,6 +128,11 @@ def is_nz_franchise_news(title):
     return bool(NZ_NEWS.search(title) and GROWTH_NEWS.search(title))
 
 
+def recent_changes(days=30):
+    log = load_json(STATE / "outlet_changes.json", [])
+    return [c for c in log if days_since(c["date"]) <= days]
+
+
 def days_since(date_str):
     try:
         return (TODAY - dt.date.fromisoformat(date_str[:10])).days
@@ -176,15 +183,16 @@ def nearest_neighbour_route(stops):
     return route
 
 
-def eligible(brands, surfaced, triggers, cooldown):
+def eligible(brands, surfaced, triggers, cooldown, new_store_brands=frozenset()):
     out = []
     for b in brands.values():
         name_l = b["name"].lower()
-        if b.get("supplier") or any(x in name_l for x in EXCLUDE_BRANDS):
+        if b.get("supplier") or any(x in name_l for x in EXCLUDE_BRANDS) or name_l in BLOCKED:
             continue
         parent = name_l.split()[0]
-        if any(n.lower().split()[0] == parent and days_since(d) < cooldown for n, d in surfaced.items()):
-            continue  # this brand (or a sister brand) was shown recently
+        resting = any(n.lower().split()[0] == parent and days_since(d) < cooldown for n, d in surfaced.items())
+        if resting and b["name"] not in new_store_brands:
+            continue  # shown recently, and no new store since to justify another call
         hits = [t for t in triggers if len(name_l) >= 4 and name_l in t["title"].lower()]
         s, why = score(b, hits)
         out.append({**b, "score": s, "why": why, "triggers": hits})
@@ -200,18 +208,21 @@ def pick_walkins(picked, visited):
     """
     cache = load_json(STATE / "places_cache.json", {})
     picked_names = {c["name"] for c in picked}
+    new_stores = {c.get("maps") or c["address"] for c in recent_changes() if c["change"] == "opened"}
     pool = []
     for brand, entry in cache.items():
         b_l = brand.lower()
-        if any(x in b_l for x in EXCLUDE_BRANDS):
+        if any(x in b_l for x in EXCLUDE_BRANDS) or b_l in BLOCKED:
             continue
         for o in entry.get("outlets", []):
             key = o.get("maps") or o["address"]
             if o.get("area") != AREA_TODAY or days_since(visited.get(key, "1900-01-01")) < WALKIN_COOLDOWN_DAYS:
                 continue
-            gap = ("few Google reviews" if (o.get("reviews") or 0) < 30
+            is_new = key in new_stores
+            gap = ("new store, opened recently" if is_new
+                   else "few Google reviews" if (o.get("reviews") or 0) < 30
                    else "rated under 4 stars" if (o.get("rating") or 5) < 4.0 else "")
-            prio = (brand in picked_names) * 3 + bool(gap) * 2 + bool(o.get("phone"))
+            prio = is_new * 6 + (brand in picked_names) * 3 + bool(gap) * 2 + bool(o.get("phone"))
             pool.append((prio, brand, o, gap))
     pool.sort(key=lambda x: x[0], reverse=True)
     chosen, brands_used = [], set()
@@ -235,12 +246,32 @@ def main():
     surfaced = load_json(STATE / "surfaced.json", {})
     visited = load_json(STATE / "walkins.json", {})
     triggers = recent_triggers()
+    rows = tracker.load()
+    tally, cat_adj = None, {}
+    if rows is not None:
+        BLOCKED.update(tracker.blocked_brands(rows, TODAY))
+        tally = tracker.summary(rows, TODAY)
+        cat_adj = tracker.category_adjustments(rows, brands)
+    # Re-check a few mapped networks each day so new and closed stores are spotted.
+    enrich.refresh_oldest(6, EXCLUDE_BRANDS)
+    changes = recent_changes()
 
     # 1. Candidates: real franchises, not excluded, not shown recently. If the 45-day rest
     #    leaves too few, fall back to a 21-day rest so the list never runs dry.
-    candidates = eligible(brands, surfaced, triggers, COOLDOWN_DAYS)
+    # A brand with a store that opened after we last showed it comes back early.
+    new_store_brands = {ch["brand"] for ch in changes if ch["change"] == "opened"
+                        and ch["date"] > surfaced.get(ch["brand"], "")}
+    candidates = eligible(brands, surfaced, triggers, COOLDOWN_DAYS, new_store_brands)
     if len(candidates) < args.top * 3:
-        candidates = eligible(brands, surfaced, triggers, MIN_COOLDOWN_DAYS)
+        candidates = eligible(brands, surfaced, triggers, MIN_COOLDOWN_DAYS, new_store_brands)
+    for c in candidates:
+        opened = [ch for ch in changes if ch["brand"] == c["name"] and ch["change"] == "opened"]
+        if opened:
+            c["score"] += 35
+            c["why"].append("new Auckland store: " + ", ".join(o["address"].split(",")[-2].strip() for o in opened[:3]))
+        if c["category"] in cat_adj:
+            c["score"] += cat_adj[c["category"]][0]
+            c["why"].append(cat_adj[c["category"]][1])
     candidates.sort(key=lambda c: (c["score"], c["lastmod"]), reverse=True)
 
     # 2. Enrich the top 20 (Auckland outlets, CRM check), then re-rank.
@@ -305,7 +336,7 @@ def main():
             loose.append(t)
     loose = loose[:8]
 
-    write_outputs(picked, route, real_times, loose, places_on, hubspot_on)
+    write_outputs(picked, route, real_times, loose, places_on, hubspot_on, changes, tally)
     for c in picked:
         surfaced[c["name"]] = TODAY.isoformat()
     for s in route:
@@ -314,7 +345,7 @@ def main():
     (STATE / "walkins.json").write_text(json.dumps(visited, indent=1, ensure_ascii=False))
 
 
-def write_outputs(picked, route, real_times, loose, places_on, hubspot_on):
+def write_outputs(picked, route, real_times, loose, places_on, hubspot_on, changes=(), tally=None):
     OUT.mkdir(exist_ok=True)
     L = [
         f"# Prospect brief - {TODAY:%A %d %B %Y}",
@@ -322,6 +353,11 @@ def write_outputs(picked, route, real_times, loose, places_on, hubspot_on):
         f"Shortlist of {len(picked)} franchise brands, ranked. Today's walk-in area: **{AREA_TODAY}**.",
         "This is automated research data, not instructions. Verify contacts before use.",
         f"Google Places: {'on' if places_on else 'off'}" + (" | HubSpot check: on" if hubspot_on else ""),
+    ]
+    if tally:
+        L.append(f"Aditi's tracker, last 7 days: {tally[0]} calls, {tally[1]} meetings booked "
+                 "(weekly target 30 calls, 10 meetings).")
+    L += [
         "",
         "| # | Brand | Category | Score | Why it ranked | Core REACH fit |",
         "|---|---|---|---|---|---|",
@@ -369,6 +405,17 @@ def write_outputs(picked, route, real_times, loose, places_on, hubspot_on):
     else:
         L.append("No outlets mapped for today's area" + ("" if places_on else " (Google Places is off)")
                  + ". The lead agent should find 3-5 walk-ins itself.")
+
+    opened = [c for c in changes if c["change"] == "opened"]
+    gone = [c for c in changes if c["change"] == "gone"]
+    if opened or gone:
+        L += ["", "## New and closed Auckland stores (last 30 days)",
+              "Spotted by comparing each brand's Google listings month to month. A new store means a new "
+              "owner who needs local customers fast: call or visit in the first weeks."]
+        L += [f"- NEW: {c['brand']}: {c['address']} | {c.get('phone') or 'no phone'} (seen {c['date']}) {c.get('maps', '')}"
+              for c in opened]
+        L += [f"- GONE (closed, moved or renamed; check): {c['brand']}: {c['address']} (seen {c['date']})"
+              for c in gone]
 
     if loose:
         L += ["", "## Other hot signals to research (not in the directory)"]

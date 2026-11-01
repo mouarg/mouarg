@@ -10,6 +10,8 @@ Daily prospect brief for a REACH Franchise Development Consultant. It finds NZ f
 | 2 | `radar.py` | Scans franchise news, directories and Google News for openings, expansions and new franchisees (`sources.yaml`). Writes `out/latest.md` and `out/triggers.csv`. |
 | 3 | `pipeline.py` | Scores every brand (news trigger, recruiting activity, local-marketing fit, Auckland multi-site), drops exclusions, existing customers and anything shown in the last 45 days, and picks a balanced top 10. Writes `out/prospects.md` (the brief) and `out/prospects.csv` (HubSpot-ready). |
 | 4 | `audit.py` | For each shortlisted brand: website check (Google tag, Google Ads, Meta Pixel, online booking), Google PageSpeed mobile score, Google listing gaps across outlets. Turns them into talking points and a full-funnel REACH plan. Plans the day's walk-ins by real drive time (Google Routes). |
+| 5 | `enrich.py` (changes) | Re-checks a few mapped networks every day and logs Auckland stores that **opened** or **disappeared** since last month. A brand with a new store jumps the queue (even if it was shown recently) and the new store becomes the first walk-in. |
+| 6 | `tracker.py` | Reads Aditi's call tracker (Google Sheet published as CSV): skips brands marked not interested or already booked, learns which business types book meetings, and shows her weekly tally in the brief. |
 | opt | `enrich.py` | With keys set: Google Places finds each brand's Auckland outlets (address, phone, reviews) and builds a walk-in route for the day's area. HubSpot flags brands already in the CRM. |
 
 The walk-in area rotates: Mon North Shore, Tue West, Wed South, Thu East, Fri Central.
@@ -21,6 +23,7 @@ The lead agent reads: `https://raw.githubusercontent.com/mouarg/mouarg/HEAD/fran
 1. Actions tab, "Franchise Radar", Run workflow, to test.
 2. Optional repo secrets (Settings, Secrets and variables, Actions):
    - `GOOGLE_MAPS_API_KEY`: Google Cloud key with **Places API (New)**, **Routes API** and **PageSpeed Insights API** enabled and allowed on the key. Results are cached for 30 days, so about 20 lookups a day stays inside Google's free monthly allowance (set a budget alert anyway).
+   - `TRACKER_CSV_URL`: the "Publish to web" CSV link of Aditi's tracker sheet (columns: Date, Brand, HQ or Local, Called, Meeting booked, Not interested, Notes).
    - `HUBSPOT_TOKEN`: HubSpot private app token, read-only `crm.objects.companies.read`. **Needs REACH approval.**
    - `SMTP_HOST`, `SMTP_USER`, `SMTP_PASS`, `DIGEST_TO`: email the news digest (Gmail: `smtp.gmail.com` and an app password).
 3. Add store locator pages for target brands to `sources.yaml` (`mode: text`) to catch new stores and owners.

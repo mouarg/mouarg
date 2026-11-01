@@ -106,10 +106,54 @@ def auckland_outlets(brand):
             "maps": p.get("googleMapsUri", ""), "lat": loc.get("latitude"), "lng": loc.get("longitude"),
             "area": area_of(loc.get("latitude", 0), loc.get("longitude", 0)),
         })
+    if hit:
+        record_changes(brand, hit["outlets"], outlets)
     cache[brand] = {"ts": time.time(), "outlets": outlets}
     PLACES_CACHE.parent.mkdir(exist_ok=True)
     PLACES_CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
     return outlets
+
+
+CHANGES_FILE = HERE / "state" / "outlet_changes.json"
+PLACES_PAGE = 20  # Text Search returns at most 20 places, so bigger networks can't be compared
+
+
+def record_changes(brand, before, after):
+    """Log Auckland stores that appeared or disappeared since the last look (about 30 days).
+
+    A brand-new store is the strongest local-marketing trigger there is: a new owner who
+    needs customers fast. Only small/mid networks are compared, because a 20-result search
+    for a 40-store chain returns a different 20 each time. A store only counts as "opened"
+    if it has few reviews, which filters out stores that were simply missed last time.
+    """
+    if len(before) >= PLACES_PAGE - 2 or len(after) >= PLACES_PAGE - 2:
+        return
+    key = lambda o: o.get("maps") or o["address"]
+    old, new = {key(o): o for o in before}, {key(o): o for o in after}
+    today = time.strftime("%Y-%m-%d")
+    log = json.loads(CHANGES_FILE.read_text()) if CHANGES_FILE.exists() else []
+    for k, o in new.items():
+        if k not in old and (o.get("reviews") or 0) < 30:
+            log.append({"date": today, "brand": brand, "change": "opened", **o})
+    for k, o in old.items():
+        if k not in new:
+            log.append({"date": today, "brand": brand, "change": "gone", **o})
+    CHANGES_FILE.write_text(json.dumps(log[-500:], indent=1, ensure_ascii=False))
+
+
+def refresh_oldest(n, exclude=()):
+    """Re-check the n stalest mapped networks so new and closed stores get noticed."""
+    if not os.getenv("GOOGLE_MAPS_API_KEY") or not PLACES_CACHE.exists():
+        return
+    cache = json.loads(PLACES_CACHE.read_text())
+    stale = [b for b, v in cache.items()
+             if 2 <= len(v["outlets"]) < PLACES_PAGE - 2 and time.time() - v["ts"] >= CACHE_DAYS * 86400
+             and not any(x in b.lower() for x in exclude)]
+    for brand in sorted(stale, key=lambda b: cache[b]["ts"])[:n]:
+        try:
+            auckland_outlets(brand)
+        except Exception:
+            pass
 
 
 def hubspot_status(brand):
