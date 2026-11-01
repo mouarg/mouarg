@@ -5915,5 +5915,75 @@
     "area": "South"
    }
   ]
+ },
+ "Central Landscape & Garden Supplies": {
+  "ts": 1793568023.4576445,
+  "outlets": []
+ },
+ "Window Treatments": {
+  "ts": 1793568023.7254083,
+  "outlets": [
+   {
+    "name": "Window Treatments Auckland",
+    "address": "68A Paul Matthews Road, Rosedale, Auckland 0632",
+    "phone": "09 525 6555",
+    "website": "https://www.window-treatments.co.nz/",
+    "rating": 4,
+    "reviews": 46,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=2016635485330575898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7511426,
+    "lng": 174.7145654,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "ShedBoss": {
+  "ts": 1793568023.998421,
+  "outlets": []
+ },
+ "Mad Butcher": {
+  "ts": 1793568024.3620837,
+  "outlets": [
+   {
+    "name": "The Mad Butcher",
+    "address": "22 Stoddard Road, Wesley, Auckland 1041",
+    "phone": "09 555 5799",
+    "website": "http://www.madbutcher.co.nz/mt-roskill",
+    "rating": 4.1,
+    "reviews": 149,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=15046191730196976399&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.908423,
+    "lng": 174.73385439999998,
+    "area": "Central"
+   },
+   {
+    "name": "The Mad Butcher",
+    "address": "173 Line Road, Glen Innes, Auckland 1072",
+    "phone": "09 521 0903",
+    "website": "http://www.madbutcher.co.nz/glen-innes",
+    "rating": 4,
+    "reviews": 127,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16899967705097799933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8798429,
+    "lng": 174.8559353,
+    "area": "East"
+   },
+   {
+    "name": "The Mad Butcher",
+    "address": "Southgate Shopping Centre, 230 Great South Road, Takanini, Auckland 2102",
+    "phone": "09 299 9759",
+    "website": "https://madbutcher.co.nz/takanini",
+    "rating": 4.2,
+    "reviews": 170,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=5116377632650639262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0495897,
+    "lng": 174.9295802,
+    "area": "South"
+   }
+  ]
  }
 }
