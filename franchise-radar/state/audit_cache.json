@@ -19,6 +19,16 @@
     "tiktok_pixel": false,
     "online_booking": true
    }
+  },
+  "https://hellpizza.com/": {
+   "ts": 1793545748.7833743,
+   "value": {
+    "google_tag": false,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  }
 }
