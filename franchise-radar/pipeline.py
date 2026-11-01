@@ -322,6 +322,22 @@ def main():
         c["gaps"] = audit.presence(outlets)
         c["points"] = audit.talking_points(c["signals"], c["speed"], c["gaps"])
         c["plan"] = full_funnel(c, c["signals"])
+        write_prep(c)
+
+    # 4b. Prep files for every other mapped brand (saved data only, no API calls), so any
+    #     walk-in or past lead has a prep file when a meeting gets booked.
+    index = load_json(STATE / "prep_index.json", {})
+    by_name = {b["name"]: b for b in brands.values()}
+    for name, entry in load_json(STATE / "places_cache.json", {}).items():
+        if name in index or name not in by_name or any(x in name.lower() for x in EXCLUDE_BRANDS):
+            continue
+        c = {**by_name[name], "outlets": entry.get("outlets", []), "triggers": [], "site": None,
+             "signals": None, "speed": None}
+        c["site"] = audit.brand_website(c["outlets"])
+        c["gaps"] = audit.presence(c["outlets"])
+        c["points"] = audit.talking_points(None, None, c["gaps"])
+        c["plan"] = full_funnel(c, None)
+        write_prep(c)
 
     # 5. Today's walk-ins (outlet level, real drive times when Routes is enabled).
     route, real_times = pick_walkins(picked, visited)
@@ -343,6 +359,64 @@ def main():
         visited[s.get("maps") or s["address"]] = TODAY.isoformat()
     (STATE / "surfaced.json").write_text(json.dumps(surfaced, indent=1, ensure_ascii=False))
     (STATE / "walkins.json").write_text(json.dumps(visited, indent=1, ensure_ascii=False))
+
+
+RAW = "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/"
+
+
+def slug(name):
+    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+
+
+def write_prep(c):
+    """One meeting-prep file per shortlisted brand: everything known, in one place.
+
+    The Sales Assistant (ChatGPT) reads it to build a leave-behind and meeting plan.
+    """
+    d = OUT / "prep"
+    d.mkdir(exist_ok=True)
+    outlets = c.get("outlets") or []
+    g, sig = c.get("gaps"), c.get("signals")
+    L = [f"# Meeting prep data: {c['name']}",
+         f"Updated {TODAY:%d %B %Y}. Public data only; verify before sharing with the client.", "",
+         "## Snapshot",
+         f"- Category: {c['category']}",
+         f"- Directory listing: {c['url']} (updated {c['lastmod']})",
+         f"- Website: {c.get('site') or 'not found'}",
+         f"- About: {c.get('blurb') or 'n/a'}",
+         f"- Auckland stores found on Google: {len(outlets)}"]
+    for t in c.get("triggers", []):
+        L.append(f"- Trigger ({t['date'] or t['found']}): {t['title']} {t['link']}")
+    if g:
+        L += ["", "## Local presence (Google listings, Auckland)",
+              f"- Average rating {g['avg_rating'] or '-'} stars; reviews per store from {g['min_reviews']} to {g['max_reviews']} (median {g['median_reviews']})",
+              f"- Stores under 4 stars: {g['low_rating']} | under 20 reviews: {g['thin_reviews']}",
+              f"- Listings missing phone: {g['no_phone']}, website: {g['no_website']}, opening hours: {g['no_hours']}"]
+    if sig or c.get("speed") is not None:
+        L += ["", "## Website and digital"]
+        if sig:
+            yn = lambda v: "yes" if v else "no"
+            L += [f"- Google Analytics/Tag Manager: {yn(sig['google_tag'])}",
+                  f"- Google Ads tracking: {yn(sig['google_ads'])}",
+                  f"- Meta Pixel (Facebook/Instagram retargeting): {yn(sig['meta_pixel'])}",
+                  f"- Online booking/ordering/quotes: {yn(sig['online_booking'])}"]
+        if c.get("speed") is not None:
+            L.append(f"- Google PageSpeed mobile score: {c['speed']}/100 (under 50 is slow)")
+    if c.get("points"):
+        L += ["", "## Findings to raise (kindly)"] + [f"- {p}" for p in c["points"]]
+    L += ["", "## Suggested REACH plan"] + [f"- {p}" for p in c["plan"]]
+    L.append("- Pricing: REACH packages start from about $2,000/month + GST. Confirm the quote internally.")
+    if outlets:
+        L += ["", "## Auckland stores", "| Area | Address | Phone | Rating | Reviews | Map |", "|---|---|---|---|---|---|"]
+        for o in sorted(outlets, key=lambda o: (o["area"], -(o.get("reviews") or 0))):
+            L.append(f"| {o['area']} | {o['address']} | {o.get('phone') or '-'} | {o.get('rating') or '-'} | "
+                     f"{o.get('reviews') or 0} | {o.get('maps') or ''} |")
+    (d / f"{slug(c['name'])}.md").write_text("\n".join(L) + "\n")
+    index = load_json(STATE / "prep_index.json", {})
+    index[c["name"]] = {"file": RAW + slug(c["name"]) + ".md", "date": TODAY.isoformat()}
+    (STATE / "prep_index.json").write_text(json.dumps(index, indent=1, ensure_ascii=False))
+    (d / "index.md").write_text("# Meeting prep files\n\n" + "\n".join(
+        f"- {n}: {v['file']} (updated {v['date']})" for n, v in sorted(index.items())) + "\n")
 
 
 def write_outputs(picked, route, real_times, loose, places_on, hubspot_on, changes=(), tally=None):
@@ -371,6 +445,7 @@ def write_outputs(picked, route, real_times, loose, places_on, hubspot_on, chang
               f"- About: {c.get('blurb') or 'n/a'}"]
         if c.get("site"):
             L.append(f"- Website: {c['site']}")
+        L.append(f"- Meeting prep data: {RAW}{slug(c['name'])}.md")
         if "crm" in c:
             L.append(f"- HubSpot: {c['crm'] or 'not in HubSpot (new business)'}")
         for t in c["triggers"]:

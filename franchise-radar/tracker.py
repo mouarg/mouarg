@@ -1,7 +1,8 @@
 """Aditi's call tracker (a Google Sheet published as CSV) feeds results back into the radar.
 
 Sheet columns (header names are matched loosely, Y/Yes/TRUE/x count as yes):
-  Date | Brand | HQ or Local | Called | Meeting booked | Not interested | Notes
+  Date | Brand | HQ or Local | Called | Meeting booked | Not interested | Stage | Value $/month | Notes
+  (Stage and Value are optional; the weekly report uses them for pipeline totals.)
 
 What the radar does with it:
   - brands marked "Not interested" are not suggested again for 180 days
