@@ -5793,5 +5793,127 @@
     "area": "Central"
    }
   ]
+ },
+ "Fritz’s Wieners Kitchen": {
+  "ts": 1793567943.448632,
+  "outlets": []
+ },
+ "LJ's": {
+  "ts": 1793567943.823602,
+  "outlets": [
+   {
+    "name": "LJ's Hunters Plaza",
+    "address": "217 Great South Road, Papatoetoe, Auckland 2025",
+    "phone": "09 277 7084",
+    "website": "https://www.ljs.co.nz/",
+    "rating": 4.5,
+    "reviews": 104,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=12268440034063967424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.970762799999996,
+    "lng": 174.8614882,
+    "area": "South"
+   },
+   {
+    "name": "LJ's Takanini",
+    "address": "30 Walters Road, Takanini, Auckland 2112",
+    "phone": "09 298 0032",
+    "website": "http://ljs.co.nz/",
+    "rating": 4.1,
+    "reviews": 233,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=7339290916565227071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0477591,
+    "lng": 174.93118629999998,
+    "area": "South"
+   },
+   {
+    "name": "LJ's Glenfield",
+    "address": "Level 3 Downing Street, Glenfield, Auckland 0629",
+    "phone": "09 441 7215",
+    "website": "https://www.ljs.co.nz/",
+    "rating": 4.7,
+    "reviews": 294,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=5646831272434874698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7827419,
+    "lng": 174.7218848,
+    "area": "North Shore"
+   },
+   {
+    "name": "LJ's Botany",
+    "address": "Food Court, Botany Town Centre Ground Level/25A Town Centre Drive, East Tāmaki, Auckland 2013",
+    "phone": "09 218 2310",
+    "website": "http://www.ljs.co.nz/",
+    "rating": 4.6,
+    "reviews": 505,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16245855061746308936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.934078299999996,
+    "lng": 174.91392829999998,
+    "area": "East"
+   },
+   {
+    "name": "LJ's Waitakere",
+    "address": "5 Vitasovich Avenue, Henderson, Auckland 0612",
+    "phone": "09 836 2809",
+    "website": "http://www.ljs.co.nz/",
+    "rating": 4.3,
+    "reviews": 385,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=14603133864187181590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8829065,
+    "lng": 174.63468269999998,
+    "area": "West"
+   },
+   {
+    "name": "LJ’s Manukau",
+    "address": "Food Court, Westfield Manukau City Level G/1 Leyton Way, Manukau City Centre, Auckland 2104",
+    "phone": "09 263 6505",
+    "website": "http://www.ljs.co.nz/",
+    "rating": 3.5,
+    "reviews": 130,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=8539457910578689562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9910074,
+    "lng": 174.8821982,
+    "area": "South"
+   },
+   {
+    "name": "LJ Smits",
+    "address": "243 Archers Road, Wairau Valley, Auckland 0627",
+    "phone": "09 444 9135",
+    "website": "https://smitsgroup.co.nz/articles/404/lj-smits-ltd?srsltid=AfmBOorkXvJvj0xM-VZl9pQcnP_5QPRCWXiUuPNlfbZ696vpaOJLBLkd",
+    "rating": 4.8,
+    "reviews": 17,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=4843845682447609755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7782531,
+    "lng": 174.7431566,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Donut King": {
+  "ts": 1793567944.1189644,
+  "outlets": []
+ },
+ "Habitual Fix": {
+  "ts": 1793567944.4093542,
+  "outlets": [
+   {
+    "name": "Habitual Fix Z Bombay",
+    "address": "Cnr Mill Road &, Great South Road, Bombay 2675",
+    "phone": "",
+    "website": "https://www.habitualfix.co.nz/",
+    "rating": 1,
+    "reviews": 1,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=6227534981805392745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.1920097,
+    "lng": 174.98351069999998,
+    "area": "South"
+   }
+  ]
  }
 }

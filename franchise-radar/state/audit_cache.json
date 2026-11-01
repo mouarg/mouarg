@@ -29,6 +29,26 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://ljs.co.nz/": {
+   "ts": 1793567964.1397057,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  }
+ },
+ "pagespeed": {
+  "https://mcdonalds.com/": {
+   "ts": 1793567963.7986834,
+   "value": 86
+  },
+  "https://ljs.co.nz/": {
+   "ts": 1793567976.8487287,
+   "value": 73
   }
  }
 }
