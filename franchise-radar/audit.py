@@ -29,7 +29,7 @@ CACHE_FILE = HERE / "state" / "audit_cache.json"
 USAGE_FILE = HERE / "state" / "audit_usage.json"
 CACHE_DAYS = 30
 UA = "Mozilla/5.0 (FranchiseRadar; personal prospecting research)"
-DAILY_CAPS = {"pagespeed": 15, "routes_elements": 64}
+DAILY_CAPS = {"pagespeed": 15, "routes_elements": 150}  # Routes free tier: 10,000 elements/month
 
 TAGS = {
     "google_tag": re.compile(r"googletagmanager\.com|gtag\(|GTM-[A-Z0-9]+", re.I),
