@@ -59,6 +59,16 @@
     "tiktok_pixel": false,
     "online_booking": true
    }
+  },
+  "https://generation.co.nz/": {
+   "ts": 1793643749.5665486,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -80,6 +90,10 @@
   },
   "https://window-treatments.co.nz/": {
    "ts": 1793568114.4663856,
+   "value": 41
+  },
+  "https://generation.co.nz/": {
+   "ts": 1793643775.1700413,
    "value": 41
   }
  }

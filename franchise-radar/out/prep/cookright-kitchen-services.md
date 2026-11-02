@@ -1,0 +1,15 @@
+# Meeting prep data: Cookright Kitchen Services
+Updated 03 November 2026. Public data only; verify before sharing with the client.
+
+## Snapshot
+- Category: Food and Beverage
+- Directory listing: https://franchise.co.nz/franchise-directory/36-cookright-kitchen-services (updated 2024-12-17)
+- Website: not found
+- About: Cookright, the kitchen hero, saving kitchens time and money. Deepfryer, overhead filter and hood cleaning. Cooking oil filtering. Oil and kitchen consumables product sales. Cookright has significant income potential with minimal competition for motivated, hard-working, practical operators who can sell and are well organised. Complete the form below to receive more detailed information from Cookrig
+- Auckland stores found on Google: 0
+
+## Suggested REACH plan
+- Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
+- Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
+- Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
+- Pricing: REACH packages start from about $2,000/month + GST. Confirm the quote internally.

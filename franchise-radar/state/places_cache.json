@@ -5985,5 +5985,76 @@
     "area": "South"
    }
   ]
+ },
+ "Generation Homes": {
+  "ts": 1793643746.8285873,
+  "outlets": [
+   {
+    "name": "Generation Homes Milldale",
+    "address": "94 Waiwai Drive, Milldale, Wainui 0992",
+    "phone": "027 531 1571",
+    "website": "https://www.generation.co.nz/auckland-north/show-homes/milldale-show-home",
+    "rating": 4.5,
+    "reviews": 11,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=6002182498386702933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.6079349,
+    "lng": 174.6489205,
+    "area": "West"
+   },
+   {
+    "name": "Generation Homes, Hunua Views, Auckland South",
+    "address": "Hunua Views 11 Kaihaukai Lane, Ramarama 2579",
+    "phone": "027 250 5894",
+    "website": "https://www.generation.co.nz/auckland-south/home",
+    "rating": null,
+    "reviews": 0,
+    "has_hours": false,
+    "maps": "https://maps.google.com/?cid=13065040838705131644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.1357612,
+    "lng": 174.96887099999998,
+    "area": "South"
+   }
+  ]
+ },
+ "Provista Balustrade Systems": {
+  "ts": 1793643747.1282024,
+  "outlets": [
+   {
+    "name": "Provista Balustrade Systems",
+    "address": "112 Taylor Street, Blockhouse Bay, Auckland 0600",
+    "phone": "027 249 6435",
+    "website": "http://www.provista.co.nz/",
+    "rating": 4.8,
+    "reviews": 15,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=6948202441422830480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.917246299999995,
+    "lng": 174.7003062,
+    "area": "Central"
+   }
+  ]
+ },
+ "Venluree": {
+  "ts": 1793643747.4301927,
+  "outlets": [
+   {
+    "name": "Venluree Blinds & Curtains",
+    "address": "106 Springs Road, East Tāmaki, Auckland 2013",
+    "phone": "09 309 8153",
+    "website": "http://www.venluree.co.nz/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=venlureehq",
+    "rating": 4.5,
+    "reviews": 168,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=650117125806967838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9443372,
+    "lng": 174.89248859999998,
+    "area": "East"
+   }
+  ]
+ },
+ "What's Up House Inspections": {
+  "ts": 1793643747.7976677,
+  "outlets": []
  }
 }
