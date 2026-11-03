@@ -69,6 +69,46 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://carlsjr.co.nz/": {
+   "ts": 1793722507.9453204,
+   "value": {
+    "google_tag": false,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://zones.co.nz/": {
+   "ts": 1793722531.9296775,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://streetwisecoffee.co.nz/": {
+   "ts": 1793722556.399956,
+   "value": {
+    "google_tag": false,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  },
+  "https://highmarkhomes.co.nz/": {
+   "ts": 1793722573.251518,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -95,6 +135,22 @@
   "https://generation.co.nz/": {
    "ts": 1793643775.1700413,
    "value": 41
+  },
+  "https://carlsjr.co.nz/": {
+   "ts": 1793722531.1861517,
+   "value": 21
+  },
+  "https://zones.co.nz/": {
+   "ts": 1793722554.9348283,
+   "value": 44
+  },
+  "https://streetwisecoffee.co.nz/": {
+   "ts": 1793722571.7376804,
+   "value": 60
+  },
+  "https://highmarkhomes.co.nz/": {
+   "ts": 1793722599.2138932,
+   "value": 44
   }
  }
 }

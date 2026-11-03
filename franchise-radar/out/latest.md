@@ -1,9 +1,16 @@
-# Franchise Radar - 2026-11-02
+# Franchise Radar - 2026-11-03
 
-4 new signals.
+7 new signals.
 
 ## Hot (4)
-- One NZ Opens First Costco Store-in-Store in Auckland - The Fast Mode (Google News - Auckland new store openings, Mon, 02 Nov 2026 00:11:34 GMT) https://news.google.com/rss/articles/CBMisAFBVV95cUxOellQZFdCdENpaTczYzdBRXdxN1ZQSVlMNDhkSVdETjlVOHV5MUpsZHpBbFF5S013c1ZhNmdhdXNmTGZ3WFhab1lONkstUVd5MG9QOXdCQnVycHk3bWU4WmRLLXZmdnVwRG5EdDAtUG5TbU1BX1F5N0pOSjNjVmplSXVRbDBfLTA5bUd3LUxhc0F1TGVVQTdZZ0pvZll3VkVpVFlyX3MtdFdzMTNjeV80UQ?oc=5
-- New Zealand skincare brand Apiora launches on World Mānuka Honey Day - Inside FMCG (Google News - NZ franchise expansion, Mon, 02 Nov 2026 04:06:43 GMT) https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ0VHMHg3dkRtSU9QLXZXeTRKcGYwR1BObmxJYTJqSG1DSVpQcDFFcHh3aHprWl9TRXhsRC0tNk5rdGJ2RkxzdWF5NzlEVzlySTFIOGNrZGo3czJsWGticnVjYWNDWXR0QVg2emhxanZNNER4TGdFTC1aWnhkV3B1cXljUXBiWVBBWElfZEw1OEtLaVdWRU1weFplTTFoSF8tUW5KWlZwX0Uxdw?oc=5
-- TGI Fridays targets franchise-led expansion as it pushes post-bankruptcy recovery - Traders Union (Google News - NZ franchise expansion, Mon, 02 Nov 2026 15:12:33 GMT) https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTBmV1ZnWmlRV1R3bjRfXzQxVmg2SGY4NnlWZ1pCUTlPVHh1Tmt6bXhpX3BXZGkzNHVCdHZ1VDdNemFtZzFkaTVGQ1VubUZjNUJ3STBVcmxDTUhLZ09IbTU2NEVfdGUwaElIZUlsNXdLRXFyU2w1a3huZjFkR25jYkhlX042anVNbGtzZlpfcXR1S2duU3Jia0Zn?oc=5
-- 2nd ODI: After crushing opening victory, clinical India eye series-clinching win over Zimbabwe - The Hawk (Google News - NZ franchise openings, Sat, 24 Oct 2026 07:00:00 GMT) https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHEtbU44anFuVDJTaHN2SHlKb045bjZLWE1TejdZc0c3U2RqTFNxaE0wWGhpYm9Na0pvXy1qRGN4RGxpNVJDOS0xbEM2ZDBiS2h0MEZYTGdveHc3S3VuM1QxcnFHR0pwUlNWTEVLSWJnVllnaTQwUVN0dXdwcWdJNDlkRXF3QnE1UkZ4Rk1STlNqUE1XRWZ5WmkwN3lxMzQ1S3BMZjI4MkdqVmpvMW5JMGN4X1VNb3Z6VzNJTEFKVHdzM255b0E?oc=5
+- Premium Clean Launches 2027 School Cleaning Review Programme Nationwide - Scoop - New Zealand News (Google News - NZ franchise expansion, Fri, 23 Oct 2026 07:08:12 GMT) https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ05xMjI2OHJsSUdMY1k1XzZXZ2gxMDh3Z1U1RFpZazJNVXJwdTJkUFZSVE5Dbk9fSWVfQ3F3NlZDaFdGQ0JRMHVvZngydUlPVk9lUGdOTldqSjR1bDBEVUpwOGFoNDBmUVhLSmlfeml1OHlpdnNZQVR2SEpWZm1rWHVCX05jUndPVEdITGxrUmlFVVZiaFVwY0pNV2gxeDJ1WDFaY3pGd0FIbWY0Z0E?oc=5
+- MLP Returns to Houston With New Franchise, Expands to 21 Teams for 2027 - Times Now (Google News - NZ franchise expansion, Fri, 30 Oct 2026 12:48:05 GMT) https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUU5DNWtXbVY3ZzBGZzRoYVRST1p4Zi1Sa3pPZWRZVzQ5NDdpNmRnLW45RFU1MjI3alV6QThVT01QUTRVdEc3VkwySHg5TWU2eU9ZOVgyeWV2SHBmdlVNdGxtSmszdTJiaElTOUVMTEFhREUxSFozTFoxNkctRmlLZHRaVVBXTnNtZnFDc2VaUUZSQndRVVlFZjd3ZDdhdFoyTXZORmIxNGp1eU5mWlR2TjMtUVZHc3B5UmZHSGwwUVprakJmSWNqclVJcHdQYmJueHF5ZUpR0gHWAUFVX3lxTE9RTkM1a1dtVjdnMEZnNGhhVFJPWnhmLVJrek9lZFlXNDk0N2k2ZGctbjlEVTUyMjdqVXpBOFVPTVBRNFV0RzdWTDJIeDlNZTZ5T1k5WDJ5ZXZIcGZ2VU10bG1KazN1MmJoSVM5RUxMQWFERTFIWjNMWjE2Ry1GaUtkdFpVUFdOc21mcUNzZVpRRlJCd1FVWUVmN3dkN2F0WjJNdk5GYjE0anV5TmZaVHZOMy1RVkdzcHlSZkdIbDBRWmtqQmZJY2pyVUlwd1BiYm54cXllSlE?oc=5
+- Accor expands franchise-fit model into New Zealand - www.hotelmanagement.com.au (Google News - NZ franchise openings, Tue, 03 Nov 2026 02:39:44 GMT) https://news.google.com/rss/articles/CBMingFBVV95cUxQbTdkQXdLMmVtMTYxV3NtWGtMNzNCT0RWUkpDWkdmYXIzQkdXcGNWY3lBSTVEZFkzcDlFYXdTdERqR1diMXB1SV9DVnd2bHVBb0hIVjlXVHNMQzJEWV9fRHdMS1FwZVRUVEd0bFZZbkFvdncwbFBXTERIUWxhaWxXNDFIaERFSnVpeU1UWnNHTkVnVmRLR2hjbGFERU52QQ?oc=5
+- Kroger building first new store in the Houston area in a decade - FreshPlaza (Google News - NZ franchise openings, Mon, 02 Nov 2026 13:44:49 GMT) https://news.google.com/rss/articles/CBMivgFBVV95cUxNbjVQRzd4bnBaaXNZSHhYU0pWT3l4XzFpczZjNWNyWGduLTliWmxnSHRmeVVDMWJCRkZzZGJQb2pOVDdSejk3cnJ4TDE5dWZwSmVZcFloMFBvWEFodGp1RHhUeGkwbC1FQy13d01IS1Z1WHRrYlpXU2JPRTZoUk1TS3BjLTEzX08xTENGVWl1bzhGeElUajZSS1k2RER1RF9CdnNZYTZFUVB3YWpLMzEtMmJheWNlaWdOQ2JoT2Vn?oc=5
+
+## Warm (2)
+- Soul Origin (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/coffee-franchise-opportunities/soul-origin
+- Readying your franchise business for changes (Franchise NZ news, Tue, 03 Nov 2026 04:13:01 GMT) http://www.franchise.co.nz/news_items/2313
+
+## Info (1)
+- YOUNG ARTISTS HELP CHRISTMAS DRAW NEARER (Franchise NZ news, Tue, 03 Nov 2026 01:26:12 GMT) http://www.franchise.co.nz/news_items/2312

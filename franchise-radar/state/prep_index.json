@@ -361,7 +361,7 @@
  },
  "Streetwise Coffee": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/streetwise-coffee.md",
-  "date": "2026-11-03"
+  "date": "2026-11-04"
  },
  "Valentines Buffet Restaurants": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/valentines-buffet-restaurants.md",
@@ -430,5 +430,29 @@
  "What's Up House Inspections": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/what-s-up-house-inspections.md",
   "date": "2026-11-03"
+ },
+ "Carl's Jr.": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/carl-s-jr.md",
+  "date": "2026-11-04"
+ },
+ "Zones Landscaping Specialists": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/zones-landscaping-specialists.md",
+  "date": "2026-11-04"
+ },
+ "Highmark Homes": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/highmark-homes.md",
+  "date": "2026-11-04"
+ },
+ "Lawn Rite": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/lawn-rite.md",
+  "date": "2026-11-04"
+ },
+ "ActionCOACH New Zealand": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/actioncoach-new-zealand.md",
+  "date": "2026-11-04"
+ },
+ "NZ House Surveys": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/nz-house-surveys.md",
+  "date": "2026-11-04"
  }
 }
