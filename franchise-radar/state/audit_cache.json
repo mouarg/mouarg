@@ -109,6 +109,36 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://refreshrenovations.co.nz/": {
+   "ts": 1793809184.5240953,
+   "value": {
+    "google_tag": true,
+    "google_ads": true,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://coffix.co.nz/": {
+   "ts": 1793809275.2509768,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://venluree.co.nz/": {
+   "ts": 1793809287.2015936,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -151,6 +181,14 @@
   "https://highmarkhomes.co.nz/": {
    "ts": 1793722599.2138932,
    "value": 44
+  },
+  "https://coffix.co.nz/": {
+   "ts": 1793809285.3880086,
+   "value": 66
+  },
+  "https://venluree.co.nz/": {
+   "ts": 1793809317.2642689,
+   "value": 17
   }
  }
 }

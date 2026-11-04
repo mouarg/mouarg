@@ -1,5 +1,5 @@
 # Meeting prep data: Robert Harris Coffee Roasters
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 05 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
