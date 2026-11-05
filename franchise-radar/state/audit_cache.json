@@ -139,6 +139,26 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://provista.co.nz/": {
+   "ts": 1793896166.051037,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://laporchetta.com.au/": {
+   "ts": 1793896223.93137,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
   }
  },
  "pagespeed": {
@@ -189,6 +209,18 @@
   "https://venluree.co.nz/": {
    "ts": 1793809317.2642689,
    "value": 17
+  },
+  "https://washrite.co.nz/": {
+   "ts": 1793896164.320189,
+   "value": 33
+  },
+  "https://provista.co.nz/": {
+   "ts": 1793896221.496781,
+   "value": 35
+  },
+  "https://laporchetta.com.au/": {
+   "ts": 1793896244.3740554,
+   "value": 59
   }
  }
 }

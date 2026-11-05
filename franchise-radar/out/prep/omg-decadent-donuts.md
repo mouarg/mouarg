@@ -1,5 +1,5 @@
 # Meeting prep data: OMG! Decadent Donuts
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 06 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage

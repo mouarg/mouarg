@@ -1,5 +1,5 @@
 # Meeting prep data: La Porchetta
-Updated 05 November 2026. Public data only; verify before sharing with the client.
+Updated 06 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
@@ -13,8 +13,20 @@ Updated 05 November 2026. Public data only; verify before sharing with the clien
 - Stores under 4 stars: 0 | under 20 reviews: 0
 - Listings missing phone: 0, website: 0, opening hours: 0
 
+## Website and digital
+- Google Analytics/Tag Manager: yes
+- Google Ads tracking: no
+- Meta Pixel (Facebook/Instagram retargeting): yes
+- Online booking/ordering/quotes: yes
+- Google PageSpeed mobile score: 59/100 (under 50 is slow)
+
+## Findings to raise (kindly)
+- No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
+- Website takes bookings/orders/quotes online -> campaigns can drive straight to a measurable action (Lead Accelerator / Traffic Igniter style digital).
+
 ## Suggested REACH plan
 - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
+- Digital gap: Google Search not set up -> REACH Digital Marketing
 - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
 - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 - Pricing: REACH packages start from about $2,000/month + GST. Confirm the quote internally.

@@ -6551,5 +6551,75 @@
     "area": "North Shore"
    }
   ]
+ },
+ "Platinum Homes": {
+  "ts": 1793896137.270209,
+  "outlets": [
+   {
+    "name": "Platinum Homes - Auckland South - Office",
+    "address": "824 Harvard Lane, Ardmore 2582",
+    "phone": "09 277 7093",
+    "website": "http://www.platinumhomes.co.nz/",
+    "rating": 4.6,
+    "reviews": 10,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16759292808545223642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0326637,
+    "lng": 174.975923,
+    "area": "South"
+   }
+  ]
+ },
+ "Wash Rite": {
+  "ts": 1793896137.5731037,
+  "outlets": [
+   {
+    "name": "Wash Rite East Auckland",
+    "address": "102 Allum Street, Kohimarama, Auckland 1071",
+    "phone": "0210 581 266",
+    "website": "https://www.washrite.co.nz/franchise/east-auckland",
+    "rating": 5,
+    "reviews": 129,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16850177857029514378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.86219,
+    "lng": 174.84448849999998,
+    "area": "East"
+   },
+   {
+    "name": "Wash Rite Auckland Central",
+    "address": "83 Weymouth Road, Manurewa, Auckland 2102",
+    "phone": "0210 284 9821",
+    "website": "http://www.washrite.co.nz/franchise/auckland-central",
+    "rating": 4.7,
+    "reviews": 25,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=5031653082250455657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0270462,
+    "lng": 174.8878762,
+    "area": "South"
+   },
+   {
+    "name": "Wash Rite Upper North Shore, Rodney and Mangawhai",
+    "address": "33B Hyde Road, Rothesay Bay, Auckland 0630",
+    "phone": "021 337 777",
+    "website": "https://www.washrite.co.nz/wash-rite-upper-north-shore",
+    "rating": 5,
+    "reviews": 129,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=10373641934633591636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7200588,
+    "lng": 174.74976750000002,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Diamond Fusion": {
+  "ts": 1793896137.8134696,
+  "outlets": []
+ },
+ "Design Builders": {
+  "ts": 1793896138.1163743,
+  "outlets": []
  }
 }
