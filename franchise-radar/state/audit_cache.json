@@ -159,6 +159,56 @@
     "tiktok_pixel": false,
     "online_booking": true
    }
+  },
+  "https://soulorigin.co.nz/": {
+   "ts": 1794150796.3918853,
+   "value": {
+    "google_tag": true,
+    "google_ads": true,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://freshchoice.co.nz/": {
+   "ts": 1794150828.2308357,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://kokodaknz.com/": {
+   "ts": 1794150849.1923194,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  },
+  "https://toyworld.co.nz/": {
+   "ts": 1794150875.3809922,
+   "value": {
+    "google_tag": true,
+    "google_ads": true,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  },
+  "https://prowaterblasting.co.nz/": {
+   "ts": 1794150912.907221,
+   "value": {
+    "google_tag": true,
+    "google_ads": true,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
   }
  },
  "pagespeed": {
@@ -221,6 +271,26 @@
   "https://laporchetta.com.au/": {
    "ts": 1793896244.3740554,
    "value": 59
+  },
+  "https://soulorigin.co.nz/": {
+   "ts": 1794150827.4107296,
+   "value": 48
+  },
+  "https://freshchoice.co.nz/": {
+   "ts": 1794150848.2626667,
+   "value": 69
+  },
+  "https://kokodaknz.com/": {
+   "ts": 1794150874.2074404,
+   "value": 63
+  },
+  "https://toyworld.co.nz/": {
+   "ts": 1794150911.797587,
+   "value": 52
+  },
+  "https://prowaterblasting.co.nz/": {
+   "ts": 1794150937.3308728,
+   "value": 39
   }
  }
 }

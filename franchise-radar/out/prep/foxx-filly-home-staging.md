@@ -1,5 +1,5 @@
 # Meeting prep data: Foxx & Filly Home Staging
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 09 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Home and Building

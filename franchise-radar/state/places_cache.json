@@ -6621,5 +6621,586 @@
  "Design Builders": {
   "ts": 1793896138.1163743,
   "outlets": []
+ },
+ "The Outdoor Room Company": {
+  "ts": 1794150790.8247178,
+  "outlets": []
+ },
+ "Harrisons Carpet & Flooring": {
+  "ts": 1794150791.2736921,
+  "outlets": []
+ },
+ "V.I.P. Home Services": {
+  "ts": 1794150791.7618093,
+  "outlets": []
+ },
+ "Kokodak": {
+  "ts": 1794150792.1993372,
+  "outlets": [
+   {
+    "name": "Kokodak Chicken - Devonport",
+    "address": "Unit 6/1 Queens Parade, Devonport, Auckland 0624",
+    "phone": "09 869 3713",
+    "website": "http://kokodaknz.com/",
+    "rating": 4,
+    "reviews": 150,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=4424121786751681132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8331772,
+    "lng": 174.79621419999998,
+    "area": "Central"
+   },
+   {
+    "name": "Kokodak Chicken - Ormiston",
+    "address": "240 Ormiston Road, Flat Bush, Auckland 2019",
+    "phone": "09 869 8882",
+    "website": "http://www.kokodaknz.com/",
+    "rating": 3.8,
+    "reviews": 260,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=7637495314809621929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9644313,
+    "lng": 174.91269739999998,
+    "area": "South"
+   },
+   {
+    "name": "Kokodak Chicken Otahuhu",
+    "address": "135 Atkinson Avenue, Ōtāhuhu, Auckland 1062",
+    "phone": "09 558 4644",
+    "website": "https://kokodaknz.com/",
+    "rating": 4.9,
+    "reviews": 54,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16644747931789475972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9443252,
+    "lng": 174.8444944,
+    "area": "East"
+   },
+   {
+    "name": "Kokodak Chicken Manawa Bay",
+    "address": "4 Jimmy Ward Crescent, Auckland Airport, Auckland 2022",
+    "phone": "",
+    "website": "",
+    "rating": 3.5,
+    "reviews": 93,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=2403644792485484145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9969877,
+    "lng": 174.8018038,
+    "area": "South"
+   },
+   {
+    "name": "Kokodak Chicken - Newmarket",
+    "address": "375/277 Broadway, Newmarket, Auckland 1023",
+    "phone": "09 666 0155",
+    "website": "http://kokodaknz.com/newmarket",
+    "rating": 3.6,
+    "reviews": 96,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16497921374663949908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8707883,
+    "lng": 174.77689049999998,
+    "area": "Central"
+   },
+   {
+    "name": "Kokodak Chicken NorthWest",
+    "address": "shop 67, 1/7 Fred Taylor Drive, Massey, Auckland 0814",
+    "phone": "09 217 1987",
+    "website": "http://www.kokodaknz.com/",
+    "rating": 4.3,
+    "reviews": 99,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=10350642742732631112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.818446699999996,
+    "lng": 174.61102409999998,
+    "area": "West"
+   },
+   {
+    "name": "Kokodak Chicken Mt Wellington (Stoneridge)",
+    "address": "101 Lunn Avenue, Mount Wellington, Auckland 1072",
+    "phone": "09 869 8883",
+    "website": "http://www.kokodaknz.com/",
+    "rating": 4.2,
+    "reviews": 197,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=12804435358129381513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8889926,
+    "lng": 174.8328105,
+    "area": "Central"
+   },
+   {
+    "name": "Kokodak Chicken Manukau Westfield",
+    "address": "1 Leyton Way, Manukau Westfield, Auckland 2104",
+    "phone": "09 869 8600",
+    "website": "https://www.kokodaknz.com/",
+    "rating": 4,
+    "reviews": 46,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=7968385861353927405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.991585,
+    "lng": 174.88176059999998,
+    "area": "South"
+   },
+   {
+    "name": "Kokodak Sylvia park",
+    "address": "Sylvia Park Road, Mount Wellington, Auckland 1060",
+    "phone": "09 971 1228",
+    "website": "https://kokodaknz.com/",
+    "rating": 3.9,
+    "reviews": 14,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=6312335597573086515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9168088,
+    "lng": 174.841407,
+    "area": "East"
+   },
+   {
+    "name": "Kokodak Chicken",
+    "address": "Mount Wellington, Auckland 1060",
+    "phone": "027 351 3916",
+    "website": "http://www.kokodaknz.com/",
+    "rating": 4,
+    "reviews": 2,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=14414633911995425039&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9165707,
+    "lng": 174.84168119999998,
+    "area": "East"
+   },
+   {
+    "name": "Kokodak Chicken - Albany",
+    "address": "219 Don McKinnon Drive, Albany, Auckland 0632",
+    "phone": "09 558 7412",
+    "website": "http://kokodaknz.com/",
+    "rating": 3.7,
+    "reviews": 63,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=10478248596730417886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.728263,
+    "lng": 174.70894189999999,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Harrisons Curtains & Blinds": {
+  "ts": 1794150792.617534,
+  "outlets": []
+ },
+ "Harrisons Solar": {
+  "ts": 1794150793.0116546,
+  "outlets": []
+ },
+ "Pro Waterblasting": {
+  "ts": 1794150793.3152175,
+  "outlets": [
+   {
+    "name": "Pro Waterblasting Auckland Limited",
+    "address": "7 Olive Road, Penrose, Auckland 1061",
+    "phone": "0800 900 152",
+    "website": "https://prowaterblasting.co.nz/",
+    "rating": 4.9,
+    "reviews": 192,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=15622497855408889242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9119494,
+    "lng": 174.81273539999998,
+    "area": "Central"
+   }
+  ]
+ },
+ "MINTEDVR": {
+  "ts": 1794150793.7422407,
+  "outlets": []
+ },
+ "Toyworld": {
+  "ts": 1794150794.1962264,
+  "outlets": [
+   {
+    "name": "Toyworld Manukau Supa Centa",
+    "address": "A2 Manukau, Supa Centa 72 Cavendish Drive, Manukau City Centre, Auckland 2104",
+    "phone": "09 262 3800",
+    "website": "http://www.toyworld.co.nz/",
+    "rating": 4.1,
+    "reviews": 254,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=9989903382189131596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9903647,
+    "lng": 174.8717436,
+    "area": "South"
+   },
+   {
+    "name": "Toyworld Botany",
+    "address": "Shop 0624/588 Chapel Road, East Tāmaki, Auckland 2013",
+    "phone": "09 271 1535",
+    "website": "https://www.toyworld.co.nz/",
+    "rating": 4.1,
+    "reviews": 150,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16026972048136140785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9340608,
+    "lng": 174.912453,
+    "area": "East"
+   },
+   {
+    "name": "Toyworld Glenfield Mall",
+    "address": "Glenfield Mall Shop 303/385 Glenfield Road, Glenfield, Auckland 0629",
+    "phone": "09 440 9998",
+    "website": "https://www.toyworld.co.nz/",
+    "rating": 4.3,
+    "reviews": 80,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=359618769564783346&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7823426,
+    "lng": 174.72113399999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Toyworld New Lynn",
+    "address": "3058 Great North Road, New Lynn, Auckland 0600",
+    "phone": "09 827 6921",
+    "website": "http://www.toyworld.co.nz/",
+    "rating": 3.7,
+    "reviews": 140,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=8987499519555902054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9074528,
+    "lng": 174.6850734,
+    "area": "West"
+   },
+   {
+    "name": "Toyworld Mt Wellington",
+    "address": "86 Lunn Avenue, Mount Wellington, Auckland 1072",
+    "phone": "09 579 8697",
+    "website": "https://www.toyworld.co.nz/",
+    "rating": 4.6,
+    "reviews": 46,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16743740217909759662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8904321,
+    "lng": 174.8328618,
+    "area": "Central"
+   },
+   {
+    "name": "Toyworld",
+    "address": "80 Saint Lukes Road, Mount Albert, Auckland 1025",
+    "phone": "09 218 9545",
+    "website": "http://www.toyworld.co.nz/",
+    "rating": 3.6,
+    "reviews": 48,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=1907771273866139456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8828639,
+    "lng": 174.7335917,
+    "area": "Central"
+   },
+   {
+    "name": "Toyworld Henderson",
+    "address": "56 Railside Avenue, Henderson, Auckland 0612",
+    "phone": "09 838 3424",
+    "website": "http://www.toyworld.co.nz/",
+    "rating": 4.5,
+    "reviews": 293,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=7868573583363760966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8821146,
+    "lng": 174.6315478,
+    "area": "West"
+   },
+   {
+    "name": "Toyworld Albany",
+    "address": "6 Mercari Way, Albany, Auckland 0632",
+    "phone": "09 444 0981",
+    "website": "http://www.toyworld.co.nz/",
+    "rating": 4.3,
+    "reviews": 166,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=919692333522401457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7326283,
+    "lng": 174.70807929999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Toyworld Northwest Mall (Westgate)",
+    "address": "Northwest Shopping Centre Shop 77, Westgate, Auckland 0614",
+    "phone": "09 833 3960",
+    "website": "http://www.toyworld.co.nz/",
+    "rating": 4,
+    "reviews": 119,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16318622865414418591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8174542,
+    "lng": 174.6100311,
+    "area": "West"
+   },
+   {
+    "name": "Toyworld Newmarket",
+    "address": "352 Broadway, Newmarket, Auckland 1023",
+    "phone": "09 520 2000",
+    "website": "",
+    "rating": 4.8,
+    "reviews": 6,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=1679370510886453644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8718138,
+    "lng": 174.77722939999998,
+    "area": "Central"
+   },
+   {
+    "name": "Toyworld Milford",
+    "address": "198 Kitchener Road, Milford, Auckland 0620",
+    "phone": "09 485 3850",
+    "website": "https://www.toyworld.co.nz/",
+    "rating": 5,
+    "reviews": 396,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=9470502498798051179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7726492,
+    "lng": 174.76459169999998,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "Katsubi": {
+  "ts": 1794150794.666263,
+  "outlets": [
+   {
+    "name": "Katsubi Albany",
+    "address": "219 Don McKinnon Drive, Albany, Auckland 0632",
+    "phone": "",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 3.5,
+    "reviews": 336,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16045381924123116231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7284083,
+    "lng": 174.7086971,
+    "area": "North Shore"
+   },
+   {
+    "name": "Katsubi West City",
+    "address": "West City Shoppping Centre, Catherine Street, Henderson, Auckland 0612",
+    "phone": "",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 3.1,
+    "reviews": 59,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=10321672732494937037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.880395899999996,
+    "lng": 174.63309959999998,
+    "area": "West"
+   },
+   {
+    "name": "Katsubi Dress Smart",
+    "address": "151 Arthur Street Shop 619 DRESS SMART, Onehunga, Auckland 1061",
+    "phone": "",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 2.6,
+    "reviews": 60,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=6580354411847822278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9211826,
+    "lng": 174.78656940000002,
+    "area": "Central"
+   },
+   {
+    "name": "Katsubi St. Lukes",
+    "address": "FC5/80 Saint Lukes Road, Mount Albert, Auckland 1025",
+    "phone": "09 815 3636",
+    "website": "",
+    "rating": 3.7,
+    "reviews": 152,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=3816825888396560260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.882428,
+    "lng": 174.7323965,
+    "area": "Central"
+   },
+   {
+    "name": "Katsubi Greenlane",
+    "address": "A3/604 Great South Road, Ellerslie, Auckland 1051",
+    "phone": "",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 3.3,
+    "reviews": 61,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=1990727591935852005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8976471,
+    "lng": 174.8027411,
+    "area": "Central"
+   },
+   {
+    "name": "Katsubi Ormiston",
+    "address": "240 Ormiston Road, Flat Bush, Auckland 2019",
+    "phone": "",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 2.8,
+    "reviews": 71,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=12881559926297561160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9643855,
+    "lng": 174.91323309999999,
+    "area": "South"
+   },
+   {
+    "name": "Katsubi Sylvia Park",
+    "address": "Sylvia Park Shopping Centre, Mount Wellington Highway, Mount Wellington, Auckland 1644",
+    "phone": "",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 3,
+    "reviews": 134,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=17456552587008684972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9171882,
+    "lng": 174.8422382,
+    "area": "East"
+   },
+   {
+    "name": "Katsubi Westfield Manukau",
+    "address": "SF02, Manukau Station Road, Manukau City Centre, Auckland 2104",
+    "phone": "",
+    "website": "",
+    "rating": 2.9,
+    "reviews": 55,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=12761608968908289554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9911544,
+    "lng": 174.8818656,
+    "area": "South"
+   },
+   {
+    "name": "Katsubi Ponsonby",
+    "address": "UnitD, 4/95 Ponsonby Road, Freemans Bay, Auckland 0932",
+    "phone": "09 200 0342",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 4.1,
+    "reviews": 23,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=5547523578586748116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8564778,
+    "lng": 174.7470564,
+    "area": "Central"
+   },
+   {
+    "name": "Katsubi Cafe & Restaurant",
+    "address": "35 William Pickering Drive, Rosedale, Auckland 0632",
+    "phone": "027 888 9911",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 3.9,
+    "reviews": 362,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=4277075704145748467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7458704,
+    "lng": 174.6983833,
+    "area": "North Shore"
+   },
+   {
+    "name": "Katsubi Browns Bay",
+    "address": "11-19 Clyde Road, Browns Bay, Auckland 0630",
+    "phone": "09 200 0330",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 3.6,
+    "reviews": 169,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=8704575722206972767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7166395,
+    "lng": 174.74837209999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Katsubi Glenfield",
+    "address": "Westfield Shopping Centre 385 Glenfield Road, Glenfield, Auckland 0629",
+    "phone": "",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 3.5,
+    "reviews": 66,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=3034255696056441492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7824384,
+    "lng": 174.7225806,
+    "area": "North Shore"
+   },
+   {
+    "name": "Katsubi Northwest",
+    "address": "NorthWest Shopping Centre 7 Fred Taylor Drive, Westgate, Auckland 0814",
+    "phone": "09 200 0079",
+    "website": "http://www.katsubi.co.nz/",
+    "rating": 3.4,
+    "reviews": 137,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=18170714462122442807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8180803,
+    "lng": 174.61182829999998,
+    "area": "West"
+   },
+   {
+    "name": "Katsubi Botany",
+    "address": "0932, Auckland, East Tāmaki, Chapel Rd, Botany Town Centre",
+    "phone": "",
+    "website": "https://katsubi.co.nz/",
+    "rating": 3.7,
+    "reviews": 23,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=9331701517209888601&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9331199,
+    "lng": 174.91330789999998,
+    "area": "East"
+   },
+   {
+    "name": "Katsubi Takapuna",
+    "address": "490 Lake Road, Takapuna, Auckland 0622",
+    "phone": "09 200 0331",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 3.1,
+    "reviews": 127,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=3686491765296415852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7875699,
+    "lng": 174.77127320000002,
+    "area": "North Shore"
+   },
+   {
+    "name": "Katsubi Commercial Bay",
+    "address": "1010, Auckland, Queen St, 2",
+    "phone": "",
+    "website": "https://katsubi.co.nz/",
+    "rating": 4.2,
+    "reviews": 5,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=1878175185933552917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8432628,
+    "lng": 174.7660844,
+    "area": "Central"
+   },
+   {
+    "name": "Katsubi Newmarket",
+    "address": "1023, Auckland, Newmarket, Broadway, Shop S337",
+    "phone": "",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 4,
+    "reviews": 21,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=2849705525527478448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8708932,
+    "lng": 174.77577829999998,
+    "area": "Central"
+   },
+   {
+    "name": "Katsubi Orewa",
+    "address": "Unit C/8 Moana Avenue, Orewa 0931",
+    "phone": "021 107 3377",
+    "website": "https://www.katsubi.co.nz/",
+    "rating": 4.2,
+    "reviews": 71,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=18336762850811733026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.5865814,
+    "lng": 174.6951401,
+    "area": "North Shore"
+   }
+  ]
+ },
+ "PERL Plumbing & PERL Electrical": {
+  "ts": 1794150795.0603037,
+  "outlets": []
  }
 }

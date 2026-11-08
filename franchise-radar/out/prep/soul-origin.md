@@ -1,5 +1,5 @@
 # Meeting prep data: Soul Origin
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 09 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
@@ -7,14 +7,23 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Website: https://soulorigin.co.nz/
 - About: Soul Origin’s taking our Aussie vibes to New Zealand, and we’re on the hunt for food lovers with a dash of personality! We’re talking fresh bites, delish coffee, and SO much flavour served with a friendly grin. Let’s make it official! Complete the form below to receive more detailed information from Soul Origin
 - Auckland stores found on Google: 4
+- Trigger (2026-11-03): Soul Origin https://www.franchisedirect.co.nz/coffee-franchise-opportunities/soul-origin
 
 ## Local presence (Google listings, Auckland)
 - Average rating 3.1 stars; reviews per store from 36 to 77 (median 45)
 - Stores under 4 stars: 4 | under 20 reviews: 0
 - Listings missing phone: 0, website: 0, opening hours: 0
 
+## Website and digital
+- Google Analytics/Tag Manager: yes
+- Google Ads tracking: yes
+- Meta Pixel (Facebook/Instagram retargeting): yes
+- Online booking/ordering/quotes: no
+- Google PageSpeed mobile score: 48/100 (under 50 is slow)
+
 ## Findings to raise (kindly)
 - 4 of 4 Auckland sites rate under 4.0 stars -> new-customer campaigns plus a review/feedback QR on every flyer.
+- Website scores 48/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
 
 ## Suggested REACH plan
 - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
