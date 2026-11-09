@@ -209,6 +209,56 @@
     "tiktok_pixel": false,
     "online_booking": true
    }
+  },
+  "https://katsubi.co.nz/": {
+   "ts": 1794250184.334239,
+   "value": {
+    "google_tag": false,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  },
+  "https://rainaway.co.nz/": {
+   "ts": 1794250208.6564014,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://speedqueen.co.nz/": {
+   "ts": 1794250237.5634487,
+   "value": {
+    "google_tag": false,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://smithssportsshoes.co.nz/": {
+   "ts": 1794250262.8823507,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://crewcut.co.nz/": {
+   "ts": 1794250281.16512,
+   "value": {
+    "google_tag": true,
+    "google_ads": true,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -291,6 +341,30 @@
   "https://prowaterblasting.co.nz/": {
    "ts": 1794150937.3308728,
    "value": 39
+  },
+  "https://majesticteabar.co.nz/": {
+   "ts": 1794250183.7106946,
+   "value": 62
+  },
+  "https://katsubi.co.nz/": {
+   "ts": 1794250205.279236,
+   "value": 72
+  },
+  "https://rainaway.co.nz/": {
+   "ts": 1794250236.270424,
+   "value": 28
+  },
+  "https://speedqueen.co.nz/": {
+   "ts": 1794250261.8885694,
+   "value": 67
+  },
+  "https://smithssportsshoes.co.nz/": {
+   "ts": 1794250280.6512275,
+   "value": 76
+  },
+  "https://crewcut.co.nz/": {
+   "ts": 1794250304.211729,
+   "value": 33
   }
  }
 }

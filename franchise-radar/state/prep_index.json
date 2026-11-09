@@ -41,7 +41,7 @@
  },
  "Crewcut": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/crewcut.md",
-  "date": "2026-11-03"
+  "date": "2026-11-10"
  },
  "Paramount Services": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/paramount-services.md",
@@ -73,11 +73,11 @@
  },
  "MYGuy": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/myguy.md",
-  "date": "2026-11-03"
+  "date": "2026-11-10"
  },
  "Rainaway Spouting on the Spot": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/rainaway-spouting-on-the-spot.md",
-  "date": "2026-11-03"
+  "date": "2026-11-10"
  },
  "Pegasus Rental Cars": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/pegasus-rental-cars.md",
@@ -85,7 +85,7 @@
  },
  "Smith's Sports Shoes": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/smith-s-sports-shoes.md",
-  "date": "2026-11-03"
+  "date": "2026-11-10"
  },
  "Caci": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/caci.md",
@@ -133,7 +133,7 @@
  },
  "Majestic": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/majestic.md",
-  "date": "2026-11-03"
+  "date": "2026-11-10"
  },
  "Cash Converters": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/cash-converters.md",
@@ -533,7 +533,7 @@
  },
  "Harrisons Carpet & Flooring": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/harrisons-carpet-flooring.md",
-  "date": "2026-11-09"
+  "date": "2026-11-10"
  },
  "Harrisons Curtains & Blinds": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/harrisons-curtains-blinds.md",
@@ -545,10 +545,42 @@
  },
  "Katsubi": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/katsubi.md",
-  "date": "2026-11-09"
+  "date": "2026-11-10"
  },
  "PERL Plumbing & PERL Electrical": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/perl-plumbing-perl-electrical.md",
   "date": "2026-11-09"
+ },
+ "Speed Queen Laundry Systems": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/speed-queen-laundry-systems.md",
+  "date": "2026-11-10"
+ },
+ "Shoptalk": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/shoptalk.md",
+  "date": "2026-11-10"
+ },
+ "Pets In The City": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/pets-in-the-city.md",
+  "date": "2026-11-10"
+ },
+ "Kiwikrane": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/kiwikrane.md",
+  "date": "2026-11-10"
+ },
+ "Anytime Fitness": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/anytime-fitness.md",
+  "date": "2026-11-10"
+ },
+ "BarberShopCo": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/barbershopco.md",
+  "date": "2026-11-10"
+ },
+ "Pukeko Rental Managers": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/pukeko-rental-managers.md",
+  "date": "2026-11-10"
+ },
+ "Espresso Car Wash": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/espresso-car-wash.md",
+  "date": "2026-11-10"
  }
 }

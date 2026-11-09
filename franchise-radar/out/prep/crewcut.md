@@ -1,5 +1,5 @@
 # Meeting prep data: Crewcut
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 10 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Home Services
@@ -13,10 +13,18 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Stores under 4 stars: 1 | under 20 reviews: 1
 - Listings missing phone: 1, website: 1, opening hours: 0
 
+## Website and digital
+- Google Analytics/Tag Manager: yes
+- Google Ads tracking: yes
+- Meta Pixel (Facebook/Instagram retargeting): yes
+- Online booking/ordering/quotes: no
+- Google PageSpeed mobile score: 33/100 (under 50 is slow)
+
 ## Findings to raise (kindly)
 - 1 of 2 Auckland sites rate under 4.0 stars -> new-customer campaigns plus a review/feedback QR on every flyer.
 - 1 of 2 sites have under 20 Google reviews (low local visibility) -> Local Booster / Community Reach to build local awareness.
 - Google listings incomplete: 1 without a phone number, 1 without a website link -> quick win to raise in Consulting/strategy chat (fix before spending on ads).
+- Website scores 33/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
 
 ## Suggested REACH plan
 - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries

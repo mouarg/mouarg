@@ -7202,5 +7202,23 @@
  "PERL Plumbing & PERL Electrical": {
   "ts": 1794150795.0603037,
   "outlets": []
+ },
+ "Speed Queen Laundry Systems": {
+  "ts": 1794250169.6772835,
+  "outlets": [
+   {
+    "name": "Speed Queen Laundry Systems",
+    "address": "7 Rockridge Avenue, Penrose, Auckland 1061",
+    "phone": "09 528 5600",
+    "website": "http://www.speedqueen.co.nz/",
+    "rating": 3.3,
+    "reviews": 8,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=9773189794684471639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.914931599999996,
+    "lng": 174.8134234,
+    "area": "Central"
+   }
+  ]
  }
 }

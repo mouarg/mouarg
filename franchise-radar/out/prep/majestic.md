@@ -1,5 +1,5 @@
 # Meeting prep data: Majestic
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 10 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
@@ -12,6 +12,9 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Average rating 4.4 stars; reviews per store from 0 to 531 (median 19)
 - Stores under 4 stars: 3 | under 20 reviews: 10
 - Listings missing phone: 4, website: 2, opening hours: 0
+
+## Website and digital
+- Google PageSpeed mobile score: 62/100 (under 50 is slow)
 
 ## Findings to raise (kindly)
 - Uneven stores: Google reviews range from 0 to 531 across 19 Auckland sites. Some catchments are under-performing -> Data Insights to rank catchments, then letterbox where it's weakest.
