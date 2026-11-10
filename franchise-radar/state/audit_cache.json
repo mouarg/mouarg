@@ -259,6 +259,76 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://jamaicablue.co.nz/": {
+   "ts": 1794327920.8138967,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://snapfitness.com/": {
+   "ts": 1794327941.289707,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://gongcha.co.nz/": {
+   "ts": 1794327961.9056394,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://twodollarthings.co.nz/": {
+   "ts": 1794327984.036753,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://cashconverters.co.nz/": {
+   "ts": 1794328008.3035245,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://flooringdesign.co.nz/": {
+   "ts": 1794328034.772803,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  },
+  "https://propertyindepth.co.nz/": {
+   "ts": 1794328064.014082,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -365,6 +435,34 @@
   "https://crewcut.co.nz/": {
    "ts": 1794250304.211729,
    "value": 33
+  },
+  "https://jamaicablue.co.nz/": {
+   "ts": 1794327940.7044659,
+   "value": 42
+  },
+  "https://snapfitness.com/": {
+   "ts": 1794327958.0460691,
+   "value": 55
+  },
+  "https://gongcha.co.nz/": {
+   "ts": 1794327982.822369,
+   "value": 30
+  },
+  "https://twodollarthings.co.nz/": {
+   "ts": 1794328006.5447288,
+   "value": 65
+  },
+  "https://cashconverters.co.nz/": {
+   "ts": 1794328031.6179314,
+   "value": 54
+  },
+  "https://flooringdesign.co.nz/": {
+   "ts": 1794328062.9637923,
+   "value": 45
+  },
+  "https://propertyindepth.co.nz/": {
+   "ts": 1794328101.0712748,
+   "value": 7
   }
  }
 }

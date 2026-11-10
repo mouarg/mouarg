@@ -1,5 +1,5 @@
 # Meeting prep data: Jamaica Blue
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 11 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
@@ -7,21 +7,33 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Website: https://jamaicablue.co.nz/
 - About: Fresh Ingredients, Stylish Stores, Award-winning Coffee. Our name comes from the famous Jamaica Blue Mountains, home to the world’s best coffee. Find your dream café location today! Complete the form below to receive more detailed information from Jamaica Blue
 - Auckland stores found on Google: 6
+- Trigger (2026-11-01): Jamaica Blue https://www.franchisedirect.co.nz/coffee-franchises/jamaica-blue/
 
 ## Local presence (Google listings, Auckland)
 - Average rating 3.8 stars; reviews per store from 3 to 503 (median 190)
 - Stores under 4 stars: 5 | under 20 reviews: 2
 - Listings missing phone: 1, website: 2, opening hours: 0
 
+## Website and digital
+- Google Analytics/Tag Manager: yes
+- Google Ads tracking: no
+- Meta Pixel (Facebook/Instagram retargeting): no
+- Online booking/ordering/quotes: no
+- Google PageSpeed mobile score: 42/100 (under 50 is slow)
+
 ## Findings to raise (kindly)
 - Uneven stores: Google reviews range from 3 to 503 across 6 Auckland sites. Some catchments are under-performing -> Data Insights to rank catchments, then letterbox where it's weakest.
 - 5 of 6 Auckland sites rate under 4.0 stars -> new-customer campaigns plus a review/feedback QR on every flyer.
 - 2 of 6 sites have under 20 Google reviews (low local visibility) -> Local Booster / Community Reach to build local awareness.
 - Google listings incomplete: 1 without a phone number, 2 without a website link -> quick win to raise in Consulting/strategy chat (fix before spending on ads).
+- No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
+- No Meta Pixel on their website -> they can't retarget site visitors on Facebook/Instagram: Digital Marketing (Meta) + pixel set-up, so letterbox responders get followed up.
+- Website scores 42/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
 
 ## Suggested REACH plan
 - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
 - HQ: Data Insights + Mortal: catchment mapping per store, territory design and expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)
+- Digital gap: Google Search and Meta retargeting not set up -> REACH Digital Marketing
 - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
 - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 - Pricing: REACH packages start from about $2,000/month + GST. Confirm the quote internally.

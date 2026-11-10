@@ -1,5 +1,5 @@
 # Meeting prep data: Gong Cha
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 11 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
@@ -13,15 +13,26 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Stores under 4 stars: 11 | under 20 reviews: 1
 - Listings missing phone: 1, website: 0, opening hours: 0
 
+## Website and digital
+- Google Analytics/Tag Manager: yes
+- Google Ads tracking: no
+- Meta Pixel (Facebook/Instagram retargeting): no
+- Online booking/ordering/quotes: no
+- Google PageSpeed mobile score: 30/100 (under 50 is slow)
+
 ## Findings to raise (kindly)
 - Uneven stores: Google reviews range from 5 to 834 across 19 Auckland sites. Some catchments are under-performing -> Data Insights to rank catchments, then letterbox where it's weakest.
 - 11 of 19 Auckland sites rate under 4.0 stars -> new-customer campaigns plus a review/feedback QR on every flyer.
 - 1 of 19 sites have under 20 Google reviews (low local visibility) -> Local Booster / Community Reach to build local awareness.
 - Google listings incomplete: 1 without a phone number -> quick win to raise in Consulting/strategy chat (fix before spending on ads).
+- No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
+- No Meta Pixel on their website -> they can't retarget site visitors on Facebook/Instagram: Digital Marketing (Meta) + pixel set-up, so letterbox responders get followed up.
+- Website scores 30/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
 
 ## Suggested REACH plan
 - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
 - HQ: Data Insights + Mortal: catchment mapping per store, territory design and expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)
+- Digital gap: Google Search and Meta retargeting not set up -> REACH Digital Marketing
 - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
 - Big network: Inside/Out (adds digital billboards/DOOH) for brand frequency across Auckland
 - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
