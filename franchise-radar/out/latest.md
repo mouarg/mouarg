@@ -1,12 +1,16 @@
-# Franchise Radar - 2026-11-10
+# Franchise Radar - 2026-11-11
 
-5 new signals.
+9 new signals.
 
-## Hot (2)
-- HomeLane and DesignCafe Reach 100 Experience Centres Across 43 Cities, Accelerate Expansion Beyond Metros - India's News.Net (Google News - NZ franchise expansion, Tue, 10 Nov 2026 12:00:00 GMT) https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVJDc1MweFdtZWd3cC1ZVXU1bFBfa0FVOXJUZWFfVk5jRUdrQ1czMEFUOVFrSzNXQ3JFMk8tejBGa2NtTHNPSmlVLUs0UkdzQ3c4Z0QzWFpvdXV5RUNPV0pncU1zNUlxbFliMlRITTFtVmpnWkJiTWk5ckNUUG16UHRIX0VaLUdJQTY1bEV4UWpKaUVyaGx1eHJXUGVvb1JmWjRIdW8wTjYwVDFDV21ieUhtcUpfS2wwZzlzN1NHMGZubV9ES3gtc1NWZHBMLUZUMGFXMVd3WDRhNzZQX204?oc=5
-- BCCI May Consider Vadodara for New IPL Franchise as League Eyes Expansion in 2028 - DeshGujarat (Google News - NZ franchise expansion, Tue, 10 Nov 2026 06:18:16 GMT) https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWTVJZ3NDQW1zX3ZxM3p3alBWY05CQVNMdE9pbng1SEtvZGNyWmFjb2JRRDM3QnNkTWFnSjNxWXI5aWZyUkNJU3dlM2pQQ3hzWHVIcXNRLUxrY0dMM3VPQ1NVanZUVTdDS2l6ZEtKeUQtOF9CbGFHeVkzeGFpVTVKOGdxanU3Nmx2bHh4UHhMckVNblZJcUFfcXlNQTQzR2NVaXFQXzdSWS11XzBKRk4zUDl3TU1OWi1s?oc=5
+## Hot (4)
+- One NZ opens first store-in-store, at Costco - Inside Retail New Zealand (Google News - Auckland new store openings, Wed, 11 Nov 2026 05:58:31 GMT) https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVFRZC0zWkFyMW9oVUxwbnJ0M3U0T1lMeGJCVjRmaUFUZ2l1M0lZcEZEeEkxOV9hUllxUGRvMEw1X1ptZlh3OXV1LUFkNFd4ZDhnZU9KV1l1RDdvaVE0UFR3SWZUVTc5RjE5VXl3aDNQZDRpbEVUdFR4cUtTbWt6NlNPOHdNSDhndXc?oc=5
+- Gourmet hot dog chain plans massive expansion across states - Yahoo News New Zealand (Google News - NZ franchise expansion, Wed, 11 Nov 2026 15:17:33 GMT) https://news.google.com/rss/articles/CBMid0FVX3lxTE5DekFQVGhiUGlPSi1LTEppZS1zUHZaRlBRaDVDM2RtR0ZBR1N0YWZoMDJpcWpKZlJBdzk0M2lGRGRYSmpUelhIUjY5OGl5UWowdjFWWkRROVN6RUF3ZFVjWWVSMWpMakppZTd2eHFpaFBvR05fMDRj?oc=5
+- HomeLane and DesignCafe Reach 100 Experience Centres Across 43 Cities, Accelerate Expansion Beyond Metros - India's News.Net (Google News - NZ franchise expansion, Tue, 10 Nov 2026 16:06:00 GMT) https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWk10RlZrQlh1eWlUU2dDUmhXTjdfdkpDazJjUFJIbjF0aGhENnVWY2lINkM0c0FMM3E2bTQ1ZDJ1SXVNWGhkbEx6MFZQYjBTY0ZDU2ZyUzI4X1hKN0xGVTMwc3FNV2Y5TWllUDQyYmZLV1czZUltVHA0bjFOc0xZYkNsQTlCcTUtYzRqLU5HMzNPdnBIeE14bG1vdEZLSklKY3dXMVMyYkJGZDExd0VYS2I5MFV4eFZVM1FNT3ZCV04wMEtJSndCQzIyTG9FTWtlZ0cwQTM1VlE1aVVpeXJZ?oc=5
+- Accor expands franchise-fit model into New Zealand - hotelmanagement.com.au (Google News - NZ franchise openings, Tue, 03 Nov 2026 02:39:44 GMT) https://news.google.com/rss/articles/CBMingFBVV95cUxQbTdkQXdLMmVtMTYxV3NtWGtMNzNCT0RWUkpDWkdmYXIzQkdXcGNWY3lBSTVEZFkzcDlFYXdTdERqR1diMXB1SV9DVnd2bHVBb0hIVjlXVHNMQzJEWV9fRHdMS1FwZVRUVEd0bFZZbkFvdncwbFBXTERIUWxhaWxXNDFIaERFSnVpeU1UWnNHTkVnVmRLR2hjbGFERU52QQ?oc=5
 
-## Warm (3)
-- Refresh Renovations (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/building-handyman/refresh-renovations/
-- IPL set to expand to 12 teams with two new franchises in 2028: Reports - Business Standard (Google News - NZ franchise expansion, Tue, 10 Nov 2026 10:42:49 GMT) https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNU1LU0tXRVV2NzJId19felFjYVdMMDRkMm01Wng4LVEwM3l1bmF2a2l2VWpUUk90djZMRTZMM29XZ2VmbzhhcF9WWDdQeWZiazFyaTA0VHpqWHlScUUzYUZyanh1cFNfTDc5dWNoNno1YUlHajVCa21QRC1VemJiNE5Eb29kbG1RSnN5QUFYR2UxVm42ekN5QTd3MmRKb3BjNFNDTVhhbVNJNGJqOTJfMW5HajJYQUR3OUwtUDlCODI5WWZKc0dyWnpIWGxsZWJSc2ZtckZn0gHbAUFVX3lxTFB1X1prY19qZXlRM3lmRC1vX0ZqcWppdElETXE3d0FWMlRrR3RQMko3M3ZyOHdZby1NcGRPenFKdHdaMEV1UVNYLVB1V3IyWG9GVkZldXNLbFBlVHItczF5V2RxX1RIekNkSFoxaTh0bWpPYXgzSFd3UHB1U1R0bUVINENhZ2Rkdk9OOGRpdWpRRmxONjFwVEpUZmJpWlRJS2Nua21SaHBWZTQ2MDBUMXQ4MXh1MWFpM2VucXQ5d0M1US1VbDBQM1A5ZlpybXo3SFZkV2xfWER5ek9fUQ?oc=5
-- Open a Snap Fitness Franchise: What You Need to Know - Athletech News (Google News - NZ franchise openings, Mon, 09 Nov 2026 10:00:00 GMT) https://news.google.com/rss/articles/CBMikgFBVV95cUxOVnc1TEtRU2tXNFpwb0ZGWl9EWWstRjhVNHNMZ280VFZLVlNEMXNSb01KcEZJSnViRC1kNnJOTlhVYXM1NW8xWHJTRWp4TVdPUjdYb1ZkM2NoRzBfWC1SYzcxNGJQdFpxc1FzTlk1aGZFNWdBMGtuNjZSUE95V0ZYMW00YXk3c0F1T2ZZWndBSlVLZw?oc=5
+## Warm (5)
+- Western Wellness New Zealand (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/fitness-gym-franchise-opportunities/western-wellness-new-zealand
+- The Local Guys Carpet Cleaning (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/cleaning-franchise-opportunities/the-local-guys-carpet-cleaning
+- Transworld Business Advisors Franchise (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/consultant-franchises/transworld-business-advisors-franchise/
+- The Franchise Consulting Company (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/professional-services-consulting/the-franchise-consulting-company
+- Body Fit Training Bft (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/fitness-gym/body-fit-training-bft/

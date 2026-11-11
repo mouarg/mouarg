@@ -329,6 +329,66 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://paperplus.co.nz/": {
+   "ts": 1794413450.7104542,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://superliquor.co.nz/": {
+   "ts": 1794413485.4340615,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://stonewood.co.nz/": {
+   "ts": 1794413535.9109042,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://lonestar.co.nz/": {
+   "ts": 1794413550.3538437,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  },
+  "https://gloriajeanscoffees.nz/": {
+   "ts": 1794413585.0006387,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://landmarkhomes.co.nz/": {
+   "ts": 1794413599.4694862,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -463,6 +523,30 @@
   "https://propertyindepth.co.nz/": {
    "ts": 1794328101.0712748,
    "value": 7
+  },
+  "https://paperplus.co.nz/": {
+   "ts": 1794413483.5731797,
+   "value": 9
+  },
+  "https://superliquor.co.nz/": {
+   "ts": 1794413535.2108047,
+   "value": 18
+  },
+  "https://stonewood.co.nz/": {
+   "ts": 1794413549.0437417,
+   "value": 100
+  },
+  "https://lonestar.co.nz/": {
+   "ts": 1794413584.1820796,
+   "value": 44
+  },
+  "https://gloriajeanscoffees.nz/": {
+   "ts": 1794413598.9997709,
+   "value": 65
+  },
+  "https://landmarkhomes.co.nz/": {
+   "ts": 1794413623.2047734,
+   "value": 75
   }
  }
 }
