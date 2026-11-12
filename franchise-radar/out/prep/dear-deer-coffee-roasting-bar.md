@@ -1,5 +1,5 @@
 # Meeting prep data: Dear Deer Coffee Roasting Bar
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 13 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
@@ -13,12 +13,23 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Stores under 4 stars: 0 | under 20 reviews: 0
 - Listings missing phone: 4, website: 0, opening hours: 0
 
+## Website and digital
+- Google Analytics/Tag Manager: no
+- Google Ads tracking: no
+- Meta Pixel (Facebook/Instagram retargeting): no
+- Online booking/ordering/quotes: no
+- Google PageSpeed mobile score: 64/100 (under 50 is slow)
+
 ## Findings to raise (kindly)
 - Google listings incomplete: 4 without a phone number -> quick win to raise in Consulting/strategy chat (fix before spending on ads).
+- No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
+- No Meta Pixel on their website -> they can't retarget site visitors on Facebook/Instagram: Digital Marketing (Meta) + pixel set-up, so letterbox responders get followed up.
+- No Google Analytics/Tag Manager found -> they can't measure campaign results: pitch REACH's tracking (QR codes, dashboards) as the proof layer.
 
 ## Suggested REACH plan
 - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
 - HQ: Data Insights + Mortal: catchment mapping per store, territory design and expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)
+- Digital gap: Google Search and Meta retargeting not set up -> REACH Digital Marketing
 - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
 - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 - Pricing: REACH packages start from about $2,000/month + GST. Confirm the quote internally.

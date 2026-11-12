@@ -389,6 +389,56 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://mexicalifresh.co.nz/": {
+   "ts": 1794502117.1,
+   "value": {
+    "google_tag": false,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  },
+  "https://deardeercoffee.co.nz/": {
+   "ts": 1794502144.3128028,
+   "value": {
+    "google_tag": false,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://fowlerhomes.co.nz/": {
+   "ts": 1794502169.863366,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://storagebox.co.nz/": {
+   "ts": 1794502193.4881802,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://thinkwater.co.nz/": {
+   "ts": 1794502231.1096783,
+   "value": {
+    "google_tag": true,
+    "google_ads": true,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -547,6 +597,26 @@
   "https://landmarkhomes.co.nz/": {
    "ts": 1794413623.2047734,
    "value": 75
+  },
+  "https://mexicalifresh.co.nz/": {
+   "ts": 1794502143.7013612,
+   "value": 50
+  },
+  "https://deardeercoffee.co.nz/": {
+   "ts": 1794502166.5173109,
+   "value": 64
+  },
+  "https://fowlerhomes.co.nz/": {
+   "ts": 1794502190.5870018,
+   "value": 69
+  },
+  "https://storagebox.co.nz/": {
+   "ts": 1794502226.99645,
+   "value": 42
+  },
+  "https://thinkwater.co.nz/": {
+   "ts": 1794502271.9451106,
+   "value": 35
   }
  }
 }

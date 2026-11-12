@@ -1,5 +1,5 @@
 # Meeting prep data: Think Water
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 13 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Retail
@@ -12,6 +12,16 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Average rating 4.8 stars; reviews per store from 50 to 50 (median 50)
 - Stores under 4 stars: 0 | under 20 reviews: 0
 - Listings missing phone: 0, website: 0, opening hours: 0
+
+## Website and digital
+- Google Analytics/Tag Manager: yes
+- Google Ads tracking: yes
+- Meta Pixel (Facebook/Instagram retargeting): yes
+- Online booking/ordering/quotes: no
+- Google PageSpeed mobile score: 35/100 (under 50 is slow)
+
+## Findings to raise (kindly)
+- Website scores 35/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
 
 ## Suggested REACH plan
 - Core: Retail package: letterbox around each store + retargeting ads, timed to retail events
