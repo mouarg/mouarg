@@ -1,5 +1,5 @@
 # Meeting prep data: Burger Wisconsin
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 16 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
@@ -13,12 +13,22 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Stores under 4 stars: 4 | under 20 reviews: 0
 - Listings missing phone: 0, website: 0, opening hours: 0
 
+## Website and digital
+- Google Analytics/Tag Manager: yes
+- Google Ads tracking: no
+- Meta Pixel (Facebook/Instagram retargeting): yes
+- Online booking/ordering/quotes: no
+- Google PageSpeed mobile score: 40/100 (under 50 is slow)
+
 ## Findings to raise (kindly)
 - 4 of 6 Auckland sites rate under 4.0 stars -> new-customer campaigns plus a review/feedback QR on every flyer.
+- No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
+- Website scores 40/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
 
 ## Suggested REACH plan
 - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
 - HQ: Data Insights + Mortal: catchment mapping per store, territory design and expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)
+- Digital gap: Google Search not set up -> REACH Digital Marketing
 - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
 - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 - Pricing: REACH packages start from about $2,000/month + GST. Confirm the quote internally.

@@ -1,14 +1,15 @@
-# Franchise Radar - 2026-11-12
+# Franchise Radar - 2026-11-15
 
-5 new signals.
+8 new signals.
 
-## Hot (2)
-- Synchrocare, LLC Expands Franchise Opportunities into North Carolina's Growing Medical Technology Market - EIN Presswire (Google News - NZ franchise expansion, Thu, 12 Nov 2026 15:00:00 GMT) https://news.google.com/rss/articles/CBMi5AFBVV95cUxOajR5QU5VMlJYOHFsMjNsaGVQbmlCY2lYTHEydVhQNGUybnNZZThydkU5RE55Zlg5bHhIN1JhZFhvOUhPTE5qOHZUQWtjTUxTTVA5VjNzRjlsU3NMTFhDRUlpQVFCTkpiZWpIX3JmU09DY3FSSVdFTGtMdnJoMFlMbTN1TUNqWlFhMzhXTlZ6ZWNBN2pUT2FKUldRODFBR25DYU5vY19qVHZORDMxY1dKYjBUV0RiUjR6dGhNdm8wOEVmeGJaX3hobkg1QW1RUDJER2k4MDdYZTlYTTk2MzQzZ1diR24?oc=5
-- Solitario Opens 7th Store in Pune - Indian Retailer (Google News - NZ franchise openings, Thu, 12 Nov 2026 10:54:11 GMT) https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXlSckFONGttV0t0T0FFNGhNNWNTaS1WVEVHcDIwcm9qdTk0WGk5VnV1clpzTnBwRVU4dWwzOFZRSUdrY3ZQUkhjSUZsWWh0bWFqRDNyMVlibThDa09ud3RGaTh5bmtZaUc4UU1LNzI3aW4wYWd0V0NtTlFKc0MzdHY1Mzg2VVc3SUVhVjN2aVI?oc=5
+## Hot (5)
+- Fidelity Life Celebrates Latest Graduates – 2027 Applications Now Open - RiskinfoNZ (Google News - Auckland new store openings, Fri, 13 Nov 2026 15:08:10 GMT) https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeExmRDYwODhOaE15d1ZMcVlxaDZ3ckxqUzVMaml2SXk3WXl5MHo2eVhFYjVlT2I4dzdGeVpWaUdJYVI1T09KazdwLTZGNjNUeHk4VF8zVUVvS0xsNEFBeGQxcUF6dWppTVlHQnRjWjRVcC0yZTdWTHZfYmdHQ0lSNTZ2YlBET0hlR1BRU1JfajM1SlRJYkVrVjJJX3pBc3h3NklhM3hweVY?oc=5
+- NZSA Laura Solomon Cuba Press 2027 Now Open - Scoop - New Zealand News (Google News - Auckland new store openings, Fri, 13 Nov 2026 04:21:00 GMT) https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDhjYWZqdTM3Y0RvZGJjNFZCb0NqR0Q1b0h4LUxhT0wtdzF6R3p0cHB5dDJUU0NSTS01QnhpbE1jUVhTNHkzeFZ5Tnd6UnFZQXZEM2pRb09xb0pSOTBHTTd2ZW5NOE9uODloWHg4MENrenlLSndmYU94OUlwT1BlRnRNOUxDTVVONjFVSVlyd01pTnpYckZLcg?oc=5
+- Gong Cha shifts from rapid NZ expansion to sustainable growth - NZ Herald (Google News - NZ franchise expansion, Sat, 14 Nov 2026 00:02:09 GMT) https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRkh3ZjhMaW8xYlF0MHRkdUdOWDcydFpIUkNBVWhRODZDRlhTeENUeGJRV1VlTHU3aVVuSUVLZ0VrWm9IMGlMWENPMHEycVNDQ0xmZ1Z3MmJkR0hUUzVBM2NBX3VnTThzTVdhRVF2bzA5MFZnVXlfM3JheXJWNEZxMm1ZZUFyVzdTY09xandwbmtmcHpwU3hfREZyQWIzVHZNRzVTX2F4U0ZWaEFvbUtHMjEtelc4b3FhdlhLaVhCTjg4ZHZiTnFjSlJKNUJnR0EzZHZmdHhpTlRlTzJwM3B2WnRuNDlhOWhPWkk4MUlHMmRwZw?oc=5
+- CFL commissioner Johnston says Quebec City top candidate for expansion franchise - thecanadianpressnews.ca (Google News - NZ franchise expansion, Fri, 13 Nov 2026 21:27:51 GMT) https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYzItZzlEQlN5UWNsQXp0Q0tpYzFkVlVobEE5a0Fmb2J1VlBoOEJ6VnBRYVNfdEVOTFJaYS1kU3FzWEh1UGdtcktjOXUzTDhET0REdGs3R0VDUUM0NWhoQmF6MGg0LXpEdXdQVHhFLWJoQ2JsZzFaS1lldmN3TlJGdEFSUTkzeDNaMVktX1huZGVPRFk5dGp3ZGtYcEhKSTJOdzNDeC13LTRPMDdISUZsYnViN21LNzUwY0NESjRXYWlmR2F4T3h6UkgyX0FSU3JydC1TQldOcEsxQmtmMFpSRjUxU0hiNWxzSTUya1hEZGdDd196ckI4?oc=5
+- Prime Video’s ‘Terminal List’ Franchise Expands With ‘Savage Son’ Series - Yahoo (Google News - NZ franchise expansion, Thu, 05 Nov 2026 08:00:00 GMT) https://news.google.com/rss/articles/CBMinwFBVV95cUxQaGFJYWNXcWE5bjlYZlhZb0taSGo3Z0dLQXNaMmkyWmpMdGM0LWZwLU44SUZVTlRpR2tUeGFpeVdfUWtjNTl6U25pdWFFVG1ZRGFrcHNGblBvUXQ1R2FJZnBVWmF1WENNWGRFY2tUNERQMDNMUHFPWjdsTXIyOTJKVEs3cUZrNFdDbm5QOEM0R2hpUDIxaE9Qd0ppMUFST2c?oc=5
 
-## Warm (2)
-- Zones Landscaping (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/building-handyman/zones-landscaping/
-- Plus Fitness Franchise (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/fitness-gym-franchise/plus-fitness-franchise/
-
-## Info (1)
-- Casual work on the rise (Franchise NZ news, Thu, 12 Nov 2026 01:33:28 GMT) http://www.franchise.co.nz/news_items/2315
+## Warm (3)
+- 2026 NZ Franchise Awards <br> DREAMS COME TRUE (Franchise NZ news, Sat, 14 Nov 2026 09:01:50 GMT) http://www.franchise.co.nz/news_items/2316
+- Gong Cha NZ stalls at 30 stores as franchise costs bite - B2B News (Google News - NZ franchise expansion, Sat, 14 Nov 2026 01:43:26 GMT) https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdmladmtEbVJWdGhBSHVhRTQ1RGlqZVlFREVRdlk0NVJSbGJ4ZV9UX3Y5dHZIeERUS1JwZFc3a2s2TnRSYU4wTzlZVFljLTZzVnM3MFhDVWlLa1YtVW1FenVBSnRTSUFlUnhSTXJ1U3VIbDZHOGFNeGVmbHlFVmJQSEtkT240Z3pxVHZZ?oc=5
+- Franchise Law – New Book Tackles New Zealand’s $73 Billion Franchising Industry and Its Legal Gaps - LawFuel.com (Google News - NZ franchise expansion, Thu, 12 Nov 2026 04:28:11 GMT) https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdEFmUDdvMExPcE83SWVhZnEzLXIwdmlpMTJqYXF0R1cxaWNCV3dKaW1aOWVDaVAtMkVaTl9HU3JzSW5BWklxSkhHUGVmQ0NQV0ZLNjdVZTVaMF9Md0JNM1J2SGRIQ1VRaUFwN2JrdS1ISlQ5WVhsb1Z1QlBJZ2U1SFNOemRhZW93WlBCVWFGMndXRDJSa19VaGsxWFFRSlBBX0k4Q2wtM0NCTnBIVE15UUFZUGZxaUN2blRR?oc=5

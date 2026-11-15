@@ -439,6 +439,46 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://carpetcourt.nz/": {
+   "ts": 1794757199.415163,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://stirlingsports.co.nz/": {
+   "ts": 1794757224.4164367,
+   "value": {
+    "google_tag": false,
+    "google_ads": true,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://burgerwisconsin.co.nz/": {
+   "ts": 1794757257.765384,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://packsend.co.nz/": {
+   "ts": 1794757280.1387863,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
   }
  },
  "pagespeed": {
@@ -617,6 +657,22 @@
   "https://thinkwater.co.nz/": {
    "ts": 1794502271.9451106,
    "value": 35
+  },
+  "https://carpetcourt.nz/": {
+   "ts": 1794757223.6780078,
+   "value": 78
+  },
+  "https://stirlingsports.co.nz/": {
+   "ts": 1794757257.1845136,
+   "value": 75
+  },
+  "https://burgerwisconsin.co.nz/": {
+   "ts": 1794757279.0154684,
+   "value": 40
+  },
+  "https://packsend.co.nz/": {
+   "ts": 1794757293.1545043,
+   "value": 67
   }
  }
 }

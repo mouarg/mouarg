@@ -1,5 +1,5 @@
 # Meeting prep data: PACK & SEND
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 16 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Retail
@@ -13,12 +13,23 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Stores under 4 stars: 0 | under 20 reviews: 0
 - Listings missing phone: 0, website: 0, opening hours: 0
 
+## Website and digital
+- Google Analytics/Tag Manager: yes
+- Google Ads tracking: no
+- Meta Pixel (Facebook/Instagram retargeting): no
+- Online booking/ordering/quotes: yes
+- Google PageSpeed mobile score: 67/100 (under 50 is slow)
+
 ## Findings to raise (kindly)
 - Uneven stores: Google reviews range from 22 to 303 across 10 Auckland sites. Some catchments are under-performing -> Data Insights to rank catchments, then letterbox where it's weakest.
+- No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
+- No Meta Pixel on their website -> they can't retarget site visitors on Facebook/Instagram: Digital Marketing (Meta) + pixel set-up, so letterbox responders get followed up.
+- Website takes bookings/orders/quotes online -> campaigns can drive straight to a measurable action (Lead Accelerator / Traffic Igniter style digital).
 
 ## Suggested REACH plan
 - Core: Retail package: letterbox around each store + retargeting ads, timed to retail events
 - HQ: Data Insights + Mortal: catchment mapping per store, territory design and expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)
+- Digital gap: Google Search and Meta retargeting not set up -> REACH Digital Marketing
 - Big network: Inside/Out (adds digital billboards/DOOH) for brand frequency across Auckland
 - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 - Pricing: REACH packages start from about $2,000/month + GST. Confirm the quote internally.
