@@ -13,5 +13,20 @@
   "lat": -36.7927708,
   "lng": 174.764305,
   "area": "North Shore"
+ },
+ {
+  "date": "2026-11-16",
+  "brand": "FreshChoice",
+  "change": "gone",
+  "name": "FreshChoice Flat Bush",
+  "address": "55 Nga Pona Toru Road, Flat Bush, Auckland 2019",
+  "phone": "",
+  "website": "",
+  "rating": null,
+  "reviews": 0,
+  "maps": "https://maps.google.com/?cid=11137392976888100225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "lat": -36.9808769,
+  "lng": 174.9270269,
+  "area": "South"
  }
 ]

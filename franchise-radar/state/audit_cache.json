@@ -479,6 +479,56 @@
     "tiktok_pixel": false,
     "online_booking": true
    }
+  },
+  "https://columbuscoffee.co.nz/": {
+   "ts": 1794853995.374095,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  },
+  "https://bidfood.co.nz/": {
+   "ts": 1794854019.6987522,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  },
+  "https://navigationhomes.co.nz/": {
+   "ts": 1794854096.6387866,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://choicesflooring.co.nz/": {
+   "ts": 1794854127.5919237,
+   "value": {
+    "google_tag": true,
+    "google_ads": true,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://pararubber.co.nz/": {
+   "ts": 1794854164.65429,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -673,6 +723,26 @@
   "https://packsend.co.nz/": {
    "ts": 1794757293.1545043,
    "value": 67
+  },
+  "https://columbuscoffee.co.nz/": {
+   "ts": 1794854017.275035,
+   "value": 62
+  },
+  "https://bidfood.co.nz/": {
+   "ts": 1794854093.0543683,
+   "value": 39
+  },
+  "https://navigationhomes.co.nz/": {
+   "ts": 1794854123.2532268,
+   "value": 30
+  },
+  "https://choicesflooring.co.nz/": {
+   "ts": 1794854163.2730036,
+   "value": 51
+  },
+  "https://pararubber.co.nz/": {
+   "ts": 1794854185.9607735,
+   "value": 52
   }
  }
 }

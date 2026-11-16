@@ -1,5 +1,5 @@
 # Meeting prep data: Choices Flooring
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 17 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Home and Building
@@ -9,16 +9,27 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Auckland stores found on Google: 1
 
 ## Local presence (Google listings, Auckland)
-- Average rating 5.0 stars; reviews per store from 12 to 12 (median 12)
+- Average rating 5.0 stars; reviews per store from 14 to 14 (median 14)
 - Stores under 4 stars: 0 | under 20 reviews: 1
 - Listings missing phone: 0, website: 0, opening hours: 0
 
+## Website and digital
+- Google Analytics/Tag Manager: yes
+- Google Ads tracking: yes
+- Meta Pixel (Facebook/Instagram retargeting): no
+- Online booking/ordering/quotes: no
+- Google PageSpeed mobile score: 51/100 (under 50 is slow)
+
+## Findings to raise (kindly)
+- No Meta Pixel on their website -> they can't retarget site visitors on Facebook/Instagram: Digital Marketing (Meta) + pixel set-up, so letterbox responders get followed up.
+
 ## Suggested REACH plan
 - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries
+- Digital gap: Meta retargeting not set up -> REACH Digital Marketing
 - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 - Pricing: REACH packages start from about $2,000/month + GST. Confirm the quote internally.
 
 ## Auckland stores
 | Area | Address | Phone | Rating | Reviews | Map |
 |---|---|---|---|---|---|
-| North Shore | 41B Arrenway Drive, Rosedale, Auckland 0632 | 09 222 2849 | 5 | 12 | https://maps.google.com/?cid=13043901570786352081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA |
+| North Shore | 41B Arrenway Drive, Rosedale, Auckland 0632 | 09 222 2849 | 5 | 14 | https://maps.google.com/?cid=13043901570786352081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA |

@@ -1012,7 +1012,7 @@
   ]
  },
  "Lone Star": {
-  "ts": 1791928354.9667633,
+  "ts": 1794853991.203495,
   "outlets": [
    {
     "name": "Lone Star Queen St",
@@ -1020,7 +1020,8 @@
     "phone": "09 281 6363",
     "website": "https://www.lonestar.co.nz/restaurants/upper-north-island/queenst",
     "rating": 4.2,
-    "reviews": 549,
+    "reviews": 566,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=4806605909295804565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8569007,
     "lng": 174.7621978,
@@ -1032,22 +1033,11 @@
     "phone": "09 869 6999",
     "website": "https://www.lonestar.co.nz/restaurants/alexandra-park/",
     "rating": 3.9,
-    "reviews": 820,
+    "reviews": 821,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=706109215482883687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8925049,
     "lng": 174.7787634,
-    "area": "Central"
-   },
-   {
-    "name": "Lone Star Grillz",
-    "address": "Lunn Avenue, Mount Wellington, Auckland 1072",
-    "phone": "09 579 6699",
-    "website": "",
-    "rating": null,
-    "reviews": 0,
-    "maps": "https://maps.google.com/?cid=11951929539490528686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.8919408,
-    "lng": 174.83631929999999,
     "area": "Central"
    },
    {
@@ -1056,7 +1046,8 @@
     "phone": "09 271 2456",
     "website": "https://www.lonestar.co.nz/restaurants/botany/",
     "rating": 4,
-    "reviews": 1594,
+    "reviews": 1611,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=9400051515612857033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.933889799999996,
     "lng": 174.9137969,
@@ -1068,11 +1059,25 @@
     "phone": "09 833 1128",
     "website": "https://www.lonestar.co.nz/restaurants/westgate/",
     "rating": 4.5,
-    "reviews": 3214,
+    "reviews": 3227,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=3200155768808920418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8223959,
     "lng": 174.6077574,
     "area": "West"
+   },
+   {
+    "name": "Lone Star Grillz",
+    "address": "Lunn Avenue, Mount Wellington, Auckland 1072",
+    "phone": "09 579 6699",
+    "website": "",
+    "rating": null,
+    "reviews": 0,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=11951929539490528686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8919408,
+    "lng": 174.83631929999999,
+    "area": "Central"
    },
    {
     "name": "Lone Star Albany",
@@ -1080,7 +1085,8 @@
     "phone": "09 414 4569",
     "website": "https://www.lonestar.co.nz/restaurants/albany/",
     "rating": 3.9,
-    "reviews": 1695,
+    "reviews": 1701,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=13291028229392271456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.722903699999996,
     "lng": 174.704434,
@@ -1092,7 +1098,8 @@
     "phone": "09 985 0590",
     "website": "https://www.lonestar.co.nz/restaurants/manukau/",
     "rating": 4.2,
-    "reviews": 1465,
+    "reviews": 1483,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=18036230321300951047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -37.0005214,
     "lng": 174.888906,
@@ -1101,7 +1108,7 @@
   ]
  },
  "Dear Deer Coffee Roasting Bar": {
-  "ts": 1792009384.2993722,
+  "ts": 1794853991.5171747,
   "outlets": [
    {
     "name": "Dear Deer Coffee Roasting Bar Ellerslie",
@@ -1109,7 +1116,8 @@
     "phone": "",
     "website": "https://deardeercoffee.co.nz/",
     "rating": 4.5,
-    "reviews": 206,
+    "reviews": 210,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=17634602517160839583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8974858,
     "lng": 174.80934539999998,
@@ -1121,7 +1129,8 @@
     "phone": "",
     "website": "https://deardeercoffee.co.nz/",
     "rating": 4.7,
-    "reviews": 116,
+    "reviews": 119,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=16331814304813247792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8670203,
     "lng": 174.7780564,
@@ -1133,7 +1142,8 @@
     "phone": "",
     "website": "https://deardeercoffee.co.nz/",
     "rating": 4.8,
-    "reviews": 331,
+    "reviews": 341,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=1682074560199028029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9245446,
     "lng": 174.7851066,
@@ -1145,7 +1155,8 @@
     "phone": "",
     "website": "http://www.deardeercoffee.co.nz/",
     "rating": 4.9,
-    "reviews": 241,
+    "reviews": 245,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=9249247198781888337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.909134200000004,
     "lng": 174.889552,
@@ -1422,7 +1433,7 @@
   ]
  },
  "Gloria Jean's Coffees": {
-  "ts": 1792009386.947768,
+  "ts": 1794853991.8334363,
   "outlets": [
    {
     "name": "Gloria Jean's Coffees Tangihua",
@@ -1430,23 +1441,12 @@
     "phone": "09 302 1498",
     "website": "https://gloriajeanscoffees.nz/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business&utm_content=Tangihua&utm_term=plcid_4516891719046647643",
     "rating": 4,
-    "reviews": 219,
+    "reviews": 220,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=13455720449302065464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8461972,
     "lng": 174.77346660000003,
     "area": "Central"
-   },
-   {
-    "name": "Gloria Jean's Coffees Manukau",
-    "address": "Manukau Station Road, Manukau City Centre, Auckland 2104",
-    "phone": "09 261 2546",
-    "website": "https://gloriajeanscoffees.nz/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business%20Page&utm_content=Manukau&utm_term=plcid_571091714384089350",
-    "rating": 3.6,
-    "reviews": 151,
-    "maps": "https://maps.google.com/?cid=5496785159276491937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.991681299999996,
-    "lng": 174.8808111,
-    "area": "South"
    },
    {
     "name": "Gloria Jean's Coffees The Boundary",
@@ -1454,11 +1454,25 @@
     "phone": "09 838 2333",
     "website": "https://gloriajeanscoffees.nz/?utm_content=Gloria+Jean%27s+Cafe+-+Waitakere+-+Auckland&utm_campaign=Google+My+Business&utm_medium=organic&utm_source=google&utm_term=plcid_7251508558332894385",
     "rating": 4,
-    "reviews": 412,
+    "reviews": 415,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=9479045018777988721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8829499,
     "lng": 174.6352317,
     "area": "West"
+   },
+   {
+    "name": "Gloria Jean's Coffees Manukau",
+    "address": "Manukau Station Road, Manukau City Centre, Auckland 2104",
+    "phone": "09 261 2546",
+    "website": "https://gloriajeanscoffees.nz/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business%20Page&utm_content=Manukau&utm_term=plcid_571091714384089350",
+    "rating": 3.6,
+    "reviews": 150,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=5496785159276491937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.991681299999996,
+    "lng": 174.8808111,
+    "area": "South"
    },
    {
     "name": "Gloria Jean's Coffees New Lynn",
@@ -1467,15 +1481,16 @@
     "website": "https://www.gloriajeanscoffees.nz/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business&utm_content=New%20Lynn",
     "rating": 2.8,
     "reviews": 4,
+    "has_hours": false,
     "maps": "https://maps.google.com/?cid=2477723359236508783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9077127,
     "lng": 174.68520189999998,
-    "area": "Central"
+    "area": "West"
    }
   ]
  },
  "Mexicali Fresh": {
-  "ts": 1792009387.5450692,
+  "ts": 1794853992.1776967,
   "outlets": [
    {
     "name": "Mexicali Fresh Ponsonby",
@@ -1483,19 +1498,21 @@
     "phone": "09 360 0076",
     "website": "http://www.mexicalifresh.co.nz/",
     "rating": 3.8,
-    "reviews": 320,
+    "reviews": 330,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=16580867099335764116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.855061,
     "lng": 174.74599369999999,
     "area": "Central"
    },
    {
-    "name": "Mexicali Fresh",
+    "name": "Mexicali Fresh K Road",
     "address": "150 Karangahape Road, CBD, Auckland 1010",
     "phone": "09 374 5938",
     "website": "http://www.mexicalifresh.co.nz/",
     "rating": 4.2,
-    "reviews": 340,
+    "reviews": 356,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=3156919968234443731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8580501,
     "lng": 174.7605693,
@@ -1507,23 +1524,12 @@
     "phone": "09 265 1911",
     "website": "http://www.mexicalifresh.co.nz/",
     "rating": 4,
-    "reviews": 479,
+    "reviews": 491,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=13318339005725990159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9643383,
     "lng": 174.9024079,
     "area": "South"
-   },
-   {
-    "name": "Mexicali Fresh Lincoln Road",
-    "address": "301 Lincoln Road, Henderson, Auckland 0610",
-    "phone": "09 973 5229",
-    "website": "http://www.mexicalifresh.co.nz/",
-    "rating": 3.4,
-    "reviews": 209,
-    "maps": "https://maps.google.com/?cid=12822154607654283425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.8535167,
-    "lng": 174.63042220000003,
-    "area": "West"
    },
    {
     "name": "Mexicali Fresh",
@@ -1531,11 +1537,25 @@
     "phone": "09 971 1042",
     "website": "http://www.mexicalifresh.co.nz/",
     "rating": 3.8,
-    "reviews": 587,
+    "reviews": 589,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=13288478758663363357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.747962799999996,
     "lng": 174.7324285,
     "area": "North Shore"
+   },
+   {
+    "name": "Mexicali Fresh Lincoln Road",
+    "address": "301 Lincoln Road, Henderson, Auckland 0610",
+    "phone": "09 973 5229",
+    "website": "http://www.mexicalifresh.co.nz/",
+    "rating": 3.5,
+    "reviews": 214,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=12822154607654283425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8535167,
+    "lng": 174.63042220000003,
+    "area": "West"
    }
   ]
  },
@@ -1558,7 +1578,7 @@
   ]
  },
  "FreshChoice": {
-  "ts": 1792009388.161278,
+  "ts": 1794853992.5726848,
   "outlets": [
    {
     "name": "FreshChoice Otahuhu",
@@ -1566,7 +1586,8 @@
     "phone": "09 276 6161",
     "website": "https://otahuhu.store.freshchoice.co.nz/",
     "rating": 3.8,
-    "reviews": 720,
+    "reviews": 719,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=10982955105134630271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9448873,
     "lng": 174.84245860000001,
@@ -1578,7 +1599,8 @@
     "phone": "09 274 4060",
     "website": "https://flatbush.store.freshchoice.co.nz/",
     "rating": 3.7,
-    "reviews": 640,
+    "reviews": 644,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=18190025135561361320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9769167,
     "lng": 174.8969746,
@@ -1590,7 +1612,8 @@
     "phone": "09 538 0086",
     "website": "https://halfmoonbay.store.freshchoice.co.nz/",
     "rating": 4.1,
-    "reviews": 621,
+    "reviews": 624,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=11807890478956917921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.881242,
     "lng": 174.89973020000002,
@@ -1601,20 +1624,22 @@
     "address": "223A Green Lane West, Epsom, Auckland 1051",
     "phone": "09 526 1922",
     "website": "http://epsom.store.freshchoice.co.nz/",
-    "rating": 3.9,
-    "reviews": 280,
+    "rating": 3.8,
+    "reviews": 282,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=14377315557855781275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8927027,
     "lng": 174.7797071,
     "area": "Central"
    },
    {
-    "name": "FreshChoice Ranui",
+    "name": "FreshChoice Rānui",
     "address": "433 Swanson Road, Ranui, Auckland 0612",
     "phone": "09 833 8420",
     "website": "https://ranui.store.freshchoice.co.nz/",
     "rating": 4.1,
     "reviews": 769,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=16559076062232780829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8637847,
     "lng": 174.60171549999998,
@@ -1626,7 +1651,8 @@
     "phone": "09 813 9030",
     "website": "http://freshchoice.co.nz/supermarkets/glen-eden",
     "rating": 4.2,
-    "reviews": 1057,
+    "reviews": 1060,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=9075803960886464972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9111057,
     "lng": 174.6539206,
@@ -1638,11 +1664,25 @@
     "phone": "09 817 6859",
     "website": "https://titirangi.store.freshchoice.co.nz/",
     "rating": 4,
-    "reviews": 313,
+    "reviews": 315,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=4151170349497440186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9375577,
     "lng": 174.65644550000002,
     "area": "West"
+   },
+   {
+    "name": "FreshChoice Mangere Bridge",
+    "address": "40 Coronation Road, Māngere Bridge, Auckland 2022",
+    "phone": "09 636 8424",
+    "website": "https://mangerebridge.store.freshchoice.co.nz/",
+    "rating": 4.2,
+    "reviews": 898,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=1589665697553741638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9426069,
+    "lng": 174.78690699999999,
+    "area": "Central"
    },
    {
     "name": "FreshChoice Avondale Mini",
@@ -1651,22 +1691,11 @@
     "website": "https://avondale.store.supervalue.co.nz/",
     "rating": 4,
     "reviews": 227,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=15877976525160528239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.897953099999995,
     "lng": 174.6966965,
-    "area": "Central"
-   },
-   {
-    "name": "FreshChoice Mangere Bridge",
-    "address": "40 Coronation Road, Māngere Bridge, Auckland 2022",
-    "phone": "09 636 8424",
-    "website": "https://mangerebridge.store.freshchoice.co.nz/",
-    "rating": 4.2,
-    "reviews": 892,
-    "maps": "https://maps.google.com/?cid=1589665697553741638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.9426069,
-    "lng": 174.78690699999999,
-    "area": "Central"
+    "area": "West"
    },
    {
     "name": "FreshChoice Papakura",
@@ -1674,7 +1703,8 @@
     "phone": "09 298 1500",
     "website": "https://papakura.store.supervalue.co.nz/",
     "rating": 4.1,
-    "reviews": 403,
+    "reviews": 405,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=8885579761097499042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -37.066153,
     "lng": 174.95486599999998,
@@ -1685,29 +1715,18 @@
     "address": "367 Lake Road, Hauraki, Auckland 0627",
     "phone": "09 486 3186",
     "website": "http://www.freshchoice.co.nz/",
-    "rating": 2.7,
-    "reviews": 26,
+    "rating": 2.8,
+    "reviews": 34,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=893560504291188287&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.7966559,
     "lng": 174.7779814,
     "area": "North Shore"
-   },
-   {
-    "name": "FreshChoice Flat Bush",
-    "address": "55 Nga Pona Toru Road, Flat Bush, Auckland 2019",
-    "phone": "",
-    "website": "",
-    "rating": null,
-    "reviews": 0,
-    "maps": "https://maps.google.com/?cid=11137392976888100225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.9808769,
-    "lng": 174.9270269,
-    "area": "South"
    }
   ]
  },
  "Two Dollar Things Plus": {
-  "ts": 1792009388.5375786,
+  "ts": 1794853992.9375129,
   "outlets": [
    {
     "name": "Two Dollar Things Plus Onehunga",
@@ -1715,7 +1734,8 @@
     "phone": "",
     "website": "https://twodollarthings.co.nz/",
     "rating": 3.9,
-    "reviews": 24,
+    "reviews": 25,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=12831849429719815084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9225005,
     "lng": 174.78561349999998,
@@ -1728,6 +1748,7 @@
     "website": "https://twodollarthings.co.nz/",
     "rating": 4.3,
     "reviews": 7,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=14522175870153636997&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9702127,
     "lng": 174.7986644,
@@ -1740,6 +1761,7 @@
     "website": "https://twodollarthings.co.nz/",
     "rating": 4.7,
     "reviews": 6,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=8618200110012248265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9425472,
     "lng": 174.84239599999998,
@@ -1750,24 +1772,13 @@
     "address": "1/33 Anzac Road, Browns Bay, Auckland 0630",
     "phone": "",
     "website": "https://twodollarthings.co.nz/",
-    "rating": 3.7,
-    "reviews": 28,
+    "rating": 3.6,
+    "reviews": 30,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=3036098391024124256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.7166189,
     "lng": 174.7459188,
     "area": "North Shore"
-   },
-   {
-    "name": "Two Dollar Things Plus Henderson",
-    "address": "S131/7 Catherine Street, Henderson, Auckland 0612",
-    "phone": "",
-    "website": "https://twodollarthings.co.nz/",
-    "rating": 4.1,
-    "reviews": 19,
-    "maps": "https://maps.google.com/?cid=3225557745635961176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.881205099999995,
-    "lng": 174.63319679999998,
-    "area": "West"
    },
    {
     "name": "Two Dollar Things Plus Glen Eden",
@@ -1776,6 +1787,7 @@
     "website": "https://twodollarthings.co.nz/",
     "rating": 4.9,
     "reviews": 33,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=1499685976583090957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.911540699999996,
     "lng": 174.6517853,
@@ -1788,6 +1800,7 @@
     "website": "https://twodollarthings.co.nz/",
     "rating": 5,
     "reviews": 1,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=7087594737871395894&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -37.0227905,
     "lng": 174.89675509999998,
@@ -1798,12 +1811,26 @@
     "address": "S301/385 Glenfield Road, Glenfield, Auckland 0629",
     "phone": "",
     "website": "https://twodollarthings.co.nz/",
-    "rating": 2.8,
-    "reviews": 22,
+    "rating": 2.7,
+    "reviews": 23,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=1310163714073786592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.7824384,
     "lng": 174.7225806,
     "area": "North Shore"
+   },
+   {
+    "name": "Two Dollar Things Plus Henderson",
+    "address": "S131/7 Catherine Street, Henderson, Auckland 0612",
+    "phone": "",
+    "website": "https://twodollarthings.co.nz/",
+    "rating": 4.1,
+    "reviews": 19,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=3225557745635961176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.881205099999995,
+    "lng": 174.63319679999998,
+    "area": "West"
    },
    {
     "name": "Two Dollar Things Plus Papakura",
@@ -1812,6 +1839,7 @@
     "website": "https://twodollarthings.co.nz/",
     "rating": 4.7,
     "reviews": 6,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=6227462101691259623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -37.0634699,
     "lng": 174.9426387,
@@ -1824,6 +1852,7 @@
     "website": "https://twodollarthings.co.nz/franchise/",
     "rating": null,
     "reviews": 0,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=11884729928357186896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8525042,
     "lng": 174.77944069999998,
@@ -7572,5 +7601,9 @@
     "area": "North Shore"
    }
   ]
+ },
+ "MeloYelo E-Bikes": {
+  "ts": 1794853993.2185051,
+  "outlets": []
  }
 }
