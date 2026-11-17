@@ -28,5 +28,20 @@
   "lat": -36.9808769,
   "lng": 174.9270269,
   "area": "South"
+ },
+ {
+  "date": "2026-11-17",
+  "brand": "Paper Plus",
+  "change": "gone",
+  "name": "Paper Plus Orewa",
+  "address": "3 Moana Avenue, Orewa 0931",
+  "phone": "09 426 4063",
+  "website": "http://www.paperplus.co.nz/",
+  "rating": 3.7,
+  "reviews": 159,
+  "maps": "https://maps.google.com/?cid=13052314058570516296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "lat": -36.5862571,
+  "lng": 174.69545789999998,
+  "area": "North Shore"
  }
 ]

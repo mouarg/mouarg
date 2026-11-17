@@ -2094,15 +2094,16 @@
   ]
  },
  "Cash Converters": {
-  "ts": 1792009389.2013006,
+  "ts": 1794937102.6909456,
   "outlets": [
    {
     "name": "Cash Converters Otahuhu",
     "address": "225 Great South Road, Ōtāhuhu, Auckland 1062",
     "phone": "09 973 4265",
     "website": "https://www.cashconverters.co.nz/stores/otahuhu/?utm_source=google&utm_medium=gbp",
-    "rating": 3.2,
-    "reviews": 54,
+    "rating": 3.3,
+    "reviews": 56,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=5873925266518801821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9410838,
     "lng": 174.8402293,
@@ -2115,22 +2116,11 @@
     "website": "https://www.cashconverters.co.nz/stores/otara/?utm_source=google&utm_medium=gbp",
     "rating": 3.2,
     "reviews": 39,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=11704571368153115525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9607901,
     "lng": 174.8735436,
     "area": "South"
-   },
-   {
-    "name": "Cash Converters Panmure",
-    "address": "86 Queens Road, Panmure, Auckland 1072",
-    "phone": "09 570 4242",
-    "website": "https://www.cashconverters.co.nz/stores/panmure/?utm_source=google&utm_medium=gbp",
-    "rating": 3.4,
-    "reviews": 36,
-    "maps": "https://maps.google.com/?cid=11552653818361600056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.8996135,
-    "lng": 174.8546424,
-    "area": "East"
    },
    {
     "name": "Cash Converters Mount Roskill",
@@ -2139,45 +2129,36 @@
     "website": "https://www.cashconverters.co.nz/stores/mount-roskill/?utm_source=google&utm_medium=gbp",
     "rating": 3.1,
     "reviews": 77,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=10901582530942875960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9035872,
     "lng": 174.74190439999998,
     "area": "Central"
    },
    {
-    "name": "Cash Converters Takanini",
-    "address": "233 Great South Road, Takanini, Auckland 2112",
-    "phone": "09 320 3824",
-    "website": "https://www.cashconverters.co.nz/stores/Takanini/?utm_source=google&utm_medium=gbp",
-    "rating": 4.5,
-    "reviews": 63,
-    "maps": "https://maps.google.com/?cid=6248397916451542696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -37.0477809,
-    "lng": 174.9251385,
-    "area": "South"
-   },
-   {
-    "name": "Cash Converters Glen Innes",
-    "address": "231 Taniwha Street, Glen Innes, Auckland 1072",
-    "phone": "09 973 4268",
-    "website": "https://www.cashconverters.co.nz/stores/glen-innes/?utm_source=google&utm_medium=gbp",
-    "rating": 3.9,
-    "reviews": 53,
-    "maps": "https://maps.google.com/?cid=8708817543539574077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.87750400000001,
-    "lng": 174.855089,
+    "name": "Cash Converters Panmure",
+    "address": "86 Queens Road, Panmure, Auckland 1072",
+    "phone": "09 570 4242",
+    "website": "https://www.cashconverters.co.nz/stores/panmure/?utm_source=google&utm_medium=gbp",
+    "rating": 3.5,
+    "reviews": 35,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=11552653818361600056&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8996135,
+    "lng": 174.8546424,
     "area": "East"
    },
    {
-    "name": "Cash Converters Papakura",
-    "address": "6-10 Railway Street West, Papakura, Auckland 2110",
-    "phone": "09 973 4266",
-    "website": "https://www.cashconverters.co.nz/stores/papakura/?utm_source=google&utm_medium=gbp",
-    "rating": 3.8,
-    "reviews": 73,
-    "maps": "https://maps.google.com/?cid=6737210603661008341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -37.0641027,
-    "lng": 174.9456464,
+    "name": "Cash Converters Manukau",
+    "address": "615 Great South Road, Manukau City Centre, Auckland 2104",
+    "phone": "09 262 0783",
+    "website": "https://www.cashconverters.co.nz/stores/manukau/?utm_source=google&utm_medium=gbp",
+    "rating": 3.7,
+    "reviews": 76,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=3767288201399017728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.986357399999996,
+    "lng": 174.88000459999998,
     "area": "South"
    },
    {
@@ -2187,22 +2168,50 @@
     "website": "https://www.cashconverters.co.nz/stores/henderson/?utm_source=google&utm_medium=gbp",
     "rating": 3.7,
     "reviews": 78,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=12858129223370968927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8825384,
     "lng": 174.6331734,
     "area": "West"
    },
    {
-    "name": "Cash Converters Manukau",
-    "address": "615 Great South Road, Manukau City Centre, Auckland 2104",
-    "phone": "09 262 0783",
-    "website": "https://www.cashconverters.co.nz/stores/manukau/?utm_source=google&utm_medium=gbp",
-    "rating": 3.5,
-    "reviews": 75,
-    "maps": "https://maps.google.com/?cid=3767288201399017728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.986357399999996,
-    "lng": 174.88000459999998,
+    "name": "Cash Converters Takanini",
+    "address": "233 Great South Road, Takanini, Auckland 2112",
+    "phone": "09 320 3824",
+    "website": "https://www.cashconverters.co.nz/stores/Takanini/?utm_source=google&utm_medium=gbp",
+    "rating": 4.4,
+    "reviews": 65,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=6248397916451542696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0477809,
+    "lng": 174.9251385,
     "area": "South"
+   },
+   {
+    "name": "Cash Converters Papakura",
+    "address": "6-10 Railway Street West, Papakura, Auckland 2110",
+    "phone": "09 973 4266",
+    "website": "https://www.cashconverters.co.nz/stores/papakura/?utm_source=google&utm_medium=gbp",
+    "rating": 3.8,
+    "reviews": 74,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=6737210603661008341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.0641027,
+    "lng": 174.9456464,
+    "area": "South"
+   },
+   {
+    "name": "Cash Converters Glen Innes",
+    "address": "231 Taniwha Street, Glen Innes, Auckland 1072",
+    "phone": "09 973 4268",
+    "website": "https://www.cashconverters.co.nz/stores/glen-innes/?utm_source=google&utm_medium=gbp",
+    "rating": 3.9,
+    "reviews": 54,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=8708817543539574077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.87750400000001,
+    "lng": 174.855089,
+    "area": "East"
    }
   ]
  },
@@ -2228,7 +2237,7 @@
   ]
  },
  "Paper Plus": {
-  "ts": 1792086518.0242639,
+  "ts": 1794937103.026084,
   "outlets": [
    {
     "name": "Paper Plus Highland Park",
@@ -2236,22 +2245,24 @@
     "phone": "09 534 6190",
     "website": "http://www.paperplus.co.nz/",
     "rating": 4.4,
-    "reviews": 111,
+    "reviews": 113,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=3065413477201545068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8997568,
     "lng": 174.90437939999998,
     "area": "East"
    },
    {
-    "name": "Paper Plus Eastridge",
-    "address": "Eastridge Shopping Mall, 16/209 Kepa Road, Mission Bay, Auckland 1071",
-    "phone": "09 521 5402",
-    "website": "https://www.paperplus.co.nz/",
-    "rating": 4.2,
-    "reviews": 64,
-    "maps": "https://maps.google.com/?cid=7532353072956436316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.8606817,
-    "lng": 174.8296432,
+    "name": "Paper Plus Meadowbank",
+    "address": "Cnr St. Johns Road &, Gerard Way, Meadowbank, Auckland 1072",
+    "phone": "09 528 3956",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 3.6,
+    "reviews": 87,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=4219765336733497379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.876137,
+    "lng": 174.8281683,
     "area": "Central"
    },
    {
@@ -2261,21 +2272,23 @@
     "website": "http://www.paperplus.co.nz/",
     "rating": 3.9,
     "reviews": 96,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=8002319163085471456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8477703,
     "lng": 174.7438407,
     "area": "Central"
    },
    {
-    "name": "Paper Plus Meadowbank",
-    "address": "Cnr St. Johns Road &, Gerard Way, Meadowbank, Auckland 1072",
-    "phone": "09 528 3956",
-    "website": "http://www.paperplus.co.nz/",
-    "rating": 3.6,
-    "reviews": 85,
-    "maps": "https://maps.google.com/?cid=4219765336733497379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.876137,
-    "lng": 174.8281683,
+    "name": "Paper Plus Eastridge",
+    "address": "Eastridge Shopping Mall, 16/209 Kepa Road, Mission Bay, Auckland 1071",
+    "phone": "09 521 5402",
+    "website": "https://www.paperplus.co.nz/",
+    "rating": 4.2,
+    "reviews": 64,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=7532353072956436316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8606817,
+    "lng": 174.8296432,
     "area": "Central"
    },
    {
@@ -2284,10 +2297,24 @@
     "phone": "09 520 8515",
     "website": "https://www.paperplus.co.nz/stores?pageid=267",
     "rating": 4,
-    "reviews": 165,
+    "reviews": 166,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=15198417990553620086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8808541,
     "lng": 174.7971901,
+    "area": "Central"
+   },
+   {
+    "name": "Paper Plus Auckland Hospital",
+    "address": "Auckland City Hospital Bldg 1/2 Park Road, Grafton, Auckland 1023",
+    "phone": "09 354 4132",
+    "website": "http://www.paperplus.co.nz/",
+    "rating": 3.7,
+    "reviews": 29,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=14624326124032258679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.860842999999996,
+    "lng": 174.7703623,
     "area": "Central"
    },
    {
@@ -2297,22 +2324,11 @@
     "website": "http://www.paperplus.co.nz/",
     "rating": 4.5,
     "reviews": 283,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=6001292057501273186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8941054,
     "lng": 174.9315613,
     "area": "East"
-   },
-   {
-    "name": "Paper Plus Auckland Hospital",
-    "address": "Auckland Hospital Bldg 1/2 Park Road, Grafton, Auckland 1023",
-    "phone": "09 354 4132",
-    "website": "http://www.paperplus.co.nz/",
-    "rating": 3.7,
-    "reviews": 29,
-    "maps": "https://maps.google.com/?cid=14624326124032258679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.860842999999996,
-    "lng": 174.7703623,
-    "area": "Central"
    },
    {
     "name": "Paper Plus Glenfield Mall",
@@ -2320,7 +2336,8 @@
     "phone": "09 441 7084",
     "website": "http://www.paperplus.co.nz/",
     "rating": 3.5,
-    "reviews": 48,
+    "reviews": 50,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=14503442015523102254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.781910599999996,
     "lng": 174.72209189999998,
@@ -2332,7 +2349,8 @@
     "phone": "09 478 6176",
     "website": "http://www.paperplus.co.nz/",
     "rating": 4.3,
-    "reviews": 104,
+    "reviews": 105,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=6271981419058229618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.716130299999996,
     "lng": 174.7477472,
@@ -2345,33 +2363,10 @@
     "website": "http://www.paperplus.co.nz/",
     "rating": 4.4,
     "reviews": 36,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=9598987076387186443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8117289,
     "lng": 174.7244269,
-    "area": "North Shore"
-   },
-   {
-    "name": "Paper Plus Devonport",
-    "address": "5/18 Clarence Street, Devonport, Auckland 0624",
-    "phone": "09 446 6642",
-    "website": "https://www.paperplus.co.nz/",
-    "rating": 5,
-    "reviews": 4,
-    "maps": "https://maps.google.com/?cid=16735546951127191790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.829982699999995,
-    "lng": 174.7969795,
-    "area": "North Shore"
-   },
-   {
-    "name": "Paper Plus Takapuna",
-    "address": "28 Hurstmere Road, Takapuna, Auckland 0622",
-    "phone": "09 666 8765",
-    "website": "https://www.paperplus.co.nz/stores/north-island/auckland/paper-plus-takapuna",
-    "rating": 4.3,
-    "reviews": 148,
-    "maps": "https://maps.google.com/?cid=15277475151840065272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.7881542,
-    "lng": 174.7724098,
     "area": "North Shore"
    },
    {
@@ -2381,9 +2376,23 @@
     "website": "https://www.paperplus.co.nz/stores?storeId=9",
     "rating": 4.6,
     "reviews": 58,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=1014589084401422587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.7594345,
     "lng": 174.73960359999998,
+    "area": "North Shore"
+   },
+   {
+    "name": "Paper Plus Takapuna",
+    "address": "28 Hurstmere Road, Takapuna, Auckland 0622",
+    "phone": "09 666 8765",
+    "website": "https://www.paperplus.co.nz/stores/north-island/auckland/paper-plus-takapuna",
+    "rating": 4.3,
+    "reviews": 149,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=15277475151840065272&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.7881542,
+    "lng": 174.7724098,
     "area": "North Shore"
    },
    {
@@ -2391,23 +2400,25 @@
     "address": "Shop S3.12 Coast Plaza, 719 Whangaparaoa Road, Stanmore Bay, Auckland 0930",
     "phone": "09 777 6074",
     "website": "http://www.paperplus.co.nz/",
-    "rating": 4,
-    "reviews": 49,
+    "rating": 4.1,
+    "reviews": 52,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=4713547962055784164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.6365783,
     "lng": 174.746905,
     "area": "North Shore"
    },
    {
-    "name": "Paper Plus Orewa",
-    "address": "3 Moana Avenue, Orewa 0931",
-    "phone": "09 426 4063",
-    "website": "http://www.paperplus.co.nz/",
-    "rating": 3.7,
-    "reviews": 159,
-    "maps": "https://maps.google.com/?cid=13052314058570516296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.5862571,
-    "lng": 174.69545789999998,
+    "name": "Paper Plus Devonport",
+    "address": "5/18 Clarence Street, Devonport, Auckland 0624",
+    "phone": "09 446 6642",
+    "website": "https://www.paperplus.co.nz/",
+    "rating": 5,
+    "reviews": 4,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=16735546951127191790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.829982699999995,
+    "lng": 174.7969795,
     "area": "North Shore"
    },
    {
@@ -2417,6 +2428,7 @@
     "website": "http://paperplus.co.nz/",
     "rating": 4.2,
     "reviews": 36,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=10354475169895401443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.782168899999995,
     "lng": 175.00943809999998,
@@ -2429,6 +2441,7 @@
     "website": "https://www.paperplus.co.nz/",
     "rating": 3.3,
     "reviews": 15,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=8466916547999835448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9211003,
     "lng": 174.8205711,
@@ -2437,7 +2450,7 @@
   ]
  },
  "Property InDepth": {
-  "ts": 1792086518.331379,
+  "ts": 1794937103.2887478,
   "outlets": [
    {
     "name": "Property InDepth",
@@ -2446,6 +2459,7 @@
     "website": "http://www.propertyindepth.co.nz/valuer/property-valuers-west-auckland/",
     "rating": null,
     "reviews": 0,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=4498509424637381240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.933910999999995,
     "lng": 174.6484534,
@@ -2458,6 +2472,7 @@
     "website": "http://www.propertyindepth.co.nz/",
     "rating": null,
     "reviews": 0,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=14891525044044327674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8983539,
     "lng": 174.9314047,
@@ -2470,6 +2485,7 @@
     "website": "http://www.propertyindepth.co.nz/valuer/property-valuers-south-auckland/",
     "rating": null,
     "reviews": 0,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=766460755278966593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8891292,
     "lng": 174.8953588,
@@ -2756,7 +2772,7 @@
   "outlets": []
  },
  "Black & White Coffee Cartel": {
-  "ts": 1792341339.2228477,
+  "ts": 1794937103.6040323,
   "outlets": [
    {
     "name": "Black & White Coffee Cartel",
@@ -2764,7 +2780,8 @@
     "phone": "09 975 0885",
     "website": "https://www.facebook.com/share/19YcpSwGB1/?mibextid=wwXIfr",
     "rating": 4.3,
-    "reviews": 120,
+    "reviews": 131,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=13925020689993476130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.810423899999996,
     "lng": 174.6062575,
@@ -2777,6 +2794,7 @@
     "website": "http://www.blackandwhitecoffee.co.nz/",
     "rating": 4.4,
     "reviews": 320,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=14395092211206976794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -37.035014,
     "lng": 174.9069501,
@@ -7604,6 +7622,36 @@
  },
  "MeloYelo E-Bikes": {
   "ts": 1794853993.2185051,
+  "outlets": []
+ },
+ "Top 10 Holiday Parks Group": {
+  "ts": 1794937105.2549918,
+  "outlets": []
+ },
+ "ShowerFix": {
+  "ts": 1794937105.5783195,
+  "outlets": [
+   {
+    "name": "ShowerFix East Auckland",
+    "address": "5 Golfwell Road, Flat Bush, Tāmaki Makaurau 2019",
+    "phone": "021 544 341",
+    "website": "https://showerfix.co.nz/location/east-auckland/?utm_source=east-auckland&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews": 47,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=321348472369562397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.970273999999996,
+    "lng": 174.9352849,
+    "area": "South"
+   }
+  ]
+ },
+ "Breakers Restaurant": {
+  "ts": 1794937105.8071392,
+  "outlets": []
+ },
+ "Narellan Pools": {
+  "ts": 1794937106.091597,
   "outlets": []
  }
 }

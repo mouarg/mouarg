@@ -529,6 +529,26 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://platinumhomes.co.nz/": {
+   "ts": 1794937126.2602122,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://showerfix.co.nz/": {
+   "ts": 1794937147.7129872,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -743,6 +763,10 @@
   "https://pararubber.co.nz/": {
    "ts": 1794854185.9607735,
    "value": 52
+  },
+  "https://showerfix.co.nz/": {
+   "ts": 1794937193.7532573,
+   "value": 24
   }
  }
 }

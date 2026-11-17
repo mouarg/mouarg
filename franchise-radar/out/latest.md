@@ -1,9 +1,10 @@
-# Franchise Radar - 2026-11-16
+# Franchise Radar - 2026-11-17
 
-4 new signals.
+3 new signals.
 
-## Hot (4)
-- Jollibee plans Australia store expansion through franchise deals - Traders Union (Google News - NZ franchise expansion, Mon, 16 Nov 2026 13:28:23 GMT) https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEd1NWVNUmp6REpiRWgyOENjOUMxNXVKSXhsWjgwTEJjdnpqbVJpRHYtZDZtZFFXd1lIYzBnY0pzLWZMVXFJaE5hc3VDSENnUjM1Y0hidldLVkdNY2dtRlRONy1VanlyM2FqQTlLM24wZ2k2cGpUNkJ4LTNNR1hWV193YjdpNW92V01lZngyMGpEdw?oc=5
-- Australian Pilates Franchise @pilates 24/7 Sets Sights on US Expansion - Athletech News (Google News - NZ franchise openings, Mon, 16 Nov 2026 18:00:00 GMT) https://news.google.com/rss/articles/CBMingFBVV95cUxPRm9mOHE1YzNJMmZ6cW5pcTR0a3ZJR0dqY2hlSDVNRFZkanRyOE04RUpXWXIzMU5veUhzSU1vQURGbElWZ2RrT3N0WG5iTjRPX0FwX1dCak54aXl2WGdkTDZUSHdwbnRqMGlSd3pianVYRHZEYmU0VHNEM3BVSFJjVHQ5dGVoeEFxYWJ2RHIyWXBPSlZ6dkc2YkphSGhSZw?oc=5
-- Jollibee commits ₱2.6b to Australian franchise expansion, targets 35 outlets - marketech apac (Google News - NZ franchise openings, Mon, 16 Nov 2026 09:14:46 GMT) https://news.google.com/rss/articles/CBMisAFBVV95cUxOM2x6YmgwVGNZVjl2cFNqajhNYUtIek53eHZGWFJEb3ZGdVpsR1Q5UVhjcnptSDJ2RkU2a3YwU3duTFRBZWpQZlpLcTUtQ0xIaGJCdl9RbmUwdnF2QVNEOGZfS3ZzS2c4d1Z2TkI0NFlMaktuVzlNMUY3UDdfeS1HTEtjci1kRHBISjFpSW9FbUVaTkJpeWlNU21tMVlrS0hTdkx6ZXBkSXY3RWc0dDZYVg?oc=5
-- New store marks Food Lion's return to Hilton Head Island in more than a decade - FreshPlaza (Google News - NZ franchise openings, Mon, 16 Nov 2026 13:22:58 GMT) https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHFFN0c3MVlRbGRGR2gwV0NfVDdQM3hwUzNud3JTMEdWWGZNandKSE13ZDB5S0dWSS1Ra2xrU2VvVkpYb0g4bmoxOWd0aEZBTHZkblI4eDU4bjFXSi03VzJKNmd3TkpPM1RnN1VpTXVtSHU4RkJsNF9VemFNck5qb0ZkOTFOUEMyaEpWMkxnS1dWb0pwaFRBREZ2VHdhM3dJTjIyY1l1b2RMUS1XaW0xMlctWEgzSlBEQ1FzTUtySTlielViaER6aU1ueGxXUXl1VlE?oc=5
+## Hot (2)
+- Chris Pratt’s The Terminal List Franchise Expands With New Prequel TV Show, Details Revealed - Yahoo (Google News - NZ franchise expansion, Mon, 16 Nov 2026 22:18:39 GMT) https://news.google.com/rss/articles/CBMinwFBVV95cUxOWndDMmVmdXBhTFlheFYwc2VlSHRnTWdUQlhRQzRrOFdrblFGRHpsWVdtNUZyc2EwOUtzOHduSTNyVDJIdXNDQTlnRXB2bFFkaEdQSGotV0FhSjR5NXRBMG92M3lubFZaWGJYc1dxQkEtNWtVMVN2MHV6elB6S0xPcXpvcGxkZE9VcEFVQ0ZUNEF3REVJYVduWjdRZkF1NlU?oc=5
+- Amazon Expands Terminal List Franchise with New Prequel Cry Havoc - Asianet Newsable (Google News - NZ franchise expansion, Tue, 17 Nov 2026 11:00:10 GMT) https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2dmRzZ2dERJcXhwUl90MGt2V2pKRVVqVTBaTG5WWTZIYjBjMHNySTVYTmRzX0N4TVpNWWdVcGtuMDd2Zmtnc0NZTVA2N1ZUdlNlTU9IMlpwOExJMzJJSDhTTnRnekcyNnhiYkdjcTRVaHhmN0oxb2RVTk9SMXBacnRfcFRUcG1ucERvbkdqNENOaDRRejZFNHNQMjJZNnl6dzl4bHl4SFpMYWpsZUhXQmxNellRVzVPYk02aDVla2I2UXN6U2NTMTVEd1TSAdIBQVVfeXFMTzBFdWhkcTVGTHdNTmtHSWhCcTE0VU50bVdjemVOOTdHZHFjMzZpUURWZXloSFM0UUZEdXFZUFgxZS1XZ05rSlZobkZSMnRNaUU4SjU4MlMxMVdERkx5X1RzRFlzNG5lYkZzMGFOSERuMHhoM3c1cGdhaC1BejFjdEh6MG5lcVNuNW5sRndObWZsb1A0Tm9kMk1RSERTUE5UMmpRWnA5NG9KS2FQUndSZjh0eTZWbFdDajZfZ0lIcWRWcEh5c0ZiQjF2bFJncy1tcmd3?oc=5
+
+## Warm (1)
+- Brian Tracy Solutions Master Licence (Franchise Direct NZ - new franchises) https://www.franchisedirect.co.nz/business-services-franchise-opportunities/brian-tracy-solutions-master-licence
