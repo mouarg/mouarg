@@ -549,6 +549,16 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://cutshop.com/": {
+   "ts": 1795022186.5342152,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
   }
  },
  "pagespeed": {
@@ -767,6 +777,14 @@
   "https://showerfix.co.nz/": {
    "ts": 1794937193.7532573,
    "value": 24
+  },
+  "https://subway.com/": {
+   "ts": 1795022185.8071432,
+   "value": 68
+  },
+  "https://cutshop.com/": {
+   "ts": 1795022208.7105129,
+   "value": 43
   }
  }
 }

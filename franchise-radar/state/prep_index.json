@@ -157,7 +157,7 @@
  },
  "Mr Whippy": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/mr-whippy.md",
-  "date": "2026-11-03"
+  "date": "2026-11-19"
  },
  "Zexx NZ": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/zexx-nz.md",
@@ -197,7 +197,7 @@
  },
  "Cutshop": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/cutshop.md",
-  "date": "2026-11-03"
+  "date": "2026-11-19"
  },
  "Mizin": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/mizin.md",
@@ -293,7 +293,7 @@
  },
  "Trident Homes": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/trident-homes.md",
-  "date": "2026-11-03"
+  "date": "2026-11-19"
  },
  "Provender": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/provender.md",
@@ -301,7 +301,7 @@
  },
  "Subway": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/subway.md",
-  "date": "2026-11-03"
+  "date": "2026-11-19"
  },
  "Ezy Kitchens": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/ezy-kitchens.md",
@@ -782,5 +782,33 @@
  "Narellan Pools": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/narellan-pools.md",
   "date": "2026-11-18"
+ },
+ "STIHL SHOP": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/stihl-shop.md",
+  "date": "2026-11-19"
+ },
+ "Guthrie Bowron": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/guthrie-bowron.md",
+  "date": "2026-11-19"
+ },
+ "Kumon": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/kumon.md",
+  "date": "2026-11-19"
+ },
+ "Jani-King": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/jani-king.md",
+  "date": "2026-11-19"
+ },
+ "Quest Apartment Hotels": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/quest-apartment-hotels.md",
+  "date": "2026-11-19"
+ },
+ "BoatsmartHQ": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/boatsmarthq.md",
+  "date": "2026-11-19"
+ },
+ "Tint a Car": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/tint-a-car.md",
+  "date": "2026-11-19"
  }
 }

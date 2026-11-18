@@ -1,5 +1,5 @@
 # Meeting prep data: Subway
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 19 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
@@ -12,6 +12,9 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Average rating 3.8 stars; reviews per store from 167 to 377 (median 288)
 - Stores under 4 stars: 13 | under 20 reviews: 0
 - Listings missing phone: 1, website: 0, opening hours: 0
+
+## Website and digital
+- Google PageSpeed mobile score: 68/100 (under 50 is slow)
 
 ## Findings to raise (kindly)
 - 13 of 20 Auckland sites rate under 4.0 stars -> new-customer campaigns plus a review/feedback QR on every flyer.
