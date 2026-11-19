@@ -1,9 +1,9 @@
 # Meeting prep data: Exceed
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 20 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Home and Building
-- Directory listing: https://franchise.co.nz/franchise-directory/142-exceed-franchising (updated 2026-01-20)
+- Directory listing: https://franchise.co.nz/franchise-directory/142-exceed-franchising (updated 2026-11-16)
 - Website: not found
 - About: Home Services We are the largest franchise group providing window and door maintenance services to homes throughout New Zealand. The Exceed franchising model is designed to give our franchise owners every opportunity for success with over 30 years’ worth of tried and trusted systems. Complete the form below to
 - Auckland stores found on Google: 1

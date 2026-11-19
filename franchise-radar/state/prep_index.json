@@ -185,7 +185,7 @@
  },
  "Anchor Franchise": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/anchor-franchise.md",
-  "date": "2026-11-03"
+  "date": "2026-11-20"
  },
  "Coffee Culture": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/coffee-culture.md",
@@ -217,7 +217,7 @@
  },
  "Mexico": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/mexico.md",
-  "date": "2026-11-03"
+  "date": "2026-11-20"
  },
  "Summit Homes": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/summit-homes.md",
@@ -253,7 +253,7 @@
  },
  "Exceed": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/exceed.md",
-  "date": "2026-11-03"
+  "date": "2026-11-20"
  },
  "OMG! Decadent Donuts": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/omg-decadent-donuts.md",
@@ -337,11 +337,11 @@
  },
  "Room2Rent": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/room2rent.md",
-  "date": "2026-11-03"
+  "date": "2026-11-20"
  },
  "Storage2Rent": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/storage2rent.md",
-  "date": "2026-11-03"
+  "date": "2026-11-20"
  },
  "PinkFit": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/pinkfit.md",
@@ -810,5 +810,25 @@
  "Tint a Car": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/tint-a-car.md",
   "date": "2026-11-19"
+ },
+ "Dream Doors": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/dream-doors.md",
+  "date": "2026-11-20"
+ },
+ "Night 'n Day Foodstores": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/night-n-day-foodstores.md",
+  "date": "2026-11-20"
+ },
+ "Cartridge World": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/cartridge-world.md",
+  "date": "2026-11-20"
+ },
+ "Autoblast": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/autoblast.md",
+  "date": "2026-11-20"
+ },
+ "Ziebart": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/ziebart.md",
+  "date": "2026-11-20"
  }
 }

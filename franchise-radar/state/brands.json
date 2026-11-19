@@ -4934,9 +4934,9 @@
  "https://franchise.co.nz/franchise-directory/816-dream-doors": {
   "name": "Dream Doors",
   "category": "Home and Building",
-  "blurb": "Sales of made-to-measure replacement kitchen doors and benchtops for retail and trade customers. Seeking hard-working, sales-driven, computer literate go-getters who are willing to follow a dynamic international business model proven on three continents. Complete the form below to receive more detailed information from Dream Doors",
+  "blurb": "Sales of made-to-measure kitchen refacing parts and new kitchens for retail and trade customers. Seeking hard-working, sales-driven, computer literate go-getters who are willing to follow a dynamic international business model proven on three continents. Complete the form below to receive more detailed information from Dream Doors",
   "url": "https://franchise.co.nz/franchise-directory/816-dream-doors",
-  "lastmod": "2024-12-17",
+  "lastmod": "2026-11-19",
   "first_seen": "2026-10-25",
   "supplier": false
  },
@@ -6064,5 +6064,14 @@
   "lastmod": "2026-11-16",
   "first_seen": "2026-11-17",
   "supplier": false
+ },
+ "https://franchise.co.nz/franchise-directory/488-gallagher-insurance": {
+  "name": "Gallagher Insurance",
+  "category": "Service Providers",
+  "blurb": "Gallagher is one of the leading insurance broking companies in New Zealand. We guide master franchisors on the complex insurance and risk management programmes necessary for successful franchises and provide face-to-face advice to individual members. Complete the form below to receive more detailed information from Gallagher Insurance",
+  "url": "https://franchise.co.nz/franchise-directory/488-gallagher-insurance",
+  "lastmod": "2026-11-19",
+  "first_seen": "2026-11-19",
+  "supplier": true
  }
 }

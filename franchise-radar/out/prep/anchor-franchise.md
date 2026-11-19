@@ -1,9 +1,9 @@
 # Meeting prep data: Anchor Franchise
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 20 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
-- Directory listing: https://franchise.co.nz/franchise-directory/15-anchor-franchise (updated 2026-03-25)
+- Directory listing: https://franchise.co.nz/franchise-directory/15-anchor-franchise (updated 2026-11-13)
 - Website: not found
 - About: Market leader in sales and distribution of dairy products and beverages throughout New Zealand including Anchor, Primo, Mammoth, Mainland, and Kapiti. National franchise structure operating since 1992 offering exclusive territories. Looking for people with business and sales acumen, a can-do attitude and great leadership qualities. Complete the form below to receive more detailed information from 
 - Auckland stores found on Google: 0

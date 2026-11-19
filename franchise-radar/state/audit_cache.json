@@ -559,6 +559,36 @@
     "tiktok_pixel": false,
     "online_booking": true
    }
+  },
+  "https://mexico.nz/": {
+   "ts": 1795108973.9277384,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
+  },
+  "https://dreamdoors.co.nz/": {
+   "ts": 1795108993.2734492,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": true,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://room2rent.net.nz/": {
+   "ts": 1795109011.1206234,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -784,6 +814,18 @@
   },
   "https://cutshop.com/": {
    "ts": 1795022208.7105129,
+   "value": 43
+  },
+  "https://mexico.nz/": {
+   "ts": 1795108990.8384736,
+   "value": 30
+  },
+  "https://dreamdoors.co.nz/": {
+   "ts": 1795109009.0075994,
+   "value": 77
+  },
+  "https://room2rent.net.nz/": {
+   "ts": 1795109045.9183865,
    "value": 43
   }
  }
