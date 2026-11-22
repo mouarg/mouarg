@@ -589,6 +589,16 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://lidarwindows.co.nz/": {
+   "ts": 1795364244.602584,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": true
+   }
   }
  },
  "pagespeed": {
@@ -827,6 +837,14 @@
   "https://room2rent.net.nz/": {
    "ts": 1795109045.9183865,
    "value": 43
+  },
+  "https://goo.gl/": {
+   "ts": 1795364243.9295325,
+   "value": 100
+  },
+  "https://lidarwindows.co.nz/": {
+   "ts": 1795364259.5994585,
+   "value": 66
   }
  }
 }

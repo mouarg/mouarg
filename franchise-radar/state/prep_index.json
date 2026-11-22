@@ -37,7 +37,7 @@
  },
  "Lidar Windows and Doors": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/lidar-windows-and-doors.md",
-  "date": "2026-11-03"
+  "date": "2026-11-23"
  },
  "Crewcut": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/crewcut.md",
@@ -161,7 +161,7 @@
  },
  "Zexx NZ": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/zexx-nz.md",
-  "date": "2026-11-03"
+  "date": "2026-11-23"
  },
  "Think Water": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/think-water.md",
@@ -229,7 +229,7 @@
  },
  "Carpet Court": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/carpet-court.md",
-  "date": "2026-11-16"
+  "date": "2026-11-23"
  },
  "Robert Harris Coffee Roasters": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/robert-harris-coffee-roasters.md",
@@ -237,7 +237,7 @@
  },
  "Zambrero": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/zambrero.md",
-  "date": "2026-11-03"
+  "date": "2026-11-23"
  },
  "Burger Wisconsin": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/burger-wisconsin.md",
@@ -830,5 +830,21 @@
  "Ziebart": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/ziebart.md",
   "date": "2026-11-20"
+ },
+ "Saddlery Warehouse": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/saddlery-warehouse.md",
+  "date": "2026-11-23"
+ },
+ "Palmers": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/palmers.md",
+  "date": "2026-11-23"
+ },
+ "Clean Planet": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/clean-planet.md",
+  "date": "2026-11-23"
+ },
+ "Peak Clean": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/peak-clean.md",
+  "date": "2026-11-23"
  }
 }

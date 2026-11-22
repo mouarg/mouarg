@@ -43,5 +43,21 @@
   "lat": -36.5862571,
   "lng": 174.69545789999998,
   "area": "North Shore"
+ },
+ {
+  "date": "2026-11-22",
+  "brand": "Carpet Court",
+  "change": "opened",
+  "name": "Carpet Court Waiheke",
+  "address": "13/19 Belgium Street, Ostend, Waiheke Island 1081",
+  "phone": "09 372 3455",
+  "website": "https://carpetcourt.nz/our-locations/carpet-court-waiheke",
+  "rating": 4.6,
+  "reviews": 8,
+  "has_hours": true,
+  "maps": "https://maps.google.com/?cid=14177573577134425099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "lat": -36.7958311,
+  "lng": 175.0454349,
+  "area": "North Shore"
  }
 ]
