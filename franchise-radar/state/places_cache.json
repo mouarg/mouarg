@@ -3008,7 +3008,7 @@
   "outlets": []
  },
  "Papa Johns": {
-  "ts": 1792519274.898274,
+  "ts": 1795464853.0239656,
   "outlets": []
  },
  "Mexico": {
@@ -3074,7 +3074,7 @@
   ]
  },
  "Brumby's Bakery": {
-  "ts": 1792519275.7710118,
+  "ts": 1795464853.3005984,
   "outlets": []
  },
  "Jamaica Blue": {
@@ -3453,30 +3453,45 @@
   ]
  },
  "PACK & SEND": {
-  "ts": 1792606029.2939644,
+  "ts": 1795464852.720692,
   "outlets": [
+   {
+    "name": "PACK & SEND Pakuranga",
+    "address": "Unit 3/335 Ti Rakau Drive, Burswood, Auckland 2012",
+    "phone": "09 913 1950",
+    "website": "https://www.packsend.co.nz/couriers-auckland/pakuranga/",
+    "rating": 4.9,
+    "reviews": 302,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=15682114320755102172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.928100799999996,
+    "lng": 174.9009073,
+    "area": "East"
+   },
+   {
+    "name": "PACK & SEND Auckland City",
+    "address": "8 Mahuhu Crescent, CBD, Auckland 1010",
+    "phone": "09 909 9099",
+    "website": "https://www.packsend.co.nz/couriers-auckland/auckland-city/",
+    "rating": 4.6,
+    "reviews": 108,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=9992088131203222407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.8469548,
+    "lng": 174.77417,
+    "area": "Central"
+   },
    {
     "name": "PACK & SEND Penrose",
     "address": "Unit 19/273 Neilson Street, Onehunga, Auckland 1061",
     "phone": "09 666 8808",
     "website": "https://www.packsend.co.nz/couriers-auckland/penrose/",
-    "rating": 4.8,
-    "reviews": 22,
+    "rating": 4.9,
+    "reviews": 28,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=7244724472545451207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9269416,
     "lng": 174.8033106,
-    "area": "Central"
-   },
-   {
-    "name": "PACK & SEND Newmarket",
-    "address": "1/8 Kingdon Street, Newmarket, Auckland 1023",
-    "phone": "09 915 5158",
-    "website": "https://www.packsend.co.nz/couriers-auckland/newmarket/",
-    "rating": 4.6,
-    "reviews": 56,
-    "maps": "https://maps.google.com/?cid=9355794855127463255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.8667444,
-    "lng": 174.7766738,
     "area": "Central"
    },
    {
@@ -3486,46 +3501,11 @@
     "website": "https://www.packsend.co.nz/couriers-auckland/avondale/",
     "rating": 4.9,
     "reviews": 159,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=4284558818518810364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.882192499999995,
     "lng": 174.677519,
     "area": "West"
-   },
-   {
-    "name": "PACK & SEND Manukau City",
-    "address": "71/18 Lambie Drive, Manukau City Centre, Auckland 2104",
-    "phone": "09 950 8642",
-    "website": "https://www.packsend.co.nz/couriers-auckland/manukau-city/",
-    "rating": 4.8,
-    "reviews": 139,
-    "maps": "https://maps.google.com/?cid=4276301715041642358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.9860398,
-    "lng": 174.8732997,
-    "area": "South"
-   },
-   {
-    "name": "PACK & SEND Auckland City",
-    "address": "8 Mahuhu Crescent, CBD, Auckland 1010",
-    "phone": "09 909 9099",
-    "website": "https://www.packsend.co.nz/couriers-auckland/auckland-city/",
-    "rating": 4.6,
-    "reviews": 108,
-    "maps": "https://maps.google.com/?cid=9992088131203222407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.8469548,
-    "lng": 174.77417,
-    "area": "Central"
-   },
-   {
-    "name": "PACK & SEND Pakuranga",
-    "address": "Unit 3/335 Ti Rakau Drive, Burswood, Auckland 2012",
-    "phone": "09 913 1950",
-    "website": "https://www.packsend.co.nz/couriers-auckland/pakuranga/",
-    "rating": 4.9,
-    "reviews": 299,
-    "maps": "https://maps.google.com/?cid=15682114320755102172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -36.928100799999996,
-    "lng": 174.9009073,
-    "area": "East"
    },
    {
     "name": "PACK & SEND Mount Roskill",
@@ -3533,22 +3513,24 @@
     "phone": "09 952 1999",
     "website": "https://www.packsend.co.nz/couriers-auckland/mount-roskill/",
     "rating": 5,
-    "reviews": 97,
+    "reviews": 101,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=9251204343640556837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.912348099999996,
     "lng": 174.7490167,
     "area": "Central"
    },
    {
-    "name": "PACK & SEND Papakura",
-    "address": "212 Great South Road, Takanini, Auckland 2112",
-    "phone": "09 956 1734",
-    "website": "https://www.packsend.co.nz/couriers-auckland/papakura/",
+    "name": "PACK & SEND Manukau City",
+    "address": "71/18 Lambie Drive, Manukau City Centre, Auckland 2104",
+    "phone": "09 950 8642",
+    "website": "https://www.packsend.co.nz/couriers-auckland/manukau-city/",
     "rating": 4.8,
-    "reviews": 49,
-    "maps": "https://maps.google.com/?cid=15601275257310183069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -37.0464832,
-    "lng": 174.92426419999998,
+    "reviews": 147,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=4276301715041642358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -36.9860398,
+    "lng": 174.8732997,
     "area": "South"
    },
    {
@@ -3557,7 +3539,8 @@
     "phone": "09 486 3355",
     "website": "https://www.packsend.co.nz/couriers-auckland/takapuna/",
     "rating": 4.9,
-    "reviews": 303,
+    "reviews": 304,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=5292975893862654994&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.794869399999996,
     "lng": 174.7650864,
@@ -3569,7 +3552,8 @@
     "phone": "09 476 6467",
     "website": "https://www.packsend.co.nz/couriers-auckland/albany/",
     "rating": 4.8,
-    "reviews": 111,
+    "reviews": 115,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=7477226011258469638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.7395193,
     "lng": 174.72228579999998,

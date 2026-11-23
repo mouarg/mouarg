@@ -1,5 +1,5 @@
 # Meeting prep data: Blinds On Location
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 24 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Home and Building

@@ -69,7 +69,7 @@
  },
  "Blinds On Location": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/blinds-on-location.md",
-  "date": "2026-11-03"
+  "date": "2026-11-24"
  },
  "MYGuy": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/myguy.md",
@@ -181,7 +181,7 @@
  },
  "Black & White Coffee Cartel": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/black-white-coffee-cartel.md",
-  "date": "2026-11-03"
+  "date": "2026-11-24"
  },
  "Anchor Franchise": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/anchor-franchise.md",
@@ -289,7 +289,7 @@
  },
  "Cookie Time": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/cookie-time.md",
-  "date": "2026-11-03"
+  "date": "2026-11-24"
  },
  "Trident Homes": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/trident-homes.md",
@@ -313,7 +313,7 @@
  },
  "Latitude Homes": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/latitude-homes.md",
-  "date": "2026-11-03"
+  "date": "2026-11-24"
  },
  "Cobb & Co.": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/cobb-co.md",
@@ -846,5 +846,21 @@
  "Peak Clean": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/peak-clean.md",
   "date": "2026-11-23"
+ },
+ "Colourplus": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/colourplus.md",
+  "date": "2026-11-24"
+ },
+ "Baby On The Move": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/baby-on-the-move.md",
+  "date": "2026-11-24"
+ },
+ "Propertyscouts Property Management": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/propertyscouts-property-management.md",
+  "date": "2026-11-24"
+ },
+ "Pirtek": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/pirtek.md",
+  "date": "2026-11-24"
  }
 }

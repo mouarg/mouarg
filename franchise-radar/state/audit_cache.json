@@ -599,6 +599,36 @@
     "tiktok_pixel": false,
     "online_booking": true
    }
+  },
+  "https://latitudehomes.co.nz/": {
+   "ts": 1795464854.340339,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://facebook.com/": {
+   "ts": 1795464872.6840932,
+   "value": {
+    "google_tag": false,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
+  },
+  "https://cookietime.co.nz/": {
+   "ts": 1795464884.2576835,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -845,6 +875,18 @@
   "https://lidarwindows.co.nz/": {
    "ts": 1795364259.5994585,
    "value": 66
+  },
+  "https://latitudehomes.co.nz/": {
+   "ts": 1795464871.8695402,
+   "value": 38
+  },
+  "https://facebook.com/": {
+   "ts": 1795464882.5962641,
+   "value": 89
+  },
+  "https://cookietime.co.nz/": {
+   "ts": 1795464911.530797,
+   "value": 34
   }
  }
 }

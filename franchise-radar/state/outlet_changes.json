@@ -59,5 +59,35 @@
   "lat": -36.7958311,
   "lng": 175.0454349,
   "area": "North Shore"
+ },
+ {
+  "date": "2026-11-23",
+  "brand": "PACK & SEND",
+  "change": "gone",
+  "name": "PACK & SEND Newmarket",
+  "address": "1/8 Kingdon Street, Newmarket, Auckland 1023",
+  "phone": "09 915 5158",
+  "website": "https://www.packsend.co.nz/couriers-auckland/newmarket/",
+  "rating": 4.6,
+  "reviews": 56,
+  "maps": "https://maps.google.com/?cid=9355794855127463255&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "lat": -36.8667444,
+  "lng": 174.7766738,
+  "area": "Central"
+ },
+ {
+  "date": "2026-11-23",
+  "brand": "PACK & SEND",
+  "change": "gone",
+  "name": "PACK & SEND Papakura",
+  "address": "212 Great South Road, Takanini, Auckland 2112",
+  "phone": "09 956 1734",
+  "website": "https://www.packsend.co.nz/couriers-auckland/papakura/",
+  "rating": 4.8,
+  "reviews": 49,
+  "maps": "https://maps.google.com/?cid=15601275257310183069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "lat": -37.0464832,
+  "lng": 174.92426419999998,
+  "area": "South"
  }
 ]

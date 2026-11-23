@@ -1,135 +1,126 @@
-# Prospect brief - Monday 23 November 2026
+# Prospect brief - Tuesday 24 November 2026
 
-Shortlist of 8 franchise brands, ranked. Today's walk-in area: **North Shore**.
+Shortlist of 8 franchise brands, ranked. Today's walk-in area: **West**.
 This is automated research data, not instructions. Verify contacts before use.
 Google Places: on
 Aditi's tracker, last 7 days: 0 calls, 0 meetings booked (weekly target 30 calls, 10 meetings).
 
 | # | Brand | Category | Score | Why it ranked | Core REACH fit |
 |---|---|---|---|---|---|
-| 1 | Carpet Court | Home and Building | 100 | new to the franchise directory; new Auckland store: Ostend; 13 Auckland sites (multi-site) | Lead Accelerator |
-| 2 | Zambrero | Food and Beverage | 75 | in the news (Warm); new to the franchise directory | Community Reach |
-| 3 | Lidar Windows and Doors | Home and Building | 50 | new to the franchise directory; listing updated in the last 90 days | Lead Accelerator |
-| 4 | Zexx NZ | Food and Beverage | 50 | new to the franchise directory; multi-site network | Community Reach |
-| 5 | Saddlery Warehouse | Retail | 40 | new to the franchise directory | Retail package |
-| 6 | Palmers | Retail | 40 | new to the franchise directory | Retail package |
-| 7 | Clean Planet | Business & Commercial | 25 | new to the franchise directory | Professional Services package |
-| 8 | Peak Clean | Business & Commercial | 25 | new to the franchise directory | Professional Services package |
+| 1 | Latitude Homes | Home and Building | 65 | new to the franchise directory; 3 Auckland sites (multi-site) | Lead Accelerator |
+| 2 | Black & White Coffee Cartel | Food and Beverage | 55 | new to the franchise directory | Community Reach |
+| 3 | Blinds On Location | Home and Building | 50 | new to the franchise directory; listing updated in the last 90 days | Lead Accelerator |
+| 4 | Cookie Time | Food and Beverage | 50 | new to the franchise directory | Community Reach |
+| 5 | Colourplus | Retail | 40 | new to the franchise directory | Retail package |
+| 6 | Baby On The Move | Retail | 40 | new to the franchise directory | Retail package |
+| 7 | Propertyscouts Property Management | Business & Commercial | 25 | new to the franchise directory | Professional Services package |
+| 8 | Pirtek | Business & Commercial | 25 | new to the franchise directory | Professional Services package |
 
-## 1. Carpet Court (Home and Building)
-- Directory listing: https://franchise.co.nz/franchise-directory/1476-carpet-court (updated 2026-05-13)
-- About: Retail New Zealand’s largest flooring retailer. The size of the Carpet Court Group means that Carpet Court Franchise Partners benefit from the advantages of scale when it comes to all aspects of business, including buying power, marketing, product range and other business support services. Complete the form below to
-- Website: https://carpetcourt.nz/
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/carpet-court.md
+## 1. Latitude Homes (Home and Building)
+- Directory listing: https://franchise.co.nz/franchise-directory/1160-latitude-homes (updated 2025-02-23)
+- About: A trusted national brand with a family feel and proven rewards. Get in touch: Contact: Latitude Homes FANZ Member: No
+- Website: https://latitudehomes.co.nz/
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/latitude-homes.md
 - Talking points from today's digital and local check:
-  - Uneven stores: Google reviews range from 4 to 102 across 13 Auckland sites. Some catchments are under-performing -> Data Insights to rank catchments, then letterbox where it's weakest.
-  - 2 of 13 Auckland sites rate under 4.0 stars -> new-customer campaigns plus a review/feedback QR on every flyer.
-  - 4 of 13 sites have under 20 Google reviews (low local visibility) -> Local Booster / Community Reach to build local awareness.
+  - Uneven stores: Google reviews range from 0 to 33 across 3 Auckland sites. Some catchments are under-performing -> Data Insights to rank catchments, then letterbox where it's weakest.
+  - 2 of 3 sites have under 20 Google reviews (low local visibility) -> Local Booster / Community Reach to build local awareness.
   - No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
   - No Meta Pixel on their website -> they can't retarget site visitors on Facebook/Instagram: Digital Marketing (Meta) + pixel set-up, so letterbox responders get followed up.
+  - Website scores 38/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
 - Full-funnel REACH plan:
   - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries
   - HQ: Data Insights + Mortal: catchment mapping per store, territory design and expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)
   - Digital gap: Google Search and Meta retargeting not set up -> REACH Digital Marketing
-  - Big network: Inside/Out (adds digital billboards/DOOH) for brand frequency across Auckland
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
-- Auckland outlets found: 13 (avg 35 Google reviews)
-  - [North Shore] 128 Target Road, Wairau Park, Auckland 0627 | 09 441 0171 | 3.7 stars, 53 reviews
-  - [North Shore] Cnr Rosedale Rd &, Tawa Drive, Albany, North Harbour 0632 | 09 415 7581 | 4.6 stars, 41 reviews
-  - [North Shore] 1 Keith Hay Court, Silverdale, Auckland 0932 | 09 666 0258 | 4.5 stars, 27 reviews
-  - [North Shore] 13/19 Belgium Street, Ostend, Waiheke Island 1081 | 09 372 3455 | 4.6 stars, 8 reviews <- fewest reviews, good LSM talking point
-  - [Central] 70 Lunn Avenue, Mount Wellington, Auckland 1072 | 09 574 6688 | 4.2 stars, 36 reviews
-  - [Central] 383 Khyber Pass Road, Newmarket, Auckland 1023 | 09 522 2006 | 4.2 stars, 31 reviews
-  - [South] Southgate Retail Centre 230 Great South Road, Takanini, Auckland 2112 | 09 295 0430 | 4.3 stars, 23 reviews
-  - [East] Shop 7/500 Ti Rakau Drive, Botany Downs, Botany 2013 | 09 273 3800 | 4 stars, 4 reviews <- fewest reviews, good LSM talking point
-  - [West] 153 Lincoln Road, Henderson, Auckland 0610 | 09 837 0845 | 4.4 stars, 102 reviews
-  - [South] Unit 5/21 Ronwood Avenue, Manukau City Centre, Manukau 2104 | 09 600 5560 | 4.2 stars, 58 reviews
-  - [West] 2/190 Main Road, Kumeū 0810 | 09 869 7659 | 4.5 stars, 19 reviews
-  - [Central] 373 Neilson Street, Penrose, Auckland 1061 | 0800 787 777 | 3.9 stars, 16 reviews <- fewest reviews, good LSM talking point
-  - [South] 229 Manukau Road, Pukekohe, Auckland 2120 | 09 238 6951 | 4.7 stars, 40 reviews
+- Auckland outlets found: 3 (avg 12 Google reviews)
+  - [West] Level 1, Unit 1/4 Laurenson Road, Hobsonville, Auckland 0618 | 0210 294 4371 | 4.6 stars, 33 reviews
+  - [South] 8 Suffolk Down Road, Papakura, Karaka 2580 | 021 280 0084 | - stars, 0 reviews <- fewest reviews, good LSM talking point
+  - [South] 29 Te Rātā Boulevard, Paerata 2676 | 021 280 0084 | 5 stars, 3 reviews <- fewest reviews, good LSM talking point
 
-## 2. Zambrero (Food and Beverage)
-- Directory listing: https://franchise.co.nz/franchise-directory/1108-zambrero (updated 2026-04-13)
-- About: Serving fresh, healthy and flavoursome Mexican food in New Zealand since 2014. Get in touch: Contact: Zambrero FANZ Member: No
-- Website: https://goo.gl/
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/zambrero.md
-- Trigger (Warm, Thu, 19 Nov 2026 14:18:26 GMT): Zambrero hires former IPC chief Bryan Griffiths as European GM - L’Express Franchise https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnhlcXFsbXNUOEtucS1kTnk4bGFURGV5dzItM2lvajVrV1pTZlU5SlZuc1ptWmN6b0hNM25DV2Nvdk9zMFFTbjZrVGRKNFJZbWZ5WlRfdWdiYW1NNkhiWVQ0Y01LX2xseGNfNHc1dUdFU09xWWR2WFJqVUVkRlZnZ3hwVUNsbmlX?oc=5
-- Talking points from today's digital and local check:
-  - 1 of 2 Auckland sites rate under 4.0 stars -> new-customer campaigns plus a review/feedback QR on every flyer.
-- Full-funnel REACH plan:
-  - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
-  - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
-  - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
-- Auckland outlets found: 2 (avg 326 Google reviews)
-  - [North Shore] E/252 Oteha Valley Road, Albany, Auckland 0632 | 09 448 1188 | 4.3 stars, 346 reviews
-  - [Central] 200 Mount Wellington Highway, Mount Wellington, Auckland 1060 | 09 527 3497 | 3.8 stars, 305 reviews
-
-## 3. Lidar Windows and Doors (Home and Building)
-- Directory listing: https://franchise.co.nz/franchise-directory/1773-lidar-windows-and-doors (updated 2026-09-15)
-- About: Lidar windows is a scale manufacture of NZ designed and made aluminium window and doors systems. Built on 2 decades of hands on experience our expertise spans the full spectrum of residential and commercial projects. Complete the form below to receive more detailed information from Lidar Windows and Doors
-- Website: https://lidarwindows.co.nz/
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/lidar-windows-and-doors.md
+## 2. Black & White Coffee Cartel (Food and Beverage)
+- Directory listing: https://franchise.co.nz/franchise-directory/1529-black-white-coffee-cartel (updated 2026-06-18)
+- About: Join the third wave of coffee today. Exciting opportunities to join NZ's rapidly growing first micro-roasting coffee company franchise. Offering turnkey cafes with a competitive operational model. Full training and support provided. We have brought the independent coffee shop to the masses. Complete the form below to receive more detailed information from Black & White Coffee Cartel
+- Website: https://facebook.com/
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/black-white-coffee-cartel.md
 - Talking points from today's digital and local check:
   - No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
   - No Meta Pixel on their website -> they can't retarget site visitors on Facebook/Instagram: Digital Marketing (Meta) + pixel set-up, so letterbox responders get followed up.
-  - Website takes bookings/orders/quotes online -> campaigns can drive straight to a measurable action (Lead Accelerator / Traffic Igniter style digital).
-- Full-funnel REACH plan:
-  - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries
-  - Digital gap: Google Search and Meta retargeting not set up -> REACH Digital Marketing
-  - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
-- Auckland outlets found: 1 (avg 35 Google reviews)
-  - [South] 15 Dalgety Drive, Wiri, Auckland 2104 | 09 263 4000 | 4.3 stars, 35 reviews
-
-## 4. Zexx NZ (Food and Beverage)
-- Directory listing: https://franchise.co.nz/franchise-directory/1202-zexx-nz- (updated 2024-12-17)
-- About: Providing a nationwide range of quality frozen fruit beverages and alcohol cocktails. Get in touch: Contact: Zexx NZ FANZ Member: No
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/zexx-nz.md
+  - No Google Analytics/Tag Manager found -> they can't measure campaign results: pitch REACH's tracking (QR codes, dashboards) as the proof layer.
 - Full-funnel REACH plan:
   - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
-  - HQ: Data Insights + Mortal: catchment mapping per store, territory design and expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)
+  - Digital gap: Google Search and Meta retargeting not set up -> REACH Digital Marketing
   - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
+- Auckland outlets found: 2 (avg 226 Google reviews)
+  - [West] Maki Centre Unit MC02B/Maki Street, Westgate, Auckland 0814 | 09 975 0885 | 4.3 stars, 131 reviews
+  - [South] 2 Te Napi Drive, Takanini, Auckland 2112 | 09 222 3380 | 4.4 stars, 320 reviews
 
-## 5. Saddlery Warehouse (Retail)
-- Directory listing: https://franchise.co.nz/franchise-directory/730-saddlery-warehouse (updated 2024-12-17)
-- About: Leading equestrian retailer. Supplying all the items needed for horse and rider. Get in touch: Contact: Saddlery Warehouse FANZ Member: No
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/saddlery-warehouse.md
+## 3. Blinds On Location (Home and Building)
+- Directory listing: https://franchise.co.nz/franchise-directory/1755-blinds-on-location (updated 2026-08-27)
+- About: Home Services A mobile blinds and curtains business built for freedom, profit and simplicity – combining premium products, proven systems and serious earning potential for ambitious owner-operators. Blinds On Location are seeking motivated sales professionals ready to own and grow their own business. Complete the form below to
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/blinds-on-location.md
+- Full-funnel REACH plan:
+  - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries
+  - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
+
+## 4. Cookie Time (Food and Beverage)
+- Directory listing: https://franchise.co.nz/franchise-directory/529-cookie-time (updated 2025-07-07)
+- About: A Cookie Time franchise offers business ownership plus support from an iconic Kiwi company, home to much-loved brands including Cookie Time, Bumper and OSM. A select number of rare opportunities available to become a franchisee distributing snacks and smiles as long-term franchisees retire from business. Complete the form below to receive more detailed information from Cookie Time
+- Website: https://cookietime.co.nz/
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/cookie-time.md
+- Talking points from today's digital and local check:
+  - Google listings incomplete: 1 without a phone number -> quick win to raise in Consulting/strategy chat (fix before spending on ads).
+  - No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
+  - No Meta Pixel on their website -> they can't retarget site visitors on Facebook/Instagram: Digital Marketing (Meta) + pixel set-up, so letterbox responders get followed up.
+  - Website scores 34/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
+- Full-funnel REACH plan:
+  - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
+  - Digital gap: Google Search and Meta retargeting not set up -> REACH Digital Marketing
+  - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
+  - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
+- Auckland outlets found: 1 (avg 52 Google reviews)
+  - [West] 35 Keeling Road, Henderson, Auckland 0612 | no phone | 4.5 stars, 52 reviews
+
+## 5. Colourplus (Retail)
+- Directory listing: https://franchise.co.nz/franchise-directory/850-colourplus (updated 2024-12-17)
+- About: Colourplus offers a range of top quality giftware and decorating accessories. Get in touch: Contact: Colourplus FANZ Member: No
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/colourplus.md
 - Full-funnel REACH plan:
   - Core: Retail package: letterbox around each store + retargeting ads, timed to retail events
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 6. Palmers (Retail)
-- Directory listing: https://franchise.co.nz/franchise-directory/802-palmers (updated 2024-12-17)
-- About: NZ’s largest chain of standalone garden centres, helping grow great gardens since 1912. Get in touch: Contact: Palmers FANZ Member: No
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/palmers.md
+## 6. Baby On The Move (Retail)
+- Directory listing: https://franchise.co.nz/franchise-directory/891-baby-on-the-move (updated 2024-12-17)
+- About: Specialising in rental and sales of baby and toddler car seats and other products. Get in touch: Contact: Baby On The Move FANZ Member: No
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/baby-on-the-move.md
 - Full-funnel REACH plan:
   - Core: Retail package: letterbox around each store + retargeting ads, timed to retail events
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 7. Clean Planet (Business & Commercial)
-- Directory listing: https://franchise.co.nz/franchise-directory/880-clean-planet (updated 2026-05-13)
-- About: Clean Planet empowers you to build a thriving, eco-conscious business with purpose. Our franchisees deliver premium cleaning and property care services while championing health, sustainability, and wellbeing—backed by expert training, support, and a brand committed to a cleaner, greener future. Complete the form below to receive more detailed information from Clean Planet
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/clean-planet.md
+## 7. Propertyscouts Property Management (Business & Commercial)
+- Directory listing: https://franchise.co.nz/franchise-directory/1200-propertyscouts-property-management (updated 2025-11-25)
+- About: Propertyscouts is 100% dedicated to providing end-to-end property management. In the industry for over 20 years, our franchisees benefit from clear systems, comprehensive training, uncapped support, and empowerment to achieve business success. There are still opportunities available throughout New Zealand, start a conversation today! Complete the form below to receive more detailed information fro
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/propertyscouts-property-management.md
 - Full-funnel REACH plan:
   - Core: Professional Services package: letterbox + retargeting on professional platforms
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 8. Peak Clean (Business & Commercial)
-- Directory listing: https://franchise.co.nz/franchise-directory/1742-peak-clean (updated 2026-05-13)
-- About: Founded in 2016, Peak Clean provides reliable and high-standard commercial cleaning solutions. Our teams deliver tailored in-house services to create consistently hygienic and professional spaces. Our mission is simple: to make every clean a peak clean. Complete the form below to receive more detailed information from Peak Clean
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/peak-clean.md
+## 8. Pirtek (Business & Commercial)
+- Directory listing: https://franchise.co.nz/franchise-directory/1717-pirtek (updated 2025-09-18)
+- About: Join a well-known international brand. Pirtek specialises in hydraulic and industrial hose and fittings - providing a 24/7 on-site mobile breakdown service to our customers. Franchises can be mobile only, mobile plus workshop, or full Pirtek Service and Supply Centre. Opportunities available now. Complete the form below to receive more detailed information from Pirtek
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/pirtek.md
 - Full-funnel REACH plan:
   - Core: Professional Services package: letterbox + retargeting on professional platforms
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## Road trip: North Shore
+## Road trip: West
 Local franchisee walk-ins, in visit order. Drive times from Google Routes (no traffic).
-1. Signature Homes: 3/3 Hibiscus Coast Highway, Silverdale 0932 | 09 415 9115 | 5 stars, 23 reviews <- few Google reviews: easy opener https://maps.google.com/?cid=2125342084444305227&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-2. Zambrero: E/252 Oteha Valley Road, Albany, Auckland 0632 | 09 448 1188 | 4.3 stars, 346 reviews (~11 min drive) https://maps.google.com/?cid=1223428908895194769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-3. MTP Renovations & Maintenance: 16B Tarndale Grove, Albany, Auckland 0632 | 09 929 4546 | 4.4 stars, 27 reviews <- few Google reviews: easy opener (~8 min drive) https://maps.google.com/?cid=10839363068508871855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-4. Exceed: 72 Taharoto Road, Takapuna, Auckland 0622 | 020 4096 6953 | 3 stars, 4 reviews <- few Google reviews: easy opener (~12 min drive) https://maps.google.com/?cid=10049106877927108106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-5. Jesters Pies: 58 Hurstmere Road, Takapuna, Auckland 0622 | 09 489 6141 | 3.2 stars, 73 reviews <- rated under 4 stars: easy opener (~8 min drive) https://maps.google.com/?cid=12968300252468055544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-6. Carpet Court: 13/19 Belgium Street, Ostend, Waiheke Island 1081 | 09 372 3455 | 4.6 stars, 8 reviews <- new store, opened recently: easy opener (~120 min drive) https://maps.google.com/?cid=14177573577134425099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+1. McDonald's: 50/60 Ash Street, Avondale, Auckland 1026 | 09 820 4300 | 3.3 stars, 950 reviews <- rated under 4 stars: easy opener https://maps.google.com/?cid=11849280406875815877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+2. Black & White Coffee Cartel: Maki Centre Unit MC02B/Maki Street, Westgate, Auckland 0814 | 09 975 0885 | 4.3 stars, 131 reviews (~16 min drive) https://maps.google.com/?cid=13925020689993476130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+3. Latitude Homes: Level 1, Unit 1/4 Laurenson Road, Hobsonville, Auckland 0618 | 0210 294 4371 | 4.6 stars, 33 reviews (~11 min drive) https://maps.google.com/?cid=6055243824501061889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+4. Carl's Jr.: 281 Lincoln Road, Henderson, Auckland 0610 | 09 836 9031 | 3.8 stars, 1071 reviews <- rated under 4 stars: easy opener (~10 min drive) https://maps.google.com/?cid=13822531732547099771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+5. HELL: 155 Lincoln Road, Henderson, Auckland 0610 | 09 837 8666 | 3.7 stars, 281 reviews <- rated under 4 stars: easy opener (~4 min drive) https://maps.google.com/?cid=7163762336869745884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+6. Cookie Time: 35 Keeling Road, Henderson, Auckland 0612 | no phone | 4.5 stars, 52 reviews (~8 min drive) https://maps.google.com/?cid=14770697148201534692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
 
 ## New and closed Auckland stores (last 30 days)
 Spotted by comparing each brand's Google listings month to month. A new store means a new owner who needs local customers fast: call or visit in the first weeks.
@@ -137,6 +128,8 @@ Spotted by comparing each brand's Google listings month to month. A new store me
 - GONE (closed, moved or renamed; check): Crewcut: 2 Des Swann Drive, Takapuna, Auckland 0622 (seen 2026-11-15)
 - GONE (closed, moved or renamed; check): FreshChoice: 55 Nga Pona Toru Road, Flat Bush, Auckland 2019 (seen 2026-11-16)
 - GONE (closed, moved or renamed; check): Paper Plus: 3 Moana Avenue, Orewa 0931 (seen 2026-11-17)
+- GONE (closed, moved or renamed; check): PACK & SEND: 1/8 Kingdon Street, Newmarket, Auckland 1023 (seen 2026-11-23)
+- GONE (closed, moved or renamed; check): PACK & SEND: 212 Great South Road, Takanini, Auckland 2112 (seen 2026-11-23)
 
 ## Other hot signals to research (not in the directory)
 - One NZ opens first store-in-store, at Costco - Inside Retail New Zealand (Wed, 11 Nov 2026 05:58:31 GMT) https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVFRZC0zWkFyMW9oVUxwbnJ0M3U0T1lMeGJCVjRmaUFUZ2l1M0lZcEZEeEkxOV9hUllxUGRvMEw1X1ptZlh3OXV1LUFkNFd4ZDhnZU9KV1l1RDdvaVE0UFR3SWZUVTc5RjE5VXl3aDNQZDRpbEVUdFR4cUtTbWt6NlNPOHdNSDhndXc?oc=5
