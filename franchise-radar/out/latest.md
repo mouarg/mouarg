@@ -1,13 +1,3 @@
-# Franchise Radar - 2026-11-23
+# Franchise Radar - 2026-11-24
 
-6 new signals.
-
-## Hot (5)
-- curRENT NZ Now Open! Video - Pinkbike (Google News - Auckland new store openings, Thu, 19 Nov 2026 03:14:00 GMT) https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zTTJRNG9JTEdCWU5fRXc1Mm5NdU5qaGtwNEpLRVNDM1ZrWTU1N0tqbnJhZzdON0huMkhNcmJKbnlBNDlnNjl1bllRWVA0ems?oc=5
-- Oriental Kopi seals Cambodia franchise deal, expands regional operations - Traders Union (Google News - NZ franchise expansion, Mon, 23 Nov 2026 14:29:59 GMT) https://news.google.com/rss/articles/CBMinAFBVV95cUxPbURyZFhHV1V1eU9SOEo1VmRsQmU0TlhnSEE3ZVh1NGhKQWNzbGxzaFI5b2xTWVE2cE9ibTlhSnJDY01LVk1tQUFjb2ttSzlnYUw5NFRFRGFpS0dpanhHcHNWc2ZScDFVM2ozbGFCOEsyX2FDUGU3NFJTM1RhZllNS2JRWjRkenpBbDNTMWFzUUxEWWZGQnJ4c0RiSVo?oc=5
-- PatchMaster Expands in Coastal Georgia with New Franchise Serving Statesboro, Pooler and Savannah - EIN News (Google News - NZ franchise expansion, Mon, 23 Nov 2026 14:00:00 GMT) https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZlpkaEF6Nl9BYzAtRFZkdy1rY19lX1YzM1cyejh2MXR1WE9hbzUyUS1hR01xMmY2eFBfSGRfR3lfMjYtT1BhTU5jaXVDOFFwUkhWQUtYcFNDZEtCZFRScTUzSDA3eklvcVpfQ1BKZG1oTlFZdjhnRHZZeWJESEU4SkRwZ19hZDJ1di1rOWN2eXh5ZjhmX3dxanpVbTlKTFl4b3ZhWVFWVzlDZjJNUmxRM1VVSzFBUmVmRjZjZTJMOHk1TG5Tbjd3cVloUXJLWDA4c095aw?oc=5
-- What Does WildBrain (TSX:WILD) Franchise Expansion Mean Ahead? - Kalkine Media (Google News - NZ franchise expansion, Thu, 19 Nov 2026 18:16:00 GMT) https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDRaVXZ1RWVjbXpCZmRZUkVJSGdHdC1tMEVKeW9zZFZEV2dzRkMybmdlcU9fMUtVN1lxeUgyN0E1MUFDZGxmTVVfWGx6UHpSN0NNNjNtcC14VnQxYTFzU0stZF8tSDhHUzB5bVhRSGVXbUl5c3F2djJmbnM5NUF2eEtXSGd5VFdPZC1OS3pEN0ZkMTd6M09EaC13QlBiWU5sX2ZIWjdYcXpLSjg?oc=5
-- Australian Pilates franchise @pilates 24/7 targets US expansion - Australasian Leisure Management Magazine (Google News - NZ franchise openings, Mon, 23 Nov 2026 09:47:51 GMT) https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUZwTlpOTHFDdmlGSE9TN0w0Y0RZUnVhZE1mZTFQY0Y2QzFNNjZkS0ZHTnlmdWZPT1BuaUdtdTE5cm9XUEhiQk9RS1RFdDYwODRFME92SS1SNmZZdWNyUGJDM3ZFeVk2SWpBS2tlREpyelVsam1qMC1Rbi1hTWcwZG1pMHN2UXpPUnhLbjhoalNMT0Yzdk1BZHUyejQ1eVhu?oc=5
-
-## Warm (1)
-- ACE Juniors Invites Franchise Partners to Expand Its Holistic Early-Learning Model Across India - Big News Network.com (Google News - NZ franchise openings, Mon, 23 Nov 2026 13:00:00 GMT) https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVlZVamgwWkppU0lKTThreWJPMVNlV0txbGE2WVlzNmhpdVV1Y1VZOGZLS0lTSW5rbmZQYjU5UldCbTZoOURhX3YyRGJoSThTamVBcWNWbm9vWFAyNzVoWk1kb05DUUhMQVcwY3dCckJyQW9tcGhfTVRwWmZ3aHdRb2hvUjhxRVdIanpxVTA3X3NTUVBDR0xsc1lWcTZhQm9aeDh1NzFxSkZFN0kwSGVoRUVwb0FHSkVrSUxGVTVuQmZzUW9zWDhFLWFpaklBajQ5OFV5LW56eGk?oc=5
+0 new signals.

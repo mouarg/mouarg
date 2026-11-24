@@ -3858,7 +3858,7 @@
   "outlets": []
  },
  "Navigation Homes": {
-  "ts": 1792948489.281402,
+  "ts": 1795548610.2844505,
   "outlets": [
    {
     "name": "Navigation Homes Paerata Showhome",
@@ -3867,6 +3867,7 @@
     "website": "https://www.navigationhomes.co.nz/?utm_source=1jonahlomudrive&utm_medium=googleplaces",
     "rating": null,
     "reviews": 0,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=7315690328742470135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -37.146695199999996,
     "lng": 174.8875913,
@@ -3879,21 +3880,10 @@
     "website": "https://www.navigationhomes.co.nz/franchises/east-auckland/",
     "rating": 5,
     "reviews": 1,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=8742879130178588240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -37.000642899999995,
     "lng": 175.0328856,
-    "area": "South"
-   },
-   {
-    "name": "Navigation Homes Counties Showhome",
-    "address": "28 Te Rātā Boulevard, Karaka 2124",
-    "phone": "0800 303 207",
-    "website": "http://www.navigationhomes.co.nz/",
-    "rating": 5,
-    "reviews": 1,
-    "maps": "https://maps.google.com/?cid=13361963242938300825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "lat": -37.1371646,
-    "lng": 174.88893149999998,
     "area": "South"
    },
    {
@@ -3903,9 +3893,23 @@
     "website": "https://www.navigationhomes.co.nz/franchises/counties/?utm_source=karakaroad&utm_medium=googleplaces",
     "rating": 4.8,
     "reviews": 22,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=2136155462568464706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -37.1468452,
     "lng": 174.88296789999998,
+    "area": "South"
+   },
+   {
+    "name": "Navigation Homes Counties Showhome",
+    "address": "28 Te Rātā Boulevard, Karaka 2124",
+    "phone": "0800 303 207",
+    "website": "http://www.navigationhomes.co.nz/",
+    "rating": 5,
+    "reviews": 1,
+    "has_hours": true,
+    "maps": "https://maps.google.com/?cid=13361963242938300825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "lat": -37.1371646,
+    "lng": 174.88893149999998,
     "area": "South"
    },
    {
@@ -3915,6 +3919,7 @@
     "website": "https://www.navigationhomes.co.nz/?utm_source=headoffice&utm_medium=googleplaces",
     "rating": 4.5,
     "reviews": 18,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=5927767216479757179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -37.2007293,
     "lng": 174.9030305,
@@ -3923,7 +3928,7 @@
   ]
  },
  "Bidfood": {
-  "ts": 1792948489.5245047,
+  "ts": 1795548610.578992,
   "outlets": [
    {
     "name": "Bidfood - Foodservice Auckland South",
@@ -3931,7 +3936,8 @@
     "phone": "09 573 7100",
     "website": "http://www.bidfood.co.nz/",
     "rating": 3.9,
-    "reviews": 28,
+    "reviews": 29,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=6397765703693745232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9827369,
     "lng": 174.7919538,
@@ -3942,8 +3948,9 @@
     "address": "48 Westpoint Drive, Hobsonville, Auckland 0618",
     "phone": "09 967 3090",
     "website": "http://www.bidfood.co.nz/",
-    "rating": 4.3,
-    "reviews": 7,
+    "rating": 4.4,
+    "reviews": 8,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=10855493547700940304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.8063613,
     "lng": 174.63267629999999,
@@ -3954,8 +3961,9 @@
     "address": "Level 3, Building 8, Central Park 660 Great South Road, Ellerslie, Auckland 1051",
     "phone": "0800 243 3663",
     "website": "http://www.bidfood.co.nz/",
-    "rating": 2.7,
-    "reviews": 24,
+    "rating": 2.8,
+    "reviews": 25,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=2568659014995984866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9020253,
     "lng": 174.8072348,
@@ -3968,6 +3976,7 @@
     "website": "http://www.bidfood.co.nz/",
     "rating": 4.2,
     "reviews": 13,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=8347315863970074766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9186745,
     "lng": 174.85530609999998,

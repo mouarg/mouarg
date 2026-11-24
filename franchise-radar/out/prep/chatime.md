@@ -1,9 +1,9 @@
 # Meeting prep data: Chatime
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 25 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
-- Directory listing: https://franchise.co.nz/franchise-directory/1678-chatime (updated 2024-12-17)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1678-chatime (updated 2024-12-17)
 - Website: not found
 - About: Since 2003, Chatime has redefined tea with inventive, fresh and flavourful concoctions. With over 1300 outlets globally, Chatime offers a refreshing opportunity to dive into the entrepreneurial world! Become the Master Franchisee or Area Developer in New Zealand and share in our global success It’s Time for Tea with Chatime! Complete the form below to receive more detailed information from Chatime
 - Auckland stores found on Google: 0

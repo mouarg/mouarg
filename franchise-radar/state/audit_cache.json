@@ -629,6 +629,16 @@
     "tiktok_pixel": false,
     "online_booking": false
    }
+  },
+  "https://versatile.co.nz/": {
+   "ts": 1795548612.7007804,
+   "value": {
+    "google_tag": true,
+    "google_ads": false,
+    "meta_pixel": false,
+    "tiktok_pixel": false,
+    "online_booking": false
+   }
   }
  },
  "pagespeed": {
@@ -887,6 +897,14 @@
   "https://cookietime.co.nz/": {
    "ts": 1795464911.530797,
    "value": 34
+  },
+  "https://versatile.co.nz/": {
+   "ts": 1795548640.0818532,
+   "value": 40
+  },
+  "https://summithomes.co.nz/": {
+   "ts": 1795548658.543725,
+   "value": 46
   }
  }
 }

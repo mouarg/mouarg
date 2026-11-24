@@ -1,9 +1,9 @@
 # Meeting prep data: Summit Homes
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 25 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Home and Building
-- Directory listing: https://franchise.co.nz/franchise-directory/1751-summit-homes (updated 2026-06-18)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1751-summit-homes (updated 2026-06-18)
 - Website: https://summithomes.co.nz/
 - About: With over 2000 homes built, Summit Homes offers the chance to join one of New Zealand’s most efficient and durable building companies. Start your own home-building business backed by a trusted brand, proven systems, solid supply chains and ongoing support. Complete the form below to receive more detailed information from Summit Homes
 - Auckland stores found on Google: 2
@@ -13,8 +13,12 @@ Updated 03 November 2026. Public data only; verify before sharing with the clien
 - Stores under 4 stars: 0 | under 20 reviews: 2
 - Listings missing phone: 0, website: 0, opening hours: 0
 
+## Website and digital
+- Google PageSpeed mobile score: 46/100 (under 50 is slow)
+
 ## Findings to raise (kindly)
 - 2 of 2 sites have under 20 Google reviews (low local visibility) -> Local Booster / Community Reach to build local awareness.
+- Website scores 46/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
 
 ## Suggested REACH plan
 - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries
