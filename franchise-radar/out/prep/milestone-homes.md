@@ -1,9 +1,9 @@
 # Meeting prep data: Milestone Homes
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 26 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Home and Building
-- Directory listing: https://franchise.co.nz/franchise-directory/1307-milestone-homes (updated 2024-12-17)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1307-milestone-homes (updated 2024-12-17)
 - Website: not found
 - About: Milestone Homes delivers a proven and smart franchisee package nationwide. Get in touch: Contact: Milestone Homes FANZ Member: No
 - Auckland stores found on Google: 0

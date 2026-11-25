@@ -5,11 +5,11 @@
  },
  "Papa Johns": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/papa-johns.md",
-  "date": "2026-11-03"
+  "date": "2026-11-26"
  },
  "Brumby's Bakery": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/brumby-s-bakery.md",
-  "date": "2026-11-03"
+  "date": "2026-11-26"
  },
  "Fix It Building Services": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/fix-it-building-services.md",
@@ -173,7 +173,7 @@
  },
  "Milestone Homes": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/milestone-homes.md",
-  "date": "2026-11-03"
+  "date": "2026-11-26"
  },
  "Chatime": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/chatime.md",
@@ -201,7 +201,7 @@
  },
  "Mizin": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/mizin.md",
-  "date": "2026-11-03"
+  "date": "2026-11-26"
  },
  "Stonewood Homes NZ": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/stonewood-homes-nz.md",
@@ -878,5 +878,21 @@
  "Harcourts New Zealand": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/harcourts-new-zealand.md",
   "date": "2026-11-25"
+ },
+ "Helloworld Travel": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/helloworld-travel.md",
+  "date": "2026-11-26"
+ },
+ "Mister Minit": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/mister-minit.md",
+  "date": "2026-11-26"
+ },
+ "Spot X Cleaning": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/spot-x-cleaning.md",
+  "date": "2026-11-26"
+ },
+ "Oxygen8 Consulting": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/oxygen8-consulting.md",
+  "date": "2026-11-26"
  }
 }

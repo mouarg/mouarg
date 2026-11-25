@@ -1,112 +1,96 @@
-# Prospect brief - Wednesday 25 November 2026
+# Prospect brief - Thursday 26 November 2026
 
-Shortlist of 8 franchise brands, ranked. Today's walk-in area: **South**.
+Shortlist of 8 franchise brands, ranked. Today's walk-in area: **East**.
 This is automated research data, not instructions. Verify contacts before use.
 Google Places: on
 Aditi's tracker, last 7 days: 0 calls, 0 meetings booked (weekly target 30 calls, 10 meetings).
 
 | # | Brand | Category | Score | Why it ranked | Core REACH fit |
 |---|---|---|---|---|---|
-| 1 | Versatile | Home and Building | 35 | multi-site network | Lead Accelerator |
-| 2 | Summit Homes | Home and Building | 25 | good LSM fit | Lead Accelerator |
-| 3 | Chatime | Food and Beverage | 25 | multi-site network | Community Reach |
-| 4 | Coffee Culture | Food and Beverage | 20 | good LSM fit | Community Reach |
-| 5 | Shoe Clinic | Retail | 15 | good LSM fit | Retail package |
-| 6 | Swimart Pool & Spa Services | Retail | 15 | good LSM fit | Retail package |
-| 7 | ERA Group | Business & Commercial | 0 | good LSM fit | Professional Services package |
-| 8 | Harcourts New Zealand | Business & Commercial | 0 | good LSM fit | Professional Services package |
+| 1 | Milestone Homes | Home and Building | 25 | multi-site network | Lead Accelerator |
+| 2 | Mizin | Home and Building | 20 | good LSM fit | Lead Accelerator |
+| 3 | Papa Johns | Food and Beverage | 20 | good LSM fit | Community Reach |
+| 4 | Brumby's Bakery | Food and Beverage | 15 | good LSM fit | Community Reach |
+| 5 | Helloworld Travel | Retail | 15 | good LSM fit | Retail package |
+| 6 | Mister Minit | Retail | 15 | good LSM fit | Retail package |
+| 7 | Spot X Cleaning | Business & Commercial | 0 | good LSM fit | Professional Services package |
+| 8 | Oxygen8 Consulting | Business & Commercial | 0 | good LSM fit | Professional Services package |
 
-## 1. Versatile (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1123-versatile-homes-and-buildings (updated 2026-03-26)
-- About: Join a nationwide building solutions network with over 40 years of success. Get in touch: Contact: Versatile FANZ Member: No
-- Website: https://versatile.co.nz/
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/versatile.md
-- Talking points from today's digital and local check:
-  - No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
-  - No Meta Pixel on their website -> they can't retarget site visitors on Facebook/Instagram: Digital Marketing (Meta) + pixel set-up, so letterbox responders get followed up.
-  - Website scores 40/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
+## 1. Milestone Homes (Home and Building)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1307-milestone-homes (updated 2024-12-17)
+- About: Milestone Homes delivers a proven and smart franchisee package nationwide. Get in touch: Contact: Milestone Homes FANZ Member: No
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/milestone-homes.md
 - Full-funnel REACH plan:
   - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries
   - HQ: Data Insights + Mortal: catchment mapping per store, territory design and expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)
-  - Digital gap: Google Search and Meta retargeting not set up -> REACH Digital Marketing
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
-- Auckland outlets found: 1 (avg 22 Google reviews)
-  - [South] 60 Plunket Avenue, Papatoetoe, Auckland 2104 | 09 278 4000 | 4.2 stars, 22 reviews
 
-## 2. Summit Homes (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1751-summit-homes (updated 2026-06-18)
-- About: With over 2000 homes built, Summit Homes offers the chance to join one of New Zealand’s most efficient and durable building companies. Start your own home-building business backed by a trusted brand, proven systems, solid supply chains and ongoing support. Complete the form below to receive more detailed information from Summit Homes
-- Website: https://summithomes.co.nz/
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/summit-homes.md
-- Talking points from today's digital and local check:
-  - 2 of 2 sites have under 20 Google reviews (low local visibility) -> Local Booster / Community Reach to build local awareness.
-  - Website scores 46/100 for mobile speed (Google PageSpeed) -> slow landing page will waste ad spend; raise as a Consulting point before running digital.
+## 2. Mizin (Home and Building)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1580-mizin (updated 2025-12-03)
+- About: New Zealand’s premier portable room hire business providing recurring weekly income with limited labour input. Great extra retirement income and/or an opportunity to buy into an essential services business ripe for expansion, which provides you an immediate financial return via a proven business system. Complete the form below to receive more detailed information from Mizin
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/mizin.md
 - Full-funnel REACH plan:
   - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
-- Auckland outlets found: 2 (avg 4 Google reviews)
-  - [South] 23 Carr Street, Tuakau 2121 | 0274 968 652 | 4.6 stars, 9 reviews
-  - [South] 14 Tauroa Drive, Tuakau 2121 | 0508 697 866 | - stars, 0 reviews <- fewest reviews, good LSM talking point
 
-## 3. Chatime (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1678-chatime (updated 2024-12-17)
-- About: Since 2003, Chatime has redefined tea with inventive, fresh and flavourful concoctions. With over 1300 outlets globally, Chatime offers a refreshing opportunity to dive into the entrepreneurial world! Become the Master Franchisee or Area Developer in New Zealand and share in our global success It’s Time for Tea with Chatime! Complete the form below to receive more detailed information from Chatime
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/chatime.md
-- Full-funnel REACH plan:
-  - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
-  - HQ: Data Insights + Mortal: catchment mapping per store, territory design and expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)
-  - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
-  - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
-
-## 4. Coffee Culture (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1029-coffee-culture (updated 2026-03-25)
-- About: Coffee Culture is the South Island's leading boutique group of coffee shops. We're currently expanding in both the north and south and need passionate coffee lovers to join us. With over 25 years' experience, we offer support and training that's second to none. Complete the form below to receive more detailed information from Coffee Culture
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/coffee-culture.md
+## 3. Papa Johns (Food and Beverage)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1721-papa-john-s (updated 2024-12-17)
+- About: Bring Papa Johns famous quality and fresh ingredients to New Zealand! As master franchisee, you’ll join a globally recognized pizza family known for better ingredients and better pizza. With every slice crafted for perfection, Papa Johns is committed to helping you succeed. Share Papa Johns passion for quality and deliver unforgettable pizza moments across Aotearoa! Complete the form below to rece
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/papa-johns.md
 - Full-funnel REACH plan:
   - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
   - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 5. Shoe Clinic (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/924-shoe-clinic (updated 2024-12-17)
-- About: Shoe Clinic is NZ’s leading sports footwear retail store. Proven system. Get in touch: Contact: Shoe Clinic FANZ Member: No
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/shoe-clinic.md
+## 4. Brumby's Bakery (Food and Beverage)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/22-brumby-s-bakeries (updated 2026-06-16)
+- About: Brumby’s have been part of the New Zealand bakery market since 1995, serving local communities wholesome, natural baked goods. Brumby’s artisan approach to baking utilises only natural ingredients, with no preservatives or additives, and products handmade fresh from scratch every day to our exclusive recipes. Complete the form below to receive more detailed information from Brumby's Bakery
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/brumby-s-bakery.md
+- Full-funnel REACH plan:
+  - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
+  - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
+  - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
+
+## 5. Helloworld Travel (Retail)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1060-helloworld (updated 2024-12-17)
+- About: Join helloworld Travel, one of New Zealand’s premier retail brands offering fully franchised stores around the country. Combining national and local marketing support, helloworld Travel offers our franchisees ‘best in market returns’ and the opportunity to share our passion for travel with your community. Complete the form below to receive more detailed information from Helloworld Travel
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/helloworld-travel.md
 - Full-funnel REACH plan:
   - Core: Retail package: letterbox around each store + retargeting ads, timed to retail events
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 6. Swimart Pool & Spa Services (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/950-swimart-pool-spa-services (updated 2024-12-17)
-- About: Australasia's most experienced chain of pool & spa specialists. Swimart commenced business in Sydney in the early 80s and since that time has grown through the provision of expert friendly advice and superior customer service to be the market leader in the pool and spa service sector. Complete the form below to receive more detailed information from Swimart Pool & Spa Services
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/swimart-pool-spa-services.md
+## 6. Mister Minit (Retail)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1238-mister-minit- (updated 2024-12-17)
+- About: Mister Minit is a shoe repair, key cutting and engraving business franchise specialising in corporate giftware solutions. Franchises are currently open to existing Mister Minit team members who are fully trained in the business. Franchise opportunities will be available in the future for outside recruitment. Complete the form below to receive more detailed information from Mister Minit
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/mister-minit.md
 - Full-funnel REACH plan:
   - Core: Retail package: letterbox around each store + retargeting ads, timed to retail events
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 7. ERA Group (Business & Commercial)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/249-ERA-Group (updated 2025-07-07)
-- About: Financial Services The world's number one franchise in business strategy and cost management. Get in touch: Contact: ERA Group
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/era-group.md
+## 7. Spot X Cleaning (Business & Commercial)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1702-spot-x-cleaning (updated 2025-03-16)
+- About: Spot X Cleaning, a renowned New Zealand-owned company, offers franchisee training excellence. Get in touch: Contact: Spot X Cleaning FANZ Member: No
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/spot-x-cleaning.md
 - Full-funnel REACH plan:
   - Core: Professional Services package: letterbox + retargeting on professional platforms
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 8. Harcourts New Zealand (Business & Commercial)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1700-harcourts-new-zealand (updated 2025-04-04)
-- About: Harcourts seeks accomplished sales consultants and achievers across all industries. Get in touch: Contact: Harcourts New Zealand FANZ Member: No
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/harcourts-new-zealand.md
+## 8. Oxygen8 Consulting (Business & Commercial)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1575-oxygen8-consulting (updated 2025-02-07)
+- About: Take charge of your own future as part of a business consulting firm. Get in touch: Contact: Oxygen8 Consulting FANZ Member: No
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/oxygen8-consulting.md
 - Full-funnel REACH plan:
   - Core: Professional Services package: letterbox + retargeting on professional platforms
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## Road trip: South
+## Road trip: East
 Local franchisee walk-ins, in visit order. Drive times from Google Routes (no traffic).
-1. Soul Origin: 4 Jimmy Ward Crescent, Auckland Airport, Auckland 2022 | 09 954 4876 | 3.4 stars, 85 reviews <- rated under 4 stars: easy opener https://maps.google.com/?cid=17731769344498858257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-2. Versatile: 60 Plunket Avenue, Papatoetoe, Auckland 2104 | 09 278 4000 | 4.2 stars, 22 reviews <- few Google reviews: easy opener (~10 min drive) https://maps.google.com/?cid=17925793728680593022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-3. Majestic: 609 Great South Road, Manukau City Centre, Auckland 2104 | 0210 299 1291 | 5 stars, 2 reviews <- few Google reviews: easy opener (~5 min drive) https://maps.google.com/?cid=13674336992029564718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-4. Cash Converters: 615 Great South Road, Manukau City Centre, Auckland 2104 | 09 262 0783 | 3.7 stars, 76 reviews <- rated under 4 stars: easy opener (~0 min drive) https://maps.google.com/?cid=3767288201399017728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-5. FreshChoice: Unit 8/130 Dawson Road, Flat Bush, Auckland 2023 | 09 274 4060 | 3.7 stars, 644 reviews <- rated under 4 stars: easy opener (~6 min drive) https://maps.google.com/?cid=18190025135561361320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-6. Summit Homes: 23 Carr Street, Tuakau 2121 | 0274 968 652 | 4.6 stars, 9 reviews <- few Google reviews: easy opener (~36 min drive) https://maps.google.com/?cid=4152747606591080933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+1. Columbus Coffee: 18 Town Centre Drive, East Tāmaki, Botany 1705 | 09 274 9904 | 3.5 stars, 373 reviews <- rated under 4 stars: easy opener https://maps.google.com/?cid=11932742421328306833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+2. Pizza Hut: The Hub 451 Ti Rakau Drive, Botany Downs, Auckland 2016 | 09 271 3125 | 3.9 stars, 485 reviews <- rated under 4 stars: easy opener (~4 min drive) https://maps.google.com/?cid=9273808325259922816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+3. Bidfood: 6 Paisley Place, Mount Wellington, Auckland 1060 | 09 415 5940 | 4.2 stars, 13 reviews <- few Google reviews: easy opener (~14 min drive) https://maps.google.com/?cid=8347315863970074766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+4. Zones Landscaping Specialists: Riverview Road, Panmure, Auckland 1072 | 0800 600 138 | 5 stars, 7 reviews <- few Google reviews: easy opener (~12 min drive) https://maps.google.com/?cid=18270631230993167105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+5. McDonald's: 292 Apirana Avenue, Glen Innes, Auckland 1072 | 09 578 0048 | 3.3 stars, 1729 reviews <- rated under 4 stars: easy opener (~8 min drive) https://maps.google.com/?cid=11832581391054686448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+6. Carl's Jr.: 113-117 Felton Mathew Avenue, St Johns, Auckland 1072 | 09 528 2145 | 3.8 stars, 1176 reviews <- rated under 4 stars: easy opener (~3 min drive) https://maps.google.com/?cid=16157363287387694046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
 
 ## New and closed Auckland stores (last 30 days)
 Spotted by comparing each brand's Google listings month to month. A new store means a new owner who needs local customers fast: call or visit in the first weeks.
@@ -118,5 +102,4 @@ Spotted by comparing each brand's Google listings month to month. A new store me
 - GONE (closed, moved or renamed; check): PACK & SEND: 212 Great South Road, Takanini, Auckland 2112 (seen 2026-11-23)
 
 ## Other hot signals to research (not in the directory)
-- One NZ opens first store-in-store, at Costco - Inside Retail New Zealand (Wed, 11 Nov 2026 05:58:31 GMT) https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVFRZC0zWkFyMW9oVUxwbnJ0M3U0T1lMeGJCVjRmaUFUZ2l1M0lZcEZEeEkxOV9hUllxUGRvMEw1X1ptZlh3OXV1LUFkNFd4ZDhnZU9KV1l1RDdvaVE0UFR3SWZUVTc5RjE5VXl3aDNQZDRpbEVUdFR4cUtTbWt6NlNPOHdNSDhndXc?oc=5
 - ‘We’re really fortunate we’ve survived’: Patti’s & Cream opening new store after shock closure - ODT (Thu, 19 Nov 2026 16:31:53 GMT) https://news.google.com/rss/articles/CBMiygFBVV95cUxPME5VdkptZWpsaWprWFpUZC1zRHNpbEc4UkpVZFhQM2Q1LVNEZHFiVEFYMjhSdVBBLUM2UXd1QjZrQkFodGg0MEhSdWJEbDhIR3BoOVVGWVB0bi1GSWdzdnRZNlNnXzFITEFYWm1OWDBCSDNqWW9aQjlWbHJDYlBrUHZqaGVwMXFOWDh1MDRhcndURkRTcTdsRW9xVERRUG1najBiblIzcy1WNzhqM0tJYmJtTTVGZzFvRW9CcmpaOWplZ1gtVFFxNDln?oc=5

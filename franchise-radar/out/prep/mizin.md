@@ -1,9 +1,9 @@
 # Meeting prep data: Mizin
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 26 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Home and Building
-- Directory listing: https://franchise.co.nz/franchise-directory/1580-mizin (updated 2025-12-03)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1580-mizin (updated 2025-12-03)
 - Website: not found
 - About: New Zealand’s premier portable room hire business providing recurring weekly income with limited labour input. Great extra retirement income and/or an opportunity to buy into an essential services business ripe for expansion, which provides you an immediate financial return via a proven business system. Complete the form below to receive more detailed information from Mizin
 - Auckland stores found on Google: 0

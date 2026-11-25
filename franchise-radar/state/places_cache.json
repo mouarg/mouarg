@@ -3335,7 +3335,7 @@
   ]
  },
  "Robert Harris Coffee Roasters": {
-  "ts": 1792606028.1764266,
+  "ts": 1795631946.7729065,
   "outlets": []
  },
  "Zambrero": {
@@ -3985,15 +3985,16 @@
   ]
  },
  "MTP Renovations & Maintenance": {
-  "ts": 1792948489.819152,
+  "ts": 1795631947.064635,
   "outlets": [
    {
     "name": "MTP Renovations & Maintenance",
     "address": "16B Tarndale Grove, Albany, Auckland 0632",
     "phone": "09 929 4546",
     "website": "https://renovations.nz/",
-    "rating": 4.4,
-    "reviews": 27,
+    "rating": 4.5,
+    "reviews": 31,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=10839363068508871855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.7468722,
     "lng": 174.7032573,

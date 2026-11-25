@@ -1,9 +1,9 @@
 # Meeting prep data: Papa Johns
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 26 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
-- Directory listing: https://franchise.co.nz/franchise-directory/1721-papa-john-s (updated 2024-12-17)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1721-papa-john-s (updated 2024-12-17)
 - Website: not found
 - About: Bring Papa Johns famous quality and fresh ingredients to New Zealand! As master franchisee, you’ll join a globally recognized pizza family known for better ingredients and better pizza. With every slice crafted for perfection, Papa Johns is committed to helping you succeed. Share Papa Johns passion for quality and deliver unforgettable pizza moments across Aotearoa! Complete the form below to rece
 - Auckland stores found on Google: 0

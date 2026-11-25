@@ -1,9 +1,9 @@
 # Meeting prep data: Brumby's Bakery
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 26 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Food and Beverage
-- Directory listing: https://franchise.co.nz/franchise-directory/22-brumby-s-bakeries (updated 2026-06-16)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/22-brumby-s-bakeries (updated 2026-06-16)
 - Website: not found
 - About: Brumby’s have been part of the New Zealand bakery market since 1995, serving local communities wholesome, natural baked goods. Brumby’s artisan approach to baking utilises only natural ingredients, with no preservatives or additives, and products handmade fresh from scratch every day to our exclusive recipes. Complete the form below to receive more detailed information from Brumby's Bakery
 - Auckland stores found on Google: 0
