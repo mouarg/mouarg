@@ -1,9 +1,9 @@
 # Meeting prep data: A Buyer's Choice Home Inspections
-Updated 03 November 2026. Public data only; verify before sharing with the client.
+Updated 27 November 2026. Public data only; verify before sharing with the client.
 
 ## Snapshot
 - Category: Home and Building
-- Directory listing: https://franchise.co.nz/franchise-directory/1181-a-buyer-s-choice-home-inspections (updated 2024-12-17)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1181-a-buyer-s-choice-home-inspections (updated 2024-12-17)
 - Website: not found
 - About: The house inspection industry is rapidly growing with pre-purchase inspections and reports. Get in touch: Contact: A Buyer's Choice Home Inspections FANZ Member: No
 - Auckland stores found on Google: 0

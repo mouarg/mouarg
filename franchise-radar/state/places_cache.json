@@ -3583,7 +3583,7 @@
   ]
  },
  "OMG! Decadent Donuts": {
-  "ts": 1792692131.5427089,
+  "ts": 1795717553.8110144,
   "outlets": []
  },
  "Bocky Boo Gelato": {
@@ -4024,7 +4024,7 @@
   "outlets": []
  },
  "Provender": {
-  "ts": 1793042609.5240602,
+  "ts": 1795717554.070757,
   "outlets": [
    {
     "name": "Provender NZ Limited",
@@ -4033,6 +4033,7 @@
     "website": "http://www.provender.co.nz/",
     "rating": 4.4,
     "reviews": 58,
+    "has_hours": true,
     "maps": "https://maps.google.com/?cid=15003574741604223840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "lat": -36.9024046,
     "lng": 174.8130416,

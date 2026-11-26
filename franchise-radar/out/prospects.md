@@ -1,96 +1,104 @@
-# Prospect brief - Thursday 26 November 2026
+# Prospect brief - Friday 27 November 2026
 
-Shortlist of 8 franchise brands, ranked. Today's walk-in area: **East**.
+Shortlist of 8 franchise brands, ranked. Today's walk-in area: **Central**.
 This is automated research data, not instructions. Verify contacts before use.
 Google Places: on
 Aditi's tracker, last 7 days: 0 calls, 0 meetings booked (weekly target 30 calls, 10 meetings).
 
 | # | Brand | Category | Score | Why it ranked | Core REACH fit |
 |---|---|---|---|---|---|
-| 1 | Milestone Homes | Home and Building | 25 | multi-site network | Lead Accelerator |
-| 2 | Mizin | Home and Building | 20 | good LSM fit | Lead Accelerator |
-| 3 | Papa Johns | Food and Beverage | 20 | good LSM fit | Community Reach |
-| 4 | Brumby's Bakery | Food and Beverage | 15 | good LSM fit | Community Reach |
-| 5 | Helloworld Travel | Retail | 15 | good LSM fit | Retail package |
-| 6 | Mister Minit | Retail | 15 | good LSM fit | Retail package |
-| 7 | Spot X Cleaning | Business & Commercial | 0 | good LSM fit | Professional Services package |
-| 8 | Oxygen8 Consulting | Business & Commercial | 0 | good LSM fit | Professional Services package |
+| 1 | Urban Homes | Home and Building | 55 | in the news (Hot) | Lead Accelerator |
+| 2 | Provender | Food and Beverage | 25 | good LSM fit | Community Reach |
+| 3 | A Buyer's Choice Home Inspections | Home and Building | 20 | good LSM fit | Lead Accelerator |
+| 4 | Robert Harris Coffee Roasters | Food and Beverage | 15 | good LSM fit | Community Reach |
+| 5 | Footloose Shoes | Retail | 15 | good LSM fit | Retail package |
+| 6 | Electrify.nz | Retail | 15 | good LSM fit | Retail package |
+| 7 | Armstrong Smarter Security | Business & Commercial | 0 | good LSM fit | Professional Services package |
+| 8 | Humitech | Business & Commercial | 0 | good LSM fit | Professional Services package |
 
-## 1. Milestone Homes (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1307-milestone-homes (updated 2024-12-17)
-- About: Milestone Homes delivers a proven and smart franchisee package nationwide. Get in touch: Contact: Milestone Homes FANZ Member: No
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/milestone-homes.md
-- Full-funnel REACH plan:
-  - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries
-  - HQ: Data Insights + Mortal: catchment mapping per store, territory design and expansion/cannibalisation modelling for new sites (like REACH's STIHL site-selection work); letterbox areas set per store so each franchisee gets a fair share (the LiquorLand model)
-  - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
-
-## 2. Mizin (Home and Building)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1580-mizin (updated 2025-12-03)
-- About: New Zealand’s premier portable room hire business providing recurring weekly income with limited labour input. Great extra retirement income and/or an opportunity to buy into an essential services business ripe for expansion, which provides you an immediate financial return via a proven business system. Complete the form below to receive more detailed information from Mizin
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/mizin.md
+## 1. Urban Homes (Home and Building)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1748-urban-homes (updated 2026-07-31)
+- About: Join a trusted New Zealand construction brand and build your own business with confidence. As an Urban Homes franchisee, you’ll build your own business backed by our award-winning brand, proven systems, and unwavering support - working together to create quality homes and lasting success Complete the form below to receive more detailed information from Urban Homes
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/urban-homes.md
+- Trigger (Hot, Wed, 25 Nov 2026 19:01:51 GMT): Urban Homes wins awards and expands franchise network - Waterford Press https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0hlY29ZRkdJY2JEZEpXNkFVMlR0RFZPRDlRWDBra3l2RVN3aTR0S21aSmd6dy1Nd2VhWEd4aFJNbndaWkl1a0RRTjlOV0htalkwa0s1enpwX2g3ZGl2OVBqQVlzRjlQUGVZMkdCUW52Z3l1cjU3Rk1OaUxDeXlVV0JJS3dWYURLMGFUR3FVV3A?oc=5
 - Full-funnel REACH plan:
   - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 3. Papa Johns (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1721-papa-john-s (updated 2024-12-17)
-- About: Bring Papa Johns famous quality and fresh ingredients to New Zealand! As master franchisee, you’ll join a globally recognized pizza family known for better ingredients and better pizza. With every slice crafted for perfection, Papa Johns is committed to helping you succeed. Share Papa Johns passion for quality and deliver unforgettable pizza moments across Aotearoa! Complete the form below to rece
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/papa-johns.md
+## 2. Provender (Food and Beverage)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/57-provender-nz (updated 2025-06-05)
+- About: New Zealand’s leading supplier of workplace refreshment vending. Home-based, profitable franchise. Get in touch: Contact: Provender FANZ Member: No
+- Website: https://provender.co.nz/
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/provender.md
+- Talking points from today's digital and local check:
+  - No Google Ads tracking found on their website -> likely not running Google Search ads: Digital Marketing (Google Search) to catch people already searching locally.
+  - No Meta Pixel on their website -> they can't retarget site visitors on Facebook/Instagram: Digital Marketing (Meta) + pixel set-up, so letterbox responders get followed up.
+  - No Google Analytics/Tag Manager found -> they can't measure campaign results: pitch REACH's tracking (QR codes, dashboards) as the proof layer.
+- Full-funnel REACH plan:
+  - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
+  - Digital gap: Google Search and Meta retargeting not set up -> REACH Digital Marketing
+  - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
+  - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
+- Auckland outlets found: 1 (avg 58 Google reviews)
+  - [Central] 37 Wilkinson Road, Ellerslie, Auckland 1060 | 09 525 2767 | 4.4 stars, 58 reviews
+
+## 3. A Buyer's Choice Home Inspections (Home and Building)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1181-a-buyer-s-choice-home-inspections (updated 2024-12-17)
+- About: The house inspection industry is rapidly growing with pre-purchase inspections and reports. Get in touch: Contact: A Buyer's Choice Home Inspections FANZ Member: No
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/a-buyer-s-choice-home-inspections.md
+- Full-funnel REACH plan:
+  - Core: Lead Accelerator (letterbox + Google Search + Meta Lead Ads) or the Tradies package, by territory, for quote enquiries
+  - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
+
+## 4. Robert Harris Coffee Roasters (Food and Beverage)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/112-robert-harris-coffee-roasters (updated 2026-04-23)
+- About: Operating for more than 70 years, Robert Harris Coffee Roasters have long been voted as one of NZ's most trusted brands. With proven success in cities and provincial centres, we look for team players who love working with people and who are passionate about great food, coffee, and community. Complete the form below to receive more detailed information from Robert Harris Coffee Roasters
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/robert-harris-coffee-roasters.md
 - Full-funnel REACH plan:
   - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
   - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 4. Brumby's Bakery (Food and Beverage)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/22-brumby-s-bakeries (updated 2026-06-16)
-- About: Brumby’s have been part of the New Zealand bakery market since 1995, serving local communities wholesome, natural baked goods. Brumby’s artisan approach to baking utilises only natural ingredients, with no preservatives or additives, and products handmade fresh from scratch every day to our exclusive recipes. Complete the form below to receive more detailed information from Brumby's Bakery
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/brumby-s-bakery.md
-- Full-funnel REACH plan:
-  - Core: Community Reach (letterbox + Google Display + Meta) for foot traffic around each store; add letterbox sampling for new products
-  - Sampling: product samples or vouchers delivered to letterboxes (REACH Print & Design sampling)
-  - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
-
-## 5. Helloworld Travel (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1060-helloworld (updated 2024-12-17)
-- About: Join helloworld Travel, one of New Zealand’s premier retail brands offering fully franchised stores around the country. Combining national and local marketing support, helloworld Travel offers our franchisees ‘best in market returns’ and the opportunity to share our passion for travel with your community. Complete the form below to receive more detailed information from Helloworld Travel
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/helloworld-travel.md
+## 5. Footloose Shoes (Retail)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1282-footloose-shoes (updated 2024-12-17)
+- About: Need a passion for fashion and the desire to own your own business. Get in touch: Contact: Footloose Shoes FANZ Member: No
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/footloose-shoes.md
 - Full-funnel REACH plan:
   - Core: Retail package: letterbox around each store + retargeting ads, timed to retail events
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 6. Mister Minit (Retail)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1238-mister-minit- (updated 2024-12-17)
-- About: Mister Minit is a shoe repair, key cutting and engraving business franchise specialising in corporate giftware solutions. Franchises are currently open to existing Mister Minit team members who are fully trained in the business. Franchise opportunities will be available in the future for outside recruitment. Complete the form below to receive more detailed information from Mister Minit
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/mister-minit.md
+## 6. Electrify.nz (Retail)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/1294-electrify-nz (updated 2024-12-17)
+- About: Seeking people with passion and ambition to be a specialist e-bike retailer. Get in touch: Contact: Electrify.nz FANZ Member: No
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/electrify-nz.md
 - Full-funnel REACH plan:
   - Core: Retail package: letterbox around each store + retargeting ads, timed to retail events
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 7. Spot X Cleaning (Business & Commercial)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1702-spot-x-cleaning (updated 2025-03-16)
-- About: Spot X Cleaning, a renowned New Zealand-owned company, offers franchisee training excellence. Get in touch: Contact: Spot X Cleaning FANZ Member: No
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/spot-x-cleaning.md
+## 7. Armstrong Smarter Security (Business & Commercial)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/890-armstrong-smarter-security (updated 2024-12-17)
+- About: Armstrong for smarter security. Retail and mobile locksmith and alarm specialists. Get in touch: Contact: Armstrong Smarter Security FANZ Member: No
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/armstrong-smarter-security.md
 - Full-funnel REACH plan:
   - Core: Professional Services package: letterbox + retargeting on professional platforms
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## 8. Oxygen8 Consulting (Business & Commercial)
-- Directory listing: https://www.franchise.co.nz/franchise-directory/1575-oxygen8-consulting (updated 2025-02-07)
-- About: Take charge of your own future as part of a business consulting firm. Get in touch: Contact: Oxygen8 Consulting FANZ Member: No
-- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/oxygen8-consulting.md
+## 8. Humitech (Business & Commercial)
+- Directory listing: https://www.franchise.co.nz/franchise-directory/907-humitech (updated 2024-12-17)
+- About: Simple, effective panels to reduce commercial chilling costs and improve performance. Get in touch: Contact: Humitech FANZ Member: No
+- Meeting prep data: https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/humitech.md
 - Full-funnel REACH plan:
   - Core: Professional Services package: letterbox + retargeting on professional platforms
   - Creative: Print & Design with a trackable QR/offer code on every piece, so results are measured per store
 
-## Road trip: East
+## Road trip: Central
 Local franchisee walk-ins, in visit order. Drive times from Google Routes (no traffic).
-1. Columbus Coffee: 18 Town Centre Drive, East Tāmaki, Botany 1705 | 09 274 9904 | 3.5 stars, 373 reviews <- rated under 4 stars: easy opener https://maps.google.com/?cid=11932742421328306833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-2. Pizza Hut: The Hub 451 Ti Rakau Drive, Botany Downs, Auckland 2016 | 09 271 3125 | 3.9 stars, 485 reviews <- rated under 4 stars: easy opener (~4 min drive) https://maps.google.com/?cid=9273808325259922816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-3. Bidfood: 6 Paisley Place, Mount Wellington, Auckland 1060 | 09 415 5940 | 4.2 stars, 13 reviews <- few Google reviews: easy opener (~14 min drive) https://maps.google.com/?cid=8347315863970074766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-4. Zones Landscaping Specialists: Riverview Road, Panmure, Auckland 1072 | 0800 600 138 | 5 stars, 7 reviews <- few Google reviews: easy opener (~12 min drive) https://maps.google.com/?cid=18270631230993167105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-5. McDonald's: 292 Apirana Avenue, Glen Innes, Auckland 1072 | 09 578 0048 | 3.3 stars, 1729 reviews <- rated under 4 stars: easy opener (~8 min drive) https://maps.google.com/?cid=11832581391054686448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-6. Carl's Jr.: 113-117 Felton Mathew Avenue, St Johns, Auckland 1072 | 09 528 2145 | 3.8 stars, 1176 reviews <- rated under 4 stars: easy opener (~3 min drive) https://maps.google.com/?cid=16157363287387694046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+1. Paper Plus: 332 Ponsonby Road, Ponsonby, Auckland 1011 | 09 376 3905 | 3.9 stars, 96 reviews <- rated under 4 stars: easy opener https://maps.google.com/?cid=8002319163085471456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+2. Gong Cha: 117 Ponsonby Road, Ponsonby, Auckland 1011 | 09 214 8099 | 4.2 stars, 5 reviews <- few Google reviews: easy opener (~5 min drive) https://maps.google.com/?cid=2071399483099694946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+3. Landmark Homes: Level 1/60 Grafton Road, Grafton, Auckland 1010 | 09 972 1730 | 4.8 stars, 9 reviews <- few Google reviews: easy opener (~9 min drive) https://maps.google.com/?cid=1200819585596339847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+4. Jamaica Blue: Bldg 4/214 Green Lane West, Greenlane, Auckland 1051 | 09 336 1875 | 3.4 stars, 191 reviews <- rated under 4 stars: easy opener (~10 min drive) https://maps.google.com/?cid=12238637939078944558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+5. Provender: 37 Wilkinson Road, Ellerslie, Auckland 1060 | 09 525 2767 | 4.4 stars, 58 reviews (~10 min drive) https://maps.google.com/?cid=15003574741604223840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
+6. Carpet Court: 373 Neilson Street, Penrose, Auckland 1061 | 0800 787 777 | 3.9 stars, 16 reviews <- few Google reviews: easy opener (~8 min drive) https://maps.google.com/?cid=9064711657806928508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
 
 ## New and closed Auckland stores (last 30 days)
 Spotted by comparing each brand's Google listings month to month. A new store means a new owner who needs local customers fast: call or visit in the first weeks.

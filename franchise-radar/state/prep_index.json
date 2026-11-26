@@ -101,7 +101,7 @@
  },
  "Urban Homes": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/urban-homes.md",
-  "date": "2026-11-03"
+  "date": "2026-11-27"
  },
  "Para Rubber": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/para-rubber.md",
@@ -213,7 +213,7 @@
  },
  "A Buyer's Choice Home Inspections": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/a-buyer-s-choice-home-inspections.md",
-  "date": "2026-11-03"
+  "date": "2026-11-27"
  },
  "Mexico": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/mexico.md",
@@ -233,7 +233,7 @@
  },
  "Robert Harris Coffee Roasters": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/robert-harris-coffee-roasters.md",
-  "date": "2026-11-05"
+  "date": "2026-11-27"
  },
  "Zambrero": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/zambrero.md",
@@ -297,7 +297,7 @@
  },
  "Provender": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/provender.md",
-  "date": "2026-11-03"
+  "date": "2026-11-27"
  },
  "Subway": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/subway.md",
@@ -894,5 +894,21 @@
  "Oxygen8 Consulting": {
   "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/oxygen8-consulting.md",
   "date": "2026-11-26"
+ },
+ "Footloose Shoes": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/footloose-shoes.md",
+  "date": "2026-11-27"
+ },
+ "Electrify.nz": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/electrify-nz.md",
+  "date": "2026-11-27"
+ },
+ "Armstrong Smarter Security": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/armstrong-smarter-security.md",
+  "date": "2026-11-27"
+ },
+ "Humitech": {
+  "file": "https://raw.githubusercontent.com/mouarg/mouarg/HEAD/franchise-radar/out/prep/humitech.md",
+  "date": "2026-11-27"
  }
 }
